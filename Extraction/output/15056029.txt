@@ -1,0 +1,19 @@
+Title 
+Journal of endovascular therapy : an official journal of the International Society of Endovascular Specialists
+
+Article Title 
+Stent-supported angioplasty of severe atherosclerotic renal artery stenosis preserves renal function and improves blood pressure control: long-term results from a prospective registry of 456 lesions.
+Abstract Text 
+To report a prospective study evaluating the long-term impact of stent-supported angioplasty on renal function and blood pressure control.
+In a 6-year period, 456 hemodynamically significant de novo renal artery stenoses > or =70% were treated in 340 consecutive hypertensive patients (223 men; mean age 66+/-10 years, range 44-84) with or without impaired renal function.
+Baseline data on serum creatinine (sCr), intrarenal resistance index, ambulatory 24-hour blood pressure monitoring, and documentation of the number and dose of antihypertensive drugs were compared to values obtained during follow-up.
+The primary endpoint was a 10% decrease in sCr; the glomerular filtration rate and changes in blood pressure control were additional outcome measures.
+During a mean follow-up of 34+/-20 months, sCr decreased significantly from 1.45+/-0.87 to 1.39+/-0.73
+mg/dL (p=0.048).
+In 34% of the patients, sCr decreased >10%, 39% were unchanged, and 27% had an increase >10%.
+Glomerular filtration rate increased from 59+/-26 to 62+/-26 mL/min/1.73
+m(2) (p=0.6).
+Systolic, diastolic, and mean blood pressure measurements significantly improved immediately after the intervention (132/72/93 versus 144/79/102 mmHg at baseline, p<0.0001) and remained improved during follow-up (p<0.0001).
+Blood pressure control was improved in 46%, unchanged in 43%, and deteriorated in 11%.
+Baseline sCr, bilateral intervention, percent diameter stenosis, and 3-vessel coronary disease were independent predictors of improved renal function during follow-up; the number of antihypertensive drugs taken before the intervention predicted improved blood pressure control.
+Stent-supported angioplasty of renal artery stenoses preserves renal function and improves blood pressure control in a broader spectrum of patients than previously thought.

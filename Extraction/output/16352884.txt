@@ -1,0 +1,18 @@
+Title 
+Caries research
+
+Article Title 
+The prevalence and severity of fluorosis in children who received toothpaste containing either 440 or 1,450 ppm F from the age of 12 months in deprived and less deprived communities.
+Abstract Text 
+This study compared fluorosis in the upper central incisors of children from socially diverse backgrounds who had received either 440- or 1,450-ppm F toothpaste from 12 months of age.
+The children were resident in non-fluoridated districts in the north-west of England.
+They received either 440- or 1,450-ppm F toothpaste and advice regarding its use until the age of 5-6 years.
+Dental fluorosis (TF index) was assessed on digital images of dried teeth when the children (n = 1,268) were 8-10 years old.
+In the less deprived districts the prevalences of fluorosis (TF >or=0) for the 1,450- and 440-ppm F groups were 34.5 and 23.7% (p = 0.006).
+In the deprived districts the prevalences of fluorosis were 25.2 and 19.5% (p = 0.2).
+Overall the prevalences of TF >or=2 were 7 and 2.1% for the 1,450- and 440-ppm F groups and 2.2 and 0.2% for TF >or=3.
+These differences were statistically significant (p < 0.003).
+There was a strong association between the deprivation status of wards and fluorosis.
+Only 1 subject with a TF score of 3 was identified in the two most deprived quintiles of the Townsend score.
+It is concluded that careful targeting of programmes of this type to children living in high caries risk deprived communities carries only a small risk of aesthetically objectionable fluorosis (TF >2) whether low or high fluoride toothpastes are used.
+High fluoride (1,450 ppm F) toothpastes should not be provided on a community basis to very young children in less deprived communities.

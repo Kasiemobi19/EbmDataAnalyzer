@@ -1,0 +1,20 @@
+Title 
+Journal of gastrointestinal surgery : official journal of the Society for Surgery of the Alimentary Tract
+
+Article Title 
+Lipid risk profile and weight stability after gastric restrictive operations for morbid obesity.
+Abstract Text 
+There are no longitudinal data that address weight loss stability and lipid levels in bariatric surgical patients.
+The goal of this study was to determine whether weight regain adversely affected reduction in lipid levels after gastric bariatric operations.
+Of 651 consecutive patients undergoing gastric restrictive surgery for morbid obesity, 227 (35%) had increased serum levels of total cholesterol (TC), triglycerides, or both preoperatively.
+High-density lipoprotein cholesterol (HDL-C) levels were subnormal (</=35 mg/dl) in 45 (20%) of the hyperlipidemic patients.
+Fasting lipid profiles were determined at 6-month intervals postoperatively.
+This series included the following three operations: gastroplasty (GP; N = 13), standard Roux-en-Y gastric bypass (RYGB; N = 205), and distal Roux-en-Y gastric bypass (DRY; N = 9).
+By 6 months postoperatively, patients had a >/=15% mean reduction in TC and a >/=50% mean reduction in triglycerides, both of which were significant in comparison with preoperative levels (P </=0.05).
+Mean HDL-C levels had increased significantly vs. preoperative levels by 12 months postoperative y (P <0.05) and continued to increase through 5 years.
+By 18 months both HDL-C and TC were significantly lower after DRY than after GP or RYGB.
+In 91 patients who were followed for 2 years or longer (mean 48 +/- 25 months), mean excess weight loss was 55% with mean body mass index reduced from 48 to 33 kg/m(2).
+This group was divided into patients whose weight remained stable (N = 54) and patients who regained >/=15% of their lost weight or lost less than 50% of excess weight (N = 37).
+Although mean excess weight loss and body mass index were significantly different between the two groups (P <0.0001) at 2 years, there was no difference in the lipid profile (TC/HDL) between the two groups at any interval through 5 years.
+These results show that abnormal lipid profiles can be permanently improved after gastric bariatric surgery and are not adversely affected by mediocre weight loss or regaining >/=15% of lost weight.
+DRY appears to be a superior operation for TC reduction in comparison with GP and RYGB.

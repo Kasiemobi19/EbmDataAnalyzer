@@ -1,0 +1,20 @@
+Title 
+The British journal of radiology
+
+Article Title 
+Red flags in patients presenting with headache: clinical indications for neuroimaging.
+Abstract Text 
+Headache is a very common patient complaint but secondary causes for headache are unusual.
+Neuroimaging is both expensive and has a low yield in this group.
+Most patients with intracranial pathology have clinical features that would raise a "red flag".
+Appropriate selection of patients with headache for neuroimaging to look for secondary causes is very important.
+Red flags act as screening tools to help in identifying those patients presenting with headache who would benefit from prompt neuroimaging, and may increase the yield.
+The aim of this study is to evaluate clinical features in patients with headache using neuroimaging as a screening tool for intracranial pathology.
+20 red flags were defined.
+A retrospective study of 111 patients was performed and the outcomes were divided into positive and negative.
+Abnormal neuroimaging was present in 39 patients.
+Results were analysed using the Logistic Regression model.
+Sensitivity and specificity of red flags were analysed to establish the cut-off point to predict abnormal neuroimaging and a receiver operating characteristic (ROC) curve plotted to show the sensitivity of the diagnostic test.
+Three red flag features proved to be statistically significant with the p-value of less than 0.05 on both univariate and multivariate analysis.
+These were: paralysis; papilloedema; and "drowsiness, confusion, memory impairment and loss of consciousness".
+In addition, if three or more red flags from the list were present, this showed strong indication of abnormal neuroimaging, from cut-off point of ROC curve (area under the curve =0.76).

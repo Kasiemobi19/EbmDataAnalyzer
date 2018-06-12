@@ -1,0 +1,12 @@
+Title 
+Acta paediatrica Scandinavica
+
+Article Title 
+Infant self-regulation of breast milk intake.
+Abstract Text 
+In an experimental study to determine whether augmentation of maternal milk supply affects infant intake, 18 mothers of exclusively breast-fed infants stimulated milk supply by daily expression of extra milk for 2 weeks.
+Infant milk intake was recorded before, during and after this expression phase.
+All but 4 mothers increased milk production by greater than 73 g/day over baseline, with an average increase of 124 g/day.
+On the average, the 14 infants of mothers who increased milk production took in significantly more milk immediately following the expression phase (849 vs. 732 g/day), but about half of them returned to near baseline levels of milk intake after 1-2 weeks.
+Net change in infant intake at the end of the study was positively correlated with infant weight-for-length (r = 0.59) and age (r = 0.58), and was unrelated to baseline milk intake (r = -0.06).
+Therefore, the wide range in breast milk volume in well-nourished populations is due more to variation in infant "demand" than to inadequacy of milk production.

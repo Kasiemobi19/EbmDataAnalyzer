@@ -1,0 +1,19 @@
+Title 
+The journal of pain : official journal of the American Pain Society
+
+Article Title 
+Validation of the revised Screener and Opioid Assessment for Patients with Pain (SOAPP-R).
+Abstract Text 
+The original Screener and Opioid Assessment for Patients with Pain (SOAPP) is a conceptually derived self-report questionnaire designed to predict aberrant medication-related behaviors among chronic pain patients considered for long-term opioid therapy.
+The purpose of this study was to develop and validate an empirically derived version of the SOAPP (SOAPP-R) that addresses some limitations of the original SOAPP.
+In successive steps, items were reduced from an initial pool of 142 to a 97-item beta version.
+The beta version was administered to 283 chronic pain patients receiving long-term opioid therapy.
+Items were evaluated based on data collected at follow-up, including correlation with the Aberrant Drug Behavior Index (ADBI), derived from interview data, physician ratings, and urine toxicology screens.
+Twenty-four items were retained and comprise the final SOAPP-R.
+Coefficient alpha was .88,
+and receiver operating characteristics curve analysis yielded an area under the curve of .81
+(P < .001).
+A cutoff score of 18 showed adequate sensitivity (.81) and specificity (.68).
+The obtained psychometrics, along with the use of a predictive criterion that goes beyond self-report, suggest that the SOAPP-R is an improvement over the original version in screening risk potential for aberrant medication-related behavior among persons with chronic pain.
+PERSPECTIVE: There is a need for a screener for abuse risk in patients prescribed opioids for pain.
+This study presents a revised version of the SOAPP-R that is empirically derived with good reliability and validity but is less susceptible to overt deception than the original SOAPP version 1.

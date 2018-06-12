@@ -1,0 +1,32 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+The rational clinical examination. Does this patient have a torn meniscus or ligament of the knee? Value of the physical examination.
+Abstract Text 
+While most meniscal or ligamentous knee injuries heal with nonoperative treatments, a subset should be treated with arthroscopic or open surgery.
+To analyze the accuracy of the clinical examination for meniscal or ligamentous knee injuries.
+MEDLINE (1966-December 31, 2000) and HealthSTAR (1975-December 31, 2000) databases were searched for English-language articles describing the diagnostic accuracy of individual examination items for the knee and a combination of physical examination items (composite examination).
+Other data sources included reference lists from relevant articles.
+Studies selected for data extraction were those that compared the performance of the physical examination of the knee with a reference standard, such as arthroscopy, arthrotomy, or magnetic resonance imaging.
+Eighty-eight articles were identified, of which 23 (26%) met inclusion criteria.
+A rheumatologist and an orthopedic surgeon independently reviewed each article using a standardized rating scale that scored the assembly of the study, the relevance of the patients enrolled, the appropriateness of the reference standard, and the blinding of the examiner.
+Summary likelihood ratios (LRs) were estimated from random effects models.
+The summary LRs for physical examination for tears of the anterior cruciate ligament, using the anterior drawer test, were 3.8 (95% confidence interval [CI], 0.7-22.0)
+for a positive examination and 0.30 (95% CI, 0.05-1.50)
+for a negative examination; the Lachman test, 25.0 (95% CI, 2.7-651.0)
+and 0.1 (95% CI, 0.0-0.4);
+and the composite assessment, 25.0 (95% CI, 2.1-306.0)
+and 0.04 (95% CI, 0.01-0.48),
+respectively.
+The LRs could not be generated for any specific examination maneuver for a posterior cruciate ligament tear, but the composite assessment had an LR of 21.0 (95% CI, 2.1-205.0)
+for a positive examination and 0.05 (95% CI, 0.01-0.50)
+for a negative examination.
+Determination of meniscal lesions, using McMurray test, had an LR of 1.3 (95% CI, 0.9-1.7)
+for a positive examination and 0.8 (95% CI, 0.6-1.1)
+for a negative examination; joint line tenderness, 0.9 (95% CI, 0.8-1.0)
+and 1.1 (95% CI, 1.0-1.3);
+and the composite assessment, 2.7 (95% CI, 1.4-5.1)
+and 0.4 (95% CI, 0.2-0.7),
+respectively.
+The composite examination for specific meniscal or ligamentous injuries of the knee performed much better than specific maneuvers, suggesting that synthesis of a group of examination maneuvers and historical items may be required for adequate diagnosis.

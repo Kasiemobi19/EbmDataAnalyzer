@@ -1,0 +1,15 @@
+Title 
+BMJ (Clinical research ed.)
+
+Article Title 
+Case-control study of sudden infant death syndrome in Scotland, 1992-5.
+Abstract Text 
+To investigate the relation between routine infant care practices and the sudden infant death syndrome in Scotland.
+National study of 201 infants dying of the sudden infant death syndrome (cases) and 276 controls by means of home interviews comparing methods of infant care and socioeconomic factors.
+Sleeping prone (odds ratio 6.96 (95% confidence interval 1.51 to 31.97) and drug treatment in the previous week (odds ratio 2.33 (1.10 to 4.94)) were more common in the cases than controls on multivariate analysis.
+Smoking was confirmed as a significant risk factor (odds ratio for mother and father both smoking 5.19 (2.26 to 11.91)).
+The risk increased with the number of parents smoking (P < 0.0001), with the number of cigarettes smoked by mother or father (P = 0.0001), and with bed sharing (P < 0.005).
+A new finding was an increased risk of dying of the syndrome for infants who slept at night on a mattress previously used by another infant or adult (odds ratio 2.51 (1.39 to 4.52)).
+However, this increased risk was not established for mattresses totally covered by polyvinyl chloride.
+Sleeping prone and parental smoking are confirmed as modifiable risk factors for the sudden infant death syndrome.
+Sleeping on an old mattress may be important but needs confirmation before recommendations can be made.

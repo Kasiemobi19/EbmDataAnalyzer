@@ -1,0 +1,17 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+The effect of digoxin on mortality and morbidity in patients with heart failure. The Digitalis Investigation Group.
+Abstract Text 
+The role of cardiac glycosides in treating patients with chronic heart failure and normal sinus rhythm remains controversial.
+We studied the effect of digoxin on mortality and hospitalization in a randomized, double-blind clinical trial.
+In the main trial, patients with a left ventricular ejection fraction of 0.45 or less were randomly assigned to digoxin (3397 patients) or placebo (3403 patients) in addition to diuretics and angiotensin-converting-enzyme inhibitors (median dose of digoxin, 0.25 mg per day; average follow-up, 37 months).
+In an ancillary trial of patients with ejection fractions greater than 0.45, 492 patients were randomly assigned to digoxin and 496 to placebo.
+In the main trial, mortality was unaffected.
+There were 1181 deaths (34.8 percent) with digoxin and 1194 deaths (35.1 percent) with placebo (risk ratio when digoxin was compared with placebo, 0.99; 95 percent confidence interval, 0.91 to 1.07; P=0.80).
+In the digoxin group, there was a trend toward a decrease in the risk of death attributed to worsening heart failure (risk ratio, 0.88; 95 percent confidence interval, 0.77 to 1.01; P=0.06).
+There were 6 percent fewer hospitalizations overall in that group than in the placebo group, and fewer patients were hospitalized for worsening heart failure (26.8 percent vs. 34.7 percent; risk ratio, 0.72; 95 percent confidence interval, 0.66 to 0.79; P<0.001).
+In the ancillary trial, the findings regarding the primary combined outcome of death or hospitalization due to worsening heart failure were consistent with the results of the main trial.
+Digoxin did not reduce overall mortality, but it reduced the rate of hospitalization both overall and for worsening heart failure.
+These findings define more precisely the role of digoxin in the management of chronic heart failure.

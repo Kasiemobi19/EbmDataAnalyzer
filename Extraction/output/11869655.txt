@@ -1,0 +1,27 @@
+Title 
+Cochrane database of systematic reviews (Online)
+
+Article Title 
+The Epley (canalith repositioning) manoeuvre for benign paroxysmal positional vertigo.
+Abstract Text 
+Benign paroxysmal positional vertigo (BPPV) is a syndrome characterised by short-lived episodes of vertigo in association with rapid changes in head position.
+It is a common cause of vertigo presenting to primary care and specialist otolaryngology clinics.
+Current treatment approaches include rehabilitative exercises and physical manoeuvres including the Epley manoeuvre.
+To assess the effectiveness of the Epley manoeuvre compared to other treatments available for posterior canal benign paroxysmal positional vertigo, or no treatment.
+The Cochrane Controlled Trials Register (Cochrane Library, Issue 2 2001), MEDLINE (1966 onwards), EMBASE (1974 onwards), and reference lists of identified publications.
+Date of the most recent search was June 2001.
+Randomised trials of adults diagnosed with posterior canal BPPV (including a positive Dix-Hallpike test).
+Comparisons sought: - Epley manoeuvre versus placebo.
+- Epley manoeuvre versus untreated controls.
+Epley manoeuvre versus other active treatment.
+Outcome measures that were considered include: frequency and severity of attacks of vertigo; proportion of patients improved by each intervention; and conversion of a "positive" Dix-Hallpike test to a "negative" Dix-Hallpike test
+     
+      Both reviewers independently extracted data and assessed trials for quality.
+Eleven trials were identified but nine studies were excluded because of a high risk of bias, leaving two trials in the review.
+Trials were mainly excluded because of inadequate concealment during randomisation, or failure to blind outcome assessors.
+Both studies included in the review (Lynn 1995, Froehling 2000) addressed the efficacy of the Epley manoeuvre against a sham manoeuvre by comparing the proportion of subjects in each group who had complete resolution of their symptoms, and who converted from a positive to negative Dix-Hallpike test.
+Individual and pooled data showed a statistically significant effect in favour of the Epley manoeuvre over controls.
+There were no serious adverse effects of treatment.
+~bullet~There is some evidence that the Epley manoeuvre is a safe effective treatment for posterior canal BPPV, although this is based on the results of only two small randomised controlled trials with relatively short follow up.
+~bullet~There is no good evidence that the Epley manoeuvre provides a long term resolution of symptoms.
+~bullet~There is no good evidence comparing the Epley manoeuvre with other physical, medical or surgical therapy for posterior canal BPPV.

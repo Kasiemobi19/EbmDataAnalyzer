@@ -1,0 +1,10 @@
+Title 
+Annals of internal medicine
+
+Article Title 
+Levothyroxine replacement dose for primary hypothyroidism decreases with age.
+Abstract Text 
+We studied 23 elderly (other than 65) and 44 younger ambulatory adult patients with primary hypothyroidism to ascertain the dose of levothyroxine needed for complete replacement in relation to age.
+The elderly patients (average age, 75.7 years) needed an average 118 microgram/d whereas the younger patients (average age, 48.1 years) needed 158 microgram/d.
+The data indicate that thyroxine requirement may decrease continuously with age.
+This decrease probably reflects the progressive decrease in thyroxine degradation rate that occurs with age.

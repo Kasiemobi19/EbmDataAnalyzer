@@ -1,0 +1,20 @@
+Title 
+Journal of general internal medicine
+
+Article Title 
+Recognition and evaluation of red blood cell macrocytosis in the primary care setting.
+Abstract Text 
+To investigate primary care physicians' recognition and evaluation of red blood cell (RBC) macrocytosis in adults.
+Retrospective chart review.
+Utilizing a computerized laboratory result system, all complete blood counts (CBCs) with RBC indices performed between May 1986 and May 1987 were retrieved.
+Patients having mean corpuscular volumes (MCVs) more than three standard deviations from the mean (greater than 98.5 fL) were selected for evaluation.
+The primary care clinics of a public university hospital.
+138 (3.7%) of 3,805 adult outpatients had MCVs greater than 98.5 fL, and of these, 128 (93.4%) had medical charts available for review.
+55 patients with elevated MCVs were not evaluated for this finding, and their mean MCV (100.6 fL) was significantly lower than that of the 73 patients who were evaluated (102.5 fL; p = 0.003).
+The investigation of macrocytosis included vitamin B12 and folate levels consistently, and the reticulocyte count and peripheral smear were examined infrequently.
+Five patients had vitamin B12 deficiency, and two had hypothyroidism.
+Macrocytosis was ascribed to alcohol abuse in 47 patients, six of whom had no laboratory evaluation.
+Nine alcoholic patients with macrocytosis had other causes for this finding.
+Among the 55 patients whose macrocytosis was not evaluated, 12 were anemic and one had a peripheral neuropathy.
+Clinically significant and treatable disease was often associated with macrocytosis in our study.
+Macrocytosis was common, and its recognition and evaluation were variable in this primary care outpatient setting.

@@ -1,0 +1,14 @@
+Title 
+The Pediatric infectious disease journal
+
+Article Title 
+A review of community-associated methicillin-resistant Staphylococcus aureus skin and soft tissue infections.
+Abstract Text 
+Methicillin-resistant Staphylococcus aureus (MRSA) has emerged as a cause of infection among otherwise healthy children and adults in the community.
+Skin and soft tissue infections are most common, but invasive manifestations also occur.
+A limited number of strains that may possess unique virulence or transmissibility factors have accounted for the majority of these infections.
+These strains emerged in the community but now are being transmitted in both community and healthcare settings.
+Incision and drainage remains the primary treatment for skin abscesses.
+Strains of MRSA circulating in the community generally are susceptible to a number of nonbeta-lactam antimicrobial agents, although resistance patterns may vary temporally and geographically.
+Educating patients on strategies to prevent further transmission is a critical component of case management.
+More data are needed to determine optimal strategies for management and prevention of MRSA skin infections in the community.

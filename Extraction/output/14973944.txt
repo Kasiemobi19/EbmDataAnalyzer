@@ -1,0 +1,25 @@
+Title 
+Cochrane database of systematic reviews (Online)
+
+Article Title 
+Acupuncture for chronic asthma.
+Abstract Text 
+Acupuncture has traditionally been used to treat asthma in China and is used increasingly for this purpose internationally.
+The objective of this review was to assess the effects of acupuncture for the treatment of asthma or asthma-like symptoms.
+We searched the Cochrane Airways Group trials register (searched August 2003), the Cochrane Complementary Medicine Field trials register, the Alternative Medicine Database (August 2003) and reference lists of articles.
+We also contacted trialists and researchers in the field of complementary and alternative medical research.
+Randomised and possibly randomised trials using needle acupuncture or other forms of stimulation of acupuncture.
+Any form of control treatment was considered (no treatment in addition to conventional asthma treatment, sham or placebo interventions, active comparator interventions).
+Studies were included provided outcome was assessed at one week or more.
+At least two reviewers independently assessed trial quality.
+A reviewer experienced in acupuncture assessed the adequacy of the active and sham acupunctures used in the studies.
+Study authors were contacted for missing information.
+Eleven studies met the inclusion criteria with 324 participants.
+Trial reporting was poor and trial quality was deemed inadequate to generalise findings.
+There was variation in the type of active and sham acupunctures, the outcomes measured and time-points presented.
+The points used in the sham arm of some studies are used for the treatment of asthma according to traditional Chinese medicine.
+Two studies used individualised treatment strategies and one study used a combination strategy of formula acupuncture with the addition of individualised points.
+No statistically significant or clinically relevant effects were found for acupuncture compared to sham acupuncture.
+Data from two small studies were pooled for lung function (post-treatment FEV1): Standardised Mean Difference 0.12, 95% confidence interval -0.31 to 0.55).
+There is not enough evidence to make recommendations about the value of acupuncture in asthma treatment.
+Further research needs to consider the complexities and different types of acupuncture.

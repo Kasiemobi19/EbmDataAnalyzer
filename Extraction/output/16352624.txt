@@ -1,0 +1,15 @@
+Title 
+Archives of disease in childhood
+
+Article Title 
+First night effect for polysomnographic data in children and adolescents with suspected sleep disordered breathing.
+Abstract Text 
+To assess the presence of a first night effect (FNE) in children and adolescents and to examine if a single night polysomnography (PSG) is sufficient for diagnosing obstructive sleep apnoea syndrome (OSAS).
+Prospective case study of 70 patients (group 1: 2-6 years, n = 22; group 2: 7-12 years, n = 32; group 3: 13-17 years, n = 16) referred for OSAS.
+Diagnostic criteria for OSAS: one or more of the following: (1) obstructive apnoea index (OAI) > or =1; (2) obstructive apnoea hypopnoea index (oAHI) > or =2; (3) SaO2 < or =89% in association with obstruction.
+In all age groups, but mainly in the oldest children, REMS increased during the second night, mainly at the expense of stage 2 sleep.
+The first night PSG correctly identified OSAS in 86%, 91%, and 100% of the children for groups 1, 2, and 3 respectively.
+This represents 9% false negatives for OSAS when only the first night PSG was used.
+All cases missed had mild OSAS, except for one with oAHI >5 on night 2. There were also seven patients with OSAS on night 1 but with a normal PSG on night 2: all had oAHI <5.
+There is a FNE in children and adolescents.
+A single night PSG is sufficient for diagnosing OSAS, but in cases with a suggestive history and examination and with a negative first night, a second night study might be advisable.

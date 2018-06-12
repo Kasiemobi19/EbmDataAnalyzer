@@ -1,0 +1,13 @@
+Title 
+The American review of respiratory disease
+
+Article Title 
+Factors associated with tuberculin reactivity among the foreign-born in Montreal.
+Abstract Text 
+Because tuberculosis among the foreign-born is of increasing importance in North America, it has recently been recommended that newly arriving immigrants be tuberculin tested and preventive therapy given to all those with significant reactions.
+The factors affecting the prevalence of tuberculin reactions were assessed in a community-based tuberculin survey among foreign-born schoolchildren and young adults.
+Of 1,198 foreign-born who were tuberculin tested, 32.4% had significant tuberculin reactions.
+False-positive tuberculin reactions due to sensitivity to purified protein derivative (PPD)-B (for Mycobacterium avium) were uncommon and those due to BCG vaccination of importance only among immigrants from countries with low tuberculosis rates.
+Tuberculin reactions of 10+ mm were associated with tuberculosis rates in the country of origin (p less than or equal to 0.001), age when immigrated (p less than or equal to 0.001), bacillus Calmette-Guérin (BCG) vaccination (p less than or equal to 0.01), and residence in poorer neighborhoods in Montreal (p less than or equal to 0.001), but not with number of years resident in Canada.
+The booster phenomenon, seen in 16% of those undergoing two-step testing, was most strongly associated with prior BCG vaccination (p less than or equal to 0.001) and also with tuberculosis rates in the country of origin (p less than or equal to 0.08), age of immigration (p less than or equal to 0.01), and number of years resident in Canada (p less than or equal to 0.05).(ABSTRACT
+TRUNCATED AT 250 WORDS)

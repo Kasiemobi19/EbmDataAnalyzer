@@ -1,0 +1,18 @@
+Title 
+The American journal of the medical sciences
+
+Article Title 
+Clinical epidemiology of nocturnal leg cramps in male veterans.
+Abstract Text 
+This article describes patients with nocturnal leg cramps concerning their age, medical problems, and medications, and reviews any medical evaluation performed for the complaint of nocturnal leg cramps.
+Provided is a retrospective chart review of 50 patients who took quinine sulfate for nocturnal leg cramps.
+These patients were identified through computerized pharmacy records.
+A control group was chosen from age-matched patients who took medications other than quinine during the study period.
+In a university-affiliated Veterans Administration hospital, patients with nocturnal leg cramps had a significantly higher median number of medical problems than controls.
+Cardiovascular diseases and neurological diseases were significantly more common in patients with nocturnal leg cramps (cases) than in those without (controls) (82% versus 64% and 36% versus 18%, respectively).
+The most striking differences between patients with cramps and controls were peripheral vascular disease (34% versus 12%, P = 0.09) and peripheral neurological deficit (12% versus 0%, P = 0.012).
+Patients with nocturnal leg cramps were prescribed significantly more medications than were controls, but no specific medication or type of medication was prescribed more frequently to patients with cramps (other than quinine).
+Results suggested that men with nocturnal leg cramps have greater medical comorbidity and are prescribed more medications than age-matched control patients.
+Unlike in previous studies, no evidence was found that specific medications, such as diuretics, betaagonists, or calcium-channel antagonists are associated with nighttime cramps.
+The significantly increased frequency of peripheral vascular disease and peripheral neurologic deficits in patients with nocturnal leg cramps raised the possibility that these problems contribute to the occurrence of cramps.
+Although the size of the study and its methodologic limitations preclude definitive conclusions, areas for research to clarify the clinical epidemiology of nocturnal leg cramps are suggested.

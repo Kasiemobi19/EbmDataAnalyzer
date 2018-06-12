@@ -1,0 +1,16 @@
+Title 
+BMJ (Clinical research ed.)
+
+Article Title 
+Used infant mattresses and sudden infant death syndrome in Scotland: case-control study.
+Abstract Text 
+To examine the proposition that a used infant mattress is associated with an increased risk of sudden infant death syndrome.
+Case-control study.
+Scotland (population 5.1 million, with about 53 000 births a year).
+131 infants who died of sudden infant death syndrome between 1 January 1996 and 31 May 2000 and 278 age, season, and obstetric unit matched control infants.
+Routine use of an infant mattress previously used by another child and place of last sleep.
+Routine use of an infant mattress previously used by another child was significantly associated with an increased risk of sudden infant death syndrome (multivariate odds ratio 3.07, 95% confidence interval 1.51 to 6.22).
+Use of a used infant mattress for last sleep was also associated with increased risk (6.10, 2.31 to 16.12).
+The association was significantly stronger if the mattress was from another home (4.78, 2.08 to 11.0) than if it was from the same home (1.64, 0.64 to 4.2).
+A valid significant association exists between use of a used infant mattress and an increased risk of sudden infant death syndrome, particularly if the mattress is from another home.
+Insufficient evidence is available to judge whether this relation is cause and effect.

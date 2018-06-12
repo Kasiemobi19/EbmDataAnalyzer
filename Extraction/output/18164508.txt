@@ -1,0 +1,18 @@
+Title 
+Journal of hepatology
+
+Article Title 
+Early switch to pentoxifylline in patients with severe alcoholic hepatitis is inefficient in non-responders to corticosteroids.
+Abstract Text 
+In severe alcoholic hepatitis (AH), 40% of patients will obtain no benefit from corticosteroids.
+Improvement in management of non-responders is warranted and only pentoxifylline can be considered an alternative.
+A two-step strategy was evaluated consisting of early withdrawal of corticosteroids and a switch to pentoxifylline for 28 additional days in non-responders identified using early change in bilirubin level.
+One hundred and twenty-one patients with AH were treated prospectively with corticosteroids, and the two-step strategy was proposed to 29 non-responders treated according to a two-step strategy who were compared to 58 matched non-responders treated with corticosteroids only.
+Clinical and biological features of the two groups were similar.
+There was no survival improvement at 2 months in patients treated with the two-step strategy compared to controls: 35.5+/-6.3%
+vs 31+/-8.6%.
+After 21 days, biological evolution was similar for prothrombin time (-0.25s
+vs +0.2s), bilirubin (0.8 mg/dl vs 2.03 mg/dl) and creatinine (+0.16 mg/dl vs -0.7 mg/dl).
+In multivariate analysis, only age, evolution of bilirubin during the first week, creatinine and DF were associated with 2-month survival.
+Non-responders to corticosteroids do not obtain any benefit from an early switch to pentoxifylline.
+Thus, the issue of management of non-responders remains unresolved.

@@ -1,0 +1,10 @@
+Title 
+Obstetrics and gynecology
+
+Article Title 
+Intrapartum clinical, sonographic, and parous patients' estimates of newborn birth weight.
+Abstract Text 
+The accuracy of estimating birth weight clinically, sonographically (using femur length and abdominal circumference), and by maternal prediction was studied prospectively in 106 term parous women who were in active labor.
+Estimates of birth weight by these women had lower standardized error (86.8 +/- 78.0 g/kg) than either clinical estimates (90.2 +/- 84.8 g/kg) or sonographically derived estimates (155.8 +/- 118.0 g/kg) of birth weight (P = not significant).
+Maternal estimates of birth weight were within +/- 10% of the actual weight in 69.8%, compared with 66.1% for clinical estimates and 42.4% for sonography.
+A term parous woman in labor can predict the birth weight with accuracy comparable to a clinical estimation by a physician or a sonographic estimate based on infant measurements.

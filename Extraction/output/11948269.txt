@@ -1,0 +1,15 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+Male circumcision, penile human papillomavirus infection, and cervical cancer in female partners.
+Abstract Text 
+It is uncertain whether male circumcision reduces the risks of penile human papillomavirus (HPV) infection in the man and of cervical cancer in his female partner.
+We pooled data on 1913 couples enrolled in one of seven case-control studies of cervical carcinoma in situ and cervical cancer in five countries.
+Circumcision status was self-reported, and the accuracy of the data was confirmed by physical examination at three study sites.
+The presence or absence of penile HPV DNA was assessed by a polymerase-chain-reaction assay in 1520 men and yielded a valid result in the case of 1139 men (74.9 percent).
+Penile HPV was detected in 166 of the 847 uncircumcised men (19.6 percent) and in 16 of the 292 circumcised men (5.5 percent).
+After adjustment for age at first intercourse, lifetime number of sexual partners, and other potential confounders, circumcised men were less likely than uncircumcised men to have HPV infection (odds ratio, 0.37; 95 percent confidence interval, 0.16 to 0.85).
+Monogamous women whose male partners had six or more sexual partners and were circumcised had a lower risk of cervical cancer than women whose partners were uncircumcised (adjusted odds ratio, 0.42; 95 percent confidence interval, 0.23 to 0.79).
+Results were similar in the subgroup of men in whom circumcision was confirmed by medical examination.
+Male circumcision is associated with a reduced risk of penile HPV infection and, in the case of men with a history of multiple sexual partners, a reduced risk of cervical cancer in their current female partners.

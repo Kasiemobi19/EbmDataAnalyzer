@@ -1,0 +1,16 @@
+Title 
+Circulation
+
+Article Title 
+Use of a prognostic treadmill score in identifying diagnostic coronary disease subgroups.
+Abstract Text 
+Exercise testing is useful in the assessment of symptomatic patients for diagnosis of significant or extensive coronary disease and to predict their future risk of cardiac events.
+The Duke treadmill score (DTS) is a composite index that was designed to provide survival estimates based on results from the exercise test, including ST-segment depression, chest pain, and exercise duration.
+However, its usefulness for providing diagnostic estimates has yet to be determined.
+A logistic regression model was used to predict significant (>/=75% stenosis) and severe (3-vessel or left main) coronary artery disease, and a Cox regression analysis was used to predict cardiac survival.
+After adjustment for baseline clinical risk, the DTS was effectively diagnostic for significant (P<0.0001) and severe (P<0.0001)
+coronary artery disease.
+For low-risk patients (score >/=+5), 60% had no coronary stenosis >/=75% and 16% had single-vessel >/=75% stenosis.
+By comparison, 74% of high-risk patients (score <-11) had 3-vessel or left main coronary disease.
+Five-year mortality was 3%, 10%, and 35% for low-, moderate-, and high-risk DTS groups (P<0.0001).
+The composite DTS provides accurate diagnostic and prognostic information for the evaluation of symptomatic patients evaluated for clinically suspected ischemic heart disease.

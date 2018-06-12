@@ -1,0 +1,24 @@
+Title 
+Annals of internal medicine
+
+Article Title 
+Accuracy of screening for fecal occult blood on a single stool sample obtained by digital rectal examination: a comparison with recommended sampling practice.
+Abstract Text 
+Many expert panels recommend colorectal cancer screening for average-risk asymptomatic individuals older than 50 years of age.
+Recent studies have found that 24% to 64% of primary care providers use only the digital fecal occult blood test (FOBT) as their primary screening test.
+The effectiveness of a single digital FOBT is unknown.
+To compare the sensitivity and specificity of digital FOBT and the recommended 6-sample at-home FOBT for advanced neoplasia in asymptomatic persons.
+Prospective cohort study.
+13 Veterans Affairs medical centers.
+3121 asymptomatic patients 50 to 75 years of age.
+2665 patients had 6-sample at-home FOBT and digital FOBT, followed by complete colonoscopy.
+We measured the sensitivity of digital and 6-sample FOBT for advanced neoplasia and the specificity for no neoplasia.
+We calculated predictive values and likelihood ratios for advanced neoplasia, defined as tubular adenomas 10 mm or greater, adenomas with villous histology or high-grade dysplasia, or invasive cancer.
+Of all participants, 96.8% were men; their average age was 63.1 years.
+The 6-sample FOBT and the single digital FOBT had specificities of 93.9% and 97.5%, respectively, as defined by studying 1656 patients with no neoplasia.
+Sensitivities for detection of advanced neoplasia in 284 patients were 23.9% for the 6-sample FOBT and 4.9% for the digital FOBT.
+The likelihood ratio for advanced neoplasia was 1.68 (95% CI, 0.96 to 2.94) for positive results on digital FOBT and 0.98 (CI, 0.95 to 1.01) for negative results.
+Most patients were men.
+Single digital FOBT is a poor screening method for colorectal neoplasia and cannot be recommended as the only test.
+When digital FOBT is performed as part of a primary care physical examination, negative results do not decrease the odds of advanced neoplasia.
+Persons with these results should be offered at-home 6-sample FOBT or another type of screening test.

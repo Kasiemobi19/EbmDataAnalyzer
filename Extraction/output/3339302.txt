@@ -1,0 +1,18 @@
+Title 
+The Journal of family practice
+
+Article Title 
+A one-year follow-up of fatigued patients.
+Abstract Text 
+To better understand the complaint "fatigue" and the characteristic features of patients who present with this problem, a one-year follow-up study was performed in a county health center.
+One hundred-fifteen fatigued adults were identified using scores on the Rand Index of Vitality (RIV).
+One hundred thirty-nine patients of similar age, sex, and socioeconomic status were identified as nonfatigued.
+One year later, these patients were followed up with a chart review, reassessment of fatigue (by RIV score), and a telephone interview.
+Seventy-three (64 percent) fatigued and 72 (53 percent) nonfatigued patients provided this information.
+On the RIV, 31 patients moved from the fatigued group to nonfatigued, and 15 nonfatigued patients' scores changed to the fatigued category.
+Patients categorized as fatigued in 1984 (by RIV score) returned for office visits more often (mean of 3.85 vs 2.51, P less than .05),
+and developed significantly more new diagnoses (2.75 vs 1.68, P less than .05)
+over the follow-up year, compared with those not fatigued.
+Fatigued patients also had a greater proportion of diagnoses containing a psychologic component than nonfatigued patients.
+Persistence of fatigue over the year was significantly associated with race and education (nonwhites and those completing high school remaining fatigued).
+No significant association between marital status, age, sex, employment status, and either the resolution or development of fatigue over the year was found.

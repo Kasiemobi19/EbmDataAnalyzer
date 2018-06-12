@@ -1,0 +1,14 @@
+Title 
+American journal of respiratory and critical care medicine
+
+Article Title 
+Low dose inhaled budesonide and formoterol in mild persistent asthma: the OPTIMA randomized trial.
+Abstract Text 
+The optimal treatment for mild asthma is uncertain.
+We assessed the effects of adding a long-acting inhaled beta-agonist, formoterol, to low doses of an inhaled corticosteroid, budesonide, for 1 yr in subjects with mild asthma, receiving no or only a small dose of inhaled corticosteroid.
+The 698 corticosteroid free patients (Group A) were assigned to twice daily treatment with 100 microg budesonide, 100 microg budesonide plus 4.5 microg formoterol, or placebo.
+The 1,272 corticosteroid-treated patients (Group B) were assigned to twice daily treatment with 100 microg budesonide, 100 microg budesonide plus 4.5 microg formoterol, 200 microg budesonide, or 200 microg budesonide plus 4.5 microg formoterol.
+The main outcome variables were time to the first severe asthma exacerbation and poorly controlled asthma days.
+In Group A, budesonide alone reduced the risk for severe exacerbations by 60% and poorly controlled days by 48%; adding formoterol increased lung function with no change in other end points.
+By contrast, in Group B, adding formoterol reduced the risk for the first severe exacerbation and for poorly controlled days by 43 and 30%, respectively.
+Thus, in corticosteroid-free patients, low dose inhaled budesonide alone reduced severe exacerbations and improved asthma control, and in patients already receiving inhaled corticosteroid, adding formoterol was more effective than doubling the corticosteroid dose.

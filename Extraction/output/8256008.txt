@@ -1,0 +1,15 @@
+Title 
+Revista clínica española
+
+Article Title 
+[Heparinoids versus nitroglycerin in the treatment of superficial phlebitis].
+Abstract Text 
+The purpose of this study was to evaluate the beneficial effects of transdermal nitroglycerine (TNG) in the treatment of superficial phlebitis caused by endovenous catheters and to compare them with the effects from the application of heparinoid substances.
+The study performed was prospective, randomized during a six-day period.
+One hundred patients (73 male and 27 female), aged 28-89 years (mean 67.3), participated in the study; all presented phlebitis, diagnosed by the presence of pain, erythema, edema, and fibrous cord in the area around the catheter.
+Among 50 subjects, two cm of NTG gel were administered to the affected zone once a day, and for the other 50 subjects, heparinoid substances were applied three times a day.
+The value parameters were: time for the disappearance of pain and time for reducing erythema, edema, and fibrous cord in half (all measured in hours).
+We found significant differences between the two treatments with TNG yielding greater improvement in terms of disappearance of pain (TNG: 50.2 +/- 39.7, heparinoids: 72.0 +/- 39.9), time for reducing erythema in half (TNG: 28.0 +/- 24.2, heparinoids: 54.6 +/- 34.5), and time for reducing fibrous cord in half (TNG: 58.3 +/- 38.4,
+heparinoids: 84.5 +/- 41.5).
+Edema was reduce before with TNG; however, this difference was not significant (TNG: 31.2 +/- 20.3, heparinoids: 33.0 +/- 25.7).
+We conclude that transcutaneous TNG should be applied systematically in patients with superficial phlebitis, given that it is more effective than the usual treatment with heparinoid substances.

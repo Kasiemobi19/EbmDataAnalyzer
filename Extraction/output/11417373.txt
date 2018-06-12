@@ -1,0 +1,12 @@
+Title 
+Geriatrics
+
+Article Title 
+Nocturnal leg cramps. Clinically mysterious and painful--but manageable.
+Abstract Text 
+Nocturnal leg cramps are common occurrences among older, generally healthy adults.
+Although there are many known causes--endocrinologic, neurologic, and vascular disorders, treatment with certain drugs, and occupational factors--a significant portion of cases are idiopathic.
+History, physical exam, and laboratory testing can provide clues for distinguishing between cramps with identifiable causes and idiopathic cases.
+For nonidiopathic cases, management consists of treating the underlying cause whenever possible.
+A nonpharmacologic approach (massaging and stretching) is the recommended first-line treatment for idiopathic cases.
+Quinine sulfate also appears to offer safe and effective symptom management of idiopathic cases, although its efficacy has not been definitively established in clinical trials.

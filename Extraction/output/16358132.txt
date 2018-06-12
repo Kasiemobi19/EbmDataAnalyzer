@@ -1,0 +1,11 @@
+Title 
+Clinics (São Paulo, Brazil)
+
+Article Title 
+Accuracy of magnetic resonance in identifying traumatic intraarticular knee lesions.
+Abstract Text 
+To evaluate the diagnostic accuracy of magnetic resonance imaging of the knee in identifying traumatic intraarticular knee lesions.
+300 patients with a clinical diagnosis of traumatic intraarticular knee lesions underwent prearthoscopic magnetic resonance imaging.
+The sensitivity, specificity, positive predictive value, negative predictive value, likelihood ratio for a positive test, likelihood ratio for a negative test, and accuracy of magnetic resonance imaging were calculated relative to the findings during arthroscopy in the studied structures of the knee (medial meniscus, lateral meniscus, anterior cruciate ligament, posterior cruciate ligament, and articular cartilage).
+Magnetic resonance imaging produced the following results regarding detection of lesions: medial meniscus: sensitivity 97.5%, specificity 92.9%, positive predictive value 93.9%, positive negative value 97%, likelihood positive ratio 13.7, likelihood negative ratio 0.02, and accuracy 95.3%; lateral meniscus: sensitivity 91.9%, specificity 93.6%, positive predictive value 92.7%, positive negative value 92.9%, likelihood positive ratio 14.3, likelihood negative ratio 0.08, and accuracy 93.6%; anterior cruciate ligament: sensitivity 99.0%, specificity 95.9%, positive predictive value 91.9%, positive negative value 99.5%, likelihood positive ratio 21.5, likelihood negative ratio 0.01, and accuracy 96.6%; posterior cruciate ligament: sensitivity 100%, specificity 99%, positive predictive value 80.0%, positive negative value 100%, likelihood positive ratio 100, likelihood negative ratio 0.01, and accuracy 99.6%; articular cartilage: sensitivity 76.1%, specificity 94.9%, positive predictive value 94.7%, positive negative value 76.9%, likelihood positive ratio 14.9, likelihood negative ratio 0.25, and accuracy 84.6%.
+Magnetic resonance imaging is a satisfactory diagnostic tool for evaluating meniscal and ligamentous lesions of the knee, but it is unable to clearly identify articular cartilage lesions.

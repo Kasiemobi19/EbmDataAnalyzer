@@ -1,0 +1,25 @@
+Title 
+Lancet
+
+Article Title 
+Obstetric outcomes after conservative treatment for intraepithelial or early invasive cervical lesions: systematic review and meta-analysis.
+Abstract Text 
+Conservative methods to treat cervical intraepithelial neoplasia and microinvasive cervical cancer are commonly used in young women because of the advent of effective screening programmes.
+In a meta-analysis, we investigated the effect of these procedures on subsequent fertility and pregnancy outcomes.
+We searched for studies in MEDLINE and EMBASE and classified them by the conservative method used and the outcome measure studied regarding both fertility and pregnancy.
+Pooled relative risks and 95% CIs were calculated with a random-effects model and interstudy heterogeneity was assessed with Cochrane's Q test.
+We identified 27 studies.
+Cold knife conisation was significantly associated with preterm delivery (<37 weeks; relative risk 2.59, 95% CI 1.80-3.72,
+100/704 [14%] vs 1494/27 674 [5%]), low birthweight (<2500 g; 2.53, 1.19-5.36,
+32/261 [12%] vs 905/13 229 [7%]), and caesarean section (3.17, 1.07-9.40,
+31/350 [9%] vs 22/670 [3%]).
+Large loop excision of the transformation zone (LLETZ) was also significantly associated with preterm delivery (1.70, 1.24-2.35,
+156/1402 [11%] vs 120/1739 [7%]), low birthweight (1.82, 1.09-3.06,
+77/996 [8%] vs 49/1192 [4%]), and premature rupture of the membranes (2.69, 1.62-4.46,
+48/905 [5%] vs 22/1038 [2%]).
+Similar but marginally non-significant adverse effects were recorded for laser conisation (preterm delivery 1.71, 0.93-3.14).
+We did not detect significantly increased risks for obstetric outcomes after laser ablation.
+Although severe outcomes such as admission to a neonatal intensive care unit or perinatal mortality showed adverse trends, these changes were not significant.
+All the excisional procedures to treat cervical intraepithelial neoplasia present similar pregnancy-related morbidity without apparent neonatal morbidity.
+Caution in the treatment of young women with mild cervical abnormalities should be recommended.
+Clinicians now have the evidence base to counsel women appropriately.

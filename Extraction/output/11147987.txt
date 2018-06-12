@@ -1,0 +1,22 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Short-term prognosis after emergency department diagnosis of TIA.
+Abstract Text 
+Management of patients with acute transient ischemic attack (TIA) varies widely, with some institutions admitting all patients and others proceeding with outpatient evaluations.
+Defining the short-term prognosis and risk factors for stroke after TIA may provide guidance in determining which patients need rapid evaluation.
+To determine the short-term risk of stroke and other adverse events after emergency department (ED) diagnosis of TIA.
+Cohort study conducted from March 1997 through February 1998 in 16 hospitals in a health maintenance organization in northern California.
+Patients A total of 1707 patients (mean age, 72 years) identified by ED physicians as having presented with TIA.
+Risk of stroke during the 90 days after index TIA; other events, including death, recurrent TIA, and hospitalization for cardiovascular events.
+During the 90 days after index TIA, 180 patients (10.5%) returned to the ED with a stroke, 91 of which occurred in the first 2 days.
+Five factors were independently associated with stroke: age greater than 60 years (odds ratio [OR], 1.8; 95% confidence interval [CI], 1.1-2.7;
+P=.01), diabetes mellitus (OR, 2.0; 95% CI, 1.4-2.9;
+P<.001), symptom duration longer than 10 minutes (OR, 2.3; 95% CI, 1.3-4.2;
+P=.005), weakness (OR, 1.9; 95% CI, 1.4-2.6;
+P<.001), and speech impairment (OR, 1.5; 95% CI, 1.1-2.1;
+P=.01).
+Stroke or other adverse events occurred in 428 patients (25.1%) in the 90 days after the TIA and included 44 hospitalizations for cardiovascular events (2.6%), 45 deaths (2.6%), and 216 recurrent TIAs (12.7%).
+Our results indicate that the short-term risk of stroke and other adverse events among patients who present to an ED with a TIA is substantial.
+Characteristics of the patient and the TIA may be useful for identifying patients who may benefit from expeditious evaluation and treatment.

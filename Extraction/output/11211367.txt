@@ -1,0 +1,16 @@
+Title 
+Journal of the American Academy of Child and Adolescent Psychiatry
+
+Article Title 
+Methylphenidate dosage for children with ADHD over time under controlled conditions: lessons from the MTA.
+Abstract Text 
+To examine the trajectory of methylphenidate (MPH) dosage over time, following a controlled titration, and to ascertain how accurately the titration was able to predict effective long-term treatment in children with attention-deficit/hyperactivity disorder (ADHD).
+Using the 14-month-treatment database of the NIMH Collaborative Multisite Multimodal Treatment Study of Children With Attention-Deficit/Hyperactivity Disorder (MTA), the outcome of the initial placebo-controlled, double-blind, randomized daily switch titration of MPH was compared with the subsequent maintenance pharmacotherapy.
+Children received monthly monitoring visits and, when needed, medication adjustments.
+Of the 198 children for whom MPH was the optimal treatment at titration (mean +/- SD dose: 30.5 +/- 14.2 mg/day), 88% were still taking MPH at the end of maintenance (mean dose 34.4 +/- 13.3 mg/day).
+Titration-determined dose and end-of-maintenance dose were significantly correlated (r = 0.52-0.68).
+Children receiving combined pharmacotherapy and behavioral treatment ended maintenance on a lower dose (31.1 +/- 11.7 mg/day) than did children receiving pharmacotherapy only (38.1 +/- 14.2 mg/day).
+Of the 230 children for whom titration identified an optimal treatment, 17% continued both the assigned medication and dosage throughout maintenance.
+The mean number of pharmacological changes per child was 2.8 +/- 1.8 (SD), and time to first change was 4.7 months +/- 0.3 (SE).
+For most children, initial titration found a dose of MPH in the general range of the effective maintenance dose, but did not prevent the need for subsequent maintenance adjustments.
+For optimal pharmacological treatment of ADHD, both careful initial titration and ongoing medication management are needed.

@@ -1,0 +1,18 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+Effect of intensity of oral anticoagulation on stroke severity and mortality in atrial fibrillation.
+Abstract Text 
+The incidence of stroke in patients with atrial fibrillation is greatly reduced by oral anticoagulation, with the full effect seen at international normalized ratio (INR) values of 2.0 or greater.
+The effect of the intensity of oral anticoagulation on the severity of atrial fibrillation-related stroke is not known but is central to the choice of the target INR.
+We studied incident ischemic strokes in a cohort of 13,559 patients with nonvalvular atrial fibrillation.
+Strokes were identified through hospitalization data bases and validated on the basis of medical records, which also provided information on the use of warfarin or aspirin, the INR at admission, and coexisting illnesses.
+The severity of stroke was graded according to a modified Rankin scale.
+Thirty-day mortality was ascertained from hospitalization and mortality files.
+Of 596 ischemic strokes, 32 percent occurred during warfarin therapy, 27 percent during aspirin therapy, and 42 percent during neither type of therapy.
+Among patients who were taking warfarin, an INR of less than 2.0 at admission, as compared with an INR of 2.0 or greater, independently increased the odds of a severe stroke in a proportional-odds logistic-regression model (odds ratio, 1.9; 95 percent confidence interval, 1.1 to 3.4) across three severity categories and the risk of death within 30 days (hazard ratio, 3.4; 95 percent confidence interval, 1.1 to 10.1).
+An INR of 1.5 to 1.9 at admission was associated with a mortality rate similar to that for an INR of less than 1.5 (18 percent and 15 percent, respectively).
+The 30-day mortality rate among patients who were taking aspirin at the time of the stroke was similar to that among patients who were taking warfarin and who had an INR of less than 2.0.
+Among patients with nonvalvular atrial fibrillation, anticoagulation that results in an INR of 2.0 or greater reduces not only the frequency of ischemic stroke but also its severity and the risk of death from stroke.
+Our findings provide further evidence against the use of lower INR target levels in patients with atrial fibrillation.

@@ -1,0 +1,11 @@
+Title 
+Clinical cornerstone
+
+Article Title 
+Cognitive behavior therapy for chronic insomnia.
+Abstract Text 
+Approximately 20% of patients presenting in general medical settings have severe and persistent insomnia.
+Studies consistently find that trouble initiating and maintaining sleep are independent risk factors for medical and psychiatric morbidity, but insomnia is often underdetected and undertreated in primary care settings.
+Cognitive-behavioral treatment approaches for chronic insomnia and related sleep disorders have been shown to be effective in various patient populations.
+This article reviews the most common cognitive-behavioral interventions for insomnia, and discusses their efficacy and durability.
+Possible adaptations for the integration of these approaches into primary care settings and a description of the emerging field of behavioral sleep medicine as a resource for health care providers treating patients with chronic insomnia are also presented.

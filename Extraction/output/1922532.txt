@@ -1,0 +1,25 @@
+Title 
+Nederlands tijdschrift voor geneeskunde
+
+Article Title 
+[The spontaneous course of otitis media with effusion in young children].
+Abstract Text 
+Description of the natural course of otitis media with effusion (OME) in pre-school children.
+Longitudinal follow-up study.
+Nijmegen, the Netherlands; at the children's home address.
+A cohort of 1439 children born in the period September 1982 to August 1983 and living in Nijmegen at their second birthday were invited for participation in serial tympanometric screening with a three-monthly interval.
+Each child was measured 9 times from age 24 to 48 months.
+A flat tympanogram was considered to be indicative of OME.
+Participation was 92%, but interpretable tympanograms were taken in 2242 ears (first round) to 1990 ears (last screening).
+Data of 56 children treated with grommets were excluded from analysis.
+Longstanding OME (at least 4 flat tympanograms in a succession) was seen in 9.3% (95%-CI 7.0-11.6) of ears.
+In another 23.4% (20.1-26.8) of ears OME was found 2 or 3 times at subsequent screenings.
+Single or recurrent flat tympanograms were seen in 20.4% (17.2-23.6)
+and 11.6% (9.0-14.1) of the ears respectively.
+The probability of recovery over time was well described with a simple function of a 50% improvement every 3 months.
+In addition, 50% of the recovered ears showed one or more recurrences of OME.
+OME appears to run a very fluctuating course with a strong representation of short disease episodes and high rates of recovery and remission.
+The data confirm the results of others.
+A common interpretation, i.e. a sharp reduction of the recovery rate after three months, appears to be false.
+A 50% improvement rate every 3 months fits the data equally well.
+This study does not provide information about the sequelae of OME at school age.

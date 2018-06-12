@@ -1,0 +1,24 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Fluoxetine, cognitive-behavioral therapy, and their combination for adolescents with depression: Treatment for Adolescents With Depression Study (TADS) randomized controlled trial.
+Abstract Text 
+Initial treatment of major depressive disorder in adolescents may include cognitive-behavioral therapy (CBT) or a selective serotonin reuptake inhibitor (SSRI).
+However, little is known about their relative or combined effectiveness.
+To evaluate the effectiveness of 4 treatments among adolescents with major depressive disorder.
+Randomized controlled trial of a volunteer sample of 439 patients between the ages of 12 to 17 years with a primary Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition, diagnosis of major depressive disorder.
+The trial was conducted at 13 US academic and community clinics between spring 2000 and summer 2003.
+Twelve weeks of (1) fluoxetine alone (10 to 40 mg/d), (2) CBT alone, (3) CBT with fluoxetine (10 to 40 mg/d), or (4) placebo (equivalent to 10 to 40 mg/d).
+Placebo and fluoxetine alone were administered double-blind; CBT alone and CBT with fluoxetine were administered unblinded.
+Children's Depression Rating Scale-Revised total score and, for responder analysis, a (dichotomized) Clinical Global Impressions improvement score.
+Compared with placebo, the combination of fluoxetine with CBT was statistically significant (P =.001) on the Children's Depression Rating Scale-Revised.
+Compared with fluoxetine alone (P =.02) and CBT alone (P =.01), treatment of fluoxetine with CBT was superior.
+Fluoxetine alone is a superior treatment to CBT alone (P =.01).
+Rates of response for fluoxetine with CBT were 71.0%
+(95% confidence interval [CI], 62%-80%); fluoxetine alone, 60.6% (95% CI, 51%-70%); CBT alone, 43.2% (95% CI, 34%-52%); and placebo, 34.8% (95% CI, 26%-44%).
+On the Clinical Global Impressions improvement responder analysis, the 2 fluoxetine-containing conditions were statistically superior to CBT and to placebo.
+Clinically significant suicidal thinking, which was present in 29% of the sample at baseline, improved significantly in all 4 treatment groups.
+Fluoxetine with CBT showed the greatest reduction (P =.02).
+Seven (1.6%) of 439 patients attempted suicide; there were no completed suicides.
+The combination of fluoxetine with CBT offered the most favorable tradeoff between benefit and risk for adolescents with major depressive disorder.

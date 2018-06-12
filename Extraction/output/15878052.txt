@@ -1,0 +1,25 @@
+Title 
+Ophthalmology
+
+Article Title 
+Management of the patient with suspected temporal arteritis a decision-analytic approach.
+Abstract Text 
+To perform a decision analysis of temporal arteritis (TA) to guide clinicians in the interpretation of diagnostic testing and choice of therapy.
+Computer-based decision analytic model.
+A 785-node decision tree was created that reflects common testing and therapeutic options for a patient with suspected TA.
+A comprehensive literature search was then performed.
+From this search, point estimates and distributions for pooled probabilities and utilities were derived using inverse variance weighting and random effects techniques.
+Employing utility analysis, this decision model selects the diagnostic/therapeutic pathway resulting in the greatest utility for any user-defined set of patient characteristics on presentation.
+Using utility analysis, the diagnostic/therapeutic pathway that results in the least expected disutility is selected as the optimal course of action.
+The choice of diagnostic testing depends on several factors, including patient age, symptoms, and clinical findings.
+These factors can be used to calculate the pretest probability of TA being present.
+The optimal selection of diagnostic tests (laboratory or biopsy) depends on the pretest probability of disease.
+A temporal artery biopsy is recommended under most circumstances, with the choice of a unilateral versus bilateral biopsy depending upon blood test results and calculated pretest probability.
+A few scenarios exist in which blood tests alone can rule in or rule out TA without the need for biopsy.
+Empiric steroid therapy is almost never recommended.
+In TA, both the disease and its treatment are hazardous for the patient.
+Clinicians should have a very low threshold to initiate a diagnostic workup for TA.
+Physicians are often uncertain when a temporal artery biopsy is indicated and whether to perform a unilateral or bilateral biopsy.
+Often, the pathway chosen is not evidence based.
+Although the biopsy has long been considered the gold standard for diagnosis, it is invasive and less than 100% sensitive.
+The decision whether to undertake unilateral or bilateral biopsies is difficult, and our decision model delineates a method for choosing.

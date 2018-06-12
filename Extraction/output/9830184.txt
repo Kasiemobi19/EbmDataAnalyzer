@@ -1,0 +1,15 @@
+Title 
+The British journal of general practice : the journal of the Royal College of General Practitioners
+
+Article Title 
+A series of self-measurements by the patient is a reliable alternative to ambulatory blood pressure measurement.
+Abstract Text 
+Several studies have reported overdiagnosis and overtreatment of hypertensive patients, especially in borderline hypertensives.
+To find a blood pressure measurement procedure that reduces the risk of misclassification to an acceptable level.
+Comparative, prospective study over seven months of primary care patients with elevated initial blood pressures.
+Blood pressure measurements made by general practitioners (GPs), practice nurses, and patients were compared with ambulatory blood pressure measurements.
+Ninety-nine patients completed the study.
+Mean differences (systolic blood pressure) between different measurement procedures and ambulatory measurement ranged from +10 mmHg (doctor) to -1 mmHg (patient), and (diastolic) from +4 mmHg (doctor) to -2 mmHg (patient).
+Standard deviations of mean differences ranged from 12 mmHg (doctor/systolic) to 10 mmHg (patient/systolic), and from 8 mmHg (doctor/diastolic) to 7 mmHg (patient/diastolic).
+Self-measurements by the patient appear to be a reliable alternative to ambulatory blood pressure measurement.
+In diagnosing and managing mild hypertension, we recommend the use of a valid self-measuring device.

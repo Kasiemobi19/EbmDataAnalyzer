@@ -1,0 +1,22 @@
+Title 
+The American journal of gastroenterology
+
+Article Title 
+Tegaserod for the treatment of chronic constipation: a randomized, double-blind, placebo-controlled multinational study.
+Abstract Text 
+Chronic constipation is a common, persistent disorder with limited effective treatment options.
+This study investigated the efficacy, safety, and tolerability of tegaserod in the treatment of chronic constipation.
+After a 2-wk baseline period, patients were randomized to double-blind treatment of 12 wk with tegaserod (2 or 6 mg b.i.d.) or placebo.
+Response during weeks 1-4 (primary variable) was defined as an increase in complete spontaneous bowel movement (CSBM)/wk.
+Secondary variables included response during weeks 1-12, patient evaluation of individual symptoms, and global assessment of bowel habits and constipation.
+One thousand two hundred and sixty-four patients were randomized to tegaserod or placebo.
+Responder rates for the primary efficacy variable were 35.6% for tegaserod 2 mg b.i.d.
+(p= 0.0059 vs placebo), 40.2% for 6 mg b.i.d.
+(p < 0.0001 vs placebo) and 26.7% for placebo.
+The number needed to treat was 7.3 for the 6 mg b.i.d.
+dose compared with 11.1 for tegaserod 2 mg b.i.d.
+Tegaserod 6 mg b.i.d.
+reduced straining, abdominal bloating/distension, and abdominal pain/discomfort during the 12-wk treatment period compared with placebo (p < 0.05 for all symptoms).
+Significant improvements were also seen in stool form and in global assessment of bowel habits and constipation.
+The most common adverse events, headache and abdominal pain, were more frequent with placebo than with tegaserod.
+Tegaserod was efficacious in relieving symptoms of chronic constipation and was well tolerated.

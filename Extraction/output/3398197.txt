@@ -1,0 +1,16 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Chronic fatigue in primary care. Prevalence, patient characteristics, and outcome.
+Abstract Text 
+Although fatigue is one of the most common complaints in ambulatory care, research has been minimal.
+Of the 1159 consecutive patients surveyed in two adult primary-care clinics, 276 (24%) indicated that fatigue was a major problem.
+Fatigue was more prevalent in women than in men (28% vs 19%).
+Extensive clinical, laboratory, psychometric, and functional data were gathered for 102 fatigued patients and 26 controls.
+Laboratory testing was not useful in detecting unsuspected medical conditions or in determining the cause of fatigue.
+Depression or somatic anxiety or both were suggested by screening psychometric instruments in 82 fatigued patients (80%) compared with three controls (12%).
+Global dysfunction was marked, as reported by patients on the Sickness Impact Profile.
+The mean score on the Sickness Impact Profile of 11.3 for fatigued patients is similar to that reported for patients with major medical illnesses.
+After one year of follow-up, only 29 fatigued patients (28%) had improved.
+The high prevalence, persistence, and functional consequences of fatigue mandate a search for effective therapy.

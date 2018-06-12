@@ -1,0 +1,10 @@
+Title 
+Gut
+
+Article Title 
+Faecal metronidazole concentrations during oral and intravenous therapy for antibiotic associated colitis due to Clostridium difficile.
+Abstract Text 
+Faecal metronidazole and hydroxymetronidazole concentrations measured by high pressure liquid chromatography are reported during 10 episodes of Clostridium difficile colitis in nine patients.
+Bactericidal faecal concentrations were present in all patients with acute disease receiving oral or intravenous metronidazole, and all responded to therapy.
+Metronidazole and hydroxymetronidazole concentrations fell as the diarrhoea improved and neither substance was detectable in the faeces of five patients after recovery.
+This demonstration of intracolonic therapeutic concentrations of metronidazole supports the clinical experience of oral metronidazole being effective in the treatment of antibiotic associated diarrhoea caused by C difficile and also suggests a potential role for intravenous metronidazole in this disease.

@@ -1,0 +1,11 @@
+Title 
+Journal of neurosurgery
+
+Article Title 
+Safety and efficacy of spinal cord stimulation for the treatment of chronic pain: a 20-year literature review.
+Abstract Text 
+The purpose of this report was to examine the available literature to determine the safety and efficacy of spinal cord stimulation (SCS) for the treatment of chronic pain of the trunk and limbs.
+The author identified 68 studies that fulfilled the efficacy inclusion/exclusion criteria, grouped on the basis of pain indication, with an overall population of 3679 patients.
+Fifty-one studies fulfilled all safety inclusion/exclusion criteria.
+Based on the literature review, the author found that SCS had a positive, symptomatic, long-term effect in cases of refractory angina pain, severe ischemic limb pain secondary to peripheral vascular disease, peripheral neuropathic pain, and chronic low-back pain, and that, in general, SCS was a safe and effective treatment for a variety of chronic neuropathic conditions.
+Despite the positive findings, there is an urgent need for randomized, controlled, long-term studies on the efficacy of SCS involving larger patient sample sizes.

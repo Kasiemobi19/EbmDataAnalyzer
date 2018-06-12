@@ -1,0 +1,19 @@
+Title 
+Advance data
+
+Article Title 
+National Ambulatory Medical Care Survey: 1996 summary.
+Abstract Text 
+This report describes ambulatory care visits made to physician offices within the United States.
+Statistics are presented on selected physician, patient, and visit characteristics of ambulatory care visits.
+The data presented in this report were collected from the 1996 National Ambulatory Medical Care Survey (NAMCS).
+The NAMCS is part of the ambulatory care component of the National Health Care Survey, which measures health care utilization across various types of providers.
+The NAMCS is a national probability sample survey of visits to office-based physicians in the United States.
+Sample data are weighted to produce annual estimates.
+During 1996, an estimated 734.5 million visits were made to physician offices in the United States, an overall rate of 2.8 visits per person.
+One quarter of the NAMCS visits were made to general and family physicians, which was significantly higher than the other 13 specialties.
+Persons 75 years and over had the highest rate of physician office visits, 6.3 visits per person.
+Females had a significantly higher rate of visits to physicians offices than males did overall, as did white persons compared with black persons.
+Of all visits made to these offices in 1996, 87 percent were covered by some form of insurance, and 8.7 percent were paid "out-of-pocket."
+There were an estimated 87.6 million injury-related visits during 1996, or 33.1 visits per 100 persons.
+Three-quarters of these visits were for unintentional injuries.

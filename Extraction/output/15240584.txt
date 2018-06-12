@@ -1,0 +1,16 @@
+Title 
+The Journal of clinical endocrinology and metabolism
+
+Article Title 
+Effect of growth hormone treatment on adult height in peripubertal children with idiopathic short stature: a randomized, double-blind, placebo-controlled trial.
+Abstract Text 
+GH is often used to treat children with idiopathic short stature despite the lack of definitive, long-term studies of efficacy.
+We performed a randomized, double-blind, placebo-controlled trial to determine the effect of GH on adult height in peripubertal children.
+Subjects (n = 68; 53 males and 15 females), 9-16 yr old, with marked, idiopathic short stature [height or predicted height < or = -2.5 sd score (SDS)] received either GH (0.074 mg/kg) or placebo sc three times per week until they were near adult height.
+At study termination, adult height measurements were available for 33 patients after mean treatment duration of 4.4 yr.
+Adult height was greater in the GH-treated group (-1.81 +/- 0.11 SDS, least squares mean +/- sem) than in the placebo-treated group (-2.32 +/- 0.17 SDS) by 0.51 SDS (3.7 cm; P < 0.02; 95% confidence interval, 0.10-0.92
+SDS).
+A similar GH effect was demonstrated in terms of adult height SDS minus baseline height SDS and adult height SDS minus baseline predicted height SDS.
+Modified intent-to-treat analysis in 62 patients treated for at least 6 months indicated a similar GH effect on last observed height SDS (0.52 SDS; 3.8 cm; P < 0.001; 95% confidence interval, 0.22-0.82
+SDS) and no important dropout bias.
+In conclusion, GH treatment increases adult height in peripubertal children with marked idiopathic short stature.

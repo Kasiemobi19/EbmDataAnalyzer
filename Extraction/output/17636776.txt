@@ -1,0 +1,27 @@
+Title 
+Cochrane database of systematic reviews (Online)
+
+Article Title 
+Selective serotonin reuptake inhibitors (SSRIs) for depressive disorders in children and adolescents.
+Abstract Text 
+Depressive disorders are common in young people and are associated with significant negative impacts.
+Selective serotonin reuptake inhibitors (SSRIs) are often used, however, evidence of their effectiveness in children and adolescents is not clear.
+Furthermore, there have been warnings against their use in this population due to concerns about increased risk of suicidal ideation and behaviour.
+To determine the efficacy and adverse outcomes, including definitive suicidal behaviour and suicidal ideation, of SSRIs compared to placebo in the treatment of depressive disorders in children and adolescents.
+We searched the CCDAN Trials Register, MEDLINE, PSYCHINFO and CENTRAL.
+Reference lists were checked, letters were sent to key researchers and internet databases searched.
+We included published and unpublished randomised controlled trials.
+Two or three review authors selected the trials, assessed the quality and extracted trial and outcome data.
+We used a fixed-effect meta-analysis.
+The relative risk was used to summarise dichotomous outcomes and the mean difference to summarise continuous measures.
+Twelve trials were eligible for inclusion, with ten providing usable data.
+At 8-12 weeks, there was evidence that children and adolescents 'responded' to treatment with SSRIs (RR 1.28, 95% CI 1.17 to 1.41).
+There was also evidence of an increased risk of suicidal ideation and behaviour for those prescribed SSRIs (RR 1.80, 95% CI 1.19 to 2.72).
+Fluoxetine was the only SSRI where there was consistent evidence from three trials that it was effective in reducing depression symptoms in both children and adolescents (CDRS-R treatment effect -5.63, 95% CI -7.38 to -3.88), and 'response' to treatment (RR 1.86, 95% CI 1.49 to 2.32).
+Where rates of adverse events were reported, this was higher for those prescribed SSRIs.
+Caution is required to interpret the results.
+First, there were methodological issues, including high attrition, issues regarding measurement instruments and clinical usefulness of outcomes, often variously defined across trials.
+Second, patients seen in clinical practice are likely to be more unwell, and at greater risk of suicide, compared to those in the trials, and it is unclear how this group would respond to SSRIs.
+This needs to be considered, along with the evidence of an increased risk of suicide related outcomes in those treated with SSRIs.
+It is unclear what the effect of SSRIs is on suicide completion.
+While untreated depression is associated with the risk of completed suicide and impacts on functioning, it is unclear whether SSRIs would modify this risk in a clinically meaningful way.

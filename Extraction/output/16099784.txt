@@ -1,0 +1,16 @@
+Title 
+Gut
+
+Article Title 
+A randomised controlled trial of self-help interventions in patients with a primary care diagnosis of irritable bowel syndrome.
+Abstract Text 
+Functional abdominal symptoms are very common and account for nearly two million primary care consultations in Britain every year and produce significant morbidity.
+The aims of this study were to evaluate the impact of two self-help interventions on consultation rates and symptom severity in patients with a primary care diagnosis of irritable bowel syndrome.
+A total of 420 patients from 54 primary care centres were randomised either to receive self-help information in the form of a guidebook or the guidebook plus a "self-help" group meeting or to be in a control group receiving neither intervention.
+Data were collected using questionnaires and primary care records.
+At one year, patients in the guidebook group had a 60% reduction in primary care consultations (p < 0.001) and a reduction in perceived symptom severity (p < 0.001) compared with controls.
+Allocation to the self-help group conferred no additional benefit.
+Actual symptom scores did not change significantly in any group.
+Costs per patient were reduced by Pounds 73 (confidence interval Pounds 43, Pounds 103) or 40% per year.
+Introduction of a self-help guidebook results in a reduction in primary care consultations, a perceived reduction in symptoms, and significant health service savings.
+This suggests that patients attending their primary care physician with functional abdominal symptoms should be offered self-help information as part of their management.

@@ -1,0 +1,18 @@
+Title 
+The Journal of pediatrics
+
+Article Title 
+Does age play a role in recovery from sports-related concussion? A comparison of high school and collegiate athletes.
+Abstract Text 
+To evaluate symptoms and neurocognitive recovery patterns after sports-related concussion in high school and college athletes.
+College athletes (n = 371) and high school athletes (n = 183) underwent baseline neuropsychological evaluation between 1997 and 2000.
+Individuals who received a concussion during athletic competition (n = 54) underwent serial neuropsychologic evaluation after injury and were compared with a noninjured within-sample control group (n = 38).
+Main outcome measures included structured interview, four memory measures, and Concussion Symptom Scale ratings.
+Baseline to postinjury change scores and multiple analyses of variance were used to compare recovery curves within and between groups.
+High school athletes with concussion had prolonged memory dysfunction compared with college athletes with concussion.
+High school athletes performed significantly worse than age-matched control subjects at 7 days after injury (F = 2.90; P <.005).
+College athletes, despite having more severe in-season concussions, displayed commensurate performance with matched control subjects by day 3 after concussion.
+Self-report of postconcussion symptoms by student athletes was not predictive of poor performance on neuropsychologic testing.
+Caution and systematic evaluation should be undertaken before returning athletes with concussion to competition.
+Sole reliance on the self-report of the athlete may be inadequate.
+Preliminary data may suggest a more protracted recovery from concussion in high school athletes.

@@ -1,0 +1,16 @@
+Title 
+Circulation
+
+Article Title 
+The sensitivity, specificity, and predictive value of traditional clinical evaluation of peripheral arterial disease: results from noninvasive testing in a defined population.
+Abstract Text 
+In a companion article we have reported the prevalence, in an older, defined population, of traditional assessments (intermittent claudication and abnormal pulse examination) of peripheral arterial disease (PAD) as compared with the results of highly accurate noninvasive testing.
+In this article we report the sensitivity, specificity, and positive and negative predictive values for claudication and abnormal pulses for the diagnosis of large-vessel and small-vessel PAD as determined by noninvasive testing.
+Claudication and abnormal pulses were completely unrelated to isolated small-vessel PAD.
+In contrast, both claudication and abnormal pulses were significantly correlated with large-vessel PAD.
+Claudication and an abnormal femoral pulse showed a high specificity and positive predictive value but a low sensitivity for large-vessel PAD.
+Conversely, an abnormal dorsalis pedis pulse showed a good sensitivity but low specificity and positive predictive value.
+The best single discriminator was an abnormal posterior tibial pulse, which had high sensitivity, specificity, and positive predictive value.
+Various combinations of claudication and pulse abnormalities revealed a good sensitivity for broader criteria but at the expense of specificity, whereas stricter criteria had a good specificity and positive predictive value but a poor sensitivity.
+No combination was superior to an abnormal posterior tibial pulse alone.(ABSTRACT
+TRUNCATED AT 250 WORDS)

@@ -1,0 +1,12 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Incidence of coronary heart disease and lipoprotein cholesterol levels. The Framingham Study.
+Abstract Text 
+The first report from the Framingham Study that demonstrated an inverse relationship between high-density lipoprotein cholesterol (HDL-C) and the incidence of coronary heart disease (CHD) was based on four years of surveillance.
+These participants, aged 49 to 82 years, have now been followed up for 12 years, and this report shows that the relationship between the fasting HDL-C level and subsequent incidence of CHD does not diminish appreciably with time.
+Since a second measurement of HDL-C is available eight years after the initial determination, the relationship of HDL-C measurements on the same subjects at two points in time is examined.
+This second HDL-C measurement is also used in a multivariate model that includes cigarette smoking, relative weight, alcohol consumption, casual blood glucose, total cholesterol, and blood pressure.
+It is concluded that even after these adjustments, nonfasting HDL-C and total cholesterol levels are related to development of CHD in both men and women aged 49 years and older.
+Study participants at the 80th percentile of HDL-C were found to have half the risk of CHD developing when compared with subjects at the 20th percentile of HDL-C.

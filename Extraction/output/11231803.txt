@@ -1,0 +1,17 @@
+Title 
+Archives of pediatrics & adolescent medicine
+
+Article Title 
+Outcome of children identified as anemic by routine screening in an inner-city clinic.
+Abstract Text 
+Children found to be anemic on routine screening by HemoCue, a rapid and relatively inexpensive method of screening for hemoglobin (Hb), are often prescribed iron as a diagnostic tool and potential treatment for presumed iron deficiency anemia (IDA).
+We questioned this approach given the declining prevalence of IDA and the concomitant relative increase in other causes of anemia.
+To evaluate the practice of Hb screening for IDA by determining the prevalence of anemia by HemoCue; the proportion of anemic patients treated with iron and followed up; the frequency of repeated Hb testing, additional iron studies, and iron prescriptions; and the 6-month outcomes of treated and untreated anemia.
+Retrospective cohort study.
+Of 1358 children aged 9 to 36 months who underwent screening, 343 (25%) had anemia, defined as a Hb level of less than 110 g/L.
+Outpatient medical records of 334 of the anemic children revealed that 239 (72%) were prescribed iron while 95 (28%) were not prescribed iron at the first visit for anemia.
+Anemia follow-up rates were low for the prescribed and not prescribed groups: 7% vs 5% returned within 1 month, while 37% vs 42% did not return within 6 months for follow-up.
+Of the children who were prescribed iron, 107 (71%) of 150 responded to treatment or anemia resolved within 6 months compared with 27 (68%) of 40 not prescribed iron.
+Children underwent repeated blood testing for measurement of Hb and complete blood cell count, but underwent few iron-specific studies.
+Routine screening for IDA by HemoCue followed by a therapeutic trial of iron was problematic because of a high rate of anemia in this predominantly African American population, low follow-up rates, and a high spontaneous resolution rate.
+Prospective studies are needed to evaluate other screening methods to differentiate IDA from other forms of anemia and to improve compliance and outcome in inner-city children.

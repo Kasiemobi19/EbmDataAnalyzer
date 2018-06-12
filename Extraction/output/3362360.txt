@@ -1,0 +1,13 @@
+Title 
+Neurology
+
+Article Title 
+How transient are transient ischemic attacks?
+Abstract Text 
+Information on 1,343 hospitalized patients in the Cornell Neurology Database with final diagnoses of transient ischemic attacks (TIA), reversible ischemic neurologic deficits (RIND), or ischemic stroke was examined in order to determine the duration of ischemic deficits.
+Episodes resolved within the first 24 hours (classic definition of TIA) in 382 of the patients (28.4%) and between days 1 and 7 (consistent with RIND) in 34 (2.5%).
+In 191 of the 382 patients with traditionally-defined TIAs (50.0%), episodes lasted less than 30 minutes, and in another 37 (9.7%), from 30 to 60 minutes.
+Of 1,115 patients with deficits lasting at least 60 minutes, only 154 (13.8%) resolved within 24 hours and could thus be considered to have had a TIA.
+Resolution within the next hour occurred in only 39 of 1,152 patients (3.4%) with a deficit at 30 minutes, 21 of 1,115 patients (1.9%) with a deficit at 60 minutes, 19 of 1,113 patients (1.7%) with a deficit at 90 minutes, and 16 of 1,094 patients (1.5%) with a deficit at 120 minutes.
+The data suggest that as currently managed, patients with a deficit persisting at least 60 minutes have less than a 2% chance of resolving spontaneously during any subsequent 1-hour period.
+Rapid resolution after instituting a new treatment in relatively few additional patients would suggest a therapeutic effect, even in a nonrandomized trial.

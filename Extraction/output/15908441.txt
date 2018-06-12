@@ -1,0 +1,13 @@
+Title 
+BMJ (Clinical research ed.)
+
+Article Title 
+Early life risk factors for obesity in childhood: cohort study.
+Abstract Text 
+To identify risk factors in early life (up to 3 years of age) for obesity in children in the United Kingdom.
+Prospective cohort study.
+Avon longitudinal study of parents and children, United Kingdom.
+8234 children in cohort aged 7 years and a subsample of 909 children (children in focus) with data on additional early growth related risk factors for obesity.
+Obesity at age 7 years, defined as a body mass index (3) 95th centile relative to reference data for the UK population in 1990.
+Eight of 25 putative risk factors were associated with a risk of obesity in the final models: parental obesity (both parents: adjusted odds ratio, 10.44, 95% confidence interval 5.11 to 21.32), very early (by 43 months) body mass index or adiposity rebound (15.00, 5.32 to 42.30), more than eight hours spent watching television per week at age 3 years (1.55, 1.13 to 2.12), catch-up growth (2.60, 1.09 to 6.16), standard deviation score for weight at age 8 months (3.13, 1.43 to 6.85) and 18 months (2.65, 1.25 to 5.59); weight gain in first year (1.06, 1.02 to 1.10 per 100 g increase); birth weight, per 100 g (1.05, 1.03 to 1.07); and short (< 10.5 hours) sleep duration at age 3 years (1.45, 1.10 to 1.89).
+Eight factors in early life are associated with an increased risk of obesity in childhood.

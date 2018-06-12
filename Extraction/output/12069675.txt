@@ -1,0 +1,20 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Vitamins for chronic disease prevention in adults: scientific review.
+Abstract Text 
+Although vitamin deficiency is encountered infrequently in developed countries, inadequate intake of several vitamins is associated with chronic disease.
+To review the clinically important vitamins with regard to their biological effects, food sources, deficiency syndromes, potential for toxicity, and relationship to chronic disease.
+We searched MEDLINE for English-language articles about vitamins in relation to chronic diseases and their references published from 1966 through January 11, 2002.
+We reviewed articles jointly for the most clinically important information, emphasizing randomized trials where available.
+Our review of 9 vitamins showed that elderly people, vegans, alcohol-dependent individuals, and patients with malabsorption are at higher risk of inadequate intake or absorption of several vitamins.
+Excessive doses of vitamin A during early pregnancy and fat-soluble vitamins taken anytime may result in adverse outcomes.
+Inadequate folate status is associated with neural tube defect and some cancers.
+Folate and vitamins B(6) and B(12) are required for homocysteine metabolism and are associated with coronary heart disease risk.
+Vitamin E and lycopene may decrease the risk of prostate cancer.
+Vitamin D is associated with decreased occurrence of fractures when taken with calcium.
+Some groups of patients are at higher risk for vitamin deficiency and suboptimal vitamin status.
+Many physicians may be unaware of common food sources of vitamins or unsure which vitamins they should recommend for their patients.
+Vitamin excess is possible with supplementation, particularly for fat-soluble vitamins.
+Inadequate intake of several vitamins has been linked to chronic diseases, including coronary heart disease, cancer, and osteoporosis

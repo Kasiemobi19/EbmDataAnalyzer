@@ -1,0 +1,17 @@
+Title 
+The Journal of nutrition
+
+Article Title 
+Comparison of the WHO child growth standards and the CDC 2000 growth charts.
+Abstract Text 
+The evaluation of child growth trajectories and the interventions designed to improve child health are highly dependent on the growth charts used.
+The U.S. CDC and the WHO, in May 2000 and April 2006, respectively, released new growth charts to replace the 1977 NCHS reference.
+The WHO charts are based for the first time on a prescriptive, prospective, international sample of infants selected to represent optimum growth.
+This article compares the WHO and CDC curves and evaluates the growth performance of healthy breast-fed infants according to both.
+As expected, there are important differences between the WHO and CDC charts that vary by age group, growth indicator, and specific Z-score curve.
+Differences are particularly important during infancy, which is likely due to differences in study design and characteristics of the sample, such as type of feeding.
+Overall, the CDC charts reflect a heavier, and somewhat shorter, sample than the WHO sample.
+This results in lower rates of undernutrition (except during the first 6 mo of life) and higher rates of overweight and obesity when based on the WHO standards.
+Healthy breast-fed infants track along the WHO standard's weight-for-age mean Z-score while appearing to falter on the CDC chart from 2 mo onwards.
+Shorter measurement intervals in the WHO standards result in a better tool for monitoring the rapid and changing rate of growth in early infancy.
+Their adoption would have important implications for the assessment of lactation performance and the adequacy of infant feeding and would bring coherence between the tools used to assess growth and U.S. national guidelines that recommend breast-feeding as the optimal source of nutrition during infancy.

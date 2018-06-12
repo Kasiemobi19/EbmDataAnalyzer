@@ -1,0 +1,15 @@
+Title 
+The American journal of cardiology
+
+Article Title 
+Meta-analysis of exercise testing to detect coronary artery disease in women.
+Abstract Text 
+To determine the accuracy of the exercise electrocardiogram (ECG), exercise thallium, and exercise echocardiogram (echo) for the diagnosis of coronary artery disease in women, English language studies published between 1966 and 1995 were identified through a MEDLINE search.
+Studies that contained data on at least 50 women who underwent both an exercise test and coronary angiography were examined.
+Studies were reviewed for sensitivity, specificity, and methodologic characteristics by 2 independent reviewers.
+Nineteen studies met the inclusion criteria for exercise electrocardiography, 5 studies for exercise thallium, and 3 studies for exercise echo.
+The exercise ECG had a weighted mean sensitivity, specificity, and a likelihood ratio (LR) of 0.61 (95% confidence intervals 0.54 to 0.68), 0.70 (0.64 to 0.75), (+) LR 2.25 (1.84 to 2.66), (-) LR 0.55 (0.47 to 0.62), respectively.
+The exercise thallium had a weighted mean sensitivity, specificity, and LRs of 0.78 (0.72 to 0.83), 0.64 (0.51 to 0.77), (+) LR 2.87 (1.0 to 4.96), (-) LR 0.36 (0.27 to 0.45).
+The exercise echo had a weighted mean sensitivity, specificity, and LRs of 0.86 (0.75 to 0.96), 0.79 (0.72 to 0.86), (+) LR 4.29 (2.93 to 5.65), (-) LR 0.18 (0.05 to 0.31).
+Thallium subset analysis revealed that studies using planar imaging were more specific than those using tomographic imaging.
+Thus, currently available exercise tests are only moderately sensitive and specific for the diagnosis of coronary artery disease in women.

@@ -1,0 +1,16 @@
+Title 
+Circulation
+
+Article Title 
+Diuretics and risk of arrhythmic death in patients with left ventricular dysfunction.
+Abstract Text 
+Background-Treatment with diuretics has been reported to increase the risk of arrhythmic death in patients with hypertension.
+The effect of diuretic therapy on arrhythmic death in patients with left ventricular dysfunction is unknown.
+Methods and Results-We conducted a retrospective analysis of 6797 patients with an ejection fraction <0.36 enrolled in the Studies Of Left Ventricular Dysfunction (SOLVD) to assess the relation between diuretic use at baseline and the subsequent risk of arrhythmic death.
+Participants receiving a diuretic at baseline were more likely to have an arrhythmic death than those not receiving a diuretic (3.1 vs 1.7 arrhythmic deaths per 100 person-years, P=0.001).
+On univariate analysis, diuretic use was associated with an increased risk of arrhythmic death (relative risk [RR] 1.85, P=0.0001).
+After controlling for important covariates, diuretic use remained significantly associated with an increased risk of arrhythmic death (RR 1.37, P=0.009).
+Only non-potassium-sparing diuretic use was independently associated with arrhythmic death (RR 1.33, P=0.02).
+Use of a potassium-sparing diuretic, alone or in combination with a non-potassium-sparing diuretic, was not independently associated with an increased risk of arrhythmic death (RR 0.90, P=0.6).
+Conclusions-In SOLVD, baseline use of a non-potassium-sparing diuretic was associated with an increased risk of arrhythmic death, whereas baseline use of a potassium-sparing diuretic was not.
+These data suggest that diuretic-induced electrolyte disturbances may result in fatal arrhythmias in patients with systolic left ventricular dysfunction.

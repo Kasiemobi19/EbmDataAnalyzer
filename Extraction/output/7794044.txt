@@ -1,0 +1,19 @@
+Title 
+Annals of the rheumatic diseases
+
+Article Title 
+Intra-articular triamcinolone hexacetonide in knee osteoarthritis: factors influencing the clinical response.
+Abstract Text 
+To assess the efficacy of a single intra-articular injection of triamcinolone hexacetonide (THA) in knee osteoarthritis (OA) and examine factors which may relate to treatment efficacy.
+Eighty four patients with clinical and radiographic evidence of knee OA were recruited and randomly allocated to receive either THA (20 mg in 1 ml) or placebo (0.9% normal saline, 1 ml).
+Follow up assessments evaluated the following outcome variables: patient opinion of overall change in the treated knee, visual analogue pain score (VAS), distance walked in one minute (WD), and Health Assessment Questionnaire modified for lower limb function (HAQ).
+Seventy eight percent of THA and 49% of placebo treated patients reported overall improvement at week 1 (p < 0.05).
+At week 6, improvement was reported in 57% and 55% of patient groups, respectively.
+VAS improved in both groups at week 1 (THA, p < 0.001; placebo, p < 0.05) and week 6 (both p < 0.01).
+Improvement in VAS was significantly greater among THA treated patients at week 1 only (p < 0.01).
+Subgroup analysis of THA treated patients revealed greater improvement in VAS among patients with clinical evidence of an effusion (p < 0.05), and those who had synovial fluid successfully aspirated at the time of injection (p < 0.01).
+WD improved in THA treated patients at week 1 (p < 0.001), and in both groups at week 6 (THA, p < 0.001; placebo, p < 0.01).
+Improvements in HAQ were seen in THA patients only at weeks 1 and 6 (p < 0.05).
+Regression analysis did not identify any additional clinical, radiographic, or synovial fluid characteristics which influenced the response.
+THA provided short term pain relief in knee OA.
+Increased benefit was associated with both clinical evidence of joint effusion and successful aspiration of synovial fluid at the time of injection.

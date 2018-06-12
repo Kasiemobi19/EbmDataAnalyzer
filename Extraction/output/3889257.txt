@@ -1,0 +1,15 @@
+Title 
+The Journal of pediatrics
+
+Article Title 
+Penicillin plus rifampin eradicates pharyngeal carriage of group A streptococci.
+Abstract Text 
+We evaluated the efficacy of rifampin in eradicating chronic pharyngeal carriage of group A streptococci.
+Carriers were defined as healthy children whose throat cultures showed persistence of group A streptococci 3 weeks after receiving benzathine penicillin G intramuscularly.
+Subsequent M and T typing of group A streptococcal isolates and limited serologic studies confirmed that enrolled patients were carriers.
+Thirty-eight carriers (37 completed the study) were randomly assigned to three groups: group 1 (13 patients) received no treatment; group 2 (10) received benzathine penicillin intramuscularly; group 3 (14) received benzathine penicillin intramuscularly plus rifampin orally (10 mg/kg twice a day for eight doses).
+Throat cultures were obtained every 3 weeks for at least 9 weeks.
+Group 2 and 3 patients who still had positive cultures 3 weeks after treatment were crossed to the opposite group.
+Cultures became negative in 93% (13 of 14) of patients in group 3, compared with 23% in group 1 and 30% in group 2 (P less than 0.001 and P less than 0.01, respectively).
+Including patients crossed over, the penicillin plus rifampin regimen was effective in 17 (89%) of 19 treatment courses and was significantly superior to no therapy or to penicillin alone (P less than 0.0005 and P less than 0.005, respectively).
+We conclude that rifampin plus benzathine penicillin intramuscularly is an effective regimen for those selected patients in whom eradication of group A streptococcal carriage is judged to be desirable.

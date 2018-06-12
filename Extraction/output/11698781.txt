@@ -1,0 +1,18 @@
+Title 
+Journal of pediatric gastroenterology and nutrition
+
+Article Title 
+Probiotics in the treatment and prevention of acute infectious diarrhea in infants and children: a systematic review of published randomized, double-blind, placebo-controlled trials.
+Abstract Text 
+This review was designed to assess the evidence from randomized controlled trials on effects of probiotics in the treatment and prevention of acute infectious diarrhea in infants and children.
+A systematic review of published, randomized, double-blind, placebo-controlled trials on probiotics in the treatment or prevention of acute diarrhea defined as >3 loose or watery stools per 24 hours in infants and children.
+The use of probiotics as compared with placebo was associated with a significantly reduced risk of diarrhea lasting >3 days.
+The pooled estimate risk was 0.43 (95% CI, 0.34-0.53)
+with a fixed-effect model, and remained significant in a random-effect model (0.40; 95% CI, 0.28-0.57).
+Only Lactobacillus GG showed a consistent effect.
+Probiotics significantly reduced the duration of diarrhea when compared with placebo, particularly in rotaviral gastroenteritis-the pooled, weighted, mean difference (WMD) assuming the random-effect model was -20.1 hours (95% CI, -26.1 to -14.2) and -24.8 (95% CI, -31.8 to -17.9) respectively.
+A meta-analysis of the prevention studies was not feasible because of significant clinical and statistical heterogeneity.
+There is evidence of a clinically significant benefit of probiotics in the treatment of acute infectious diarrhea in infants and children, particularly in rotaviral gastroenteritis.
+Lactobacillus GG showed the most consistent effect, although other probiotic strains may also be effective.
+Further research is needed.
+Clinical and statistical heterogeneity of the prophylactic interventions preclude drawing firm conclusions about the efficacy of probiotics in preventing acute gastroenteritis.

@@ -1,0 +1,25 @@
+Title 
+CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne
+
+Article Title 
+How efficacious and safe is short-acting methylphenidate for the treatment of attention-deficit disorder in children and adolescents? A meta-analysis.
+Abstract Text 
+Numerous small clinical trials have been carried out to study the behaviourally defined efficacy and safety of short-acting methylphenidate compared with placebo for attention-deficit disorder (ADD) in individuals aged 18 years and less.
+However, no meta-analyses that carefully examined these questions have been done.
+We reviewed the behavioural evidence from all the randomized controlled trials that compared methylphenidate and placebo, and completed a meta-analysis.
+We searched several electronic sources for articles published between 1981 and 1999: MEDLINE, EMBASE, PsychINFO, ERIC, CINAHL, HEALTHSTAR, Biological Abstracts, Current Contents and Dissertation Abstracts.
+The Cochrane Library Trials Registry and Current Controlled Trials were also consulted.
+A study was considered eligible for inclusion if it entailed the following: a placebo-controlled randomized trial that involved short-acting methylphenidate and participants aged 18 years or less at the start of the trial who had received any primary diagnosis of ADD that was made in a systematic and reproducible way.
+We included 62 randomized trials that involved a total of 2897 participants with a primary diagnosis of ADD (e.g., with or without hyperactivity).
+The median age of trial participants was 8.7 years, and the median "percent male" composition of trials was 88.1%.
+Most studies used a crossover design.
+Using the scores from 2 separate indices, this collection of trials exhibited low quality.
+Interventions lasted, on average, 3 weeks, with no trial lasting longer than 28 weeks.
+Each primary outcome (hyperactivity index) demonstrated a significant effect of methylphenidate (effect size reported by teacher 0.78, 95% confidence interval [CI] 0.64-0.91;
+effect size reported by parent 0.54, 95% CI 0.40-0.67).
+However, these apparent beneficial effects are tempered by a strong indication of publication bias and the lack of robustness of the findings, especially those involving core ADD features.
+Methylphenidate also has an adverse event profile that requires consideration.
+For example, clinicians only need to treat 4 children to identify an episode of decreased appetite.
+Short-acting methylphenidate has a statistically significant clinical effect in the short-term treatment of individuals with a diagnosis of ADD aged 18 years and less.
+However, the extension of this placebo-controlled effect beyond 4 weeks of treatment has not been demonstrated.
+Exact knowledge of the extent and definition of the short-term behavioural usefulness of methylphenidate is questioned.

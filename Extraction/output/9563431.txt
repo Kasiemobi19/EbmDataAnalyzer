@@ -1,0 +1,14 @@
+Title 
+Southern medical journal
+
+Article Title 
+Anemia and red cell distribution width at the 12-month well-baby examination.
+Abstract Text 
+Screens for anemia are among the most commonly done laboratory tests in children.
+The red cell distribution width (RDW) has been proposed as a diagnostic aid in the evaluation of pediatric anemias, but no prospective studies have been published describing its use.
+A screening hematocrit determination done at the 12-month well-baby examination in 970 healthy infants yielded 62 low values (< 33%), 31 of which were confirmed by heel stick complete blood count (CBC).
+After a 1-month trial of iron therapy, those with a rise in hemoglobin of at least 1 g/dL were considered to have iron-deficiency anemia.
+Nonresponders, after review of clinical and laboratory data (CBC, lead screen, and sickle screen), had hemoglobin electrophoresis if indicated.
+Abnormalities detected were iron deficiency, alpha-thalassemia, and hemoglobins SC and AS.
+These conditions were detected in 9 of 11 infants with abnormal RDW and none of 9 with normal RDW.
+The RDW alone appears to be predictive of identifiable causes of anemia when used in screening 12-month-old babies who are otherwise healthy.

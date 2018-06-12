@@ -1,0 +1,17 @@
+Title 
+AJR. American journal of roentgenology
+
+Article Title 
+MR imaging of knees having isolated and combined ligament injuries.
+Abstract Text 
+Although clinical evaluation and MR imaging both accurately reveal injuries in knees with isolated ligament tears, physical examination becomes progressively less reliable when multiple lesions exist.
+We investigated the accuracy of MR imaging of knees having varying degrees and numbers of ligament injuries.
+We prospectively interpreted the MR images of 340 consecutive injured knees and compared these interpretations with the results of subsequent arthroscopy or open surgery, which served as the gold standard.
+Our interpretations of MR images focused on five soft-tissue supporting structures (the two cruciate ligaments, the two collateral ligaments, and the patellar tendon) and the two menisci.
+Patients were divided into three groups: no ligament injuries, single ligament injuries, and multiple ligament injuries.
+Using MR imaging, we found overall sensitivity and specificity for diagnosing ligament tears to be 94% and 99%, respectively, when no or one ligament was torn and 88% and 84%, respectively, when two or more supporting structures were torn.
+The difference in specificity was statistically significant (p < .0001).
+Sensitivity for diagnosing meniscal tears decreased as the number of injured structures increased, but the relationship achieved statistical significance (p = .001)
+only for the medial meniscus.
+For all categories of injury, MR imaging was more accurate than clinical evaluation, statistics for which were taken from the orthopedic literature.
+In knees with multiple ligament injuries, the diagnostic specificity of MR imaging for ligament tears decreases, as does the sensitivity for medial meniscal tears.

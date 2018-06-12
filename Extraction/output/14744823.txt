@@ -1,0 +1,15 @@
+Title 
+BMJ (Clinical research ed.)
+
+Article Title 
+Population based study of early risk of stroke after transient ischaemic attack or minor stroke: implications for public education and organisation of services.
+Abstract Text 
+To estimate the very early stroke risk after a transient ischaemic attack (TIA) or minor stroke and thereby inform the planning of effective stroke prevention services.
+Population based prospective cohort study of patients with TIA or stroke.
+Nine general practices in Oxfordshire, England, from April 2002 to April 2003.
+All patients who had a TIA (n = 87) or minor stroke (n = 87) during the study period and who presented to medical attention.
+Risk of recurrent stroke at seven days, one month, and three months after TIAs and minor strokes.
+The estimated risk of recurrent stroke was 8.0% (95% confidence interval 2.3% to 13.7%) at seven days, 11.5% (4.8% to 18.2%) at one month, and 17.3% (9.3% to 25.3%) at three months after a TIA.
+The risks at these three time periods after a minor stroke were 11.5% (4.8% to 11.2%), 15.0% (7.5% to 22.5%), and 18.5% (10.3% to 26.7%).
+The early risks of stroke after a TIA or minor stroke are much higher than commonly quoted.
+More research is needed to determine whether these risks can be reduced by more rapid instigation of preventive treatment.

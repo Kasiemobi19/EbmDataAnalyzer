@@ -1,0 +1,22 @@
+Title 
+Pediatrics
+
+Article Title 
+Neonatal meningitis: what is the correlation among cerebrospinal fluid cultures, blood cultures, and cerebrospinal fluid parameters?
+Abstract Text 
+Meningitis is a substantial cause of morbidity and mortality in neonates.
+Clinicians frequently use the presence of positive blood cultures to determine whether neonates should undergo lumbar puncture.
+Abnormal cerebrospinal fluid (CSF) parameters are often used to predict neonatal meningitis and determine length and type of antibiotic therapy in neonates with a positive blood culture and negative CSF culture.
+We evaluated the first lumbar puncture of 9111 neonates at > or =34 weeks' estimated gestational age from 150 NICUs, managed by the Pediatrix Medical Group, Inc. CSF culture results were compared with results of blood cultures and CSF parameters (white blood cells [WBCs], glucose, and protein) to establish the concordance of these values in culture-proven meningitis.
+CSF cultures positive for coagulase-negative staphylococci and other probable contaminants, as well as fungal and viral pathogens, were excluded from analyses.
+Meningitis was confirmed by culture in 95 (1.0%) neonates.
+Of the 95 patients with meningitis, 92 had a documented blood culture.
+Only 57 (62%) of 92 patients had a concomitant-positive blood culture; 35 (38%) of 92 had a negative blood culture.
+In neonates with both positive blood and CSF cultures, the organisms isolated were discordant in 2 (3.5%) of 57 cases.
+In each case, the CSF pathogen required different antimicrobial therapy than the blood pathogen.
+For culture-proven meningitis, CSF WBC counts of >0 cells per mm3 had sensitivity at 97% and specificity at 11%.
+CSF WBC counts of >21 cells per mm3 had sensitivity at 79% and specificity at 81%.
+Culture-proven meningitis was not diagnosed accurately by CSF glucose or by protein.
+Neonatal meningitis frequently occurs in the absence of bacteremia and in the presence of normal CSF parameters.
+No single CSF value can reliably exclude the presence of meningitis in neonates.
+The CSF culture is critical to establishing the diagnosis of neonatal meningitis.

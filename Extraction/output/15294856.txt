@@ -1,0 +1,20 @@
+Title 
+BMJ (Clinical research ed.)
+
+Article Title 
+Prospective randomised controlled trial of an infection screening programme to reduce the rate of preterm delivery.
+Abstract Text 
+To evaluate whether a screening strategy in pregnancy lowers the rate of preterm delivery in a general population of pregnant women.
+Multicentre, prospective, randomised controlled trial.
+Non-hospital based antenatal clinics.
+4429 pregnant women presenting for their routine prenatal visits early in the second trimester were screened by Gram stain for asymptomatic vaginal infection.
+In the intervention group, the women's obstetricians received the test results and women received standard treatment and follow up for any detected infection.
+In the control group, the results of the vaginal smears were not revealed to the caregivers.
+The primary outcome variable was preterm delivery at less than 37 weeks.
+Secondary outcome variables were preterm delivery at less than 37 weeks combined with different birth weight categories equal to or below 2500 g and the rate of late miscarriage.
+Outcome data were available for 2058 women in the intervention group and 2097 women in the control group.
+In the intervention group, the number of preterm births was significantly lower than in the control group (3.0%
+v 5.3%, 95% confidence interval 1.2 to 3.6; P = 0.0001).
+Preterm births were also significantly reduced in lower weight categories at less than 37 weeks and <or= 2500 g.
+Eight late miscarriages occurred in the intervention group and 15 in the control group.
+Integrating a simple infection screening programme into routine antenatal care leads to a significant reduction in preterm births and reduces the rate of late miscarriage in a general population of pregnant women.

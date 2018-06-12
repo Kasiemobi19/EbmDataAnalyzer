@@ -1,0 +1,14 @@
+Title 
+The Journal of allergy and clinical immunology
+
+Article Title 
+The development and prediction of atopy in high-risk children: follow-up at age seven years in a prospective randomized study of combined maternal and infant food allergen avoidance.
+Abstract Text 
+The natural history of allergic disease and its potential for prevention merit close examination because of the explosive worldwide increase in the prevalence and morbidity of atopic disorders.
+This study examines the development of atopy at age 7 years in 165 children in a high-risk cohort, previously reported from birth to age 4 years.
+In this prospective, randomized, controlled study of food allergen avoidance in infancy, the prophylactic-treated group consisted of infants whose mothers avoided cow's milk, egg, and peanut during the last trimester of pregnancy and lactation and who, themselves, avoided cow's milk until age 1 year (casein hydrolysate supplementation before age 1), egg until age 2 years, and peanut and fish until age 3 years.
+The control group consisted of maternal/infant pairs who followed standard feeding practices.
+Despite a significant reduction in food allergy and milk sensitization before age 2 years, none of the following differed between the groups at age 7 years: food allergy, atopic dermatitis, allergic rhinitis, asthma, any atopic disease, lung function, food or aeroallergen sensitization, serum IgE level, or presence of nasal eosinophils or nasal basophilic cells.
+Children with food allergy by 4 years evidenced higher 7-year (current) prevalences of allergic rhinitis and asthma (p < 0.01).
+Atopic diseases/parameters at age 7 years were shown, by multivariate analysis (p < 0.05), to be associated with several genetic and environmental risk factors (male gender, maternal nonwhite ethnicity and asthma, and household smoking), as well as predictive atopic markers during infancy (elevated serum IgE level; egg, cow's milk, and peanut sensitization; and nasal eosinophils and nasal basophilic cells).
+These findings help to: (1) elucidate the natural history of atopic disease in high-risk children; (2) document the progression of allergy from atopic dermatitis, food allergy, and food sensitization to respiratory allergy and aeroallergen sensitization despite food allergy prevention in infancy; (3) identify allergy predictive markers; and (4) expand our appreciation of the interactions of genetic and environmental factors in the development of atopy.

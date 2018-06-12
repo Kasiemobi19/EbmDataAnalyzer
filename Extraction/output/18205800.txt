@@ -1,0 +1,15 @@
+Title 
+Headache
+
+Article Title 
+Neuromodulators for migraine prevention.
+Abstract Text 
+Migraine is a debilitating condition characterized by a cycle of painful headaches and headache-related symptoms interspersed with periods of worry, distress, and apprehension.
+The negative impact of migraine on patient functioning, workplace productivity, and other daily activities has been demonstrated through the use of a variety of clinician- and patient-reported assessment tools, including the Migraine-Specific Questionnaire and the Migraine Disability Assessment questionnaire.
+In addition to considering the frequency and severity of migraine, clinicians need to encourage more open dialogue with their patients about the impact of this disorder on daily activities and productivity.
+Only then can the most appropriate course of treatment be determined.
+Appropriately prescribed acute and preventive therapies should break the cycle of migraine and improve the daily activities of patients with this chronic condition.
+Divalproex sodium and topiramate are neuromodulators that are approved by the US Food and Drug Administration (FDA) for the prophylaxis (prevention) of migraine headache in adults.
+Non-FDA-approved neuromodulators sometimes used in the management of migraine headache include gabapentin, lamotrigine, levetiracetam, and zonisamide.
+All medications need to be titrated, and treatment-related adverse events need to be managed appropriately.
+Preventive medications should be taken for at least 2-3 months to ascertain their therapeutic effect.

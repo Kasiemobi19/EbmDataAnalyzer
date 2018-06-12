@@ -1,0 +1,21 @@
+Title 
+Arthritis and rheumatism
+
+Article Title 
+Randomized trial of cyclophosphamide versus methotrexate for induction of remission in early systemic antineutrophil cytoplasmic antibody-associated vasculitis.
+Abstract Text 
+Standard therapy for antineutrophil cytoplasmic antibody-associated systemic vasculitis (AASV) with cyclophosphamide (CYC) and prednisolone is limited by toxicity.
+This unblinded, prospective, randomized, controlled trial was undertaken to determine whether methotrexate (MTX) could replace CYC in the early treatment of AASV.
+Patients with newly diagnosed AASV, with serum creatinine levels <150 mumoles/liter, and without critical organ manifestations of disease were randomized to receive either standard oral CYC, 2 mg/kg/day or oral MTX, 20-25 mg/week; both groups received the same prednisolone regimen.
+All drug treatments were gradually tapered and withdrawn by 12 months.
+Followup continued to 18 months.
+The primary end point was the remission rate at 6 months (noninferiority testing).
+One hundred patients were recruited from 26 European centers; 51 patients were randomized to the MTX group and 49 to the CYC group.
+At 6 months, the remission rate in patients treated with MTX (89.8%) was not inferior to that in patients treated with CYC (93.5%) (P = 0.041).
+In the MTX group, remission was delayed among patients with more extensive disease (P = 0.04) or pulmonary involvement (P = 0.03).
+Relapse rates at 18 months were 69.5% in the MTX group and 46.5% in the CYC group; the median time from remission to relapse was 13 months and 15 months, respectively (P = 0.023, log rank test).
+Two patients from each group died.
+Adverse events (mean 0.87 episodes/patient) included leukopenia, which was less frequent in the MTX versus the CYC group (P = 0.012), and liver dysfunction, which was more frequent in the MTX group (P = 0.036).
+MTX can replace CYC for initial treatment of early AASV.
+The MTX regimen used in the present study was less effective for induction of remission in patients with extensive disease and pulmonary involvement and was associated with more relapses than the CYC regimen after termination of treatment.
+The high relapse rates in both treatment arms support the practice of continuation of immunosuppressive treatment beyond 12 months.

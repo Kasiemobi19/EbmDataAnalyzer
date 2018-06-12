@@ -1,0 +1,16 @@
+Title 
+The American journal of cardiology
+
+Article Title 
+Hypertriglyceridemia as a cardiovascular risk factor.
+Abstract Text 
+To determine the relation between plasma triglyceride levels and the risk of incident cardiovascular disease, the semiquantitative techniques of meta-analysis were applied to 17 population-based prospective studies of triglyceride and cardiovascular disease.
+Sixteen of these studies represented 2,445 events among 46,413 Caucasian men followed for an average period of 8.4 years, and 5 studies represented 439 events among 10,864 Caucasian women followed for an average period of 11.4 years.
+Univariate relative risk (RR) estimates for incident cardiovascular disease associated with a 1-mmol/L increase in triglyceride was 1.07-1.98 in men, with a summary RR of 1.32 (95% confidence interval [CI]: 1.26-1.39),
+indicating a 32% increase in disease risk associated with increased triglyceride.
+In the studies involving women, individual RR estimates for triglyceride were 1.69-2.05,
+with a summary RR of 1.76 (95% CI: 1.50-2.07),
+indicating a 76% increase in disease risk associated with increased triglyceride.
+After adjustment for high-density lipoprotein cholesterol and other risk factors, these risks were decreased to 14% in men and 37% in women but remained statistically significant.
+Three recent prospective epidemiologic studies have also shown that plasma triglyceride and low-density lipoprotein particle size predict subsequent coronary artery disease in Caucasian populations.
+Taken together, these studies demonstrate the importance of triglyceride levels as a risk factor for cardiovascular disease.

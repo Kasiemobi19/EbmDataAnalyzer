@@ -1,0 +1,13 @@
+Title 
+The Journal of clinical endocrinology and metabolism
+
+Article Title 
+Does a combination regimen of thyroxine (T4) and 3,5,3'-triiodothyronine improve depressive symptoms better than T4 alone in patients with hypothyroidism? Results of a double-blind, randomized, controlled trial.
+Abstract Text 
+Some hypothyroid patients receiving levothyroxine replacement therapy complain of depressive symptoms despite normal TSH measurements.
+It is not known whether adding T(3) can reverse such symptoms.
+We randomized 40 individuals with depressive symptoms who were taking a stable dose of levothyroxine for treatment of hypothyroidism (excluding those who underwent thyroidectomy or radioactive iodine ablation of the thyroid) to receive T(4) plus placebo or the combination of T(4) plus T(3) in a double-blind manner for 15 wk.
+Participants receiving combination therapy had their prestudy dose of T(4) dropped by 50%, and T(3) was started at a dose of 12.5 micro g, twice daily.
+T(4) and T(3) doses were adjusted to keep goal TSH concentrations within the normal range.
+Compared with the group taking T(4) alone, the group taking both T(4) plus T(3) did not report any improvement in self-rated mood and well-being scores that included all subscales of the Symptom Check-List-90, the Comprehensive Epidemiological Screen for Depression, and the Multiple Outcome Study (P > 0.05 for all indexes).
+In conclusion, the current data do not support the routine use of combined T(3) and T(4) therapy in hypothyroid patients with depressive symptoms.

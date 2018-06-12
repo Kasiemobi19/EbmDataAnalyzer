@@ -1,0 +1,22 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Diagnosing pelvic inflammatory disease. A comprehensive analysis and considerations for developing a new model.
+Abstract Text 
+--To examine the accuracy of existing diagnostic indicators for pelvic inflammatory disease and to develop guidelines for a new diagnostic model.
+--Studies were identified for the period 1969 through 1990.
+A Medline search of the English-language literature was conducted using the subject terms pelvic inflammatory disease or salpingitis and diagnosis.
+In addition, abstracts and bibliographies of articles and books were reviewed.
+--Studies were selected if pelvic inflammatory disease was diagnosed using laparoscopic findings or narrow clinical rules.
+Of the 15 reports identified, 12 were included in this analysis.
+The selected studies were grouped by a quality rating based on subject selection, definition of pelvic inflammatory disease, data analysis, and other measures.
+--Diagnostic findings were divided into four categories: historical (symptoms), clinical examination (signs), laboratory, and combinations of the above.
+Sensitivity and specificity were extracted using raw data.
+Data were classified by quality rating.
+--Historical findings were usually not statistically significant predictors of pelvic inflammatory disease, and when they were they tended toward low sensitivity and high specificity, while clinical findings were somewhat more sensitive and about as specific.
+Several laboratory tests showed consistent value in pelvic inflammatory disease diagnosis, with high sensitivity and specificity.
+Combinations of indicators permitted high sensitivity or high specificity but not both simultaneously.
+--No single or combination diagnostic indicator was found to reliably predict pelvic inflammatory disease.
+Combining published evidence with practical clinical considerations, a diagnostic approach is proposed that emphasizes diagnostic sensitivity when clinical presentation is mild and more thorough evaluation when a woman is severely ill.
+Research is needed to evaluate the accuracy and acceptability of specific diagnostic models and to investigate new diagnostic indicators.

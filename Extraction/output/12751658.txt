@@ -1,0 +1,17 @@
+Title 
+American family physician
+
+Article Title 
+A practical approach to hypercalcemia.
+Abstract Text 
+Hypercalcemia is a disorder commonly encountered by primary care physicians.
+The diagnosis often is made incidentally in asymptomatic patients.
+Clinical manifestations affect the neuromuscular, gastrointestinal, renal, skeletal, and cardiovascular systems.
+The most common causes of hypercalcemia are primary hyperparathyroidism and malignancy.
+Some other important causes of hypercalcemia are medications and familial hypocalciuric hypercalcemia.
+An initial diagnostic work-up should include measurement of intact parathyroid hormone, and any medications that are likely to be causative should be discontinued.
+Parathyroid hormone is suppressed in malignancy-associated hypercalcemia and elevated in primary hyperparathyroidism.
+It is essential to exclude other causes before considering parathyroid surgery, and patients should be referred for parathyroidectomy only if they meet certain criteria.
+Many patients with primary hyperparathyroidism have a benign course and do not need surgery.
+Hypercalcemic crisis is a life-threatening emergency.
+Aggressive intravenous rehydration is the mainstay of management in severe hypercalcemia, and antiresorptive agents, such as calcitonin and bisphosphonates, frequently can alleviate the clinical manifestations of hypercalcemic disorders.

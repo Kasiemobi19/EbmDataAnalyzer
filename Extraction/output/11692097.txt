@@ -1,0 +1,20 @@
+Title 
+The Journal of allergy and clinical immunology
+
+Article Title 
+Home intervention in the treatment of asthma among inner-city children.
+Abstract Text 
+In Atlanta, as in other major urban areas of the United States, asthma is a leading cause of school absenteeism, emergency department use, and hospitalization.
+Recent guidelines for asthma management recommend reducing exposure to relevant allergens, but neither the feasibility nor the efficacy of this form of treatment has been established for children living in poverty.
+We sought to investigate allergen avoidance as a treatment for asthma among inner-city children.
+One hundred four children with asthma living in the city of Atlanta were enrolled into a controlled trial of avoidance without being skin tested.
+The children were randomized to an active avoidance group, a placebo avoidance group, and a second control group for which no house visits occurred until the end of the first year.
+Avoidance included bed and pillow covers, hot washing of bedding, and cockroach bait.
+Eighty-five children completed the study, and the outcome was measured as unscheduled clinic visits, emergency department visits, and hospitalization for asthma, as well as changes in mite and cockroach allergen levels.
+There was a significant decrease in acute visits for asthma among children whose homes were visited (P < .001).
+However, there was no significant difference between the active and placebo homes either in the effect on asthma visits or in allergen concentrations.
+When the children with mite allergy were considered separately, there was a significant correlation between decreased mite allergen and change in acute visits (P < .01).
+The avoidance measures for cockroach allergen appeared to be ineffective, and the changes observed did not correlate with changes in visits.
+Applying allergen avoidance as a treatment for asthma among children living in poverty is difficult because of multiple sensitivities and problems applying the protocols in this environment.
+The current results demonstrate that home visiting positively influences the management of asthma among families living in poverty.
+Furthermore, the results for children with mite allergy strongly suggest that decreasing relevant allergen exposure should be an objective of treatment in this population.

@@ -1,0 +1,19 @@
+Title 
+Archives of internal medicine
+
+Article Title 
+Prevalence and correction of hypothyroidism in a large cohort of patients referred for dyslipidemia.
+Abstract Text 
+Treatment of hypercholesterolemia can reduce the risk of developing premature atherosclerosis.
+The hypercholesterolemia caused by hypothyroidism is potentially reversible by thyroid hormone replacement therapy.
+We determined the prevalence of hypothyroidism in patients referred to a university lipid research clinic and studied the changes in lipid and lipoprotein levels on restoration of the euthyroid state.
+A retrospective follow-up study was performed.
+In all 1509 consecutive referrals for severe dyslipidemia, thyrotropin levels were measured.
+Patients with hypothyroidism were identified by means of a computed database, from January 1, 1989, to July 1, 1993, first by levothyroxine sodium medication and second by serum thyrotropin values greater than 5 mU/L.
+Twenty-one patients were available to evaluate the effect of restoration of the euthyroid state on plasma lipid and lipoprotein levels.
+The observed prevalence of hypothyroidism proved to be 4.2% (64/1509).
+The disorder was previously known in 25 patients and newly diagnosed in 39 patients (11 with overt hypothyroidism and 28 with subclinical hypothyroidism).
+Significant reductions in total cholesterol and low-density lipoprotein cholesterol levels occurred only in patients with pretreatment thyrotropin values of 10 mU/L or more.
+The prevalence of newly diagnosed cases of overt hypothyroidism in patients referred to a lipid clinic is approximately two times that in the general population.
+The absence of significant reductions in total cholesterol and low-density lipoprotein cholesterol levels on levothyroxine treatment in patients with minor subclinical hypothyroidism (thyrotropin level, < 10 mU/L) does not support the view that this condition is a risk factor for atherosclerosis mediated by an elevated low-density lipoprotein cholesterol level.
+All patients referred for diagnosis and treatment of dyslipidemia should be screened for hypothyroidism by measurement of thyrotropin values.

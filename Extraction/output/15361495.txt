@@ -1,0 +1,18 @@
+Title 
+Gut
+
+Article Title 
+Food elimination based on IgG antibodies in irritable bowel syndrome: a randomised controlled trial.
+Abstract Text 
+Patients with irritable bowel syndrome (IBS) often feel they have some form of dietary intolerance and frequently try exclusion diets.
+Tests attempting to predict food sensitivity in IBS have been disappointing but none has utilised IgG antibodies.
+To assess the therapeutic potential of dietary elimination based on the presence of IgG antibodies to food.
+A total of 150 outpatients with IBS were randomised to receive, for three months, either a diet excluding all foods to which they had raised IgG antibodies (enzyme linked immunosorbant assay test) or a sham diet excluding the same number of foods but not those to which they had antibodies.
+Primary outcome measures were change in IBS symptom severity and global rating scores.
+Non-colonic symptomatology, quality of life, and anxiety/depression were secondary outcomes.
+Intention to treat analysis was undertaken using a generalised linear model.
+After 12 weeks, the true diet resulted in a 10% greater reduction in symptom score than the sham diet (mean difference 39 (95% confidence intervals (CI) 5-72); p = 0.024) with this value increasing to 26% in fully compliant patients (difference 98 (95% CI 52-144); p<0.001).
+Global rating also significantly improved in the true diet group as a whole (p = 0.048, NNT = 9) and even more in compliant patients (p = 0.006, NNT = 2.5).
+All other outcomes showed trends favouring the true diet.
+Relaxing the diet led to a 24% greater deterioration in symptoms in those on the true diet (difference 52 (95% CI 18-88); p = 0.003).
+Food elimination based on IgG antibodies may be effective in reducing IBS symptoms and is worthy of further biomedical research.

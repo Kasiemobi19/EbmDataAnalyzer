@@ -1,0 +1,20 @@
+Title 
+Annals of family medicine
+
+Article Title 
+Appropriateness of Lyme disease serologic testing.
+Abstract Text 
+Although rapid diagnosis of Lyme disease is essential for effective treatment, there is concern about inappropriate testing.
+We conducted a prospective, cross-sectional survey of clinicians to assess the use and appropriateness of Lyme disease serologic tests (LDSTs).
+LDSTs performed at 2 large Wisconsin reference laboratories were systematically sampled for 12 consecutive months.
+A standardized questionnaire was used to gather data about the submitting clinician and the patient tested.
+Tests were categorized as appropriate, inappropriate, or discretionary, and associations were assessed using logistic regression analysis.
+A test was defined as inappropriate if the patient was asymptomatic, had erythema migrans, or was treated empirically, or if the test was ordered as a test of cure.
+We surveyed 303 clinicians regarding 356 LDSTs: 72 tests (20%) were appropriate, 95 (27%) were inappropriate, and 189 (53%) were discretionary.
+Tests were more likely to be inappropriate if they were ordered by an emergency or urgent care physician compared with other specialists (adjusted odds ratio [AOR] 5.2, 95% confidence interval [CI], 1.3-20.6),
+or if preceded by a known tick bite (AOR 6.8, 95% CI, 2.6-17.6).
+The patient rather than the clinician requested 26% of tests, which were more likely to be inappropriate than clinician-requested tests (crude odds ratio [COR] 5.8, 95% CI, 2.5-13.6).
+Tests were more likely to be patient-requested if they were ordered by an internist (AOR 2.6, 95% CI, 1.4-4.8)
+or if the patient was > or =40 years old (AOR 2.2, 95% CI, 1.3-3.9).
+Many LDSTs are ordered inappropriately, often influenced by patient demand.
+Education of clinicians and patients about testing indications and contraindications is needed to reduce the number of inappropriate LDSTs.

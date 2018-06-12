@@ -1,0 +1,18 @@
+Title 
+Arteriosclerosis, thrombosis, and vascular biology
+
+Article Title 
+Relationship of C-reactive protein to risk of cardiovascular disease in the elderly. Results from the Cardiovascular Health Study and the Rural Health Promotion Project.
+Abstract Text 
+Markers of inflammation, such as C-reactive protein (CRP), are related to risk of cardiovascular disease (CVD) events in those with angina, but little is known about individuals without prevalent clinical CVD.
+We performed a prospective, nested case-control study in the Cardiovascular Health Study (CHS; 5201 healthy elderly men and women).
+Case subjects (n = 146 men and women with incident CVD events including angina, myocardial infarction, and death) and control subjects (n = 146) were matched on the basis of sex and the presence or absence of significant subclinical CVD at baseline (average follow-up, 2.4 years).
+In women but not men, the mean CRP level was higher for case subjects than for control subjects (P < or = .05).
+In general, CRP was higher in those with subclinical disease.
+Most of the association of CRP with female case subjects versus control subjects was in the subgroup with subclinical disease; 3.33 versus 1.90 mg/L, P < .05,
+adjusted for age and time of follow-up.
+Case-control differences were greatest when the time between baseline and the CVD event was shortest.
+The strongest associations were with myocardial infarction, and there was an overall odds ratio for incident myocardial infarction for men and women with subclinical disease (upper quartile versus lower three quartiles) of 2.67 (confidence interval [CI] = 1.04 to 6.81), with the relationship being stronger in women (4.50 [CI = 0.97 to 20.8]) than in men (1.75 [CI = 0.51 to 5.98]).
+We performed a similar study in the Rural Health Promotion Project, in which mean values of CRP were higher for female case subjects than for female control subjects, but no differences were apparent for men.
+Comparing the upper quintile with the lower four, the odds ratio for CVD case subjects was 2.7 (CI = 1.10 to 6.60).
+In conclusion, CRP was associated with incident events in the elderly, especially in those with subclinical disease at baseline.

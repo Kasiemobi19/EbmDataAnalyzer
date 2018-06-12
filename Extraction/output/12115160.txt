@@ -1,0 +1,16 @@
+Title 
+Arthritis and rheumatism
+
+Article Title 
+Psychological interventions for rheumatoid arthritis: a meta-analysis of randomized controlled trials.
+Abstract Text 
+To carry out a systematic review of the literature examining the efficacy of psychological interventions (e.g., relaxation, biofeedback, cognitive-behavioral therapy) in the treatment of rheumatoid arthritis (RA).
+Studies that met the following criteria were included: random assignment, wait-list or usual care control condition; publication in peer-reviewed journals; treatment that included some psychological component beyond simply providing education information; and separate data provided for patients with RA if subjects with conditions other than RA were included.
+Two investigators independently extracted data on study design, sample size and characteristics, type of intervention, type of control, direction and nature of the outcome(s).
+Twenty-five trials met the inclusion criteria.
+Methodologic quality was assessed, and effect sizes were calculated for 6 outcomes.
+Significant pooled effect sizes were found postintervention for pain (0.22), functional disability (0.27), psychological status (0.15), coping (0.46), and self efficacy (0.35).
+At followup (averaging 8.5 months), significant pooled effect sizes were observed for tender joints (0.33), psychological status (0.30), and coping (0.52).
+No clear or consistent patterns emerged when effect sizes for different types of treatment and control conditions were compared, or when higher quality trials were compared to lower quality ones.
+Findings do, however, suggest that these psychological interventions may be more effective for patients who have had the illness for shorter duration.
+Despite some methodologic flaws in the literature, psychological interventions may be important adjunctive therapies in the medical management of RA.

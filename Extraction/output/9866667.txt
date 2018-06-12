@@ -1,0 +1,14 @@
+Title 
+The Journal of family practice
+
+Article Title 
+Mupirocin cream is as effective as oral cephalexin in the treatment of secondarily infected wounds.
+Abstract Text 
+Topical antimicrobials have been considered for treatment of secondarily infected wounds because of the potential for reduced risk of adverse effects and greater patient convenience.
+We compared mupirocin cream with oral cephalexin in the treatment of wounds such as small lacerations, abrasions, or sutured wounds.
+In 2 identical randomized double-blind studies, 706 patients with secondarily infected wounds (small lacerations, abrasions, or sutured wounds) received either mupirocin cream topically 3 times daily or cephalexin orally 4 times daily for 10 days.
+Clinical success at follow-up was equivalent in the two groups: 95.1% and 95.3% in the mupirocin cream and the cephalexin groups, respectively (95% confidence interval [CI], -4.0% to 3.6%; P = .89).
+The intention-to-treat success rate was 83% in both groups.
+Bacteriologic success at follow-up was also comparable: 96.9% in the mupirocin cream and 98.9% in the cephalexin groups (95% CI, -6.0% to 2.0%; P = .22).
+The occurrence of adverse experiences related to study treatment was similar for the 2 groups, with fewer patients in the mupirocin cream group reporting diarrhea (1.1% vs 2.3% for cephalexin).
+Mupirocin cream applied topically 3 times daily is as effective as oral cephalexin given 4 times daily for the treatment of secondarily infected wounds and was well tolerated.

@@ -1,0 +1,17 @@
+Title 
+Controlled clinical trials
+
+Article Title 
+Design of the Prostate, Lung, Colorectal and Ovarian (PLCO) Cancer Screening Trial.
+Abstract Text 
+The objectives of the Prostate, Lung, Colorectal and Ovarian Cancer Screening Trial are to determine in screenees ages 55-74 at entry whether screening with flexible sigmoidoscopy (60-cm sigmoidoscope) can reduce mortality from colorectal cancer, whether screening with chest X-ray can reduce mortality from lung cancer, whether screening men with digital rectal examination (DRE) plus serum prostate-specific antigen (PSA) can reduce mortality from prostate cancer, and whether screening women with CA125 and transvaginal ultrasound (TVU) can reduce mortality from ovarian cancer.
+Secondary objectives are to assess screening variables other than mortality for each of the interventions including sensitivity, specificity, and positive predictive value; to assess incidence, stage, and survival of cancer cases; and to investigate biologic and/or prognostic characterizations of tumor tissue and biochemical products as intermediate endpoints.
+The design is a multicenter, two-armed, randomized trial with 37,000 females and 37,000 males in each of the two arms.
+In the intervention arm, the PSA and CA125 tests are performed at entry, then annually for 5 years.
+The DRE, TVU, and chest X-ray exams are performed at entry and then annually for 3 years.
+Sigmoidoscopy is performed at entry and then at the 5-year point.
+Participants in the control arm follow their usual medical care practices.
+Participants will be followed for at least 13 years from randomization to ascertain all cancers of the prostate, lung, colorectum, and ovary, as well as deaths from all causes.
+A pilot phase was undertaken to assess the randomization, screening, and data collection procedures of the trial and to estimate design parameters such as compliance and contamination levels.
+This paper describes eligibility, consent, and other design features of the trial, randomization and screening procedures, and an outline of the follow-up procedures.
+Sample-size calculations are reported, and a data analysis plan is presented.

@@ -1,0 +1,16 @@
+Title 
+Journal of diabetes and its complications
+
+Article Title 
+High and low hemoglobin glycation phenotypes in type 1 diabetes: a challenge for interpretation of glycemic control.
+Abstract Text 
+This study tested the hypothesis that there are consistent individual differences in the relationship between glycated hemoglobin (HbA1c) and mean blood glucose (MBG) levels in individuals with similar preceding blood glucose levels.
+Blood glucose data were collected for up to 2.3 years by 128 children and adolescents with type 1 diabetes.
+HbA1c values were date-matched with MBG levels calculated from an average of 85 self-monitored blood glucose measurements collected in the previous 30 days.
+There was significant linear correlation between MBG and HbA1c (HbA1c=0.027xMBG+5.8,
+n=682, r=.71, P<.0001) but also wide variability in the population HbA1c response to MBG.
+We calculated a hemoglobin glycation index (HGI=observed HbA1c-predicted HbA1c) to quantify the magnitude and direction of the difference between each patient's set of observed and predicted HbA1c results.
+Likelihood ratio tests and t statistics showed that mean HGI were significantly different among individuals, and that 29% of the patients had HbA1c levels that were statistically significantly higher or lower than predicted by the regression equation.
+The observed individual differences in the relationship between MBG and HbA1c were not related to erythrocyte age and there was no evidence of analytical artifact.
+We interpret these results as possible evidence of high and low hemoglobin glycation phenotypes within the population.
+We conclude that MBG and HbA1c are not necessarily interchangeable estimates of glycemic control and that hemoglobin glycation phenotype may be important for the clinical assessment of diabetic patients.

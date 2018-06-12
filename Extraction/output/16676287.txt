@@ -1,0 +1,19 @@
+Title 
+International journal of geriatric psychiatry
+
+Article Title 
+Do subjective memory complaints predict cognitive dysfunction over time? A six-year follow-up of the Maastricht Aging Study.
+Abstract Text 
+Middle-aged and older people often worry that their perceived diminishing memory function may indicate incipient dementia.
+The present study addresses questions regarding subjective memory complaints as a predictor of lower performance on cognitive tasks.
+Also, in participants with subjective memory complaints it was investigated, whether trying to keep mentally active improved memory function.
+Characteristics of the participants who were and were not interested in an intervention to decrease worries and to improve memory in daily life were determined.
+Data were obtained from a large longitudinal study: the Maastricht Aging Study, involving 557 participants aged 55 to 85 years.
+Follow-up measurement was performed after 6 years.
+Outcome variables were simple, complex and general information processing speed and immediate and delayed recall.
+At baseline, forgetfulness was associated with a slower general information processing and delayed recall.
+At the six-year follow-up, being forgetful was not associated with a significant change in cognitive performance.
+Taking steps to remain cognitively active was not a predictor of better performance on cognitive tasks at baseline or at the six-year follow-up.
+Being forgetful might be an indicator of slower general information processing speed and delayed recall at baseline but does not predict cognitive change over 6 years in older adults.
+However, the effects are rather small and cannot directly be generalized to applications in clinical settings.
+Other factors, such as depression and anxiety might also underlie the cause of the forgetfulness.

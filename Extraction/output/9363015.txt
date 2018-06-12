@@ -1,0 +1,15 @@
+Title 
+Epidemiology and infection
+
+Article Title 
+Antibody levels against Streptococcus pneumoniae and Haemophilus influenzae type b in a population of splenectomized individuals with varying vaccination status.
+Abstract Text 
+In order to determine antibody levels against Streptococcus pneumoniae (pneumococcus) and Haemophilus influenzae type b (Hib) in a population of splenectomized subjects, 561 persons in a Danish county, splenectomized between 1984 and 1993 were identified.
+Two hundred and thirty-five were alive and 149 participated in the study.
+Each person donated a blood sample for antibody determination by ELISA.
+Though vaccine coverage among the 149 persons was 91% only 52% had 'protective' levels of pneumococcal antibodies.
+Despite recommendations for regular follow-up on pneumococcal antibody levels this had only been carried out in 4% of the subjects.
+Splenectomized subjects who needed pneumococcal revaccination were significantly more likely to have received their initial vaccination less than 14 days before or after splenectomy, as recommended, than those not requiring revaccination.
+Therefore, the timing of initial pneumococcal vaccination in relation to splenectomy seems to be important.
+All persons had Hib antibody levels higher than 0.15 microgram/ml and 60% had levels higher than 1 microgram/ml, which are the levels thought to provide short term and long term protection, respectively.
+In total, 37% of the 149 persons tested had pneumococcal and Hib antibody levels thought to correlate with protection from serious infections.

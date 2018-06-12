@@ -1,0 +1,16 @@
+Title 
+Antimicrobial agents and chemotherapy
+
+Article Title 
+Acyclovir cream for treatment of herpes simplex labialis: results of two randomized, double-blind, vehicle-controlled, multicenter clinical trials.
+Abstract Text 
+Acyclovir cream has been available for the treatment of herpes labialis in numerous countries outside the United States for over a decade.
+Evidence for its efficacy comes from a few small clinical trials conducted in the 1980s.
+To examine more comprehensively the efficacy and safety of this formulation, we conducted two independent, identical, parallel, randomized, double-blind, vehicle-controlled, large-scale multicenter clinical trials.
+Healthy adults with a history of frequent herpes labialis were recruited from the general population, screened for eligibility, randomized equally to 5% acyclovir cream or vehicle control, given study medication, and told to self-initiate treatment five times daily for 4 days beginning within 1 h of the onset of a recurrent episode.
+The number of patients who treated a lesion was 686 in study 1 and 699 in study 2. In study 1, the mean duration of episodes was 4.3 days for patients treated with acyclovir cream and 4.8 days for those treated with the vehicle control (hazards ratio [HR] = 1.23; 95% confidence interval [CI], 1.06 to 1.44; P = 0.007).
+In study 2, the mean duration of episodes was 4.6 days for patients treated with acyclovir cream and 5.2 days for those treated with the vehicle control (HR = 1.24; 95% CI, 1.06 to 1.44; P = 0.006).
+Efficacy was apparent whether therapy was initiated "early" (prodrome or erythema lesion stage) or "late" (papule or vesicle stage).
+There was a statistically significant reduction in the duration of lesion pain in both studies.
+Acyclovir cream did not prevent the development of classical lesions (progression to vesicles, ulcers, and/or crusts).
+Adverse events were mild and infrequent.

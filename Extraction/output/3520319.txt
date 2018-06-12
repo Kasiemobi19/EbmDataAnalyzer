@@ -1,0 +1,12 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+Prevention of early-onset neonatal group B streptococcal disease with selective intrapartum chemoprophylaxis.
+Abstract Text 
+Most cases of neonatal group B streptococcal disease with early onset have an intrapartum pathogenesis.
+Attack rates are increased substantially in infants born to mothers with prenatal group B streptococcal colonization and various perinatal risk factors (premature labor, prolonged membrane rupture, or intrapartum fever).
+In a randomized controlled trial, we studied the effect of selective intrapartum prophylaxis with ampicillin in 160 such high-risk women.
+In infants born to mothers who received intravenous ampicillin during labor, as compared with controls who received no treatment, neonatal colonization with group B streptococci was present in 8 of 85 (9 percent) versus 40 of 79 (51 percent; P less than 0.001), colonization at multiple (greater than or equal to 3) sites was observed in 3 of 85 (4 percent) versus 24 of 79 (30 percent; P less than 0.001), and bacteremia occurred in none of 85 versus 5 of 79 (6 percent; P = 0.024).
+The side effects of ampicillin were limited to a single episode of urticaria in a mother who had no history of penicillin allergy.
+We conclude that intrapartum ampicillin prophylaxis in women with positive prenatal cultures for group B streptococci who have certain perinatal risk factors can prevent early-onset neonatal group B streptococcal disease.

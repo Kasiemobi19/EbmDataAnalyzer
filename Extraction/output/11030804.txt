@@ -1,0 +1,22 @@
+Title 
+Archives of neurology
+
+Article Title 
+Vitamin E and beta carotene supplementation in high risk for stroke: a subgroup analysis of the Alpha-Tocopherol, Beta-Carotene Cancer Prevention Study.
+Abstract Text 
+High serum or dietary levels of vitamin E and beta carotene appear to be associated with lower risk of stroke, but studies regarding their supplementation have not supported their use in stroke prevention.
+To determine if vitamin E (dl-alpha tocopherol) and beta carotene supplementations could be used in prevention of stroke in men at high risk for hemorrhagic or ischemic events.
+Population-based, randomized, double-blind, placebo-controlled, 2 x 2 factorial design trial (the Alpha-Tocopherol, Beta-Carotene Cancer Prevention Study), conducted from April 1985 through April 30, 1993, with median follow-up of 6 years.
+Alpha tocopherol, 50 mg; beta carotene, 20 mg; both; or placebo.
+From the total male population aged 50 through 69 years in southwestern Finland (n = 290,406), 29,133 male smokers were randomized to 1 of 4 treatment regimens.
+We excluded 614 men because of previous stroke at baseline, leaving 28, 519.
+Incident and fatal subarachnoid and intracerebral hemorrhage, cerebral infarction, and unspecified stroke.
+Stroke occurred in a total of 1057 men: 85 had subarachnoid and 112 had intracerebral hemorrhage, 807 had cerebral infarction, and 53 had unspecified stroke.
+Within 90 days from onset, 160 men died of stroke.
+Vitamin E supplementation increased the risk of subarachnoid hemorrhage (relative risk [RR], 2.45; 95% confidence interval [CI], 1.08-5.55)
+and decreased risk of cerebral infarction (RR, 0.70; 95% CI, 0.55-0.89) in hypertensive men but had no effect among normotensive men.
+Furthermore, it decreased the risk of cerebral infarction, without elevating the risk of subarachnoid hemorrhage, among hypertensive men with concurrent diabetes (RR, 0.33; 95% CI, 0.14-0.78).
+Beta carotene supplementation appeared to increase the risk of intracerebral hemorrhage and modestly decrease that of cerebral infarction among men with greater alcohol consumption.
+Vitamin E supplementation may prevent ischemic stroke in high-risk hypertensive patients, but further studies are needed.
+Arch Neurol.
+2000;57:1503-1509

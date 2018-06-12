@@ -1,0 +1,22 @@
+Title 
+Cochrane database of systematic reviews (Online)
+
+Article Title 
+Sexual intercourse for cervical ripening and induction of labour.
+Abstract Text 
+The role of prostaglandins for cervical ripening and induction of labour has been examined extensively.
+Human semen is the biological source that is presumed to contain the highest prostaglandin concentration.
+The role of sexual intercourse in the initiation of labour is uncertain.
+The action of sexual intercourse in stimulating labour is unclear, it may in part be due to the physical stimulation of the lower uterine segment, or endogenous release of oxytocin as a result of orgasm or from the direct action of prostaglandins in semen.
+Furthermore nipple stimulation may be part of the process of initiation.
+This is one of a series of reviews of methods of cervical ripening and labour induction using standardised methodology.
+To determine the effects of sexual intercourse for third trimester cervical ripening or induction of labour in comparison with other methods of induction.
+The Cochrane Pregnancy and Childbirth Group trials register, the Cochrane Controlled Trials Register and bibliographies of relevant papers.
+Last searched: November 2000.
+(1) clinical trials comparing sexual intercourse for third trimester cervical ripening or labour induction with placebo/no treatment or other methods listed above it on a predefined list of labour induction methods; (2) random allocation to the treatment or control group; (3) adequate allocation concealment; (4) violations of allocated management not sufficient to materially affect conclusions; (5) clinically meaningful outcome measures reported; (6) data available for analysis according to the random allocation; (7) missing data insufficient to materially affect the conclusion.
+A strategy has been developed to deal with the large volume and complexity of trial data relating to labour induction.
+This involves a two-stage method of data extraction.
+There was one included study of 28 women which reported very limited data, from which no meaningful conclusions can be drawn.
+The role of sexual intercourse as a method of induction of labour is uncertain.
+Any future trials investigating sexual intercourse as a method of induction need to be of sufficient power to detect clinically relevant differences in standard outcomes.
+However, it may prove difficult to standardise sexual intercourse as an intervention to allow meaningful comparisons with other methods of induction of labour.

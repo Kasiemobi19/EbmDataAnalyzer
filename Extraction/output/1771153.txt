@@ -1,0 +1,11 @@
+Title 
+The Psychiatric clinics of North America
+
+Article Title 
+Electroconvulsive therapy in the treatment-resistant patient.
+Abstract Text 
+In medication-resistant patients with major depressive disorder, the response rate with bilateral electroconvulsive therapy (ECT) drops to 50% from the expected range of 80% to 90%.
+Relapse rates following ECT are high in medication-resistant depressed patients and are clustered in the first 4 months following clinical response.
+Medication resistance during the index episode predicts a high rate of relapse, whereas those patients who have not received an adequate medication trial prior to ECT are less likely to relapse.
+If a patient who fails an antidepressant trial then responds to a course of ECT, alternative pharmacologic strategies or maintenance ECT should be considered to decrease the likelihood of relapse.
+Patients who do not respond to a traditional course of bilateral ECT may respond subsequently to longer courses of bilateral ECT at markedly suprathreshold stimulus intensity, or may respond to a different class of antidepressant medication from that which they failed previously.

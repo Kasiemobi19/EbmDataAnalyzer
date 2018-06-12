@@ -1,0 +1,21 @@
+Title 
+Cochrane database of systematic reviews (Online)
+
+Article Title 
+Rizatriptan for acute migraine.
+Abstract Text 
+There are a number of different drug treatments for acute migraine, including currently four triptans, with several more likely to become available in the future.
+There is a need for evidence-based information to help determine the balance of benefit and harm for acute migraine treatment.
+To quantitatively assess the efficacy of a single dose of rizatriptan (Maxalt) for treating a single migraine attack using the outcomes of headache response and pain-free response at half-an-hour, one hour, two hours, and sustained relief over 24 hours.
+To express efficacy in terms of numbers-needed-to-treat (NNTs).
+Trials were identified by searching MEDLINE (1966-July 2000), EMBASE (1980-June 2000), the Cochrane Library (Issue 3, 2000) and the Oxford Pain Relief Database (1950-1994).
+Date of last search: July 2000.
+The inclusion criteria were randomised, placebo-controlled trials of rizatriptan for acute migraine; double-blind design; International Headache Society diagnostic criteria for migraine with or without aura; single migraine attack; single-dose treatment at standard doses; adult population; baseline pain of moderate or severe intensity using a four-point standardised rating scale; dichotomous or percentage data for at least one of the main efficacy outcomes; and full journal publication.
+Main outcomes considered were i) headache response at two hours, ii) headache response at one hour, iii) pain-free response at two hours, iv) sustained relief over 24 hours, v) pain-free response at 24 hours and vi) adverse effects.
+Minor outcomes were headache response and pain-free response at half-an-hour and four hours, and pain-free response at one hour.
+Dichotomous or percentage data were extracted and used to calculate the relative benefit (RB) and number-needed-to-treat (NNT) for each outcome.
+Seven trials met our inclusion criteria, with 2626 patients given rizatriptan and 902 given placebo.
+Significant benefit of rizatriptan over placebo was shown for both doses of rizatriptan (5 mg and 10 mg) for all five main efficacy outcomes (ranging from one to 24 hours).
+A dose response was seen for the main outcomes.
+It was not possible to analyse adverse effects information in a meaningful way.
+Rizatriptan 5 mg and 10 mg are effective in treating acute migraine, with a dose-related increase in efficacy.

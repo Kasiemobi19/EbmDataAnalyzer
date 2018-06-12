@@ -1,0 +1,13 @@
+Title 
+The Journal of pediatrics
+
+Article Title 
+Montelukast added to budesonide in children with persistent asthma: a randomized, double-blind, crossover study.
+Abstract Text 
+We tested the hypothesis that adding montelukast to budesonide would improve asthma control in children with inhaled glucocorticoid-dependent persistent asthma.
+In a multicenter, randomized, double-blind, crossover study, we compared the benefit of adding montelukast, 5 mg, or placebo once daily to budesonide, 200 microg, twice daily.
+After a 1-month run-in with budesonide, 200 microg, twice daily, 279 children were randomized to montelukast or placebo.
+The mean +/- SD age was 10.4 +/- 2.2 years, the mean forced expiratory volume in 1 second (FEV(1)) was 77.7% +/- 10.6% predicted, and reversibility was 18.1% +/- 12.9%.
+Compared with adding placebo to budesonide, adding montelukast produced significant improvements in mean percent change from baseline FEV(1) (P =.062 [P =.010 for per-protocol analysis]), mean absolute change from baseline FEV(1) (P =.040), mean increase from baseline in morning (P =.023) and evening (P =.012) peak expiratory flows, decrease in exacerbation days by approximately 23% (P <.001), decreased beta2-agonist use (P =.013), and reduced blood eosinophil counts (P <.001).
+The treatments did not differ significantly with regard to safety.
+Montelukast, 5 mg, added to budesonide improved asthma control significantly, indicated by a small additive effect on lung function and a clinically relevant decrease in asthma exacerbation days.

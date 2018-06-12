@@ -1,0 +1,24 @@
+Title 
+Obstetrics and gynecology
+
+Article Title 
+Induction of labor versus expectant management in macrosomia: a randomized study.
+Abstract Text 
+Macrosomia at term is associated with increased maternal and neonatal morbidity, including a higher rate of cesarean delivery and shoulder dystocia.
+Induction of labor has been suggested as a means to prevent further weight gain and improve outcome.
+The aim of this study was to determine whether or not induction of labor in these cases improves maternal and neonatal outcome.
+Patients at term with an ultrasonic fetal weight estimation of 4000-4500 g were prospectively randomized into two groups: induction of labor (group D and expectant management (group II).
+Patients with diabetes, a previous cesarean delivery, or nonvertex presentation were excluded.
+Outcome variables included mode of delivery, arterial cord pH, presence of shoulder dystocia, brachial plexus injury, clavicular fracture, cephalohematoma, and intraventricular hemorrhage.
+Of 273 patients who were eligible for the study, 134 were randomized to group I and 139 to group II.
+Parity, gestational age, and fetal weight estimation were similar in the two groups.
+The neonates of group II patients were significantly heavier (4132.8
++/- 347.4 versus 4062.8 +/- 306.9 g; P = .024).
+The rate of cesarean delivery was 19.4% in group I and 21.6% in group II patients (not significant [NS]).
+Cord pH was similar in both groups.
+Shoulder dystocia was diagnosed in five group I and six group II patients (NS).
+None developed brachial plexus injury.
+There were two cases of mild, transient brachial plexus injury in group II patients without documented shoulder dystocia.
+Mild intraventricular hemorrhage was diagnosed in three of 44 group I and two of 31 group II neonates evaluated (NS).
+In this prospective, randomized study, induction of labor for suspected macrosomia at term did not decrease the rate of cesarean delivery or reduce neonatal morbidity.
+Ultrasonic estimation of fetal weight between 4000 and 4500 g should not be considered an indication for induction of labor.

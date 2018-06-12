@@ -1,0 +1,22 @@
+Title 
+BMJ (Clinical research ed.)
+
+Article Title 
+Efficacy of atenolol and captopril in reducing risk of macrovascular and microvascular complications in type 2 diabetes: UKPDS 39. UK Prospective Diabetes Study Group.
+Abstract Text 
+To determine whether tight control of blood pressure with either a beta blocker or an angiotensin converting enzyme inhibitor has a specific advantage or disadvantage in preventing the macrovascular and microvascular complications of type 2 diabetes.
+Randomised controlled trial comparing an angiotensin converting enzyme inhibitor (captopril) with a beta blocker (atenolol) in patients with type 2 diabetes aiming at a blood pressure of <150/<85 mm Hg.
+     
+      20 hospital based clinics in England, Scotland, and Northern Ireland.
+1148 hypertensive patients with type 2 diabetes (mean age 56 years, mean blood pressure 160/94 mm Hg).
+Of the 758 patients allocated to tight control of blood pressure, 400 were allocated to captopril and 358 to atenolol.
+390 patients were allocated to less tight control of blood pressure.
+Predefined clinical end points, fatal and non-fatal, related to diabetes, death related to diabetes, and all cause mortality.
+Surrogate measures of microvascular and macrovascular disease included urinary albumin excretion and retinopathy assessed by retinal photography.
+Captopril and atenolol were equally effective in reducing blood pressure to a mean of 144/83 mm Hg and 143/81 mm Hg respectively, with a similar proportion of patients (27% and 31%) requiring three or more antihypertensive treatments.
+More patients in the captopril group than the atenolol group took the allocated treatment: at their last clinic visit, 78% of those allocated captopril and 65% of those allocated atenolol were taking the drug (P<0.0001).
+Captopril and atenolol were equally effective in reducing the risk of macrovascular end points.
+Similar proportions of patients in the two groups showed deterioration in retinopathy by two grades after nine years (31% in the captopril group and 37% in the atenolol group) and developed clinical grade albuminuria >=300 mg/l (5% and 9%).
+The proportion of patients with hypoglycaemic attacks was not different between groups, but mean weight gain in the atenolol group was greater (3.4 kg v 1.6 kg).
+Blood pressure lowering with captopril or atenolol was similarly effective in reducing the incidence of diabetic complications.
+This study provided no evidence that either drug has any specific beneficial or deleterious effect, suggesting that blood pressure reduction in itself may be more important than the treatment used.

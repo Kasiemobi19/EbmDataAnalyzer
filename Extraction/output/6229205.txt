@@ -1,0 +1,11 @@
+Title 
+Annals of internal medicine
+
+Article Title 
+Drugs five years later. Bromocriptine.
+Abstract Text 
+Bromocriptine, a specific dopamine receptor agonist, has been used for the treatment of various hyperprolactinemic conditions and as adjunctive therapy for acromegaly (with or without concomitant hyperprolactinemia) and Parkinson's disease.
+Bromocriptine is extremely effective in suppressing prolactin secretion regardless of the cause, in restoring gonadal function and fertility, and in decreasing the size of prolactin-secreting pituitary tumors.
+Most patients with acromegaly have clinical improvement with this drug.
+When bromocriptine is added to a regimen of levodopa or carbidopa, patients with Parkinson's disease frequently have additional clinical improvement and, in most patients, the levodopa or carbidopa dose can be reduced.
+Withdrawal of bromocriptine therapy is associated in most patients with reversal of its beneficial effects--return of hyperprolactinemia, return of excess growth hormone secretion, and exacerbation of Parkinson's disease.

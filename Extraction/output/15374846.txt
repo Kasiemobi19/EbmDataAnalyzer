@@ -1,0 +1,17 @@
+Title 
+American journal of respiratory and critical care medicine
+
+Article Title 
+Loss of bone density with inhaled triamcinolone in Lung Health Study II.
+Abstract Text 
+Inhaled glucocorticosteroids (ICS) are commonly prescribed for chronic obstructive pulmonary disease.
+No adverse effect on bone mineral density (BMD) has been proven.
+In a randomized double-blind, placebo-controlled trial at seven centers in North America, we recruited 412 current smokers or recent quitters with mild to moderate chronic obstructive pulmonary disease.
+They used inhaled triamcinolone acetonide, 600 mcg, or placebo, twice daily.
+We measured femoral neck and lumbar spine BMD at baseline and after 1 and 3 years, and serum osteocalcin at baseline, 3 months, 1 year, and 3 years.
+After 3 years, BMD at the femoral neck decreased 1.78% more with ICS than with placebo (p < 0.001).
+More participants in the ICS group experienced 6% or more loss of femoral neck BMD (p = 0.002).
+Lumbar spine BMD increased in the placebo group by 0.98% but decreased by 0.35% in the ICS group (a difference of 1.33%, p = 0.007).
+Changes in osteocalcin did not correlate with changes in BMD.
+Fractures, lost height, or osteoporosis diagnoses were not increased among ICS users compared with placebo users.
+In summary, the use of inhaled triamcinolone acetonide was associated with loss of BMD at the femoral neck and lumbar spine after 3 years of treatment.

@@ -1,0 +1,17 @@
+Title 
+BMJ (Clinical research ed.)
+
+Article Title 
+Babies sleeping with parents: case-control study of factors influencing the risk of the sudden infant death syndrome. CESDI SUDI research group.
+Abstract Text 
+To investigate the risks of the sudden infant death syndrome and factors that may contribute to unsafe sleeping environments.
+Three year, population based case-control study.
+Parental interviews were conducted for each sudden infant death and for four controls matched for age, locality, and time of sleep.
+Five regions in England with a total population of over 17 million people.
+325 babies who died and 1300 control infants.
+In the multivariate analysis infants who shared their parents' bed and were then put back in their own cot had no increased risk (odds ratio 0.67; 95% confidence interval 0.22 to 2.00).
+There was an increased risk for infants who shared the bed for the whole sleep or were taken to and found in the parental bed (9.78; 4.02 to 23.83), infants who slept in a separate room from their parents (10.49; 4.26 to 25.81), and infants who shared a sofa (48.99; 5.04 to 475.60).
+The risk associated with being found in the parental bed was not significant for older infants (>14 weeks) or for infants of parents who did not smoke and became non-significant after adjustment for recent maternal alcohol consumption (>2 units), use of duvets (>4 togs), parental tiredness (infant slept </=4 hours for longest sleep in previous 24 hours), and overcrowded housing conditions (>2 people per room of the house).
+There are certain circumstances when bed sharing should be avoided, particularly for infants under four months old.
+Parents sleeping on a sofa with infants should always be avoided.
+There is no evidence that bed sharing is hazardous for infants of parents who do not smoke.

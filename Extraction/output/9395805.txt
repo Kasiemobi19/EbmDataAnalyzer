@@ -1,0 +1,13 @@
+Title 
+Annals of the Academy of Medicine, Singapore
+
+Article Title 
+Thyroid stimulating hormone receptor antibody levels in Singaporean patients with autoimmune thyroid disease.
+Abstract Text 
+Stimulating thyrotrophin receptor antibodies (TRAbs) have been identified as the antibodies responsible for the pathogenesis of Graves' disease (GD) while blocking TRAbs have been implicated as the cause of hypothyroidism in some patients with chronic lymphocytic thyroiditis (CLT).
+TRAb positivity in patients with other thyroid disorders such as silent thyroiditis, toxic multinodular goitre and subacute thyroiditis has been reported but the role of TRAb in these disorders is unclear.
+A study was carried out to determine the prevalence of TRAb positivity in Singaporean patients with a spectrum of thyroid diseases.
+TRAb levels were measured in 181 patients with GD, 54 patients with CLT (37 goitrous and 17 agoitrous), 16 patients with thyroid nodules, 11 patients with subacute thyroiditis, 1 patient with hyperthyroidism due to a human chorionic gonadotrophin (HCG)-secreting tumour, 2 patients with thyroid stimulating hormone-secreting tumours and 2 patients with amiodarone-induced dysthyroidism.
+Using a cut-off of 10.0 U/L, TRAb levels were found to be positive in 79.0% of GD patients, 9.2% of CLT patients (euthyroid and hypothyroid) and no patients with other thyroid disorders.
+TRAb was a more sensitive marker of GD than anti-thyroglobulin antibodies (53.2%) but not anti-microsomal (78.3%) antibodies.
+TRAb levels > 10.0 U/L appear to be highly specific for autoimmune thyroid disease.

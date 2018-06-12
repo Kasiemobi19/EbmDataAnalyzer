@@ -1,0 +1,22 @@
+Title 
+Journal of general internal medicine
+
+Article Title 
+Treatment of fibromyalgia with antidepressants: a meta-analysis.
+Abstract Text 
+Fibromyalgia is a common, poorly understood musculoskeletal pain syndrome with limited therapeutic options.
+To systematically review the efficacy of antidepressants in the treatment of fibromyalgia and examine whether this effect was independent of depression.
+Meta-analysis of English-language, randomized, placebo-controlled trials.
+Studies were obtained from searching MEDLINE, EMBASE, and PSYCLIT (1966-1999), the Cochrane Library, unpublished literature, and bibliographies.
+We performed independent duplicate review of each study for both inclusion and data extraction.
+Sixteen randomized, placebo-controlled trials were identified, of which 13 were appropriate for data extraction.
+There were 3 classes of antidepressants evaluated: tricyclics (9 trials), selective serotonin reuptake inhibitors (3 trials), and S-adenosylmethionine (2 trials).
+Overall, the quality of the studies was good (mean score 5.6, scale 0-8).
+The odds ratio for improvement with therapy was 4.2 (95% confidence interval [95% CI], 2.6 to 6.8).
+The pooled risk difference for these studies was 0.25 (95% CI, 0.16 to 0.34), which calculates to 4 (95% CI, 2.9 to 6.3) individuals needing treatment for 1 patient to experience symptom improvement.
+When the effect on individual symptoms was combined, antidepressants improved sleep, fatigue, pain, and well-being, but not trigger points.
+In the 5 studies where there was adequate assessment for an effect independent of depression, only 1 study found a correlation between symptom improvement and depression scores.
+Outcomes were not affected by class of agent or quality score using meta-regression.
+Antidepressants are efficacious in treating many of the symptoms of fibromyalgia.
+Patients were more than 4 times as likely to report overall improvement, and reported moderate reductions in individual symptoms, particularly pain.
+Whether this effect is independent of depression needs further study.

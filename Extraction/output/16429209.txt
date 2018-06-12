@@ -1,0 +1,15 @@
+Title 
+Clinical pediatrics
+
+Article Title 
+Failure to thrive: still a problem of definition.
+Abstract Text 
+The term 'failure to thrive' (FTT) is widely used to describe inadequate growth in early childhood.
+However, no consensus exists concerning the specific anthropometrical criteria to define this description.
+The aim of this study was to make an updated assessment concerning the use of FTT definitions and describe possible trends regarding the use of specific criteria.
+A cross-sectional review was done covering English-language articles published from January 2003 until June 2004, and recent textbooks of general pediatrics.
+Most of the reviewed literature broadly defined FTT as inadequate growth and total agreement existed to define FTT based solely on anthropometrical parameters.
+Large differences, however, were seen regarding which growth parameters to use and whether to use attained values or velocities.
+Weight was the most predominant choice, but many included more than one anthropometrical parameter.
+Failure to thrive in children is currently described solely based on anthropometrical indicators, with weight gain as the predominant choice of indicator and cut off around the 5th percentile.
+Discussion is needed as to whether the term 'failure to thrive' is still a useful common term for pediatric undernutrition of different types.

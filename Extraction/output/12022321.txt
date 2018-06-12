@@ -1,0 +1,14 @@
+Title 
+The Journal of rheumatology
+
+Article Title 
+A randomized controlled trial of muscle strengthening versus flexibility training in fibromyalgia.
+Abstract Text 
+To determine the effectiveness of a muscle strengthening program compared to a stretching program in women with fibromyalgia (FM).
+Sixty-eight women with FM were randomly assigned to a 12 week, twice weekly exercise program consisting of either muscle strengthening or stretching.
+Outcome measures included muscle strength (main outcome variable), flexibility, weight, body fat, tender point count, and disease and symptom severity scales.
+No statistically significant differences between groups were found on independent t tests.
+Paired t tests revealed twice the number of significant improvements in the strengthening group compared to the stretching group.
+Effect size scores indicated that the magnitude of change was generally greater in the strengthening group than the stretching group.
+Patients with FM can engage in a specially tailored muscle strengthening program and experience an improvement in overall disease activity, without a significant exercise induced flare in pain.
+Flexibility training alone also results in overall improvements, albeit of a lesser degree.

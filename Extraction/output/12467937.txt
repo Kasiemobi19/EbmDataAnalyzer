@@ -1,0 +1,15 @@
+Title 
+The American journal of cardiology
+
+Article Title 
+Combination therapy for combined dyslipidemia.
+Abstract Text 
+Patients with combined dyslipidemia are at high risk for coronary artery disease and often require combination drug therapy to achieve lipid levels recommended by the US National Cholesterol Education Program's third Adult Treatment Panel (ATP III).
+In addition to recommendations for low-density lipoprotein (LDL) cholesterol and triglyceride levels, ATP III established non-high-density lipoprotein (HDL) cholesterol goals for individuals with triglycerides >or=2.26
+mmol/L (>or=200 mg/dL).
+It also introduced certain criteria for the diagnosis of the metabolic syndrome, a clustering of risk factors (abdominal obesity, elevated triglycerides, low HDL cholesterol, elevated blood pressure, impaired fasting glucose) that increases cardiovascular risk and is common in patients with combined dyslipidemia.
+Statin monotherapy has been shown to benefit these patients, and additional benefit may be obtained by combination therapy that provides greater reductions in both LDL cholesterol and triglycerides as well as greater increases in HDL cholesterol.
+However, combining a statin with either niacin or a fibrate may increase the risk for myopathy and therefore requires careful monitoring and evaluation of the risk-benefit ratio for each patient.
+Moreover, combination therapy may be associated with increased drug costs and decreased patient compliance.
+Recently developed agents that may improve the effectiveness of combination therapy include ezetimibe-a cholesterol absorption inhibitor-and a formulation that combines extended-release niacin and lovastatin in a single pill.
+Clinical trials are needed to determine the optimal treatment in patients with combined dyslipidemia.

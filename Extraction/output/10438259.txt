@@ -1,0 +1,18 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+Gemfibrozil for the secondary prevention of coronary heart disease in men with low levels of high-density lipoprotein cholesterol. Veterans Affairs High-Density Lipoprotein Cholesterol Intervention Trial Study Group.
+Abstract Text 
+Although it is generally accepted that lowering elevated serum levels of low-density lipoprotein (LDL) cholesterol in patients with coronary heart disease is beneficial, there are few data to guide decisions about therapy for patients whose primary lipid abnormality is a low level of high-density lipoprotein (HDL) cholesterol.
+We conducted a double-blind trial comparing gemfibrozil (1200 mg per day) with placebo in 2531 men with coronary heart disease, an HDL cholesterol level of 40 mg per deciliter (1.0 mmol per liter) or less, and an LDL cholesterol level of 140 mg per deciliter (3.6 mmol per liter) or less.
+The primary study outcome was nonfatal myocardial infarction or death from coronary causes.
+The median follow-up was 5.1 years.
+At one year, the mean HDL cholesterol level was 6 percent higher, the mean triglyceride level was 31 percent lower, and the mean total cholesterol level was 4 percent lower in the gemfibrozil group than in the placebo group.
+LDL cholesterol levels did not differ significantly between the groups.
+A primary event occurred in 275 of the 1267 patients assigned to placebo (21.7 percent) and in 219 of the 1264 patients assigned to gemfibrozil (17.3 percent).
+The overall reduction in the risk of an event was 4.4 percentage points, and the reduction in relative risk was 22 percent (95 percent confidence interval, 7 to 35 percent; P=0.006).
+We observed a 24 percent reduction in the combined outcome of death from coronary heart disease, nonfatal myocardial infarction, and stroke (P< 0.001).
+There were no significant differences in the rates of coronary revascularization, hospitalization for unstable angina, death from any cause, and cancer.
+Gemfibrozil therapy resulted in a significant reduction in the risk of major cardiovascular events in patients with coronary disease whose primary lipid abnormality was a low HDL cholesterol level.
+The findings suggest that the rate of coronary events is reduced by raising HDL cholesterol levels and lowering levels of triglycerides without lowering LDL cholesterol levels.

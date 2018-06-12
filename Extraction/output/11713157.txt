@@ -1,0 +1,18 @@
+Title 
+Chest
+
+Article Title 
+A controlled trial of an environmental tobacco smoke reduction intervention in low-income children with asthma.
+Abstract Text 
+To determine the effectiveness of a cotinine-feedback, behaviorally based education intervention in reducing environmental tobacco smoke (ETS) exposure and health-care utilization of children with asthma.
+Randomized controlled trial of educational intervention vs usual care.
+The pediatric pulmonary service of a regional pediatric hospital.
+ETS-exposed, Medicaid/Medi-Cal-eligible, predominantly minority children who were 3 to 12 years old and who were seen for asthma in the hospital's emergency, inpatient, and outpatient services departments (n = 87).
+Three nurse-led sessions employing behavior-changing strategies and basic asthma education and that incorporated repeated feedback on the child's urinary cotinine level.
+The primary measurements were the urinary cotinine/creatinine ratio (CCR) and the number of acute asthma medical visits.
+The secondary measurements were number of hospitalizations, smoking restrictions in home, amount smoked, reported exposures of children, and asthma control.
+The intervention was associated with a significantly lower odds ratio (OR) for more than one acute asthma medical visit in the follow-up year, after adjusting for baseline visits (total visits, 87; OR, 0.32; p = 0.03), and a comparably sized but nonsignificant OR for one or more hospitalization (OR, 0.34; p = 0.14).
+The follow-up CCR measurement and the determination of whether smoking was prohibited inside the home strongly favored the intervention group (n = 51) (mean difference in CCR adjusted for baseline, -0.38; p = 0.26; n = 51) (60; OR [for proportion of subjects prohibiting smoking], 0.24; p = 0.11; n = 60).
+This intervention significantly reduced asthma health-care utilization in ETS-exposed, low-income, minority children.
+Effects sizes for urine cotinine and proportion prohibiting smoking were moderate to large but not statistically significant, possibly the result of reduced precision due to the loss of patients to active follow-up.
+Improving ETS reduction interventions and understanding their mechanism of action on asthma outcomes requires further controlled trials that measure ETS exposure and behavioral and disease outcomes concurrently.

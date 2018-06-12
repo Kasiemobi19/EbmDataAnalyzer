@@ -1,0 +1,21 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+Methicillin-resistant S. aureus infections among patients in the emergency department.
+Abstract Text 
+Methicillin-resistant Staphylococcus aureus (MRSA) is increasingly recognized in infections among persons in the community without established risk factors for MRSA.
+We enrolled adult patients with acute, purulent skin and soft-tissue infections presenting to 11 university-affiliated emergency departments during the month of August 2004.
+Cultures were obtained, and clinical information was collected.
+Available S. aureus isolates were characterized by antimicrobial-susceptibility testing, pulsed-field gel electrophoresis, and detection of toxin genes.
+On MRSA isolates, we performed typing of the staphylococcal cassette chromosome mec (SCCmec), the genetic element that carries the mecA gene encoding methicillin resistance.
+S. aureus was isolated from 320 of 422 patients with skin and soft-tissue infections (76 percent).
+The prevalence of MRSA was 59 percent overall and ranged from 15 to 74 percent.
+Pulsed-field type USA300 isolates accounted for 97 percent of MRSA isolates; 74 percent of these were a single strain (USA300-0114).
+SCCmec type IV and the Panton-Valentine leukocidin toxin gene were detected in 98 percent of MRSA isolates.
+Other toxin genes were detected rarely.
+Among the MRSA isolates, 95 percent were susceptible to clindamycin, 6 percent to erythromycin, 60 percent to fluoroquinolones, 100 percent to rifampin and trimethoprim-sulfamethoxazole, and 92 percent to tetracycline.
+Antibiotic therapy was not concordant with the results of susceptibility testing in 100 of 175 patients with MRSA infection who received antibiotics (57 percent).
+Among methicillin-susceptible S. aureus isolates, 31 percent were USA300 and 42 percent contained pvl genes.
+MRSA is the most common identifiable cause of skin and soft-tissue infections among patients presenting to emergency departments in 11 U.S. cities.
+When antimicrobial therapy is indicated for the treatment of skin and soft-tissue infections, clinicians should consider obtaining cultures and modifying empirical therapy to provide MRSA coverage.

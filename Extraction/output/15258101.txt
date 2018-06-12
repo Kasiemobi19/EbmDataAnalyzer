@@ -1,0 +1,11 @@
+Title 
+Drug metabolism and disposition: the biological fate of chemicals
+
+Article Title 
+Insect repellent [correction of repellant] interactions: sunscreens enhance DEET (N,N-diethyl-m-toluamide) absorption.
+Abstract Text 
+Toxicology studies are typically performed on single compounds, which we hypothesized would miss adverse synergies from chemical mixtures.
+This hypothesis was tested using an insect repellant and sunscreens because both groups include known permeation enhancers, with prior pediatric reports of toxicity from highly concentrated DEET (N,N-diethyl-m-toluamide). Using real-time mass spectroscopy in a hairless mouse skin model, we confirmed substantial penetration of a 20% DEET standard.
+Despite a lower (10%) DEET content, a commercially marketed sunscreen formulation had a 6-fold more rapid detection (5 versus 30 min) and 3.4-fold greater penetration at steady state.
+We also tested the efficacy of DEET microemulsion products and confirmed that one successfully slowed the onset of absorption, but not the steady-state permeation.
+Risks from mixtures of potential toxins are worthy of routine testing, which can be accomplished by simple assays, and are of utmost importance for pediatric applications.

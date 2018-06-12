@@ -1,0 +1,22 @@
+Title 
+Human reproduction (Oxford, England)
+
+Article Title 
+Insulin-sensitizing agents as primary therapy for patients with polycystic ovarian syndrome.
+Abstract Text 
+This paper is a systematic review of metformin versus clomiphene citrate (CC) in women with polycystic ovary syndrome (PCOS).
+Meta-analysis Of Observational Studies in Epidemiology (MOOSE) and QUality Of Reporting Of Meta-analyses (QUOROM) guidelines were followed.
+A systematic computerized literature search was done of seven bibliographic databases.
+Inclusion criteria included cohort and randomized controlled trials (RCT) of women with PCOS and the following medications: metformin versus placebo; metformin versus CC; metformin plus CC versus placebo plus CC.
+Rev-man 4.1 and Metaview 4.0 were used to analyse data.
+Relative risk (RR) estimates were presented.
+A chi2-test determined the significance of the association.
+Heterogeneity was determined by the Cochran Q-test.
+Metformin was 50% better than placebo for ovulation induction in infertile PCOS patients [RR 1.50; 95% confidence interval (CI) 1.13, 1.99].
+Metformin was also of benefit in non-infertile (i.e.
+patients with PCOS who were not complaining of infertility) PCOS patients for cycle regulation compared to placebo (RR 1.45; CI 1.11, 1.90).
+Metformin was not of confirmed benefit versus placebo for achievement of pregnancy (RR 1.07; CI 0.20, 5.74).
+Metformin plus CC may be 3-4-fold superior to CC alone for ovulation induction (RR 3.04; CI 1.77, 5.24) and pregnancy (RR 3.65; CI 1.11, 11.99) in women with PCOS.
+Metformin is effective for ovulation induction and cycle regulation in this group of patients.
+Metformin plus CC appears to be very effective for achievement of pregnancy compared to CC alone.
+No RCTs directly compare metformin to CC but the need for such a trial exists.

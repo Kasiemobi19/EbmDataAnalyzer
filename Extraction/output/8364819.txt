@@ -1,0 +1,21 @@
+Title 
+CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne
+
+Article Title 
+Prevalence of and risk factors for sudden infant death syndrome in Canada.
+Abstract Text 
+To analyse and describe the prevalence of sudden infant death syndrome (SIDS) in the Canadian population in relation to the distribution of known risk factors for the syndrome.
+To explain the observed interprovincial variation in SIDS rates.
+Retrospective population-based case-control study.
+All the provinces and territories of Canada except Quebec.
+The birth and infant death records of singleton births for 1986-88 were linked.
+The linkage was successful in matching 904 (86%) of the 1053 deaths attributed to SIDS to the birth file for the infant.
+For each SIDS case three control babies who survived infancy were chosen at random, matched by province of birth.
+Infant death classified as a "sudden infant death."
+Independent variables included infant's sex, birth weight and gestational age, being small for gestational age, mother's age, marital status and parity, and father's age.
+The risk of SIDS was greater for boys (odds ratio [OR] 1.47, 95% confidence limits [CLs] 1.26 and 1.70) than for girls and was greater for the infants of unmarried women (OR 3.48, 95% CLs 2.94 and 4.11) than for those of married women.
+The risk of SIDS was inversely related to birth weight (p < 0.001), duration of pregnancy (p < 0.001) and mother's age (up to age 35) (p < 0.001) and was directly related to parity (up to four) (p < 0.001).
+The available information on birth and death registrations enabled about 30% of deaths from SIDS to be predicted.
+Logistic regression equations based on the risk factors available in vital statistics data have low power to predict provincial differences in rates of SIDS.
+Consequently, there may be additional factors that may explain provincial variation.
+There is a need for a well-designed case-control study that examines more variables than are available through vital registration systems.

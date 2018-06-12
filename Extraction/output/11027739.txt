@@ -1,0 +1,19 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+Long-term effects of budesonide or nedocromil in children with asthma. The Childhood Asthma Management Program Research Group.
+Abstract Text 
+Antiinflammatory therapies, such as inhaled corticosteroids or nedocromil, are recommended for children with asthma, although there is limited information on their long-term use.
+We randomly assigned 1041 children from 5 through 12 years of age with mild-to-moderate asthma to receive 200 microg of budesonide (311 children), 8 mg of nedocromil (312 children), or placebo (418 children) twice daily.
+We treated the participants for four to six years.
+All children used albuterol for asthma symptoms.
+There was no significant difference between either treatment and placebo in the primary outcome, the degree of change in the forced expiratory volume in one second (FEV1, expressed as a percentage of the predicted value) after the administration of a bronchodilator.
+As compared with the children assigned to placebo, the children assigned to receive budesonide had a significantly smaller decline in the ratio of FEV1 to forced vital capacity (FVC, expressed as a percentage) before the administration of a bronchodilator (decline in FEV1:FVC, 0.2 percent vs. 1.8 percent).
+The children given budesonide also had lower airway responsiveness to methacholine, fewer hospitalizations (2.5 vs. 4.4 per 100 person-years), fewer urgent visits to a caregiver (12 vs. 22 per 100 person-years), greater reduction in the need for albuterol for symptoms, fewer courses of prednisone, and a smaller percentage of days on which additional asthma medications were needed.
+As compared with placebo, nedocromil significantly reduced urgent care visits (16 vs. 22 per 100 person-years) and courses of prednisone.
+The mean increase in height in the budesonide group was 1.1 cm less than in the placebo group (22.7 vs. 23.8
+cm, P=0.005); this difference was evident mostly within the first year.
+The height increase was similar in the nedocromil and placebo groups.
+In children with mild-to-moderate asthma, neither budesonide nor nedocromil is better than placebo in terms of lung function, but inhaled budesonide improves airway responsiveness and provides better control of asthma than placebo or nedocromil.
+The side effects of budesonide are limited to a small, transient reduction in growth velocity.

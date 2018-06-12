@@ -1,0 +1,14 @@
+Title 
+The Journal of infectious diseases
+
+Article Title 
+IgG antibody to pneumococcal capsular polysaccharide in human immunodeficiency virus-infected subjects: persistence of antibody in responders, revaccination in nonresponders, and relationship of immunoglobulin allotype to response.
+Abstract Text 
+Human immunodeficiency virus (HIV)-infected persons are less likely than are noninfected persons to respond to vaccination with pneumococcal polysaccharides (PPS).
+Among those who respond, however, similar IgG levels may be achieved.
+HIV-infected men immunized with pneumococcal vaccine were classified as high- or low-level responders (IgG > or = 1 microgram/mL for > or = 3 of 5 PPS [high] or for < or = 1 PPS [low]).
+One and 2 years after immunization, geometric mean IgG levels and the percentages of subjects with IgG levels > or = 1 microgram/mL were similar for HIV-infected and for healthy high-level responders (controls) for all PPS except for serotype 8.
+Among HIV-infected low-level responders, revaccination with a double dose of pneumococcal vaccine did not stimulate IgG responses.
+Responsiveness of HIV-infected white patients was significantly associated with the Km(1)- negative allotype.
+These findings support current general recommended guidelines for administering pneumococcal vaccine to HIV-infected persons.
+Nonresponders will not benefit from revaccination.

@@ -1,0 +1,16 @@
+Title 
+The Journal of allergy and clinical immunology
+
+Article Title 
+Effects of nedocromil sodium in steroid-resistant asthma: a randomized controlled trial.
+Abstract Text 
+Some patients with asthma respond poorly to corticosteroids and have persistent airway inflammation and daily clinical symptoms.
+The aim of this study was to investigate the effects of nedocromil sodium (NS), a nonsteroidal antinflamatory drug, in the treatment of steroid-resistant asthma.
+Steroid-resistant asthma as diagnosed in any patient who demonstrated 20% improvement in FEV1 after treatment with inhaled salbutamol with failure of FEV1 to improve by at least 15% after a 2-week trial of prednisolone, 30 mg daily.
+In a double-blind placebo-controlled trial, the patients received either 4 mg of inhaled NS (n = 13) or placebo (n = 13), 4 times daily for 3 months.
+NS but not placebo resulted in a mean increase in FEV1 of 11.4% after 12 weeks of therapy (p = 0.05) and of 12.4% (p = 0.04) and 15% (0.02) in morning peak expiratory flow after 8 and 12 weeks of treatment, respectively.
+Changes in FEV1 at 4 and 8 weeks and in peak expiratory flow at 4 weeks of NS therapy were not significant.
+NS was also effective in reducing variability of peak expiratory flow (p = 0.02) and use of salbutamol (p = 0.005) and in improving quality of life (p = 0.007) by the trial end.
+Six of the 12 patients treated with NS who completed the treatment period showed a "good response," defined by a reduction in salbutamol use of more than 50% and an increase in morning peak expiratory flow of more than 20% from baseline; there were no clinical predictors of this response.
+Two patients were withdrawn from the study because of severe asthma exacerbation (one from each treatment group).
+Inhaled NS improved pulmonary function and decreased asthma severity in steroid-resistant asthma, but its effectiveness is not homogeneous and cannot be predicted from baseline clinical data.

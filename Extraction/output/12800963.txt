@@ -1,0 +1,11 @@
+Title 
+American family physician
+
+Article Title 
+Automated ambulatory blood pressure monitoring: clinical utility in the family practice setting.
+Abstract Text 
+Although the percentage of patients who are treated for hypertension has increased, the percentage of those who demonstrate control of blood pressure has declined.
+As a result of this trend, clinicians may increasingly rely on ambulatory blood pressure monitoring to improve the diagnosis and treatment of hypertension.
+Studies confirm that ambulatory blood pressure monitoring devices more accurately reflect a patient's blood pressure and correlate more closely with end-organ complications than blood pressure levels measured in the physician's office.
+Discriminate use of this technology in specific clinical circumstances assists in identifying patients at risk for hypertension and may result in improved outcomes in this subset of patients.
+Ambulatory blood pressure monitoring may be particularly helpful in clinical situations such as borderline hypertension, white-coat hypertension, apparent drug resistance, hypotensive symptoms from medications or autonomic dysfunction, episodic hypertension, and evaluation of antihypertensive efficacy.

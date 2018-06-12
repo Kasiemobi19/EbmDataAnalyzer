@@ -1,0 +1,16 @@
+Title 
+Lancet
+
+Article Title 
+Morbidity and mortality in the Swedish Trial in Old Patients with Hypertension (STOP-Hypertension)
+Abstract Text 
+Although the benefits of antihypertensive treatment in "young" elderly (under 70 years) hypertensive patients are well established, the value of treatment in older patients (70-84 years) is less clear.
+The Swedish Trial in Old Patients with Hypertension (STOP-Hypertension) was a prospective, randomised, double-blind, intervention study set up to compare the effects of active antihypertensive therapy (three beta-blockers and one diuretic) and placebo on the frequency of fatal and non-fatal stroke and myocardial infarction and other cardiovascular death in hypertensive Swedish men and women aged 70-84 years.
+We recruited 1627 patients at 116 health centres throughout Sweden, who were willing to participate, and who met the entry criteria of three separate recordings during a 1-month placebo run-in period of systolic blood pressure between 180 and 230 mm Hg with a diastolic pressure of at least 90 mm Hg, or a diastolic pressure between 105 and 120 mm Hg irrespective of the systolic pressure.
+The total duration of the study was 65 months and the average time in the study was 25 months.
+812 patients were randomly allocated active treatment and 815 placebo.
+The mean difference in supine blood pressure between the active treatment and placebo groups at the last follow-up before an endpoint, death, or study termination was 19.5/8.1 mm Hg.
+Compared with placebo, active treatment significantly reduced the number of primary endpoints (94 vs 58; p = 0.0031) and stroke morbidity and mortality (53 vs 29; p = 0.0081).
+Although we did not set out to study an effect on total mortality, we also noted a significantly reduced number of deaths in the active treatment group (63 vs 36; p = 0.0079).
+The benefits of treatment were discernible up to age 84 years.
+We conclude that antihypertensive treatment in hypertensive men and women aged 70-84 confers highly significant and clinically relevant reductions in cardiovascular morbidity and mortality as well as in total mortality.

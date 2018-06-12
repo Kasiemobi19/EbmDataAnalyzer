@@ -1,0 +1,18 @@
+Title 
+Journal of the American Academy of Dermatology
+
+Article Title 
+Clinical efficacy of topical docosanol 10% cream for herpes simplex labialis: A multicenter, randomized, placebo-controlled trial.
+Abstract Text 
+Recurrent herpes simplex labialis (HSL) occurs in 20% to 40% of the US population.
+Although the disease is self-limiting in persons with a healthy immune response, patients seek treatment because of the discomfort and visibility of a recurrent lesion.
+Our purpose was to determine whether docosanol 10% cream (docosanol) is efficacious compared with placebo for the topical treatment of episodes of acute HSL.
+Two identical double-blind, placebo-controlled studies were conducted at a total of 21 sites.
+Otherwise healthy adults, with documented histories of HSL, were randomized to receive either docosanol or polyethylene glycol placebo and initiated therapy in the prodrome or erythema stage of an episode.
+Treatment was administered 5 times daily until healing occurred (ie, the crust fell off spontaneously or there was no longer evidence of an active lesion) with twice-daily visits.
+The median time to healing in the 370 docosanol-treated patients was 4.1 days, 18 hours shorter than observed in the 367 placebo-treated patients (P =.008; 95% confidence interval [CI]: 2, 22).
+The docosanol group also exhibited reduced times from treatment initiation to (1) cessation of pain and all other symptoms (itching, burning, and/or tingling; P =.002; 95% CI: 3, 16.5); (2) complete healing of classic lesions (P =.023; 95% CI: 1, 24.5); and (3) cessation of the ulcer or soft crust stage of classic lesions (P <.001; 95% CI: 8, 25).
+Aborted episodes were experienced by 40% of the docosanol recipients versus 34% of placebo recipients (P =.109; 95% CI for odds ratio: 0.95, 1.73).
+Adverse experiences with docosanol were mild and similar to those with placebo.
+Docosanol applied 5 times daily is safe and effective in the treatment of recurrent HSL.
+Differences in healing time compared favorably with those reported for the only treatment of HSL that has been approved by the Food and Drug Administration.

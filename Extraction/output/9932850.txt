@@ -1,0 +1,18 @@
+Title 
+Journal of pediatric gastroenterology and nutrition
+
+Article Title 
+Diet and chronic constipation in children: the role of fiber.
+Abstract Text 
+Chronic constipation is one of the most common disorders in Western countries and despite numerous clinical, pathophysiologic, and epidemiologic studies its cause is still unclear.
+Several hypotheses have been proposed and according to experimental studies and clinical observation, fiber intake could play a role in its pathogenesis.
+The purpose of this case-control study was to examine the possible correlation of idiopathic chronic constipation in children and dietary intake, particularly fiber intake.
+A randomized sample of children (291 children with constipation and 1602 controls) aged 2 to 14 years was taken from three of the 52 counties of Greece.
+Stratification was performed on the basis of urban, rural, or suburban location and socioeconomic status.
+The nutritional data were obtained from a 3-day dietary record and a dietary history.
+Statistical analysis was performed with multivariate tests, multivariate analysis of variance, discriminant analysis, and chi-square analysis according to the characteristics of the correlated variables.
+Constipated children had a lower caloric and nutrient intake (p < 0.001), lower body weight/height (p < 0.001), and higher prevalence of reported anorexia (p < 0.001).
+Discriminant analysis indicated that dietary fiber alone was independently negatively correlated with chronic constipation, despite the age and the age of onset of constipation.
+Relative risk also had a negative correlation with fiber intake (p < 0.001).
+Of the main fiber fractions only cellulose and pentose were independently correlated with chronic constipation.
+Lack of fiber may play an important role in the etiology of chronic idiopathic constipation in children.

@@ -1,0 +1,13 @@
+Title 
+Pharmacology, biochemistry, and behavior
+
+Article Title 
+Effects of a new type of 5-HT receptor agonist on male rat sexual behavior.
+Abstract Text 
+8-Methoxy-2-(di-n-propylamino) tetralin (8-OMe-DPAT) and 8-hydroxy-2-(di-n-propylamino) tetralin (8-OH-DPAT) are two new drugs exerting selective actions on brain 5-HT neurotransmission.
+In the present experiments we have investigated the effects of these two drugs on male rat sexual behavior.
+It was found that both drugs reduce the number of intromissions preceding ejaculation and shorten the ejaculation latency.
+These effects are extremely pronounced and several animals ejaculate at the first intromission.
+In addition 8-OH-DPAT produced a slight reduction of the post-ejaculatory interval.
+There were no significant effects on latency to initiate copulation or in the number of mounts preceding ejaculation.
+Finally, sexual behavior was partly or completely restored in castrated male rats after injection with 8-OMe-DPAT or 8-OH-DPAT.

@@ -1,0 +1,20 @@
+Title 
+Rheumatology (Oxford, England)
+
+Article Title 
+Osteopenia in young hypogonadal women with systemic lupus erythematosus receiving chronic steroid therapy: a randomized controlled trial comparing calcitriol and hormonal replacement therapy.
+Abstract Text 
+To evaluate the efficacy of calcitriol and hormonal replacement therapy (HRT) in the treatment of steroid-induced osteoporosis in hypogonadal women.
+We studied 28 young patients (aged 37 +/- 6 yr) with systemic lupus erythematosus (SLE) on chronic steroid therapy for 130 +/- 22 months and requiring more than 10 mg/day prednisone.
+They were amenorrhoeic for more than 2 yr with proven ovarian failure.
+All had osteopenia with a T score at L2-4 of less than -1.
+They were randomized to receive HRT (conjugated oestrogen 0.625 mg daily from day 1 to day 21 plus medroxyprogesterone acetate 5 mg daily days 10-21) or calcitriol 0.5 microg daily.
+All received calcium carbonate 1 g/day.
+There were no differences in the baseline demographic, bone mineral density (BMD) and biochemical data between the two groups.
+Lumbar spine BMD increased by 2.0 +/- 0.4% after 2 yr with HRT (P<0.05), but reduced by 1.74 +/- 0.4% (P<0.05) with calcitriol treatment.
+No change was seen at the distal one-third radius with HRT treatment but significant bone loss (2.3 +/- 1.4%, P<0.02) was observed with calcitriol therapy.
+BMD at the hip did not change in both groups.
+Comparing both treatment groups, significant differences in the BMD at the spine (P<0.03) and radius (P<0.05) were seen at the end of 2 yr.
+The changes in urinary n-telopeptide excretion but not serum osteocalcin at 6 months and 12 months were inversely correlated with the changes in lumbar spine BMD at 24 months.
+HRT did not cause an adverse effect on SLE disease activity.
+HRT but not calcitriol could prevent bone loss in young hypogonadal women on chronic steroid therapy.

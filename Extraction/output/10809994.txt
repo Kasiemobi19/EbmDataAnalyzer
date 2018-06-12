@@ -1,0 +1,22 @@
+Title 
+Journal of internal medicine
+
+Article Title 
+Comparison of long versus short duration of anticoagulant therapy after a first episode of venous thromboembolism: a meta-analysis of randomized, controlled trials.
+Abstract Text 
+To assess the length of oral anticoagulant therapy (short versus long duration) after a first episode of venous thromboembolism (VTE).
+Meta-analysis of randomized controlled trials, comparing two durations of anticoagulation, identified in 1999 by a computerized search of the Cochrane Controlled Trial Register, Medline and Embase, completed by an extensive review of the references of pertinent articles.
+The meta-analysis was performed on literature data.
+Seven published controlled trials were included.
+Relative risks with 95% confidence intervals were computed using the relative risk logarithm method.
+Statistical significance was set up at 0.01 for the test of association.
+Outcomes are major haemorrhage and recurrence after a 12-month follow-up.
+For the recurrence end-point (sample size of 2304 patients), a duration treatment of 12-24 weeks seems preferable to a 3-6 week regimen, with a relative risk (RR) of 0.60 (95% CI: 0.45-0.79,
+P < 0.001).
+For the major haemorrhage end-point (1823 patients), the RR is not significantly different from 1 (RR = 1.43, 95% CI: 0.51-4.01,
+P = 0. 5).
+The results were similar for the subgroup 'permanent risk factors' or 'idiopathic VTE' (RR for recurrence = 0.48, 95% CI: 0. 34-0.68,
+P < 0.001).
+The tendency was similar, although not reaching statistical significance, for the 'temporary risk factors' subgroup (RR for recurrence = 0.34, 95% CI: 0.13-0.93,
+P = 0.035).
+After a first episode of VTE, a long-term treatment regimen allows a significant reduction in the incidence of recurrences without increasing the incidence of bleeding events.

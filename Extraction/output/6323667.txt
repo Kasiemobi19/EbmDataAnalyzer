@@ -1,0 +1,13 @@
+Title 
+The Journal of pediatrics
+
+Article Title 
+Efficacy of topical antibiotic therapy in acute conjunctivitis in children.
+Abstract Text 
+We studied 102 children aged 1 month to 18 years in a randomized, double-blind trial designed to determine both the natural history of bacterial conjunctivitis and whether topical antibiotic therapy is beneficial.
+Affected eyes were treated four times a day for 7 days with drug (polymyxin-bacitracin ophthalmic ointment) or placebo.
+Eighty-four patients had proved bacterial conjunctivitis (Haemophilus influenzae 61, Streptococcus pneumoniae 22, both one); 66 of these received only topical therapy.
+By 3 to 5 days, 21 of 34 (62%) patients receiving topical antibiotic were clinically cured, whereas only nine of 32 (28%) patients given placebo were cured (P less than 0.02).
+By 8 to 10 days, 31 (91%) of the patients given antibiotic and 23 (72%) of the placebo group were cured (P = NS).
+The bacterial pathogen was eradicated by day 3 to 5 in 71% and by day 8 to 10 in 79% of patients given antibiotic, compared to 19% and 31% of the placebo group (P less than 0.001).
+Acute bacterial conjunctivitis is a self-limited disease, but topical antibiotic therapy with polymyxin-bacitracin shortens the duration of clinical disease and enhances eradication of the causative organism from the conjunctiva.

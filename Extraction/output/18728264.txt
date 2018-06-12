@@ -1,0 +1,23 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Nut, corn, and popcorn consumption and the incidence of diverticular disease.
+Abstract Text 
+Patients with diverticular disease are frequently advised to avoid eating nuts, corn, popcorn, and seeds to reduce the risk of complications.
+However, there is little evidence to support this recommendation.
+To determine whether nut, corn, or popcorn consumption is associated with diverticulitis and diverticular bleeding.
+The Health Professionals Follow-up Study is a cohort of US men followed up prospectively from 1986 to 2004 via self-administered questionnaires about medical (biennial) and dietary (every 4 years) information.
+Men reporting newly diagnosed diverticulosis or diverticulitis were mailed supplemental questionnaires.
+The study included 47,228 men aged 40 to 75 years who at baseline were free of diverticulosis or its complications, cancer, and inflammatory bowel disease and returned a food-frequency questionnaire.
+Incident diverticulitis and diverticular bleeding.
+During 18 years of follow-up, there were 801 incident cases of diverticulitis and 383 incident cases of diverticular bleeding.
+We found inverse associations between nut and popcorn consumption and the risk of diverticulitis.
+The multivariate hazard ratios for men with the highest intake of each food (at least twice per week) compared with men with the lowest intake (less than once per month) were 0.80 (95% confidence interval, 0.63-1.01;
+P for trend = .04)
+for nuts and 0.72 (95% confidence interval, 0.56-0.92;
+P for trend = .007)
+for popcorn.
+No associations were seen between corn consumption and diverticulitis or between nut, corn, or popcorn consumption and diverticular bleeding or uncomplicated diverticulosis.
+In this large, prospective study of men without known diverticular disease, nut, corn, and popcorn consumption did not increase the risk of diverticulosis or diverticular complications.
+The recommendation to avoid these foods to prevent diverticular complications should be reconsidered.

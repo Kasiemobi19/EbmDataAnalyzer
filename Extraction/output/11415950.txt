@@ -1,0 +1,16 @@
+Title 
+American journal of epidemiology
+
+Article Title 
+Measures of menopausal status in relation to demographic, reproductive, and behavioral characteristics in a population-based study of women aged 35-49 years.
+Abstract Text 
+The purpose of this cross-sectional analysis of women aged 35-49 years from the Third National Health and Nutrition Examination Survey, conducted between 1988 and 1994, was to assess associations with menopausal status based either on menstrual cycle patterns or on elevated (>20 IU/liter) follicle-stimulating hormone.
+Menstrual cycle-based menopausal status was defined for women who had not had surgical menopause by months since the last period (<2, 2-12, and >12 months for pre-, peri-, and postmenopause, respectively).
+Logistic regression was adjusted for age, smoking, and unilateral oophorectomy.
+Higher body mass index (> or =30 kg/m(2) compared with < 25.0 kg/m(2)) was associated with a lower likelihood of elevated follicle-stimulating hormone (odds ratio (OR)=0.6,
+95% confidence interval (CI): 0.4, 0.9) but this association was not seen with the menstrual measure of menopause.
+Exercise (three or more times per week) was associated with a lower likelihood of being postmenopausal on the basis of menstrual (OR = 0.3, 95% CI: 0.2, 0.7) and hormonal (OR = 0.6, 95% CI: 0.4, 1.0) measures.
+Alcohol use also tended to be associated with postmenopausal status by either measure, but not significantly so.
+There was little evidence of associations with ethnicity, education, age at menarche, number of livebirths, and oral contraceptive use.
+Menstrual-based definitions of menopause can be misclassified for women with menstrual irregularity.
+This might explain why obese women were classified menstrually as menopausal while remaining hormonally premenopausal.

@@ -1,0 +1,24 @@
+Title 
+The Pediatric infectious disease journal
+
+Article Title 
+Treatment of oropharyngeal candidiasis in immunocompetent infants: a randomized multicenter study of miconazole gel vs. nystatin suspension. The Antifungals Study Group.
+Abstract Text 
+Miconazole gel has previously been shown to be an effective treatment for oropharyngeal candidiasis (thrush) in immunocompetent infants.
+This study compares miconazole gel with the standard therapeutic agent, nystatin suspension, with regard to efficacy, optimal duration of therapy and safety.
+Prospective multicenter, randomized, office-based open trial.
+Twenty-six pediatricians enrolled 227 immunocompetent infants with signs of oropharyngeal thrush.
+Subjects were randomly assigned to receive 25 mg of miconazole as oral gel four times daily or 100,000 IU of nystatin as suspension four times daily after meals.
+All subjects were evaluated for safety.
+Fifteen patients whose thrush was not confirmed by culture were excluded from further analysis.
+The remaining 212 subjects were entered into an intention-to-treat analysis.
+Another 29 patients violated the study protocol; the remaining 183 subjects were evaluated for efficacy (per protocol analysis).
+Clinical cure by Day 5 of treatment was demonstrated in 84.7% of the 98 subjects in the miconazole group and 21.2% of the 85 subjects in the nystatin group (P < 0.0001).
+By Day 8, the cumulative clinical cure rates were 96.9% (miconazole) and 37.6% (nystatin), respectively (P < 0.0001).
+By Day 12.99.0% of subjects in the miconazole group and 54.1% of subjects in the nystatin group were clinically cured (P < 0.0001).
+Premature cessation of treatment at parents' request because of lack of clinical efficacy occurred in none of the infants treated with miconazole and in 6 infants treated with nystatin (P = 0.029).
+The oral yeast eradication rate on Day 5 was 54.1% with miconazole and 8.2% with nystatin (P < 0.0001).
+Clinical relapses of oropharyngeal thrush and side effects of the study drugs were observed with similar frequency in both study arms.
+Miconazole gel was significantly superior to nystatin suspension with regard to efficacy, rapidity of achieving cure and oropharyngeal yeast eradication.
+Relapses and side effects did not occur more frequently with miconazole than with nystatin.
+The results of this study indicate that miconazole gel is superior to nystatin suspension as the treatment for oropharyngeal candidiasis in immunocompetent infants.

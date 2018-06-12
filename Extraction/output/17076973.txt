@@ -1,0 +1,17 @@
+Title 
+Current medical research and opinion
+
+Article Title 
+A randomized, controlled, open-label trial of a single day of mebendazole versus a single dose of tinidazole in the treatment of giardiasis in children.
+Abstract Text 
+Giardia duodenalis is the most commonly detected parasite in the intestinal tract of humans and 5-nitroimidazole compounds, quinacrine and furazolidone have been used against giardiasis.
+However, cases refractory to treatment with these drugs are becoming more common worldwide.
+To compare the efficacy and safety of mebendazole versus tinidazole in the treatment of giardiasis.
+122 children (aged 5 to 15 years) of both sexes with confirmed Giardia duodenalis cysts or trophozoites in their stool samples were randomly separated into two groups of 61 individuals.
+Each group received either mebendazole 200 mg three times for 1 day or tinidazole 50 mg/kg in a single dose.
+The evaluation of the efficacy was based on parasitological response.
+Parents or legal guardians of each child were asked to provide three fecal samples on days 3, 5, and 7 after treatment completion.
+A child was considered to be cured if no Giardia trophozoites or cysts were found in any of the three post-treatment fecal specimens evaluated by direct wet mounts and/or after Ritchie concentration techniques.
+The frequency of cure was higher for tinidazole (81.97%) than for mebendazole (63.93%); the difference was statistically significant (p < 0.05).
+Transient abdominal pain was more common in children treated with mebendazole (p < 0.05), whereas loss of appetite, bitter taste, headache, vomiting, and nausea were more common in the tinidazole-treated group (p < 0.05).
+Three doses of mebendazole, in a single day, are inferior to a single dose tinidazole in the treatment of giardiasis.

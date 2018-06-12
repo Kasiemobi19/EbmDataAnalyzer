@@ -1,0 +1,20 @@
+Title 
+Current medical research and opinion
+
+Article Title 
+Efficacy and tolerability of twice-daily pregabalin for treating pain and related sleep interference in postherpetic neuralgia: a 13-week, randomized trial.
+Abstract Text 
+This trial evaluated the efficacy and safety of pregabalin dosed twice daily (BID) for relief of neuro-pathic pain associated with postherpetic neuralgia (PHN).
+The 13-week, double-blind, placebo-controlled study randomized 370 patients with PHN to pregabalin (150, 300, or 600 mg/day BID) or placebo.
+Primary efficacy measure was endpoint mean pain score from daily pain diaries.
+Secondary efficacy measures included endpoint mean sleep-interference score from daily sleep diaries and Patient Global Impression of Change (PGIC).
+Safety evaluations included adverse events (AEs), physical and neurologic examinations, 12-lead ECG, vital signs, and laboratory testing.
+Pregabalin provided significant, dose-proportional pain relief at endpoint: difference from placebo in mean pain score, 150 mg/day, -0.88, p = 0.0077; 300 mg/day, -1.07, p = 0.0016; 600 mg/day, -1.79, p = 0.0003.
+Weekly mean pain scores significantly improved as early as week 1.
+Sleep interference in all pregabalin groups was also significantly improved at endpoint, compared with placebo (p < 0.001), beginning at week 1 (p < 0.01).
+At study termination, patients in the 150 (p = 0.02) and 600 mg/day (p = 0.003) groups were more likely to report global improvement than were those in the placebo group.
+Most AEs were mild or moderate.
+Among pregabalin-treated patients, 13.5% withdrew due to AEs, most commonly for dizziness (16 patients, 5.8%), somnolence (8, 2.9%), or ataxia (7, 2.5%).
+Pregabalin, dosed BID, reduced neuropathic pain associated with PHN and was well tolerated.
+It also reduced the extent to which pain interfered with sleep.
+Pregabalin's effects were seen as early as week 1 and were sustained throughout the 13-week study.

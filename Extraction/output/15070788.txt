@@ -1,0 +1,15 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+C-reactive protein and other circulating markers of inflammation in the prediction of coronary heart disease.
+Abstract Text 
+C-reactive protein is an inflammatory marker believed to be of value in the prediction of coronary events.
+We report data from a large study of C-reactive protein and other circulating inflammatory markers, as well as updated meta-analyses, to evaluate their relevance to the prediction of coronary heart disease.
+Measurements were made in samples obtained at base line from up to 2459 patients who had a nonfatal myocardial infarction or died of coronary heart disease during the study and from up to 3969 controls without a coronary heart disease event in the Reykjavik prospective study of 18,569 participants.
+Measurements were made in paired samples obtained an average of 12 years apart from 379 of these participants in order to quantify within-person fluctuations in inflammatory marker levels.
+The long-term stability of C-reactive protein values (within-person correlation coefficient, 0.59; 95 percent confidence interval, 0.52 to 0.66) was similar to that of both blood pressure and total serum cholesterol.
+After adjustment for base-line values for established risk factors, the odds ratio for coronary heart disease was 1.45 (95 percent confidence interval, 1.25 to 1.68) in a comparison of participants in the top third of the group with respect to base-line C-reactive protein values with those in the bottom third, and similar overall findings were observed in an updated meta-analysis involving a total of 7068 patients with coronary heart disease.
+By comparison, the odds ratios in the Reykjavik Study for coronary heart disease were somewhat weaker for the erythrocyte sedimentation rate (1.30; 95 percent confidence interval, 1.13 to 1.51) and the von Willebrand factor concentration (1.11; 95 percent confidence interval, 0.97 to 1.27) but generally stronger for established risk factors, such as an increased total cholesterol concentration (2.35; 95 percent confidence interval, 2.03 to 2.74) and cigarette smoking (1.87; 95 percent confidence interval, 1.62 to 2.16).
+C-reactive protein is a relatively moderate predictor of coronary heart disease.
+Recommendations regarding its use in predicting the likelihood of coronary heart disease may need to be reviewed.

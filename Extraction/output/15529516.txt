@@ -1,0 +1,14 @@
+Title 
+International journal of clinical practice
+
+Article Title 
+Cardiovascular effects of treatment of type 2 diabetes with pioglitazone, metformin and gliclazide.
+Abstract Text 
+Cardiovascular mortality and morbidity are increased in patients with type 2 diabetes.
+However, there are few data from clinical trials comparing cardiovascular effects of alternative oral anti-diabetic agents.
+Major cardiovascular outcomes during four one-year, double-blind trials in over 3700 patients with type 2 diabetes randomised to either a thiazolidinedione, pioglitazone, metformin or a sulphonylurea, gliclazide treatment have been combined.
+Mean blood pressure was slightly reduced by all treatments, with pioglitazone treatment resulting in the largest falls (approximately 1.5 mmHg).
+Hospitalisations for cardiac or cerebrovascular events were similar with the different treatments.
+Overall mortality was seven of 1857 for pioglitazone and 10 of 1856 for non-pioglitazone treatments, of which three and six were cardiac deaths, respectively.
+The incidence of congestive cardiac failure was similar with pioglitazone (12/1857) and non-pioglitazone (10/1856) treatments.
+The results show similar cardiovascular outcome for the three different treatments over a one-year period, but demonstrate interesting differences, which will require longer-term formal outcome studies to determine their significance.

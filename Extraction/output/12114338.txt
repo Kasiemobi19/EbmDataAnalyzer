@@ -1,0 +1,19 @@
+Title 
+Chest
+
+Article Title 
+A 6-month, placebo-controlled study comparing lung function and health status changes in COPD patients treated with tiotropium or salmeterol.
+Abstract Text 
+Tiotropium, a once-daily anticholinergic, and salmeterol represent two inhaled, long-acting bronchodilators from different pharmacologic classes.
+A trial was designed to examine the efficacy and safety of both compounds with multiple outcome measures, including lung function, dyspnea, and health-related quality of life (HRQoL) in patients with COPD.
+A 6-month, randomized, placebo-controlled, double-blind, double-dummy, parallel-group study of tiotropium, 18 microg once daily via dry-powder inhaler, compared with salmeterol, 50 microg bid via metered-dose inhaler, was conducted in patients with COPD.
+Efficacy was assessed by 12-h monitoring of spirometry, transition dyspnea index (TDI), and the St. George's Respiratory Questionnaire (SGRQ).
+A total of 623 patients participated (tiotropium, n= 209; salmeterol, n = 213; and placebo, n = 201).
+The groups were similar in age (mean, 65 years), gender (75% men), and baseline FEV(1) (mean, 1.08 +/- 0.37 L; percent predicted, 40 +/- 12% [+/- SD]).
+Compared with placebo treatment, the mean predose morning FEV(1) following 6 months of therapy increased significantly more for the tiotropium group (0.14 L) than the salmeterol group (0.09 L; p < 0.01).
+The average FEV(1) (0 to 12 h) for tiotropium was statistically superior to salmeterol (difference, 0.08 L; p < 0.001).
+Tiotropium improved TDI focal score by 1.02 U compared with placebo (p = 0.01), whereas there was no significant change in TDI focal score with salmeterol (0.24 U).
+Tiotropium was superior to salmeterol in improving TDI focal score (p < 0.05).
+At 6 months, the mean improvement in SGRQ total score vs baseline was tiotropium, - 5.14 U (p < 0.05 vs placebo); salmeterol, - 3.54 U (p = 0.4 vs placebo); and placebo, - 2.43 U. A statistically higher proportion of patients receiving tiotropium achieved at least a 4-U change in SGRQ score compared to patients receiving placebo.
+Both active drugs reduced the need for rescue albuterol (p < 0.0001).
+Tiotropium once daily produces superior bronchodilation, improvements in dyspnea, and proportion of patients achieving meaningful changes in HRQoL compared to twice-daily salmeterol in patients with COPD.

@@ -1,0 +1,22 @@
+Title 
+Neurology
+
+Article Title 
+Chronic daily headache with analgesic overuse: epidemiology and impact on quality of life.
+Abstract Text 
+To analyze the prevalence and demography of chronic daily headache (CDH) with analgesic overuse.
+A population of 9,984 inhabitants aged 14 or older living in Santoña, Spain, was studied.
+The authors personally interviewed 4,855 subjects, using a quota sampling approach.
+Those with headache for > or = 10 days/month and some analgesic use were asked to fill in a diary over the course of 1 month.
+Then, subjects were classified into CDH with or without analgesic overuse subtypes.
+Quality of life (Short Form-36 Health Survey [SF-36]) was also assessed in this second interview.
+Headache for > or = 10 days/month with analgesic consumption was reported by 332 subjects.
+Seven had secondary headache.
+Seventy-four (standardized prevalence 1.41%, 95% CI 1.1 to 1.8) fulfilled criteria for CDH with analgesic overuse.
+Prevalence in women (2.6%, 2.0 to 3.3) was much higher than in men (0.19%, 0.006 to 0.52).
+Mean age was 56 years (range 19 to 82 years).
+As recalled by the subjects, the mean age at onset of CDH was 38 years (range 9 to 82 years), whereas the mean age at onset of CDH with frequent analgesic consumption was 45 years (range 19 to 80 years) and that of primary headache was 22 years (range 5 to 60 years).
+CDH subjects showed a significant decrease in each SF-36 health-related score as compared with healthy control subjects.
+Transformed migraine was diagnosed in 49 (prevalence 0.9%), chronic tension-type headache in 20 (0.4%), and new daily persistent headache in 5 (0.1%).
+Thirty-five percent of patients overused simple analgesics, 22% ergotics, 12.5% opioids, and 2.7% triptans; the remaining 27.8% were overusing different combinations.
+CDH with analgesic overuse is a common disorder in the general population, mainly in women in their fifties, in whom 5% meet its diagnostic criteria.

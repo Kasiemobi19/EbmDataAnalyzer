@@ -1,0 +1,15 @@
+Title 
+Circulation
+
+Article Title 
+Joint effects of serum triglyceride and LDL cholesterol and HDL cholesterol concentrations on coronary heart disease risk in the Helsinki Heart Study. Implications for treatment.
+Abstract Text 
+We studied the joint effect of baseline triglyceride and lipoprotein cholesterol levels on the incidence of cardiac end points in the trial group (n = 4,081) of the Helsinki Heart Study, a 5-year randomized coronary primary prevention trial among dyslipidemic middle-aged men.
+The relative risks (RR) were calculated using Cox proportional hazards models with a dummy variable technique that allows simultaneous study of subgroup combinations from the placebo and treatment groups.
+In the placebo group (n = 2,045), the low density lipoprotein cholesterol (LDL-C)/high density lipoprotein cholesterol (HDL-C) ratio was the best single predictor of cardiac events.
+This ratio in combination with the serum triglyceride level revealed a high-risk subgroup: subjects with LDL-C/HDL-C ratio greater than 5 and triglycerides greater than 2.3 mmol/l had a RR of 3.8 (95% CI, 2.2-6.6)
+compared with those with LDL-C/HDL-C ratio less than or equal to 5 and triglyceride concentration less than or equal to 2.3 mmol/l.
+In subjects with triglyceride concentration greater than 2.3 mmol/l and LDL-C/HDL-C ratio less than or equal to 5, RR was close to unity (1.1), whereas in those with triglyceride level less than or equal to 2.3 mmol/l and LDL-C/HDL-C ratio greater than 5, RR was 1.2.
+The high-risk group with LDL-C/HDL-C ratio greater than 5 and triglyceride level greater than 2.3 mmol/l profited most from treatment with gemfibrozil, with a 71% lower incidence of coronary heart disease events than the corresponding placebo subgroup.
+In all other subgroups, the reduction in CHD incidence was substantially smaller.
+Serum triglyceride concentration has prognostic value, both for assessing coronary heart disease risk and in predicting the effect of gemfibrozil treatment, especially when used in combination with HDL-C and LDL-C.

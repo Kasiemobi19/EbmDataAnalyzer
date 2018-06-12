@@ -1,0 +1,13 @@
+Title 
+BMJ (Clinical research ed.)
+
+Article Title 
+Cigarette smoking and serum lipid and lipoprotein concentrations: an analysis of published data.
+Abstract Text 
+To examine the association between cigarette smoking in adults and serum lipid and lipoprotein concentrations the results of 54 published studies were analysed.
+Overall, smokers had significantly higher serum concentrations of cholesterol (3.0%), triglycerides (9.1%), very low density lipoprotein cholesterol (10.4%), and low density lipoprotein cholesterol (1.7%) and lower serum concentrations of high density lipoprotein cholesterol (-5.7%) and apolipoprotein AI (-4.2%) compared with nonsmokers.
+Among non-smokers and light, moderate, and heavy smokers a significant dose response effect was present for cholesterol (0, 1.8, 4.3, and 4.5% respectively), triglycerides (0, 10.7, 11.5, and 18.0%), very low density lipoprotein cholesterol (0, 7.2, 44.4, and 39.0%), low density lipoprotein cholesterol (0, -1.1, 1.4, and 11.0%), high density lipoprotein cholesterol (0, -4.6, -6.3, and -8.9%), and apolipoprotein AI (0, -3.7 and -5.7% in non-smokers and light and heavy smokers).
+These dose response effects may provide new evidence for a causal relation between exposure to cigarette smoke and changes in serum lipid and lipoprotein concentrations whether as a direct result of physiological changes or of dietary changes induced by smoking.
+Adequate prospective data to estimate the excess risk of coronary artery disease existed only for cholesterol concentration.
+When that information was combined with data from the present study, and given that smokers as a group face an average overall excess risk of coronary artery disease of 70%, it was estimated that the observed increased serum cholesterol concentration in smokers may account for at least 9% of that excess risk.
+Furthermore, the dose response effect of smoking on serum cholesterol concentration suggests a gradient of increased absolute risk of coronary artery disease between light and heavy smokers.

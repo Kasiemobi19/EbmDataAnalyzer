@@ -1,0 +1,22 @@
+Title 
+Pediatrics
+
+Article Title 
+Sleep environment and the risk of sudden infant death syndrome in an urban population: the Chicago Infant Mortality Study.
+Abstract Text 
+To examine risk factors for sudden infant death syndrome (SIDS) with the goal of reducing SIDS mortality among blacks, which continues to affect this group at twice the rate of whites.
+We analyzed data from a population-based case-control study of 260 SIDS deaths that occurred in Chicago between 1993 and 1996 and an equal number of matched living controls to determine the association between SIDS and factors in the sleep environment and other variables related to infant care.
+The racial/ethnic composition of the study groups was 75.0%
+black; 13.1% Hispanic white; and 11.9% non-Hispanic white.
+Several factors related to the sleep environment during last sleep were associated with higher risk of SIDS: placement in the prone position (unadjusted odds ratio [OR]: 2.4; 95% confidence interval [CI]: 1.7-3.4),
+soft surface (OR: 5.1; 95% CI: 3.1-8.3),
+pillow use (OR: 2.5; 95% CI: 1.5-4.2),
+face and/or head covered with bedding (OR: 2.5; 95% CI: 1.3-4.6),
+bed sharing overall (OR: 2.7; 95% CI: 1.8-4.2),
+bed sharing with parent(s) alone (OR: 1.9; 95% CI: 1.2-3.1),
+and bed sharing in other combinations (OR: 5.4; 95% CI: 2.8-10.2).
+Pacifier use was associated with decreased risk (unadjusted OR: 0.3; 95% CI: 0.2-0.5),
+as was breastfeeding either ever (OR: 0.2; 95% CI: 0.1-0.3)
+or currently (OR: 0.2; 95% CI: 0.1-0.4).
+In a multivariate model, several factors remained significant: prone sleep position, soft surface, pillow use, bed sharing other than with parent(s) alone, and not using a pacifier.
+To lower further the SIDS rate among black and other racial/ethnic groups, prone sleeping, the use of soft bedding and pillows, and some types of bed sharing should be reduced.

@@ -1,0 +1,3068 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    16418528
+   </pmid>
+   <datecreated>
+    <year>
+     2006
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     18
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2006
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     14
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     21
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0893-8512
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       19
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        2006
+       </year>
+       <month>
+        Jan
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Clinical microbiology reviews
+     </title>
+     <isoabbreviation>
+      Clin. Microbiol. Rev.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Prospects for vaccine prevention of meningococcal infection.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      142-64
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      Neisseria meningitidis is the leading cause of bacterial meningitis in the United States and worldwide. A serogroup A/C/W-135/Y polysaccharide meningococcal vaccine has been licensed in the United States since 1981 but has not been used universally outside of the military. On 14 January 2005, a polysaccharide conjugate vaccine that covers meningococcal serogroups A, C, W-135, and Y was licensed in the United States for 11- to 55-year-olds and is now recommended for the routine immunization of adolescents and other high-risk groups. This review covers the changing epidemiology of meningococcal disease in the United States, issues related to vaccine prevention, and recommendations on the use of the new vaccine.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Infectious Diseases Epidemiology Research Unit, 521 Parran Hall, 130 Desoto St., University of Pittsburgh, Pittsburgh, PA 15261, USA. lharriso@edc.pitt.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Harrison
+      </lastname>
+      <forename>
+       Lee H
+      </forename>
+      <initials>
+       LH
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Clin Microbiol Rev
+    </medlineta>
+    <nlmuniqueid>
+     8807282
+    </nlmuniqueid>
+    <issnlinking>
+     0893-8512
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Meningococcal Vaccines
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Vaccines, Conjugate
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      NIPH Ann. 1991 Dec;14(2):147-55; discussion 155-6
+     </refsource>
+     <pmid version="1">
+      1812429
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      NIPH Ann. 1991 Dec;14(2):195-207; discussion 208-10
+     </refsource>
+     <pmid version="1">
+      1812432
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      NIPH Ann. 1991 Dec;14(2):211-2; discussion 213
+     </refsource>
+     <pmid version="1">
+      1812433
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Qual Assur Util Rev. 1991 Fall;6(3):82-4
+     </refsource>
+     <pmid version="1">
+      1824448
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Microbiol Rev. 1991 Jul;4(3):359-95
+     </refsource>
+     <pmid version="1">
+      1889047
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1991 Jun 20;324(25):1767-72
+     </refsource>
+     <pmid version="1">
+      1903846
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Eur J Clin Microbiol Infect Dis. 1991 May;10(5):405-9
+     </refsource>
+     <pmid version="1">
+      1908380
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1998 Sep 24;339(13):868-74
+     </refsource>
+     <pmid version="1">
+      9744970
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Epidemiol Infect. 1998 Aug;121(1):85-94
+     </refsource>
+     <pmid version="1">
+      9747759
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1998 Nov 18;280(19):1685-9
+     </refsource>
+     <pmid version="1">
+      9832000
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Intern Med. 1974 Dec;81(6):740-5
+     </refsource>
+     <pmid version="1">
+      4215351
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Invest. 1972 Jan;51(1):89-96
+     </refsource>
+     <pmid version="1">
+      4621363
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1972 Jul 6;287(1):5-9
+     </refsource>
+     <pmid version="1">
+      4623954
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1971 Aug;124(2):199-205
+     </refsource>
+     <pmid version="1">
+      4942060
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Bull World Health Organ. 1971;45(3):291-3
+     </refsource>
+     <pmid version="1">
+      4947213
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Mil Med. 1967 Dec;132(12):1009-11
+     </refsource>
+     <pmid version="1">
+      4965740
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Exp Med. 1969 Jun 1;129(6):1307-26
+     </refsource>
+     <pmid version="1">
+      4977280
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Exp Med. 1969 Jun 1;129(6):1327-48
+     </refsource>
+     <pmid version="1">
+      4977281
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Exp Med. 1969 Jun 1;129(6):1349-65
+     </refsource>
+     <pmid version="1">
+      4977282
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Infect Immun. 1983 Nov;42(2):599-604
+     </refsource>
+     <pmid version="1">
+      6417019
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Med. 1984 Jan;76(1):115-21
+     </refsource>
+     <pmid version="1">
+      6419602
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Invest. 1980 May;65(5):1141-4
+     </refsource>
+     <pmid version="1">
+      6767739
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Med. 1977 May;62(5):661-6
+     </refsource>
+     <pmid version="1">
+      404877
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1977 Aug;136 Suppl:S31-5
+     </refsource>
+     <pmid version="1">
+      408431
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1977 Aug;136 Suppl:S43-50
+     </refsource>
+     <pmid version="1">
+      408432
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1977 Aug;136 Suppl:S78-83
+     </refsource>
+     <pmid version="1">
+      408435
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1977 Sep 29;297(13):686-91
+     </refsource>
+     <pmid version="1">
+      408682
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1977 Nov;60(5):673-80
+     </refsource>
+     <pmid version="1">
+      411104
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Bull World Health Organ. 1977;55(6):645-51
+     </refsource>
+     <pmid version="1">
+      413639
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Exp Med. 1978 Mar 1;147(3):629-44
+     </refsource>
+     <pmid version="1">
+      416164
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Pediatr. 1978 May;92(5):818-22
+     </refsource>
+     <pmid version="1">
+      417160
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br Med J. 1978 May 20;1(6123):1317-9
+     </refsource>
+     <pmid version="1">
+      417754
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Trans R Soc Trop Med Hyg. 1979;73(5):557-62
+     </refsource>
+     <pmid version="1">
+      531909
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1976 Jan 19;235(3):261-5
+     </refsource>
+     <pmid version="1">
+      811822
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1976 Aug;134(2):201-4
+     </refsource>
+     <pmid version="1">
+      823273
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Rev Infect Dis. 1991 Jan-Feb;13 Suppl 2:S170-3
+     </refsource>
+     <pmid version="1">
+      2017647
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Intern Med. 1991 May;151(5):1005-9
+     </refsource>
+     <pmid version="1">
+      2025124
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Infect Immun. 1990 Feb;58(2):569-72
+     </refsource>
+     <pmid version="1">
+      2105277
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Can J Microbiol. 1990 Feb;36(2):117-22
+     </refsource>
+     <pmid version="1">
+      2110857
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1990 Sep 12;264(10):1271-5
+     </refsource>
+     <pmid version="1">
+      2117679
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1990 Oct;162(4):867-74
+     </refsource>
+     <pmid version="1">
+      2119401
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Microbiologica. 1990 Jul;13(3):225-9
+     </refsource>
+     <pmid version="1">
+      2125684
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1990 Nov 15;323(20):1381-7
+     </refsource>
+     <pmid version="1">
+      2233904
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Rev Infect Dis. 1985 Jul-Aug;7(4):504-10
+     </refsource>
+     <pmid version="1">
+      2412271
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Infect Immun. 1988 Apr;56(4):773-8
+     </refsource>
+     <pmid version="1">
+      2450067
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Microbiol Rev. 1989 Apr;2 Suppl:S118-24
+     </refsource>
+     <pmid version="1">
+      2655881
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1989 Aug;84(2):255-61
+     </refsource>
+     <pmid version="1">
+      2787496
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Proc Natl Acad Sci U S A. 1986 Jul;83(13):4927-31
+     </refsource>
+     <pmid version="1">
+      3088568
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1986 Dec;154(6):1033-6
+     </refsource>
+     <pmid version="1">
+      3097160
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Immunol. 1987 Jun 15;138(12):4402-7
+     </refsource>
+     <pmid version="1">
+      3108388
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1987 Jul;156(1):211-3
+     </refsource>
+     <pmid version="1">
+      3110305
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Antimicrob Agents Chemother. 1987 Jun;31(6):962-3
+     </refsource>
+     <pmid version="1">
+      3113331
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Epidemiol Infect. 1987 Dec;99(3):591-601
+     </refsource>
+     <pmid version="1">
+      3123263
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Antimicrob Chemother. 1988 Apr;21(4):489-96
+     </refsource>
+     <pmid version="1">
+      3132442
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1988 Nov 11;260(18):2686-9
+     </refsource>
+     <pmid version="1">
+      3184335
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Public Health. 1988 Sep;102(5):471-6
+     </refsource>
+     <pmid version="1">
+      3186910
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Antimicrob Agents Chemother. 1988 Nov;32(11):1740-1
+     </refsource>
+     <pmid version="1">
+      3252755
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1988 Sep 9;260(10):1413-8
+     </refsource>
+     <pmid version="1">
+      3261348
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Epidemiol. 1987 Mar;125(3):499-508
+     </refsource>
+     <pmid version="1">
+      3812456
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Microbiol. 1985 Aug;22(2):152-6
+     </refsource>
+     <pmid version="1">
+      3928679
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Vaccine. 1985 Sep;3(3):340-2
+     </refsource>
+     <pmid version="1">
+      3933203
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Exp Med. 1985 Dec 1;162(6):1837-51
+     </refsource>
+     <pmid version="1">
+      3934317
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Eur J Clin Microbiol. 1985 Dec;4(6):533-6
+     </refsource>
+     <pmid version="1">
+      3937731
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Infect Immun. 1972 Nov;6(5):651-6
+     </refsource>
+     <pmid version="1">
+      4118016
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1972 Nov;126(5):514-21
+     </refsource>
+     <pmid version="1">
+      4197754
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1973 Dec;128(6):769-76
+     </refsource>
+     <pmid version="1">
+      4203078
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Bull World Health Organ. 1973 Jun;48(6):667-73
+     </refsource>
+     <pmid version="1">
+      4206451
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1974 Jun;129(6):644-9
+     </refsource>
+     <pmid version="1">
+      4209720
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1983 Oct;148(4):754-8
+     </refsource>
+     <pmid version="1">
+      6313816
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Trop Med Parasitol. 1983 Apr;77(2):175-8
+     </refsource>
+     <pmid version="1">
+      6349560
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Rev Infect Dis. 1983 Sep-Oct;5(5):969-72
+     </refsource>
+     <pmid version="1">
+      6356274
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1984 Feb 10;251(6):788-90
+     </refsource>
+     <pmid version="1">
+      6363729
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1983 Apr 15;249(15):2069-72
+     </refsource>
+     <pmid version="1">
+      6403721
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Bull World Health Organ. 1983;61(2):317-23
+     </refsource>
+     <pmid version="1">
+      6407768
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Infect Immun. 1983 Aug;41(2):609-17
+     </refsource>
+     <pmid version="1">
+      6409811
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Bacteriol. 1983 Aug;155(2):498-504
+     </refsource>
+     <pmid version="1">
+      6409879
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect. 1983 May;6(3):247-55
+     </refsource>
+     <pmid version="1">
+      6411824
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Proc Natl Acad Sci U S A. 2003 May 13;100(10):6075-80
+     </refsource>
+     <pmid version="1">
+      12730365
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 2003 May 31;361(9372):1902-4
+     </refsource>
+     <pmid version="1">
+      12788589
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Infect Dis. 2003 Jul 15;37(2):307-10
+     </refsource>
+     <pmid version="1">
+      12856224
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1980 Nov 14;244(19):2167-71
+     </refsource>
+     <pmid version="1">
+      6775103
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1980 Dec;142(6):861-8
+     </refsource>
+     <pmid version="1">
+      6780634
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1981 Sep 4;246(10):1119-20
+     </refsource>
+     <pmid version="1">
+      6790733
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Scand J Infect Dis. 1981;13(2):105-9
+     </refsource>
+     <pmid version="1">
+      6797052
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Trans R Soc Trop Med Hyg. 1991;85 Suppl 1:32-6
+     </refsource>
+     <pmid version="1">
+      1725072
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      NIPH Ann. 1991 Dec;14(2):125-30; discussion 130-2
+     </refsource>
+     <pmid version="1">
+      1812425
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Biol Stand. 1982 Oct;10(4):335-9
+     </refsource>
+     <pmid version="1">
+      6818232
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect. 1982 May;4(3):247-52
+     </refsource>
+     <pmid version="1">
+      6821102
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1983 Jul;148(1):131-7
+     </refsource>
+     <pmid version="1">
+      6886479
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Bull World Health Organ. 1981;59(4):575-84
+     </refsource>
+     <pmid version="1">
+      6976227
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Surg Clin North Am. 1981 Feb;61(1):135-55
+     </refsource>
+     <pmid version="1">
+      7010637
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1982 Nov;146(5):626-37
+     </refsource>
+     <pmid version="1">
+      7130749
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Pediatr. 1981 Oct;99(4):540-5
+     </refsource>
+     <pmid version="1">
+      7277093
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1995 Nov 23;333(21):1374-9
+     </refsource>
+     <pmid version="1">
+      7477117
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Vaccine. 1995 Jun;13(9):821-9
+     </refsource>
+     <pmid version="1">
+      7483804
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Intern Med. 1995 Dec 1;123(11):828-34
+     </refsource>
+     <pmid version="1">
+      7486464
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Intern Med. 1995 Dec 15;123(12):937-40
+     </refsource>
+     <pmid version="1">
+      7486489
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Med Microbiol. 1995 Nov;43(5):335-43
+     </refsource>
+     <pmid version="1">
+      7562997
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Infect Immun. 1995 Dec;63(12):4642-52
+     </refsource>
+     <pmid version="1">
+      7591118
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Risk Anal. 1995 Jun;15(3):369-90
+     </refsource>
+     <pmid version="1">
+      7604170
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Diagn Lab Immunol. 1995 May;2(3):314-21
+     </refsource>
+     <pmid version="1">
+      7664178
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Mol Microbiol. 1993 Feb;7(4):505-14
+     </refsource>
+     <pmid version="1">
+      7681519
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1995 Apr 12;273(14):1118-22
+     </refsource>
+     <pmid version="1">
+      7707600
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Public Health. 1995 Jun;85(6):843-5
+     </refsource>
+     <pmid version="1">
+      7762722
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1995 Feb 1;273(5):383-9
+     </refsource>
+     <pmid version="1">
+      7823383
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1995 Feb 1;273(5):390-4
+     </refsource>
+     <pmid version="1">
+      7823384
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1995 Feb 1;273(5):419-21
+     </refsource>
+     <pmid version="1">
+      7823389
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1995 Mar;171(3):632-8
+     </refsource>
+     <pmid version="1">
+      7876610
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Infect Immun. 1994 Oct;62(10):4419-24
+     </refsource>
+     <pmid version="1">
+      7927704
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Pediatr. 1994 Oct;125(4):571-6
+     </refsource>
+     <pmid version="1">
+      7931875
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1994 Feb;169(2):438-41
+     </refsource>
+     <pmid version="1">
+      8106779
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1994 Apr;169(4):847-52
+     </refsource>
+     <pmid version="1">
+      8133100
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Microbiol. 1994 Feb;32(2):323-30
+     </refsource>
+     <pmid version="1">
+      8150942
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Infect Dis. 1994 Feb;18(2):161-5
+     </refsource>
+     <pmid version="1">
+      8161621
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Can Commun Dis Rep. 1994 Jan 30;20(2):12-4
+     </refsource>
+     <pmid version="1">
+      8161971
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Vaccine. 1993 Sep;11(12):1214-20
+     </refsource>
+     <pmid version="1">
+      8256502
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      CMAJ. 1994 Jan 1;150(1):14-5
+     </refsource>
+     <pmid version="1">
+      8275404
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Immunol Res. 1993;12(3):295-311
+     </refsource>
+     <pmid version="1">
+      8288947
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1993 Jan 13;269(2):221-6
+     </refsource>
+     <pmid version="1">
+      8417239
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Invest. 1975 Dec;56(6):1536-47
+     </refsource>
+     <pmid version="1">
+      1202084
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1992 Jul;166(1):173-7
+     </refsource>
+     <pmid version="1">
+      1351510
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1992 Oct 31;340(8827):1074-8
+     </refsource>
+     <pmid version="1">
+      1357461
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      FEMS Microbiol Lett. 1992 Dec 15;79(1-3):345-9
+     </refsource>
+     <pmid version="1">
+      1478469
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Infect Dis. 1992 Feb;14(2):515-25
+     </refsource>
+     <pmid version="1">
+      1554841
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1992 Jun;165 Suppl 1:S139-43
+     </refsource>
+     <pmid version="1">
+      1588149
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1992 Jun;165 Suppl 1:S49-52
+     </refsource>
+     <pmid version="1">
+      1588177
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Microbiol. 1992 Jul;30(7):1734-8
+     </refsource>
+     <pmid version="1">
+      1629328
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Infect Immun. 1991 Nov;59(11):4097-102
+     </refsource>
+     <pmid version="1">
+      1657783
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1991 Aug 31;338(8766):554-7
+     </refsource>
+     <pmid version="1">
+      1678811
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1991 Nov 2;338(8775):1093-6
+     </refsource>
+     <pmid version="1">
+      1682541
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      NIPH Ann. 1991 Dec;14(2):169-79; discussion 180-1
+     </refsource>
+     <pmid version="1">
+      1687481
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1991 Mar 2;337(8740):514-7
+     </refsource>
+     <pmid version="1">
+      1705642
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1997 Oct 2;337(14):970-6
+     </refsource>
+     <pmid version="1">
+      9395430
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1998 Feb 11;279(6):435-9
+     </refsource>
+     <pmid version="1">
+      9466635
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1998 Mar;177(3):683-91
+     </refsource>
+     <pmid version="1">
+      9498448
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Proc Natl Acad Sci U S A. 1998 Mar 17;95(6):3140-5
+     </refsource>
+     <pmid version="1">
+      9501229
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 1998 Mar;17(3):261-3
+     </refsource>
+     <pmid version="1">
+      9535263
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Trop Med Parasitol. 1997 Oct;91(7):777-85
+     </refsource>
+     <pmid version="1">
+      9625934
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1998 Jul;178(1):266-9
+     </refsource>
+     <pmid version="1">
+      9652452
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Epidemiol Infect. 1998 Jun;120(3):257-62
+     </refsource>
+     <pmid version="1">
+      9692604
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1998 Sep;178(3):870-4
+     </refsource>
+     <pmid version="1">
+      9728562
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Emerg Infect Dis. 2000 Jul-Aug;6(4):428-9
+     </refsource>
+     <pmid version="1">
+      10905984
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Res Microbiol. 2000 Jul-Aug;151(6):465-9
+     </refsource>
+     <pmid version="1">
+      10961460
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Mol Microbiol. 2000 Sep;37(5):1146-58
+     </refsource>
+     <pmid version="1">
+      10972832
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1999 Apr 28;281(16):1493-7
+     </refsource>
+     <pmid version="1">
+      10227318
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1999 Jun;179(6):1569-72
+     </refsource>
+     <pmid version="1">
+      10228085
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Infect Immun. 1999 Jun;67(6):2928-34
+     </refsource>
+     <pmid version="1">
+      10338501
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Vaccine. 1999 May 14;17(19):2377-83
+     </refsource>
+     <pmid version="1">
+      10392619
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Invest. 1979 May;63(5):836-48
+     </refsource>
+     <pmid version="1">
+      109466
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1979 Nov;140(5):690-7
+     </refsource>
+     <pmid version="1">
+      118997
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Epidemiol Infect. 1999 Jun;122(3):351-7
+     </refsource>
+     <pmid version="1">
+      10459636
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1999 Aug 14;354(9178):561-3
+     </refsource>
+     <pmid version="1">
+      10470701
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Infect Immun. 1999 Oct;67(10):5417-26
+     </refsource>
+     <pmid version="1">
+      10496924
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Infect Immun. 1999 Nov;67(11):5664-75
+     </refsource>
+     <pmid version="1">
+      10531214
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Mol Biol Evol. 1999 Nov;16(11):1496-502
+     </refsource>
+     <pmid version="1">
+      10555280
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Microbiol. 1999 Dec;37(12):3883-7
+     </refsource>
+     <pmid version="1">
+      10565901
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Infect Dis. 2000 Jan;30(1):87-94
+     </refsource>
+     <pmid version="1">
+      10619738
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 2000 Jan 6;342(1):15-20
+     </refsource>
+     <pmid version="1">
+      10620644
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 2000 Jan 20;342(3):219-20
+     </refsource>
+     <pmid version="1">
+      10651563
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Trans R Soc Trop Med Hyg. 1999 Jul-Aug;93(4):341-53
+     </refsource>
+     <pmid version="1">
+      10674069
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Science. 2000 Mar 10;287(5459):1809-15
+     </refsource>
+     <pmid version="1">
+      10710307
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 2000 Mar 25;320(7238):846-9
+     </refsource>
+     <pmid version="1">
+      10731181
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 2000 Apr 12;283(14):1826-7
+     </refsource>
+     <pmid version="1">
+      10770143
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Med Microbiol. 2000 May;49(5):451-6
+     </refsource>
+     <pmid version="1">
+      10798558
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 2000 Jun 7;283(21):2795-801
+     </refsource>
+     <pmid version="1">
+      10838647
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      FEMS Immunol Med Microbiol. 2000 Jul;28(3):189-91
+     </refsource>
+     <pmid version="1">
+      10865169
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Crit Care Med. 2000 Jul;28(7):2373-8
+     </refsource>
+     <pmid version="1">
+      10921567
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Mol Microbiol. 2000 Jul;37(1):207-15
+     </refsource>
+     <pmid version="1">
+      10931317
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Microbiol. 2000 Sep;38(9):3323-8
+     </refsource>
+     <pmid version="1">
+      10970378
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 2000 Oct;182(4):1169-76
+     </refsource>
+     <pmid version="1">
+      10979914
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 2001 Jan 1;183(1):160-3
+     </refsource>
+     <pmid version="1">
+      11078484
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 2001 Jan 1;183(1):97-104
+     </refsource>
+     <pmid version="1">
+      11087205
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Microbiol. 2001 Jan;39(1):75-85
+     </refsource>
+     <pmid version="1">
+      11136752
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 2000 Dec 23-30;356(9248):2159
+     </refsource>
+     <pmid version="1">
+      11191548
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 2001 Jan 20;357(9251):195-6
+     </refsource>
+     <pmid version="1">
+      11213098
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 2001 Mar 8;344(10):699-709
+     </refsource>
+     <pmid version="1">
+      11236773
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Emerg Infect Dis. 2001 Jan-Feb;7(1):163-4
+     </refsource>
+     <pmid version="1">
+      11266315
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Microbiol. 2001 Apr;39(4):1553-8
+     </refsource>
+     <pmid version="1">
+      11283086
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Vaccine. 2001 Apr 30;19(23-24):3043-50
+     </refsource>
+     <pmid version="1">
+      11311998
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Emerg Infect Dis. 2001 May-Jun;7(3):420-7
+     </refsource>
+     <pmid version="1">
+      11384519
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Vaccine. 2001 Aug 14;19(31):4566-75
+     </refsource>
+     <pmid version="1">
+      11483285
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 2001 Aug 8;286(6):688-93
+     </refsource>
+     <pmid version="1">
+      11495618
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      An Esp Pediatr. 2000 Nov;53(5):412-7
+     </refsource>
+     <pmid version="1">
+      11521657
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Exp Med. 1969 Jun 1;129(6):1367-84
+     </refsource>
+     <pmid version="1">
+      4977283
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Exp Med. 1969 Jun 1;129(6):1385-95
+     </refsource>
+     <pmid version="1">
+      4977284
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1970 Feb 19;282(8):417-20
+     </refsource>
+     <pmid version="1">
+      4983754
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1970 Nov 9;214(6):1055-9
+     </refsource>
+     <pmid version="1">
+      4990906
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Epidemiol. 1971 May;93(5):346-53
+     </refsource>
+     <pmid version="1">
+      4997356
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1971 Aug;124(2):172-8
+     </refsource>
+     <pmid version="1">
+      5001453
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1971 Jan;123(1):67-73
+     </refsource>
+     <pmid version="1">
+      5100979
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Bull World Health Organ. 1971;45(3):279-82
+     </refsource>
+     <pmid version="1">
+      5316907
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1970 Apr;121(4):449-51
+     </refsource>
+     <pmid version="1">
+      5460295
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1971 Feb;123(2):125-33
+     </refsource>
+     <pmid version="1">
+      5544138
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Infect Immun. 1983 Apr;40(1):39-45
+     </refsource>
+     <pmid version="1">
+      6187693
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Public Health. 1984 Mar;74(3):253-4
+     </refsource>
+     <pmid version="1">
+      6198932
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Rev Infect Dis. 1984 Sep-Oct;6(5):640-8
+     </refsource>
+     <pmid version="1">
+      6209769
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Commun Dis Public Health. 2002 Sep;5(3):220-5
+     </refsource>
+     <pmid version="1">
+      12434692
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 2002 Nov 21;347(21):1645-51
+     </refsource>
+     <pmid version="1">
+      12444178
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Microbiol. 2002 Dec;40(12):4520-7
+     </refsource>
+     <pmid version="1">
+      12454145
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet Infect Dis. 2002 Dec;2(12):763-5
+     </refsource>
+     <pmid version="1">
+      12467693
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Surg. 2002 Dec;184(6A Suppl):S19-24
+     </refsource>
+     <pmid version="1">
+      12521614
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 2003 Feb 15;326(7385):365-6
+     </refsource>
+     <pmid version="1">
+      12586669
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 2003 Mar 1;187(5):869-71
+     </refsource>
+     <pmid version="1">
+      12599063
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 2003 Apr 15;187(8):1223-34
+     </refsource>
+     <pmid version="1">
+      12696001
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 2003 May 1;348(18):1737-46
+     </refsource>
+     <pmid version="1">
+      12724479
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      FEMS Microbiol Lett. 1998 Feb 15;159(2):209-14
+     </refsource>
+     <pmid version="1">
+      9503614
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1998 Jun;177(6):1754-7
+     </refsource>
+     <pmid version="1">
+      9607865
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Infect Immun. 1998 Jul;66(7):3223-31
+     </refsource>
+     <pmid version="1">
+      9632589
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Emerg Infect Dis. 2003 Jul;9(7):781-7
+     </refsource>
+     <pmid version="1">
+      12890317
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 2003 Aug 15;188(4):481-5
+     </refsource>
+     <pmid version="1">
+      12898433
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet Infect Dis. 2003 Sep;3(9):565-77
+     </refsource>
+     <pmid version="1">
+      12954563
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Vaccine. 2003 Oct 1;21(27-30):4437-47
+     </refsource>
+     <pmid version="1">
+      14505927
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Infect Immun. 1981 Dec;34(3):725-32
+     </refsource>
+     <pmid version="1">
+      6800954
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Infect Immun. 1982 Jul;37(1):205-8
+     </refsource>
+     <pmid version="1">
+      6809627
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Vaccine. 2004 Mar 12;22(9-10):1087-96
+     </refsource>
+     <pmid version="1">
+      15003635
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Vaccine. 2004 Feb 17;22(7):898-908
+     </refsource>
+     <pmid version="1">
+      15040943
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Immunol. 2004 May 1;172(9):5606-15
+     </refsource>
+     <pmid version="1">
+      15100304
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 2004 May;23(5):429-35
+     </refsource>
+     <pmid version="1">
+      15131466
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Infect Immun. 2004 Jul;72(7):4217-23
+     </refsource>
+     <pmid version="1">
+      15213166
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMC Bioinformatics. 2004 Jul 1;5:86
+     </refsource>
+     <pmid version="1">
+      15230973
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Intern Med. 2004 Jul 6;141(1):70-2
+     </refsource>
+     <pmid version="1">
+      15238374
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Microbiol. 2004 Jul;42(7):2898-901
+     </refsource>
+     <pmid version="1">
+      15243035
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Proc Natl Acad Sci U S A. 2004 Aug 3;101(31):11404-9
+     </refsource>
+     <pmid version="1">
+      15277677
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Biol Chem. 2004 Oct 8;279(41):42765-73
+     </refsource>
+     <pmid version="1">
+      15294916
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Microbiol. 2004 Sep;42(9):4158-63
+     </refsource>
+     <pmid version="1">
+      15365005
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Infect Immun. 2004 Oct;72(10):5903-9
+     </refsource>
+     <pmid version="1">
+      15385492
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Infect Immun. 2004 Oct;72(10):5955-62
+     </refsource>
+     <pmid version="1">
+      15385499
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 2004 Nov 24;292(20):2491-4
+     </refsource>
+     <pmid version="1">
+      15562128
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 2004 Dec;23(12 Suppl):S280-4
+     </refsource>
+     <pmid version="1">
+      15597070
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 2004 Dec;23(12 Suppl):S293-8
+     </refsource>
+     <pmid version="1">
+      15597072
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Health Popul Nutr. 2004 Sep;22(3):275-85
+     </refsource>
+     <pmid version="1">
+      15609780
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Vaccine. 2005 Jan 11;23(8):977-83
+     </refsource>
+     <pmid version="1">
+      15620470
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Infect Dis. 2005 Mar 1;40(5):e38-42
+     </refsource>
+     <pmid version="1">
+      15714405
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Microbiol. 2005 Apr;43(4):1699-705
+     </refsource>
+     <pmid version="1">
+      15814988
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Vaccine. 2005 Jul 29;23(34):4307-14
+     </refsource>
+     <pmid version="1">
+      15921829
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 2005 Sep 29;353(13):1398-400
+     </refsource>
+     <pmid version="1">
+      16192486
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Emerg Med. 1993 Mar;22(3):553-9
+     </refsource>
+     <pmid version="1">
+      8442544
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Microbiol. 1995 Dec;33(12):3133-7
+     </refsource>
+     <pmid version="1">
+      8586688
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      CMAJ. 1996 Feb 15;154(4):503-7
+     </refsource>
+     <pmid version="1">
+      8630839
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1996 Sep 19;335(12):833-40
+     </refsource>
+     <pmid version="1">
+      8778600
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Vaccine. 1996 Jul;14(10):1009-15
+     </refsource>
+     <pmid version="1">
+      8873396
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 1996 Nov;15(11):992-8
+     </refsource>
+     <pmid version="1">
+      8933547
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Proc Natl Acad Sci U S A. 1997 Jan 7;94(1):271-6
+     </refsource>
+     <pmid version="1">
+      8990198
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1997 Feb 5;277(5):389-95
+     </refsource>
+     <pmid version="1">
+      9010171
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Wkly Epidemiol Rec. 1997 Oct 17;72(42):313-8
+     </refsource>
+     <pmid version="1">
+      9347699
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1998 Feb;177(2):497-500
+     </refsource>
+     <pmid version="1">
+      9466547
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      World Health Stat Q. 1997;50(3-4):170-7
+     </refsource>
+     <pmid version="1">
+      9477545
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1993 Jan 13;269(2):246-8
+     </refsource>
+     <pmid version="1">
+      8417244
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Microbiol Rev. 1993 Mar;57(1):34-49
+     </refsource>
+     <pmid version="1">
+      8464406
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int J Epidemiol. 1995 Oct;24(5):1050-7
+     </refsource>
+     <pmid version="1">
+      8557439
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Epidemiol. 1996 Mar 15;143(6):624-30
+     </refsource>
+     <pmid version="1">
+      8610679
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Infect Immun. 1996 Jul;64(7):2745-51
+     </refsource>
+     <pmid version="1">
+      8698504
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Emerg Med. 1996 Jul;14(4):341-5
+     </refsource>
+     <pmid version="1">
+      8768150
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Diagn Lab Immunol. 1996 Jul;3(4):444-50
+     </refsource>
+     <pmid version="1">
+      8807211
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Mol Microbiol. 1996 Sep;21(6):1297-8
+     </refsource>
+     <pmid version="1">
+      8898397
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1996 Dec;174(6):1360-3
+     </refsource>
+     <pmid version="1">
+      8940235
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1997 Jan;175(1):200-4
+     </refsource>
+     <pmid version="1">
+      8985221
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Carbohydr Res. 1996 Dec 24;296:83-96
+     </refsource>
+     <pmid version="1">
+      9008844
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Exp Med. 1997 Apr 7;185(7):1173-83
+     </refsource>
+     <pmid version="1">
+      9104804
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 1997 Oct;16(10):979-83
+     </refsource>
+     <pmid version="1">
+      9380476
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Intern Med. 1999 Oct 25;159(19):2329-40
+     </refsource>
+     <pmid version="1">
+      10547173
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1999 Dec;180(6):1894-901
+     </refsource>
+     <pmid version="1">
+      10558946
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Infect Dis. 2000 Jan;30(1):212-3
+     </refsource>
+     <pmid version="1">
+      10619761
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Exp Immunol. 2000 Feb;119(2):311-6
+     </refsource>
+     <pmid version="1">
+      10632668
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 2000 Feb;181(2):761-4
+     </refsource>
+     <pmid version="1">
+      10669372
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Science. 2000 Mar 10;287(5459):1816-20
+     </refsource>
+     <pmid version="1">
+      10710308
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Nature. 2000 Mar 30;404(6777):502-6
+     </refsource>
+     <pmid version="1">
+      10761919
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Antimicrob Chemother. 2000 Jun;45(6):909-11
+     </refsource>
+     <pmid version="1">
+      10837450
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Mol Microbiol. 2000 Jun;36(5):1049-58
+     </refsource>
+     <pmid version="1">
+      10844690
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Infect Dis. 2004 Nov 1;39(9):1267-84
+     </refsource>
+     <pmid version="1">
+      15494903
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Infect Dis. 2004 Dec 15;39(12):1802-9
+     </refsource>
+     <pmid version="1">
+      15578403
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 2004 Dec;23(12 Suppl):S285-92
+     </refsource>
+     <pmid version="1">
+      15597071
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Infect Immun. 2000 Dec;68(12):6685-90
+     </refsource>
+     <pmid version="1">
+      11083782
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Microbiol. 2000 Dec;38(12):4492-8
+     </refsource>
+     <pmid version="1">
+      11101585
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Infect Immun. 2001 Mar;69(3):1561-7
+     </refsource>
+     <pmid version="1">
+      11179327
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 2001 Feb;20(2):153-9
+     </refsource>
+     <pmid version="1">
+      11224833
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Vaccine. 1999 Jun 4;17(20-21):2612-9
+     </refsource>
+     <pmid version="1">
+      10418910
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Infect Dis. 1999 Jul;29(1):215-6
+     </refsource>
+     <pmid version="1">
+      10433597
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1999 Apr 28;281(16):1520-7
+     </refsource>
+     <pmid version="1">
+      10227322
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1999 May 26;281(20):1906-10
+     </refsource>
+     <pmid version="1">
+      10349894
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Intensive Care Med. 1999 May;25(5):475-80
+     </refsource>
+     <pmid version="1">
+      10401941
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Infect Immun. 1999 Sep;67(9):4955-9
+     </refsource>
+     <pmid version="1">
+      10456958
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1999 Mar 20;353(9157):941-2
+     </refsource>
+     <pmid version="1">
+      10459897
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 1999 Sep;18(9):757-63
+     </refsource>
+     <pmid version="1">
+      10493334
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Infect Dis. 2005 Jan 1;40(1):17-25
+     </refsource>
+     <pmid version="1">
+      15614687
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 2005 Feb;24(2):132-6
+     </refsource>
+     <pmid version="1">
+      15702041
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 2005 May;115(5):1220-32
+     </refsource>
+     <pmid version="1">
+      15867028
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 2005 Sep 29;353(13):1332-41
+     </refsource>
+     <pmid version="1">
+      16192478
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Emerg Infect Dis. 2001 Jan-Feb;7(1):92-9
+     </refsource>
+     <pmid version="1">
+      11266299
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Infect Dis. 2001 May 1;32(9):1338-46
+     </refsource>
+     <pmid version="1">
+      11303270
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 2001 May 3;344(18):1378-88
+     </refsource>
+     <pmid version="1">
+      11333996
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Infect Dis. 2001 Sep 1;33(5):737-9
+     </refsource>
+     <pmid version="1">
+      11477523
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 2001 Aug 8;286(6):694-9
+     </refsource>
+     <pmid version="1">
+      11495619
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Microbiol Methods. 2001 Nov;47(2):135-49
+     </refsource>
+     <pmid version="1">
+      11576678
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      South Med J. 2001 Dec;94(12):1192-4
+     </refsource>
+     <pmid version="1">
+      11811858
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Microbiol. 2002 Mar;40(3):1083-4
+     </refsource>
+     <pmid version="1">
+      11880446
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 2002 Apr 27;359(9316):1499-508
+     </refsource>
+     <pmid version="1">
+      11988262
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 2002 May 25;359(9320):1829-31
+     </refsource>
+     <pmid version="1">
+      12044380
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Infect Immun. 2002 Jul;70(7):3707-13
+     </refsource>
+     <pmid version="1">
+      12065513
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Emerg Infect Dis. 2002 Aug;8(8):761-7
+     </refsource>
+     <pmid version="1">
+      12141959
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Mol Biol Evol. 2002 Oct;19(10):1686-94
+     </refsource>
+     <pmid version="1">
+      12270895
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 2002 Nov 14;347(20):1549-56
+     </refsource>
+     <pmid version="1">
+      12432041
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Infect Dis. 2002 Dec 1;35(11):1376-81
+     </refsource>
+     <pmid version="1">
+      12439801
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Curr Drug Targets Infect Disord. 2001 Nov;1(3):325-34
+     </refsource>
+     <pmid version="1">
+      12455405
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Med Microbiol. 2003 Jan;52(Pt 1):51-7
+     </refsource>
+     <pmid version="1">
+      12488566
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet Infect Dis. 2003 Feb;3(2):68-70
+     </refsource>
+     <pmid version="1">
+      12560188
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Exp Med. 2003 Mar 17;197(6):789-99
+     </refsource>
+     <pmid version="1">
+      12642606
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 2003 May 15;187(10):1616-28
+     </refsource>
+     <pmid version="1">
+      12721942
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Emerg Infect Dis. 2003 Jun;9(6):665-71
+     </refsource>
+     <pmid version="1">
+      12781005
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Microbiology. 2003 Jul;149(Pt 7):1849-58
+     </refsource>
+     <pmid version="1">
+      12855736
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 2003 Jul;22(7):659-61
+     </refsource>
+     <pmid version="1">
+      12886896
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Adv Exp Med Biol. 2003;531:351-5
+     </refsource>
+     <pmid version="1">
+      12916805
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1963 Oct 12;186:139-41
+     </refsource>
+     <pmid version="1">
+      14056528
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Trop Med Int Health. 2003 Dec;8(12):1118-23
+     </refsource>
+     <pmid version="1">
+      14641847
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Bull World Health Organ. 2003;81(10):745-50; discussion 751-5
+     </refsource>
+     <pmid version="1">
+      14758435
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Genetics. 2004 Jan;166(1):25-32
+     </refsource>
+     <pmid version="1">
+      15020403
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Emerg Infect Dis. 2004 Mar;10(3):451-6
+     </refsource>
+     <pmid version="1">
+      15109412
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 2004 Jun;23(6):490-7
+     </refsource>
+     <pmid version="1">
+      15194828
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Intern Med. 2004 Jul 6;141(1):47-56
+     </refsource>
+     <pmid version="1">
+      15238370
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Diagn Lab Immunol. 2004 Jul;11(4):806-7
+     </refsource>
+     <pmid version="1">
+      15242964
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 2004 Jul 24-30;364(9431):365-7
+     </refsource>
+     <pmid version="1">
+      15276396
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Vaccine. 2004 Sep 3;22(25-26):3303-11
+     </refsource>
+     <pmid version="1">
+      15308353
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 2004 Oct 15;190(8):1488-97
+     </refsource>
+     <pmid version="1">
+      15378443
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Vaccine. 2001 Oct 15;20 Suppl 1:S58-67
+     </refsource>
+     <pmid version="1">
+      11587814
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Infection. 2001 Oct;29(5):293-4
+     </refsource>
+     <pmid version="1">
+      11688913
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      FEMS Immunol Med Microbiol. 2002 Jan 14;32(2):119-23
+     </refsource>
+     <pmid version="1">
+      11821233
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 2002 Mar 1;185(5):618-26
+     </refsource>
+     <pmid version="1">
+      11865418
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Paediatr Child Health. 2001 Oct;37(5):S13-9
+     </refsource>
+     <pmid version="1">
+      11885731
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 2002 Apr 6;324(7341):809
+     </refsource>
+     <pmid version="1">
+      11934772
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 2002 Jun 1;185(11):1596-605
+     </refsource>
+     <pmid version="1">
+      12023765
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Microbiology. 2002 Jun;148(Pt 6):1813-9
+     </refsource>
+     <pmid version="1">
+      12055301
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Infect Immun. 2002 Jul;70(7):3621-6
+     </refsource>
+     <pmid version="1">
+      12065503
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 2002 Jul 1;186(1):40-8
+     </refsource>
+     <pmid version="1">
+      12089660
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 2002 Aug;21(8):747-53
+     </refsource>
+     <pmid version="1">
+      12192163
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 2002 Oct;21(10):978-9
+     </refsource>
+     <pmid version="1">
+      12400528
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 2002 Nov 1;186(9):1353-7
+     </refsource>
+     <pmid version="1">
+      12402208
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1998 Aug;178(2):451-9
+     </refsource>
+     <pmid version="1">
+      9697726
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Microbiol. 1998 Oct;36(10):2828-34
+     </refsource>
+     <pmid version="1">
+      9738028
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 1998 Sep;17(9):816-9
+     </refsource>
+     <pmid version="1">
+      9779768
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1998 Dec 23-30;280(24):2094-8
+     </refsource>
+     <pmid version="1">
+      9875877
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 2003 Dec 1;188(11):1730-40
+     </refsource>
+     <pmid version="1">
+      14639545
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Mol Microbiol. 2004 Jan;51(1):227-39
+     </refsource>
+     <pmid version="1">
+      14651624
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child, Preschool
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Design
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Meningococcal Infections
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      microbiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Meningococcal Vaccines
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      immunology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Neisseria meningitidis
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      classification
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      immunology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Serotyping
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vaccination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vaccines, Conjugate
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      immunology
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    400
+   </numberofreferences>
+   <otherid source="NLM">
+    PMC1360272
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2006
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      19
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2006
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      15
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2006
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      19
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     19/1/142
+    </articleid>
+    <articleid idtype="doi">
+     10.1128/CMR.19.1.142-164.2006
+    </articleid>
+    <articleid idtype="pubmed">
+     16418528
+    </articleid>
+    <articleid idtype="pmc">
+     PMC1360272
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

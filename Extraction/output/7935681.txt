@@ -1,0 +1,15 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+Low serum thyrotropin concentrations as a risk factor for atrial fibrillation in older persons.
+Abstract Text 
+Low serum thyrotropin concentrations are a sensitive indicator of hyperthyroidism but can also occur in persons who have no clinical manifestations of the disorder.
+We studied whether low serum thyrotropin concentrations in clinically euthyroid older persons are a risk factor for subsequent atrial fibrillation.
+We studied 2007 persons (814 men and 1193 women) 60 years of age or older who did not have atrial fibrillation in order to determine the frequency of this arrhythmia during a 10-year follow-up period.
+The subjects were classified according to their serum thyrotropin concentrations: those with low values (< or = 0.1 mU per liter; 61 subjects); those with slightly low values (> 0.1 to 0.4 mU per liter; 187 subjects); those with normal values (> 0.4 to 5.0 mU per liter; 1576 subjects); and those with high values (> 5.0 mU per liter; 183 subjects).
+During the 10-year follow-up period, atrial fibrillation occurred in 13 persons with low initial values for serum thyrotropin, 23 with slightly low values, 133 with normal values, and 23 with high values.
+The cumulative incidence of atrial fibrillation at 10 years was 28 percent among the subjects with low serum thyrotropin values (< or = 0.1 mU per liter), as compared with 11 percent among those with normal values; the age-adjusted incidence of atrial fibrillation was 28 per 1000 person-years among those with low values and 10 per 1000 person-years among those with normal values (P = 0.005).
+After adjustment for other known risk factors, the relative risk of atrial fibrillation in elderly subjects with low serum thyrotropin concentrations, as compared with those with normal concentrations, was 3.1 (95 percent confidence interval, 1.7 to 5.5; P < 0.001).
+The 10-year incidence of atrial fibrillation in the groups with slightly low and high serum thyrotropin values was not significantly different from that in the group with normal values.
+Among people 60 years of age or older, a low serum thyrotropin concentration is associated with a threefold higher risk that atrial fibrillation will develop in the subsequent decade.

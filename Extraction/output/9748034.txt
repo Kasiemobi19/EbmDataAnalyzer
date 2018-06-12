@@ -1,0 +1,18 @@
+Title 
+Neurology
+
+Article Title 
+Effect of selegiline on mortality in patients with Parkinson's disease: a meta-analysis.
+Abstract Text 
+The Parkinson's Disease Research Group of the United Kingdom (PDRG-UK) reported increased mortality in PD patients treated with levodopa plus selegiline compared with those treated with levodopa alone.
+We performed a meta-analysis on five long-term, prospective, randomized trials of selegiline in patients with untreated PD.
+Included in the analysis were four randomized, double-blind, placebo-controlled studies and one randomized, double-blind, placebo-controlled study of 2 years' duration followed by long-term, open follow-up.
+The mean duration of follow-up was 4.1 +/- 1.8 years.
+There were 14 deaths in 297 selegiline-treated patients (4.7%) and 17 deaths in 292 non-selegiline-treated patients (5.8%).
+The hazard ratio for mortality was 1.02 (95% CI 0.44 to 2.37; p = 0.96).
+An analysis restricted to patients receiving only levodopa with or without selegiline noted 11 deaths in 257 levodopa/selegiline-treated patients (4.3%) and 11 deaths in 254 patients treated with levodopa alone (4.3%).
+The hazard ratio was 1.06 (95% CI 0.44 to 2.55; p = 0.90).
+Death rate per 1,000 patient years was 11.4 in the selegiline group and 14.2 in the nonselegiline group.
+Kaplan-Meier survival curves reflecting pooled survival data showed no significant difference in duration of survival.
+The hazard ratio was 0.84 (95% CI 0.41 to 1.70; p = 0.63) for selegiline- versus non-selegiline-treated patients and 1.05 (95% CI 0.46 to 2.43; p = 0.91) for selegiline/levodopa- versus levodopa-treated patients.
+These results contrast with those of the PDRG-UK study and demonstrate no increase in mortality associated with selegiline treatment whether or not patients also received levodopa.

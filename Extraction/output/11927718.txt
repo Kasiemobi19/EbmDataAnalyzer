@@ -1,0 +1,13 @@
+Title 
+Pediatrics
+
+Article Title 
+Clinical practice guideline: diagnosis and management of childhood obstructive sleep apnea syndrome.
+Abstract Text 
+This clinical practice guideline, intended for use by primary care clinicians, provides recommendations for the diagnosis and management of obstructive sleep apnea syndrome (OSAS).
+The Section on Pediatric Pulmonology of the American Academy of Pediatrics selected a subcommittee composed of pediatricians and other experts in the fields of pulmonology and otolaryngology as well as experts from epidemiology and pediatric practice to develop an evidence base of literature on this topic.
+The resulting evidence report was used to formulate recommendations for the diagnosis and management of childhood OSAS.
+The guideline contains the following recommendations for the diagnosis of OSAS: 1) all children should be screened for snoring; 2) complex high-risk patients should be referred to a specialist; 3) patients with cardiorespiratory failure cannot await elective evaluation; 4) diagnostic evaluation is useful in discriminating between primary snoring and OSAS, the gold standard being polysomnography; 5) adenotonsillectomy is the first line of treatment for most children, and continuous positive airway pressure is an option for those who are not candidates for surgery or do not respond to surgery; 6) high-risk patients should be monitored as inpatients postoperatively; 7) patients should be reevaluated postoperatively to determine whether additional treatment is required.
+This clinical practice guideline is not intended as a sole source of guidance in the evaluation of children with OSAS.
+Rather, it is designed to assist primary care clinicians by providing a framework for diagnostic decision-making.
+It is not intended to replace clinical judgment or to establish a protocol for all children with this condition and may not provide the only appropriate approach to this problem.

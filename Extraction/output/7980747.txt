@@ -1,0 +1,18 @@
+Title 
+Lancet
+
+Article Title 
+Empirical H2-blocker therapy or prompt endoscopy in management of dyspepsia.
+Abstract Text 
+The recommended strategy for management of dyspepsia is empirical treatment with an H2-blocking drug, followed by endoscopy if the symptoms do not respond or recur.
+We compared two strategies for the management of dyspepsia--treatment based on the results of prompt endoscopy (group 1) and empirical H2-blocker treatment with diagnostic endoscopy only in cases of therapeutic failure or symptomatic relapse within 1 year (group 2).
+Eligible patients had symptoms severe enough to justify empirical H2-blocker therapy.
+Symptoms, drug consumption, and sick-leave days were assessed through monthly diaries.
+Patients with non-organic dyspepsia diagnosed by endoscopy did not receive ulcer drugs.
+Of 414 patients randomised, 373 completed 1-year follow-up.
+Organic disease was found at endoscopy in 68 (33%) of 208 group-1 patients (ulcer in 45).
+Endoscopy was done in 136 (66%) of 206 group-2 patients.
+Case selection for endoscopy was not improved by the empirical treatment strategy, since the diagnostic profile was the same as in group 1 and 40% of the expected ulcer cases remained undiagnosed.
+After 1 year there were no differences in symptoms or quality of life measures.
+The empirical treatment strategy in dyspepsia was associated with higher costs, due mainly to a higher number of sick-leave days and cost of ulcer drug use.
+Prompt endoscopy is a cost-effective strategy in dyspeptic patients with symptoms severe enough to justify the current practice of empirical H2-blocker treatment.

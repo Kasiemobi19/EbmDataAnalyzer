@@ -1,0 +1,14 @@
+Title 
+Obstetrics and gynecology
+
+Article Title 
+Impact of increasing Papanicolaou test sensitivity and compliance: a modeled cost and outcomes analysis.
+Abstract Text 
+To model the impact of increasing screening compliance or implementing liquid-based cytology in populations with known compliance patterns and risk profiles on rates of detection of cervical precancers.
+An adaptation of a time-varying Markov model was used to follow a theoretic cohort of 100,000 women from age 20 through age 80. Separate analyses of all women, white, and black women were completed using three compliance rates (self-reported, Healthy People 2000, and Healthy People 2010 compliance) and two Papanicolaou test sensitivities (conventional Papanicolaou smear and liquid-based cytology).
+All populations benefited from both increased compliance and liquid-based cytology use.
+Increasing compliance to Healthy People 2010 goals resulted in 23%, 21.7%, and 17% reductions in cervical cancer incidence for all women, white, and black women, respectively.
+Substituting liquid-based cytology for traditional Papanicolaou smear collection and processing with no change in compliance resulted in 32%, 32%, and 33% reductions in cervical cancer incidence for the same three subpopulations.
+In addition, cost-effectiveness of the liquid-based technology indirectly related to the risk profile of the population: for black women, the cost-effectiveness ratio was $10,335 per life year saved, whereas for white women, the ratio was $17,967 per life year saved.
+Using liquid-based cytology in all populations would be cost-effective in improving outcomes from cervical cancer.
+In high-risk populations, this new technology may represent the most cost-effective approach to improve cervical cancer outcomes.

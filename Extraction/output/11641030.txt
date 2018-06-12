@@ -1,0 +1,15 @@
+Title 
+Early human development
+
+Article Title 
+The effect of low-dose erythromycin on whole gastrointestinal transit time of preterm infants.
+Abstract Text 
+The aim of the study was to determine the effect of a low oral dose of erythromycin on whole gastrointestinal transit time [WGTT].
+Erythromycin [EM] [1.5 mg/kg, 6 hourly] or placebo was given first over 7 days in a double blind randomized crossover study of 21 preterm infants with feed intolerance.
+Median [range] birth weight was 1420 [690, 2200] g and postconceptual age 32. 5 [20, 36.4]
+weeks.
+WGTT was assessed on day 3 of each treatment, by timing the transit of carmine red through the gut.
+Treatments were compared using Student's paired t test.
+RESULTS: WGTT was significantly shorter following EM treatment as compared to placebo: mean [SD] 10.16 [4.6] h vs. 15.
+9 [7.2] h, p<0.01.
+CONCLUSION: Oral low-dose EM significantly shortens WGTT of feed-intolerant preterm infants.

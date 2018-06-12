@@ -1,0 +1,15 @@
+Title 
+Lancet
+
+Article Title 
+Randomised trial of growth hormone in short normal girls.
+Abstract Text 
+There are few data on the long-term outcome of growth-hormone treatment in short normal children.
+We assessed the impact of growth-hormone treatment on pubertal development and near-final height in girls.
+In a randomised controlled trial, we studied ten girls, with a mean age of 8.07 years and height 2 SDs or more below the mean for their age, and eight short untreated controls matched for age, and 20 short untreated girls who did not give consent for randomisation.
+The girls received either 30 IU/m2 somatropin per week as daily subcutaneous injections or no treatment.
+We assessed pubertal staging and height gain every 6 months.
+Eight treated girls completed a mean of 6.2 years' therapy.
+By a mean age of 16.4 years, their mean height SD score had changed significantly from -2.42 to -1.14 (p=0.008) and they were, on average, 7.5 cm taller than the girls in the control group (height SD scores did not change significantly from -2.55) and 6.0 cm taller than the non-consent group.
+The timing of each pubertal stage, and the age and amplitude of peak height velocity were similar for all groups.
+Growth-hormone therapy effectively increased height SD score among short normal girls started on treatment in early to mid childhood, with no untoward effect on pubertal progression.

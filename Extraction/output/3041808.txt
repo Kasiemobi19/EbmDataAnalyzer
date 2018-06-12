@@ -1,0 +1,14 @@
+Title 
+The American journal of medicine
+
+Article Title 
+Factors affecting sensitivity and specificity of a diagnostic test: the exercise thallium scintigram.
+Abstract Text 
+Technical and methodological factors might affect the reported accuracies of diagnostic tests.
+To assess their influence on the accuracy of exercise thallium scintigraphy, the medical literature (1977 to 1986) was non-selectively searched and meta-analysis was applied to the 56 publications thus retrieved.
+These were analyzed for year of publication, sex and mean age of patients, percentage of patients with angina pectoris, percentage of patients with prior myocardial infarction, percentage of patients taking beta-blocking medications, and for angiographic referral (workup) bias, blinding of tests, and technical factors.
+The percentage of patients with myocardial infarction had the highest correlation with sensitivity (0.45, p = 0.0007).
+Only the inclusion of subjects with prior infarction and the percentage of men in the study group were independently and significantly (p less than 0.05) related to test sensitivity.
+Both the presence of workup bias and publication year adversely affected specificity (p less than 0.05).
+Of these two factors, publication year had the strongest association by stepwise linear regression.
+This analysis suggests that the reported sensitivity of thallium scintigraphy is higher and the specificity lower than that expected in clinical practice because of the presence of workup bias and the inappropriate inclusion of post-infarct patients.

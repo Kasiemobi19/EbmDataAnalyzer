@@ -1,0 +1,20 @@
+Title 
+The American journal of clinical nutrition
+
+Article Title 
+Cholesterol-lowering effects of dietary fiber: a meta-analysis.
+Abstract Text 
+The effects of dietary soluble fibers on blood cholesterol are uncertain.
+This meta-analysis of 67 controlled trials was performed to quantify the cholesterol-lowering effect of major dietary fibers.
+Least-squares regression analyses were used to test the effect on blood lipids of pectin, oat bran, guar gum, and psyllium.
+Independent variables were type and amount of soluble fiber, initial cholesterol concentration, and other important study characteristics.
+Soluble fiber, 2-10 g/d, was associated with small but significant decreases in total cholesterol [-0.045 mmol L(-1).g soluble fiber(-1) (95% CI: -0.054, -0.035)] and LDL cholesterol [-0.057 mmol.L(-1).g(-1)
+(95% CI: -0.070, -0.044)].
+The effects on plasma lipids of soluble fiber from oat, psyllium, or pectin were not significantly different.
+We were unable to compare effects of guar because of the limited number of studies using 2-10 g/d.
+Triacylglycerols and HDL cholesterol were not significantly influenced by soluble fiber.
+Lipid changes were independent of study design, treatment length, and background dietary fat content.
+Various soluble fibers reduce total and LDL cholesterol by similar amounts.
+The effect is small within the practical range of intake.
+For example, 3 g soluble fiber from oats (3 servings of oatmeal, 28 g each) can decrease total and LDL cholesterol by approximately 0.13 mmol/L.
+Increasing soluble fiber can make only a small contribution to dietary therapy to lower cholesterol.

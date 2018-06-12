@@ -1,0 +1,13 @@
+Title 
+The Pediatric infectious disease journal
+
+Article Title 
+Efficacy of antimicrobial prophylaxis and of tympanostomy tube insertion for prevention of recurrent acute otitis media: results of a randomized clinical trial.
+Abstract Text 
+To determine the efficacy of amoxicillin prophylaxis and of tympanostomy tube insertion in preventing recurrences of acute otitis media, we randomized 264 children 7 to 35 months of age who had a history of recurrent otitis media but were free of middle ear effusion to receive either amoxicillin prophylaxis, bilateral tympanostomy tube insertion or placebo.
+The average rate of new episodes per child year of either acute otitis media or otorrhea was 0.60 in the amoxicillin group, 1.08 in the placebo group and 1.02 in the tympanostomy tube group (amoxicillin vs. placebo, P less than 0.001; tubes vs. placebo, P = 0.25).
+The average proportion of time with otitis media of any type was 10.0% in the amoxicillin group, 15.0% in the placebo group and 6.6% in the tympanostomy tube group (amoxicillin vs. placebo, P = 0.03; tubes vs. placebo, P less than 0.001).
+At the 2-year end point, the rate of attrition was 42.2% in the amoxicillin group, 45.5% in the placebo group and 26.7% in the tympanostomy tube group.
+Adverse drug reactions occurred in 7.0% of the amoxicillin group and persistent tympanic membrane perforations developed in 3.9% of the tympanostomy tube group.
+The observed degree of efficacy of amoxicillin prophylaxis and of tympanostomy tube insertion must be viewed in light of the fact that study subjects proved not to have been at as high risk for acute otitis media as had been anticipated and in view of the differential attrition rates.(ABSTRACT
+TRUNCATED AT 250 WORDS)

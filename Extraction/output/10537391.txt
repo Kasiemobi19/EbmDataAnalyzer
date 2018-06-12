@@ -1,0 +1,17 @@
+Title 
+American family physician
+
+Article Title 
+Evaluation and management of dyspepsia.
+Abstract Text 
+Dyspepsia, often defined as chronic or recurrent discomfort centered in the upper abdomen, can be caused by a variety of conditions.
+Common etiologies include peptic ulcers and gastroesophageal reflux.
+Serious causes, such as gastric and pancreatic cancers, are rare but must also be considered.
+Symptoms of possible causes often overlap, which can make initial diagnosis difficult.
+In many patients, a definite cause is never established.
+The initial evaluation of patients with dyspepsia includes a thorough history and physical examination, with special attention given to elements that suggest the presence of serious disease.
+Endoscopy should be performed promptly in patients who have "alarm symptoms" such as melena or anorexia.
+Optimal management remains controversial in young patients who do not have alarm symptoms.
+Although management should be individualized, a cost-effective initial approach is to test for Helicobacter pylori and treat the infection if the test is positive.
+If the H. pylori test is negative, empiric therapy with a gastric acid suppressant or prokinetic agent is recommended.
+If symptoms persist or recur after six to eight weeks of empiric therapy, endoscopy should be performed.

@@ -1,0 +1,16 @@
+Title 
+Circulation
+
+Article Title 
+Left ventricular hypertrophy as an independent predictor of acute cerebrovascular events in essential hypertension.
+Abstract Text 
+It is uncertain whether left ventricular hypertrophy (LVH) confers an increased risk for cerebrovascular disease in apparently healthy patients with essential hypertension.
+A total of 2363 initially untreated hypertensive patients (mean age 51+/-12 years, 47% women) free of previous cardiovascular disease were followed up for up to 14 years (mean 5 years).
+At entry, all patients underwent diagnostic tests, including ECG, echocardiography, and 24-hour ambulatory blood pressure (BP) monitoring.
+At entry, the prevalence of LVH was 17.6% by ECG (Perugia score) and 23.7% by echocardiography (LVM >125 g/m(2)).
+Over the subsequent years, 105 patients experienced a first stroke or transient ischemic attack.
+The cerebrovascular event rate was higher among patients with LVH at entry, diagnosed by either ECG or echocardiography, than among those without hypertrophy (both P<0.01).
+After control for the significant influence of age, sex, diabetes, and 24-hour mean ambulatory BP, LVH by ECG conferred an increased risk for cerebrovascular events (relative risk [RR] 1.79; 95% CI 1.17 to 2.76).
+LVH by echocardiography also conferred a higher risk for cerebrovascular events (RR 1.64; 95% CI 1.07 to 2.68).
+For each increase in LV mass of 1 SD (29 g/m(2)), there was a significant independent increase in the risk for cerebrovascular events (RR 1.31; 95% CI 1.09 to 1.58).
+In apparently healthy patients with essential hypertension, LVH diagnosed by ECG or echocardiography confers an excess risk for stroke and transient ischemic attack independently of BP and other individual risk factors.

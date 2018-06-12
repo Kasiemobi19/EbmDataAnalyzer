@@ -1,0 +1,22 @@
+Title 
+Kidney international
+
+Article Title 
+Bone mineral density and biochemical markers of bone turnover in patients with predialysis chronic renal failure.
+Abstract Text 
+Metabolic bone disease might commence early in the course of renal failure.
+This study therefore examined the frequency and severity of the skeletal changes in predialysis chronic renal failure by measurements of bone mineral density (BMD), biochemical markers of bone turnover (osteocalcin, bone-specific alkaline phosphatase, carboxy terminal propeptide of type I collagen, and carboxy-terminal telopeptide of type I collagen), parathyroid hormone (PTH), ionized calcium (Ca++), phosphate (P), and vitamin D metabolites.
+The study was performed in 113 patients (male/female: 82/31) with chronic renal diseases [mean glomerular filtration rate (GFR) of 37 ml/min] and in 89 matched, normal control subjects.
+The patients had significantly (P<0.05)
+reduced BMD in the spine (-6.3%), the femur (-12.1%), the forearm (-5.7%), and the total body (-4.2%) as compared with the control subjects.
+Dividing the patients into quartiles according to GFR revealed that BMD decreased with the gradual decline in renal function at all the measured skeletal sites, but was most pronounced in the femur: 0.63+/-0.03,
+0.74+/-0.02,
+0.77+/-0.02,
+and 0.82+/-0.03
+g/cm2 in each quartile from lowest to highest GFR compared with 0.82+/-0.02
+g/cm2 in the control group (P<0.0001).
+All of the measured bone markers showed increasing plasma levels with the more advanced stages of renal failure.
+Serum PTH and serum P levels increased, whereas serum Ca++ and 1,25-dihydroxyvitamin D decreased.
+BMD Z-scores of the femur and of the forearm correlated to the biochemical markers and to PTH (P<0.05 to P<0.0001).
+The biochemical markers all showed strong correlations to PTH, also when corrected for the effect of the decline in GFR (r = 0.40 to 0.92, P<0.01 to P< 0.0001).
+Skeletal changes are initiated at an early stage of chronic renal failure, as estimated from reduced BMD and elevated levels of PTH and from the biochemical markers of both bone formation and bone resorption.

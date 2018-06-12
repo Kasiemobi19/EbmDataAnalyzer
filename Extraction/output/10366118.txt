@@ -1,0 +1,16 @@
+Title 
+Arthritis and rheumatism
+
+Article Title 
+Larger increases in bone mineral density during alendronate therapy are associated with a lower risk of new vertebral fractures in women with postmenopausal osteoporosis. Fracture Intervention Trial Research Group.
+Abstract Text 
+To investigate whether the incidence of vertebral fractures is related to the magnitude of change in bone mineral density (BMD) during alendronate treatment.
+Women in this study were age 55-81 years (n = 2,984).
+While participating in the Fracture Intervention Trial, they received 5 mg/day of alendronate for 2 years followed by 10 mg/day for the remaining 12-30 months of the study.
+Their BMD was measured at baseline and at 12 and 24 months, and spine radiographs were obtained at baseline and again at 36 or 48 months to identify new vertebral fractures.
+After 12 months of alendronate treatment, 35% of participants had increases of > or =3% in total hip BMD, and 21% had either decreased total hip BMD or no change.
+Women who had larger increases in total hip BMD during the first 12 months had a lower incidence of new vertebral fractures during the entire followup period.
+Only 3.2% of women with increases of > or =3% in total hip BMD experienced new vertebral fractures, whereas twice as many women (6.3%) whose BMD declined or stayed the same experienced new fractures (adjusted odds ratio 0.45, 95% confidence interval 0.27-0.72).
+Similar patterns were observed for spine BMD at 12 months, and for both sites using change in BMD at 24 months.
+Women with increases of > or =3% in BMD during the first 1 or 2 years of alendronate treatment had the lowest incidence of new vertebral fractures.
+These findings suggest that, among women taking antiresorptive agents, greater increases in BMD are associated with lower risk of new vertebral fractures.

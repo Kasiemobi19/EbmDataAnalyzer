@@ -1,0 +1,20 @@
+Title 
+European journal of obstetrics, gynecology, and reproductive biology
+
+Article Title 
+Risks and benefits of beta-receptor blockers for pregnancy hypertension: overview of the randomized trials.
+Abstract Text 
+Examine the benefits/risks of beta-blockers for pregnancy hypertension.
+Meta-analysis of relevant trials identified by comprehensive literature review (1966-97).
+Included were 30 trials for pregnancy hypertension, and four others for perinatal outcomes only.
+For mild chronic hypertension treated throughout pregnancy (n=2 trials), oral beta-blockers (compared with no therapy) were associated with an inconsistent increase in small for gestational age (SGA) infants (OR 2.46 [1.02, 5.92]).
+For mild-moderate 'late-onset' pregnancy hypertension (i.e.
+either chronic treated only late in pregnancy, or pregnancy-induced) (n=8 trials), oral beta-blockers (compared with no therapy) were associated with a decrease in severe hypertension (OR 0.27 [0.16, 0.451), borderline decrease in development of proteinuria (OR 0.69 [0.48, 1.02]), decrease in RDS (OR 0.33 [0.13, 0.85]), but a borderline increase in SGA infants (OR 1.47 [0.96, 2.26]).
+Beta-blockers were equivalent to other agents (n=15 trials).
+For severe 'late-onset' pregnancy hypertension (n=5 trials), i.v.
+labetalol produced less maternal hypotension (OR 0.13 [0.03, 0.71]) and fewer cesareans (OR 0.23 [0.13, 0.63]) than i.v.
+hydralazine/diazoxide.
+It is not clear that the benefits outweigh the risks when beta-blockers are used to treat mild to moderate chronic or pregnancy-induced hypertension, given the unknown overall effect on perinatal outcomes.
+For severe 'late-onset' pregnancy hypertension, i.v.
+labetalol is safer than i.v.
+hydralazine or diazoxide.

@@ -1,0 +1,20 @@
+Title 
+The Journal of trauma
+
+Article Title 
+Immune responses of splenectomized trauma patients to the 23-valent pneumococcal polysaccharide vaccine at 1 versus 7 versus 14 days after splenectomy.
+Abstract Text 
+Pneumococcal polysaccharide vaccine is given after emergency splenectomy for trauma to lessen the risk of overwhelming postsplenectomy sepsis.
+This study was undertaken to determine optimal timing of vaccine administration as determined by serum type-specific polysaccharide antibody concentration titer and functional activity of the resulting antibodies.
+Fifty-nine consecutive patients undergoing splenectomy after trauma were randomized to receive pneumococcal vaccine postoperatively at 1, 7, or 14 days.
+Immunoglobulin G serum antibody concentrations against serogroup 4 and serotypes 6B, 19F, and 23F were measured before vaccination and 4 weeks postvaccination.
+Antibody concentrations were determined by enzyme-linked immunosorbent assay, and functional antibody by opsonophagocytosis.
+Results were compared with a normal adult control group (n = 12).
+Postvaccination enzyme-linked immunosorbent assay immunoglobulin G antibody concentrations for all serogroups and serotypes studied were not significantly different in splenectomized patients and control subjects.
+Postvaccination functional antibody activity was significantly reduced in early vaccination groups (serotype 6B excepted).
+However, with the exception of 19F, all titers for the 14-day group approached those of the control subjects (p > 0.05).
+Fold-increases of opsonophagocytic titers for serogroup 4 and serotypes 6B and 19F showed progressive increases with delay in vaccination.
+Except for serotype 23F, the number of postsplenectomy patients with opsonophagocytic titers <64 significantly decreased with a delay in vaccination (14 days).
+Postvaccination immunoglobulin G serum antibody concentrations were not significantly different from normal control subjects regardless of the time of vaccination (1, 7, or 14 days).
+Although concentrations approach normal, functional antibody activity was significantly lower.
+Better functional antibody responses against the serogroup and serotypes studied seemed to occur with delayed (14-day) vaccination.

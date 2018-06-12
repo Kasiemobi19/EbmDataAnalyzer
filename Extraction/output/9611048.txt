@@ -1,0 +1,19 @@
+Title 
+European journal of gynaecological oncology
+
+Article Title 
+The value of colposcopy in screening cervical carcinoma.
+Abstract Text 
+The value of colposcopy and cytology in screening CIN was analyzed in a retrospective study of 1,504 patients treated at the Department of Gynecologic Oncology, National Institute of Oncology, Budapest from 1980 to 1991.
+The majority (1,451) of the patients were admitted for histological confirmation of atypical colposcopic and/or cytologic findings, and 53 women were treated for cervical repair.
+All women underwent either cervical excision or conization.
+Cytologic and colposcopic findings were compared with the histological results.
+Sensitivity and specificity rates of cytology were 47% and 77%, respectively.
+The corresponding figures for colposcopy were 87% and 15% and for cytology and colposcopy together, 96% and 14%.
+The low sensitivity of cytology suggests that as many as 50% of CIN lesions may be overlooked if cytology alone is used for screening, i.e. in 50% of CIN associated with abnormal colposcopy the cytology was negative.
+We found 194 asymptomatic patients with carcinoma in situ, 40 with microinvasive and 8 with frank invasive carcinoma.
+This finding emphasizes the importance of cervical cancer screening.
+Our data suggest that, with colposcopy as a screening tool, the rate of false-negative cytology can be significantly reduced.
+Clinical implications of the "cytology-negative abnormal colposcopy and cytology-negative CIN" have yet to be determined.
+The major drawback of primary colposcopy is its low specificity with the consequence of high false-positive rate and over-treatment in a substantial number of cases.
+To overcome the problem of low specificity, further studies are required to identify those atypical colposcopic changes that most likely represent CIN--and high-grade CIN in particular.

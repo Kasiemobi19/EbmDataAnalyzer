@@ -1,0 +1,17 @@
+Title 
+Annals of internal medicine
+
+Article Title 
+Transmission of hepatitis A to patients with hemophilia by factor VIII concentrates treated with organic solvent and detergent to inactivate viruses. The Italian Collaborative Group.
+Abstract Text 
+To determine whether an outbreak of hepatitis A virus (HAV) infection that occurred in 52 patients with hemophilia in Italy was acquired through infusion of contaminated factor VIII or through environmental enteric transmission.
+A case-control study and a molecular analysis of HAV sequences from implicated lots of factor VIII and from infected patients.
+The first 29 patients with hemophilia and jaundice in whom hepatitis A developed were compared with one to three matched controls with hemophilia but no jaundice.
+Type of concentrate and batches infused, number of doses, contacts with persons who had jaundice or hepatitis A, travel abroad to countries reported to have a high attack rate for hepatitis A, and consumption of raw shellfish.
+Hepatitis A viral sequences sought by polymerase chain reaction in lots of factor VIII and in serial serum samples from two patients with hemophilia in whom hepatitis A developed.
+Amplification by polymerase chain reaction of cDNA transcribed with reverse transcriptase from matched sets of factor VIII and recipient serum samples.
+Determination of nucleotide sequence of amplified hepatitis A virus genome.
+Case patients were neither more nor less likely than controls to have traveled to high-risk countries, consumed raw shellfish, or had contact with persons with jaundice.
+Case patients were more likely than controls to have received a factor VIII concentrate treated with a solvent-detergent mixture to inactivate viruses (odds ratio, infinity; 95% CI, 4.5 to infinity) and to have had larger infusions of the concentrate during the presumed HAV incubation period (odds ratio, 8.54; CI, 2.78 to 27.5).
+Hepatitis A viral sequences were found in 5 of 12 tested lots of factor VIII. Genomic sequences of HAV obtained for two matched sets of factor VIII and recipient serum samples were identical within each set but different for the two sets.
+Hepatitis A was transmitted by a factor VIII concentrate treated by a virucidal method (solvent-detergent) that ineffectively inactivates nonenveloped viruses.

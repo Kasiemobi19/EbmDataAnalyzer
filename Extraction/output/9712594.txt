@@ -1,0 +1,15 @@
+Title 
+BMJ (Clinical research ed.)
+
+Article Title 
+Effectiveness of the postcoital test: randomised controlled trial.
+Abstract Text 
+To investigate the impact of the postcoital test on the pregnancy rate among subfertile couples and on the number of other diagnostic tests and treatments.
+Randomised controlled study.
+A university and two non-university teaching hospitals in the Netherlands.
+New couples at infertility clinics, 1 March 1993 to 1 October 1995; randomisation to an intervention group (series of infertility investigations that include the postcoital test) or to a control group (series excluding the test).
+Cumulative pregnancy rate.
+Of 736 consecutive new couples, 444 fulfilled the inclusion criteria and consented to participate (intervention group, 227; control group, 217).
+Treatment was given more often in the intervention group than in the control group (54% v 41%; difference 13% (95% confidence interval 4% to 22%)).
+Yet cumulative pregnancy rates at 24 months in the intervention group (49% (42% to 55%)) and the control group (48% (42% to 55%)) were closely similar (difference 1% (-9.0% to 9.0%)).
+Routine use of the postcoital test in infertility investigations leads to more tests and treatments but has no significant effect on the pregnancy rate.

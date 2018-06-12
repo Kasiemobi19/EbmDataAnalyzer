@@ -1,0 +1,29 @@
+Title 
+Cochrane database of systematic reviews (Online)
+
+Article Title 
+Over-the-counter medications for acute cough in children and adults in ambulatory settings.
+Abstract Text 
+Acute cough due to upper respiratory tract infection (URTI) is a common symptom.
+Non-prescription over-the-counter (OTC) medicines are frequently recommended as a first-line treatment, but there is little evidence as to whether these drugs are effective.
+To assess the effects of oral OTC cough preparations for acute cough.
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2006, Issue 4); MEDLINE (January 1966 to January Week 1, 2007); EMBASE (January 1974 to January 2007); and the UK Department of Health National Research Register (June 2007).
+Randomised controlled trials (RCTs) comparing oral OTC cough preparations with placebo in children and adults suffering from acute cough in ambulatory settings.
+We considered all cough outcomes and second outcomes of interest were adverse effects.
+Two review authors independently screened potentially relevant citations and independently extracted data and assessed study quality.
+Quantitative analysis was performed where appropriate.
+Twenty five trials (17 in adults, 8 in children) involving 3492 people (2876 adults and 616 children) were included.
+RESULTS OF STUDIES IN ADULTS: Six trials compared antitussives with placebo and had variable results.
+Two trials compared the expectorant, guaifenesin with placebo, one indicated significant benefit whereas the other did not.
+One trial found that a mucolytic reduced cough frequency and symptom scores.
+Two studies examined antihistamine-decongestant combinations and found conflicting results.
+Three studies compared other combinations of drugs with placebo and indicated some benefit in reducing cough symptoms.
+Three trials found antihistamines were no more effective than placebo in relieving cough symptoms.
+RESULTS OF STUDIES IN CHILDREN: Antitussives (two studies), antihistamines (two studies), antihistamine decongestants (two studies) and antitussive/bronchodilator combinations (one study) were no more effective than placebo.
+No studies using expectorants met our inclusion criteria.
+The results of one trial favoured active treatment with mucolytics over placebo.
+One trial tested two paediatric cough syrups and both preparations showed a 'satisfactory response' in 46% and 56% of children compared to 21% of children in the placebo group.
+There is no good evidence for or against the effectiveness of OTC medicines in acute cough.
+The results of this review have to be interpreted with caution due differences in study characteristics and quality.
+Studies often showed conflicting results with uncertainty regarding clinical relevance.
+Higher quality evidence is needed to determine the effectiveness of self-care treatments for acute cough.

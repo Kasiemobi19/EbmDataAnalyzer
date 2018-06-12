@@ -1,0 +1,16 @@
+Title 
+Cochrane database of systematic reviews (Online)
+
+Article Title 
+Dietary regulation for 'gestational diabetes'.
+Abstract Text 
+Impaired glucose metabolism in pregnancy may be associated with adverse pregnancy outcomes.
+Primary dietary therapy is used in the management of diabetes, including gestational diabetes.
+The objective of this review was to assess the effects of primary dietary therapy in women identified as having gestational diabetes on fetal growth and neonatal outcomes.
+I searched the Cochrane Pregnancy and Childbirth Group trials register.
+Randomised trials of primary dietary therapy compared with no specific treatment in pregnant women with abnormal glucose tolerance test results.
+Trial quality was assessed.
+Four studies involving 612 women were included.
+Trials were small and of variable quality.
+No differences were detected between primary dietary therapy and no primary dietary therapy for birthweight greater than 4000 grams (odds ratio 0.78, 95% confidence interval 0.45 to 1.35) or caesarean deliveries (odds ratio 0.97, 95% confidence interval 0.65 to 1.44).
+There is not enough evidence to evaluate the use of primary dietary therapy for women who show impaired glucose metabolism during pregnancy.

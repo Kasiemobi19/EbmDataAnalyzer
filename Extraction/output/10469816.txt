@@ -1,0 +1,32 @@
+Title 
+Pediatrics
+
+Article Title 
+Growth and fatness at three to six years of age of children born small- or large-for-gestational age.
+Abstract Text 
+To compare young children 3 to 6 years of age who were born small-for-gestational age (SGA; <10th percentile for gestational age) or large-for-gestational age (LGA; >/=90th percentile) with those who were born appropriate-for-gestational age (10th-89th percentile) to determine whether there are differences in growth and fatness in early childhood associated with birth weight status.
+National sample of 3192 US-born non-Hispanic white, non-Hispanic black, and Mexican-American children 3 to 6 years of age (36-83 months) examined in the third National Health and Nutrition Examination Survey and for whom birth certificates were obtained.
+On the birth certificates, length of gestation from the mother's last menstrual period was examined for completeness, validity, and whether the pattern of missing (n = 141) and invalid data (n = 147) on gestation was random.
+Gestation was considered invalid when >44 weeks, or when at gestations of </=35 weeks, birth weight was inconsistent with gestation.
+To reclaim cases with missing or invalid data on gestation for analysis, a multiple imputation (MI) procedure was used.
+MI procedures are recommended when, as in this case, a critical covariate (length of gestation) is not missing at random, and complete-subject analysis may be biased.
+Using the results of the MI procedure, children were categorized, and growth outcome was assessed by birth weight-for-gestational age status.
+The growth outcomes considered in these analyses were body weight (kg), height (cm), head circumference (cm), mid-upper arm circumference (MUAC; cm), and triceps and subscapular skinfold thicknesses (mm).
+The anthropometric outcomes first were transformed to approximate normal distributions and converted into z scores (standard deviation units [SDU]) to scale the data for comparison across ages.
+Outcomes at each age then were estimated using regression procedures.
+SUDAAN software that adjusts variance estimates to account for the sample design was used in analysis for prevalence estimates and to calculate regression coefficients (in SDU).
+Over these ages, children born SGA remained significantly shorter and weighed less (-0.70 to -0.60 SDU).
+Children born LGA remained taller and weighed more (0.40-0.60 SDU).
+For weight and height among LGA children, there was a divergence from the mean with age compared with those born appropriate-for-gestational age (10th-89th percentile).
+Head circumference and MUAC followed these same patterns.
+The coefficients for MUAC show values for SGA children fairly consistently at about -0.50 SDU and children born LGA show increasing MUAC from +0.40 to +0.50 SDU from 36 to 83 months of age.
+As with weight, there is a trend toward increased MUAC coefficients with age.
+Measures of fatness (triceps and subscapular skinfolds), which are more prone to environmental influences, showed less association with birth weight-for-gestational age status.
+Only a single age group, the oldest (6 years of age) group showed a significant deficit in fatness for children born SGA.
+For children born LGA, there was an increase in fatness at both the triceps and subscapular sites after 3 years of age.
+These findings on a national sample of US-born non-Hispanic white, non-Hispanic black, and Mexican-American children show that children born SGA remain significantly shorter and lighter throughout early childhood and do not seem to catch up from 36 to 83 months of age.
+LGA infants remain longer and heavier through 83 months of age, but unlike children born SGA, children born LGA may be prone to an increasing accumulation of fat in early childhood.
+Thus, early childhood may be a particularly sensitive period in which there is increase in variation in levels of fatness associated with size at birth.
+These findings have implications for the evaluation of the growth of young children.
+The results indicate that intrauterine growth is associated with size in early childhood.
+(ABSTR

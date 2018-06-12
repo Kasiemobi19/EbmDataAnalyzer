@@ -1,0 +1,20 @@
+Title 
+Clinical infectious diseases : an official publication of the Infectious Diseases Society of America
+
+Article Title 
+Clinical and epidemiologic characteristics cannot distinguish community-associated methicillin-resistant Staphylococcus aureus infection from methicillin-susceptible S. aureus infection: a prospective investigation.
+Abstract Text 
+Community-associated (CA) methicillin-resistant Staphylococcus aureus (MRSA) infection has become common worldwide.
+Some researchers have argued that empirical therapy for MRSA should be given only to patients with suspected CA S. aureus infections who have risk factors for acquisition of MRSA.
+However, there are no prospective data examining this approach.
+We prospectively enrolled consecutive patients who were hospitalized with S. aureus infection, administered a detailed questionnaire, and collected clinical and microbiological information.
+Of the 280 consenting patients, 180 were adults with CA S. aureus infection.
+Among these subjects, 108 (60%) had MRSA infection, and 78 (40%) had methicillin-susceptible S. aureus (MSSA) infection.
+MRSA infection was associated with younger age (P<.0001); skin/soft-tissue infection (P=.015); snorting/smoking illegal drugs (P=.01); recent incarceration (P=.03); lower comorbidity index (P=.01);
+more frequent visits to bars, raves, and/or clubs (P=.03); and higher frequency of laundering clothes in hot water (P=.05).
+However, the sensitivity, specificity, and predictive values for these factors for discriminating CA-MRSA infection from CA-MSSA infection were relatively poor.
+Post-hoc modeling revealed that, even in a 10% (i.e., low) MRSA prevalence population, patients lacking the 3 strongest MRSA risk factors would still have a 7% posttest probability of MRSA.
+Most MRSA strains belonged to the ST-8/USA300 genotype, contained SCCmec type IV, and shared virulence factors commonly found in the ST1:USA400 clone.
+MSSA strains were genotypically heterogeneous.
+We found that clinical and epidemiological risk factors in persons hospitalized for CA S. aureus infection cannot reliably distinguish between MRSA and MSSA.
+Our findings have important implications for the choice of empirical antibiotic therapy for suspected S. aureus infections and for infection control.

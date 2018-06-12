@@ -1,0 +1,18 @@
+Title 
+Drugs
+
+Article Title 
+Treatment and prophylaxis of tinea infections.
+Abstract Text 
+Superficial fungal infections affect millions of people throughout the world.
+Among them, tinea represents cutaneous infections by dermatophytes.
+Therapeutic strategies depend upon the affected body site.
+Hence, clinicians distinguish several types of tinea including the corporis, faciei, cruris, pedis, manuum, capitis, barbae and unguium variants.
+There are several ways of tackling the tinea problem.
+Numerous topical and oral antifungals are available today.
+Topical antifungals remain the most commonly recommended treatment for many superficial dermatophytoses.
+Active compounds include imidazoles, morpholines and allylamines, with a few other miscellaneous drugs.
+The recent development of new generation oral agents (fluconazole, itraconazole, terbinafine) has enhanced the armamentarium against difficult-to-treat tineas.
+The antifungal efficacy and pharmacokinetic profiles of these drugs allow shorter durations of treatment and the innovative use of intermittent pulse regimens.
+The modern formulations fully meet the requirements of being well tolerated, involving little risk and acting specifically against relevant pathogens.
+However, the response rates to date do not always come up to the high expectations offered by in vitro studies.

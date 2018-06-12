@@ -1,0 +1,20 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+Effect of inhaled triamcinolone on the decline in pulmonary function in chronic obstructive pulmonary disease.
+Abstract Text 
+Chronic obstructive pulmonary disease (COPD) results from a progressive decline in lung function, which is thought to be the consequence of airway inflammation.
+We hypothesized that antiinflammatory therapy with inhaled corticosteroids would slow this decline.
+We enrolled 1116 persons with COPD whose forced expiratory volume in one second (FEV1) was 30 to 90 percent of the predicted value in a 10-center, placebo-controlled, randomized trial of inhaled triamcinolone acetonide administered at a dose of 600 microg twice daily.
+The primary outcome measure was the rate of decline in FEV1 after the administration of a bronchodilator.
+The secondary outcome measures included respiratory symptoms, use of health care services, and airway reactivity.
+In a substudy of 412 participants, we measured bone density in the lumbar spine and femur at base line and one and three years after the beginning of treatment.
+The mean duration of follow-up was 40 months.
+The rate of decline in the FEV1 after bronchodilator use was similar in the 559 participants in the triamcinolone group and the 557 participants in the placebo group (44.2+/-2.9 vs. 47.0+/-3.0
+ml per year, P= 0.50).
+Members of the triamcinolone group had fewer respiratory symptoms during the course of the study (21.1 per 100 person-years vs. 28.2 per 100 person-years, P=0.005) and had fewer visits to a physician because of a respiratory illness (1.2 per 100 person-years vs. 2.1 per 100 person-years, P=0.03).
+Those taking triamcinolone also had lower airway reactivity in response to methacholine challenge at 9 months and 33 months (P=0.02 for both comparisons).
+After three years, the bone density of the lumbar spine and the femur was significantly lower in the triamcinolone group (P < or = 0.007).
+Inhaled triamcinolone does not slow the rate of decline in lung function in people with COPD, but it improves airway reactivity and respiratory symptoms and decreases the use of health care services for respiratory problems.
+These benefits should be weighed against the potential long-term adverse effects of triamcinolone on bone mineral density.

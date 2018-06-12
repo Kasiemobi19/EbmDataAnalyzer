@@ -1,0 +1,17 @@
+Title 
+Annals of internal medicine
+
+Article Title 
+Clinical guideline, part 2. Screening for thyroid disease: an update. American College of Physicians.
+Abstract Text 
+To review information on the benefits of screening with a sensitive thyroid-stimulating hormone (TSH) test for thyroid dysfunction in asymptomatic patients seeking primary care for other reasons.
+This paper focuses on whether screening should be aimed at detection of subclinical thyroid dysfunction and whether persons with mildly abnormal TSH levels can benefit.
+A MEDLINE search for studies of screening for thyroid dysfunction and of treatment for complications of subclinical thyroid dysfunction.
+Studies of screening with thyroid function tests in the general adult population or in patients seen in the general office setting were selected (n=33).
+All controlled studies of treatment in patients with subclinical hypothyroidism or subclinical hyperthyroidism were also included (n=23).
+The prevalence of overt and subclinical thyroid dysfunction, the evidence for the efficacy of treatment, and the incidence of complications in defined age and sex groups were extracted from each study.
+Screening can detect symptomatic but unsuspected overt thyroid dysfunction.
+The yield is highest for women older than 50 years of age: In this group, 1 in 71 women screened could benefit from relief of symptoms.
+Evidence of the efficacy of treatment for subclinical thyroid dysfunction is inconclusive.
+Even though treatment for subclinical thyroid dysfunction is controversial, office-based screening to detect overt thyroid dysfunction may be indicated in women older than 50 years of age.
+Large randomized trials are needed to determine the likelihood that treatment will improve quality of life in otherwise healthy patients who have mildly elevated TSH levels.

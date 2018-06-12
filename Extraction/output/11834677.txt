@@ -1,0 +1,17 @@
+Title 
+Chest
+
+Article Title 
+A systematic review of the effects of bronchodilators on exercise capacity in patients with COPD.
+Abstract Text 
+One of the major goals of bronchodilator therapy in patients with COPD is to decrease airflow limitation in the airways and, as a consequence, improve dyspnea and exercise tolerance.
+The focus of this systematic review is to assess the effects of treatment with beta-agonists, anticholinergics, and theophyllines on dyspnea, and steady-state and incremental exercise capacity.
+Thirty-three, double-blind, randomized, placebo-controlled studies written in English were selected.
+This review shows that approximately half of the studies showed a significant effect of bronchodilator therapy on exercise capacity.
+Anticholinergic agents have significant beneficial effects in the majority of studies, especially when measured by steady-state exercise protocols.
+There is a trend toward a better effect of high-dose compared to low-dose anticholinergics.
+Short-acting beta(2)-mimetics have favorable effects on exercise capacity in more than two thirds of the studies; surprisingly, the situation is less clear for long-acting beta(2)-agents.
+The majority of the results of the published reports on theophyllines and their effects on exercise are negative.
+Direct comparisons of different classes of bronchodilators have not been made in a sufficient number of studies for a rational preference.
+The addition of a second bronchodilator has no proven advantage for improving exercise test results, but this has not been studied extensively and not in sufficiently large studies.
+The majority of studies reporting a measure of dyspnea found improvements, even in the absence of improvement in exercise capacity.

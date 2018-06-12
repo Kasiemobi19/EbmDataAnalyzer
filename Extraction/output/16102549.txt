@@ -1,0 +1,12 @@
+Title 
+Contraception
+
+Article Title 
+Comparison of ethinylestradiol pharmacokinetics in three hormonal contraceptive formulations: the vaginal ring, the transdermal patch and an oral contraceptive.
+Abstract Text 
+This open-label, randomized study compared the pharmacokinetics of ethinylestradiol (EE) from the contraceptive vaginal ring NuvaRing (15 microg EE/day), the transdermal patch (20 microg EE/day) and a combined oral contraceptive (COC) containing 30 microg EE.
+After 2-8 weeks of synchronization by COC treatment, subjects were randomized to 21 days of treatment with NuvaRing, patch or COC.
+Analysis of area under the EE concentration-versus-time curve (AUC) during 21 days of treatment showed that exposure to EE in the NuvaRing group was 3.4 times lower than in the patch group (p < .05)
+and 2.1 times lower than in the pill group (p < .05).
+Serum EE levels of subjects showed much lower variation with NuvaRing than with the patch or the COC.
+Thus, exposure to EE was significantly lower with NuvaRing than with the patch and pill methods, demonstrating that NuvaRing is a low-estrogen-dose contraceptive method that also results in low estrogen exposure.

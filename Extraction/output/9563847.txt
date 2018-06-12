@@ -1,0 +1,15 @@
+Title 
+MMWR. Recommendations and reports : Morbidity and mortality weekly report. Recommendations and reports / Centers for Disease Control
+
+Article Title 
+Recommendations to prevent and control iron deficiency in the United States. Centers for Disease Control and Prevention.
+Abstract Text 
+Iron deficiency is the most common known form of nutritional deficiency.
+Its prevalence is highest among young children and women of childbearing age (particularly pregnant women).
+In children, iron deficiency causes developmental delays and behavioral disturbances, and in pregnant women, it increases the risk for a preterm delivery and delivering a low-birthweight baby.
+In the past three decades, increased iron intake among infants has resulted in a decline in childhood iron-deficiency anemia in the United States.
+As a consequence, the use of screening tests for anemia has become a less efficient means of detecting iron deficiency in some populations.
+For women of childbearing age, iron deficiency has remained prevalent.
+To address the changing epidemiology of iron deficiency in the United States, CDC staff in consultation with experts developed new recommendations for use by primary health-care providers to prevent, detect, and treat iron deficiency.
+These recommendations update the 1989 "CDC Criteria for Anemia in Children and Childbearing-Aged Women" (MMWR 1989;38(22):400-4) and are the first comprehensive CDC recommendations to prevent and control iron deficiency.
+CDC emphasizes sound iron nutrition for infants and young children, screening for anemia among women of childbearing age, and the importance of low-dose iron supplementation for pregnant women.

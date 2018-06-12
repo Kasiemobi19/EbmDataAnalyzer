@@ -1,0 +1,15 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+A clinical trial of vena caval filters in the prevention of pulmonary embolism in patients with proximal deep-vein thrombosis. Prévention du Risque d'Embolie Pulmonaire par Interruption Cave Study Group.
+Abstract Text 
+The efficacy and safety of vena caval filters in the prevention of pulmonary embolism in patients with proximal deep-vein thrombosis is still a matter of debate.
+Using a two-by-two factorial design, we randomly assigned 400 patients with proximal deep-vein thrombosis who were at risk for pulmonary embolism to receive a vena caval filter (200 patients) or no filter (200 patients), and to receive low-molecular-weight heparin (enoxaparin, 195 patients) or unfractionated heparin (205 patients).
+The rates of recurrent venous thromboembolism, death, and major bleeding were analyzed at day 12 and at two years.
+At day 12, two patients assigned to receive filters (1.1 percent), as compared with nine patients assigned to receive no filters (4.8 percent), had had symptomatic or asymptomatic pulmonary embolism (odds ratio, 0.22; 95 percent confidence interval, 0.05 to 0.90).
+At two years, 37 patients assigned to the filter group (20.8 percent), as compared with 21 patients assigned to the no-filter group (11.6 percent), had had recurrent deep-vein thrombosis (odds ratio, 1.87; 95 percent confidence interval, 1.10 to 3.20).
+There were no significant differences in mortality or the other outcomes.
+At day 12, three patients assigned to low-molecular-weight heparin (1.6 percent), as compared with eight patients assigned to unfractionated heparin (4.2 percent), had had symptomatic or asymptomatic pulmonary embolism (odds ratio, 0.38; 95 percent confidence interval, 0.10 to 1.38).
+In high-risk patients with proximal deep-vein thrombosis, the initial beneficial effect of vena caval filters for the prevention of pulmonary embolism was counterbalanced by an excess of recurrent deep-vein thrombosis, without any difference in mortality.
+Our data also confirmed that low-molecular-weight heparin was as effective and safe as unfractionated heparin for the prevention of pulmonary embolism.

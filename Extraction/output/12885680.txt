@@ -1,0 +1,14 @@
+Title 
+Archives of internal medicine
+
+Article Title 
+A pilot randomized double-blind comparison of a low-molecular-weight heparin, a nonsteroidal anti-inflammatory agent, and placebo in the treatment of superficial vein thrombosis.
+Abstract Text 
+The efficacy and safety of antithrombotic treatment in patients with superficial vein thrombosis remain to be established in adequately designed trials.
+In a double-blind trial, 427 patients older than 18 years, with documented acute symptomatic superficial vein thrombosis of the legs, were randomly assigned to receive subcutaneous enoxaparin sodium, 40 mg; subcutaneous enoxaparin, 1.5 mg/kg; oral tenoxicam; or placebo, once daily for 8 to 12 days.
+The primary efficacy outcome was deep venous thromboembolism between days 1 and 12, defined as deep vein thrombosis detected by ultrasonography between days 8 and 12 or earlier if clinically indicated, or documented symptomatic pulmonary embolism.
+For the secondary efficacy outcomes, superficial vein thrombosis recurrence or extension was also considered.
+The incidence of deep venous thromboembolism by day 12 was 3.6% (4 of 111 patients) in the placebo group, 0.9% (1 of 109 patients) in the 40-mg enoxaparin group (P =.37 vs placebo), 1.0% (1 of 102 patients) in the 1.5-mg/kg enoxaparin group (P =.37 vs placebo), and 2.1% (2 of 94 patients) in the tenoxicam group (P =.69 vs placebo).
+The incidence of deep and superficial venous thromboembolism by day 12 was significantly reduced in all active treatment groups, from 30.6% (34 of 111 patients) in the placebo group to 8.3% (9 of 109 patients), 6.9% (7 of 102 patients), and 14.9% (14 of 94 patients) in the 40-mg enoxaparin (P<.001), 1.5-mg/kg enoxaparin (P<.001), and tenoxicam (P<.01) groups, respectively.
+No death or major hemorrhage occurred during the study.
+Treatment with a low-molecular-weight heparin or with an oral nonsteroidal anti-inflammatory agent should be evaluated further in the prevention of thromboembolic complications in patients with superficial vein thrombosis.

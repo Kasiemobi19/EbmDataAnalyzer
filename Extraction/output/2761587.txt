@@ -1,0 +1,17 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+A randomized trial comparing ticlopidine hydrochloride with aspirin for the prevention of stroke in high-risk patients. Ticlopidine Aspirin Stroke Study Group.
+Abstract Text 
+We report the results of the Ticlopidine Aspirin Stroke Study, a blinded trial at 56 North American centers that compared the effects of ticlopidine hydrochloride (500 mg daily) with those of aspirin (1300 mg daily) on the risk of stroke or death.
+The medications were randomly assigned to 3069 patients with recent transient or mild persistent focal cerebral or retinal ischemia.
+Follow-up lasted for two to six years.
+The three-year event rate for nonfatal stroke or death from any cause was 17 percent for ticlopidine and 19 percent for aspirin--a 12 percent risk reduction (95 percent confidence interval, -2 to 26 percent) with ticlopidine (P = 0.048 for cumulative Kaplan-Meier estimates).
+The rates of fatal and nonfatal stroke at three years were 10 percent for ticlopidine and 13 percent for aspirin--a 21 percent risk reduction (95 percent confidence interval, 4 to 38 percent) with ticlopidine (P = 0.024 for cumulative Kaplan-Meier estimates).
+Ticlopidine was more effective than aspirin in both sexes.
+The adverse effects of aspirin included diarrhea (10 percent), rash (5.5 percent), peptic ulceration (3 percent), gastritis (2 percent), and gastrointestinal bleeding (1 percent).
+With ticlopidine, diarrhea (20 percent), skin rash (14 percent), and severe but reversible neutropenia (less than 1 percent) were noted.
+The mean increase in total cholesterol level was 9 percent with ticlopidine and 2 percent with aspirin (P less than 0.01).
+The ratios of high-density lipoprotein and low-density lipoprotein to total cholesterol were similar in both treatment groups.
+We conclude that ticlopidine was somewhat more effective than aspirin in preventing strokes in this population, although the risks of side effects were greater.

@@ -1,0 +1,24 @@
+Title 
+Cochrane database of systematic reviews (Online)
+
+Article Title 
+Orthotic devices for the treatment of tennis elbow.
+Abstract Text 
+Lateral epicondylitis (tennis elbow) is a frequently reported condition.
+A wide variety of treatment strategies has been described.
+As of yet, no optimal strategy has been identified.
+To assess the effectiveness of orthotic devices for the treatment of tennis elbow.
+We searched Medline, Embase, CINAHL, the Cochrane Controlled Trial Register, Current Contents up to May 1999 and reference lists from all retrieved articles.
+Experts on the subjects were approached for additional trials.
+All randomised clinical trials (RCT) describing individuals with diagnosed lateral epicondylitis and comparing the use of an orthotic device as a treatment strategy were evaluated for inclusion.
+Two reviewers independently assessed the validity of the included trials and extracted data on relevant outcome measures.
+Dichotomous outcomes were expressed as Relative Risks (RRs) and continuous outcomes as Standardised Mean Differences (SMD), both with corresponding 95% confidence intervals (95% CI).
+Statistical pooling and subgroup analyses were intended
+     
+      Five RCTs (N per group 7-49) were included.
+Validity score ranged from 3-9 positive items out of 11.
+Subgroup analyses were not performed due to the small number of trials.
+The limited number of included trials present few outcome measures and limited long-term results.
+Pooling was not possible due to large heterogeneity amongst trials.
+No definitive conclusions can be drawn concerning effectiveness of orthotic devices for lateral epicondylitis.
+More well-designed and well-conducted RCTs of sufficient power are warranted.

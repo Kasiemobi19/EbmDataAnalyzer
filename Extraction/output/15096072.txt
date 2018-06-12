@@ -1,0 +1,19 @@
+Title 
+The Journal of clinical psychiatry
+
+Article Title 
+Citalopram and bupropion-SR: combining versus switching in patients with treatment-resistant depression.
+Abstract Text 
+There are limited data comparing medication strategies in patients with treatment-resistant depression.
+In this study, we compared the effects of combining citalopram and bupropion-SR versus switching to the other monotherapy in treatment-resistant depression.
+This was a naturalistic, open-label cohort study.
+Patients with DSM-IV major depressive disorder who had not responded to at least 1 previous antidepressant and at least 6 weeks of treatment with citalopram or bupropion-SR were treated in a standard clinical protocol.
+In alternate months, eligible consecutive patients were treated by adding citalopram or bupropion-SR, or by switching to the other medication.
+Patients were assessed at baseline and after 6 weeks of treatment with the 29-item version of the Structured Interview Guide for the Hamilton Depression Rating Scale, Seasonal Affective Disorders Version (SIGH-SAD).
+A total of 61 patients completed the study: 32 in the combination condition and 29 in the monotherapy switch condition.
+The combination condition was superior to the monotherapy switch in the SIGH-SAD change score (-14.8 vs. -10.1,
+respectively, p <.04) and the proportion of patients in clinical remission (28% vs. 7%, p <.05).
+There were no differences in the proportion of patients who had side effects or in the severity of the side effects experienced.
+The results of this cohort study suggest that combining citalopram and bupropion-SR is more effective than switching to a monotherapy.
+Combination treatment was well tolerated with no greater side effect burden than monotherapy.
+Limitations of this study include the nonrandomized design, open-label treatment, and small sample size.

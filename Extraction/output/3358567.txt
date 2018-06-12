@@ -1,0 +1,12 @@
+Title 
+Annals of internal medicine
+
+Article Title 
+The clinical effectiveness of pneumococcal vaccine in the elderly.
+Abstract Text 
+The effectiveness of pneumococcal vaccine in the immunocompetent elderly remains controversial.
+We report the results of a multicenter, case-control study of 244 controls and 122 patients, aged 55 years and older, hospitalized during a 5-year period with pneumococcal bacteremia, meningitis, or other bacteriologically confirmed pneumococcal infection.
+Two controls per patient were matched on the basis of admission date, hospital records, and underlying diseases.
+All subjects were selected without knowledge of immunization status with pneumococcal vaccine, and were excluded if there was evidence for immunosuppression due to disease or iatrogenic causes.
+The clinical effectiveness of the vaccine was calculated to be 70% (95% confidence intervals [CI], 37% to 86%) in this population, based on a Mantel-Haenszel point estimate of the odds ratio of 0.30 (95% CI, 0.14% to 0.63%; P less than 0.005).
+The clinical effectiveness of pneumococcal vaccine in preventing pneumococcal infection in the immunocompetent elderly approximates the vaccine's effectiveness in the general immunocompetent population.

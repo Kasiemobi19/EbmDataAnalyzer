@@ -1,0 +1,22 @@
+Title 
+Archives of internal medicine
+
+Article Title 
+The efficacy of aspirin in patients with atrial fibrillation. Analysis of pooled data from 3 randomized trials. The Atrial Fibrillation Investigators.
+Abstract Text 
+Atrial fibrillation (AF) is associated with an increased risk of stroke.
+Six randomized studies of the use of oral anticoagulation therapy have demonstrated that the relative risk of stroke is decreased by approximately 68%.
+Three of these studies also compared aspirin with placebo use in a double-blind design.
+We pooled individual patient data from these 3 studies.
+To determine if there were subgroups of patients who were particularly responsive to aspirin use and to determine the efficacy of aspirin compared with placebo use in the broad spectrum of patients with AF.
+There were 1985 patient-years assigned to the aspirin and 1867 patient-years assigned to the placebo groups in the analysis.
+The daily dose of aspirin was 75 mg in the Atrial Fibrillation, Aspirin, Anticoagulation Study, 325 mg in the Stroke Prevention in Atrial Fibrillation 1 Study, and 300 mg in the European Atrial Fibrillation Trial.
+The European Atrial Fibrillation Trial was a secondary prevention trial, while the other 2 were primary prevention studies.
+The primary end point in this analysis was ischemic stroke.
+At the time of randomization, the patients' mean age was 70 years and the mean blood pressure was 145/83 mm Hg.
+Sixty-two percent of patients were male, 46% had a history of hypertension, 35% had a previous transient ischemic attack or stroke, and 19% had intermittent AF.
+Although aspirin use seemed particularly effective in younger patients and in those with hypertension in the Stroke Prevention in Atrial Fibrillation 1 Study, this was not the case in the other studies.
+No other subgroups particularly responsive to aspirin therapy were identified.
+When patients from all the studies were combined, the relative risk reduction with aspirin therapy was 21% (95% confidence interval, 0%-38%; P = .05).
+A subgroup of patients with AF that has a particularly large reduction in stroke incidence from aspirin therapy was not convincingly identified.
+The data from the combined analysis of these 3 randomized trials suggest a small effect of aspirin use in preventing stroke in patients with AF.

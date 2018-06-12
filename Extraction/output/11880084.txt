@@ -1,0 +1,13 @@
+Title 
+Urology
+
+Article Title 
+Magnetic resonance imaging of scrotal diseases: when it makes the difference.
+Abstract Text 
+To investigate the utility of magnetic resonance imaging (MRI) after inconclusive sonography in the evaluation of scrotal disease.
+From 1993 to 1999, 622 patients underwent ultrasonography (US) with state-of-the-art equipment to evaluate scrotal diseases.
+Twenty-six patients, two with bilateral and distinct diseases (age range 1--63 years, mean 33), had an inconclusive sonogram and were sent for MRI.
+The MRI results were compared with previous US reports and with the final diagnosis.
+MRI yielded additional and correct information (compared with US), coincident with the final diagnosis in 23 cases (82.1%).
+In regard to lesions suspected of malignancy at US (17 cases), MRI had a great concordance with the final diagnosis and was statistically significant (P <0.002, kappa test).
+The results of our study indicate that MRI could help elucidate scrotal dilemmas found at US, although the small percentage of inconclusive sonograms confirms this technique as the first choice when imaging is required in scrotal diseases.

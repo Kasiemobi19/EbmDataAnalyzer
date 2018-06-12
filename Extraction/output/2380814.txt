@@ -1,0 +1,12 @@
+Title 
+The Journal of pediatrics
+
+Article Title 
+Prone positioning in infant gastroesophageal reflux: is elevation of the head worth the trouble?
+Abstract Text 
+To determine whether head-elevated prone positioning is better than flat prone positioning for infants with gastroesophageal reflux, we studied 100 babies less than 6 months of age who were being examined for reflux with an intraluminal esophageal pH probe while the babies were in each of the two positions, with the use of a crossover design protocol.
+During both a 2-hour postprandial period and a fasting period, pH probe measurements in each position included (1) minutes with pH less than 4, (2) number of episodes with pH less than 4, (3) mean duration of such episodes, (4) number of such episodes longer than 5 minutes, and (5) the duration of the longest episode.
+Significant reductions with head elevation were found for only two of these 10 values: the frequency of reflux episodes postprandially (7.5 +/- 0.7 vs 5.9 +/- 0.5 episodes per 2 hours; p less than 0.05) and the frequency of episodes longer than 5 minutes postprandially (1.4 +/- 0.1 vs 1.2 +/- 0.1 episodes per 2 hours; p less than 0.005).
+There was no significant reduction in the total duration of postprandial reflux nor in any measure of reflux during the fasting period.
+The 90 infants in whom an abnormal degree of gastroesophageal reflux was documented had no significant differences between flat prone and head-elevated prone position for any of the 10 pH probe measurements.
+Head-elevated prone positioning is probably not worth the extra effort required to maintain it.

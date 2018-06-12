@@ -1,0 +1,15 @@
+Title 
+Menopause (New York, N.Y.)
+
+Article Title 
+Ovarian volume and antral follicle counts as indicators of menopausal status.
+Abstract Text 
+Recent studies suggest that ovarian volume and antral follicle numbers may be sensitive, specific, and early indicators of menopausal status.
+The accuracy of these markers, however, has not been compared directly to more traditional markers [age and follicle-stimulating hormone (FSH) levels].
+Thus, the purpose of this study was to test whether ovarian volume and antral follicle counts are more sensitive and specific markers of menopausal status than age or FSH levels.
+Premenopausal (n = 34) and postmenopausal (n = 25) women between 40 and 54 years old received a transvaginal ultrasound for determination of ovarian volume and antral follicle numbers, provided blood for measurement of FSH levels, and completed a questionnaire.
+FSH levels, age, ovarian volume, and antral follicle numbers were compared using t tests.
+Receiver operating characteristic curves were generated to evaluate the sensitivity and specificity of each marker.
+Postmenopausal women had significantly higher FSH levels (p < or = 0.0001), smaller ovarian volumes (p < or = 0.002), and fewer antral follicles (p < or = 0.002) than premenopausal women.
+Ovarian volume and antral follicle numbers had similar sensitivity (27.3-100%) and specificity (3.4-92.9%) in indicating postmenopausal status as FSH levels and age.
+These data suggest that ovarian volume and antral follicle numbers may be useful indicators of menopausal status.

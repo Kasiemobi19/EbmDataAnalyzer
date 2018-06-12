@@ -1,0 +1,22 @@
+Title 
+International journal of obesity and related metabolic disorders : journal of the International Association for the Study of Obesity
+
+Article Title 
+Family involvement in weight control, weight maintenance and weight-loss interventions: a systematic review of randomised trials.
+Abstract Text 
+To conduct a descriptive systematic review into the nature and effectiveness of family involvement in weight control, weight maintenance and weight-loss interventions.
+We searched Medline and Psyclit for English language papers describing randomised trials with at least 1-y follow-up that evaluated interventions incorporating a family-based component.
+Studies involving people with eating disorders, learning disabilities and undernutrition or malnutrition were excluded.
+Data were extracted on characteristics of the participants, study design, target behaviours, nature of the intervention and study outcomes.
+A taxonomy was developed and used to classify family involvement in behaviour change interventions.
+Interventions were also classified according to an existing taxonomy that characterised the behaviour change techniques employed.
+A total of 21 papers describing 16 intervention studies were identified.
+Studies were small (mean sample size: 52), heterogeneous, poorly described but with few losses to follow-up (median 15%).
+The majority were North American and aimed at weight loss.
+Few studies described a theoretical underpinning to the behaviour change techniques employed.
+There was a suggestion that spouse involvement increased effectiveness but that adolescents achieved greater weight loss when treated alone.
+In studies including children, beneficial effects were seen when greater numbers of behaviour change techniques were taught to both parents and children.
+Relatively few intervention studies exist in this important area, particularly studies targeting adolescents, and they highlight continued uncertainty about how best to involve family members.
+The studies provide limited support for the involvement of spouses.
+They suggest that parental involvement is associated with weight loss in children, and that use of a greater range of behaviour change techniques improves weight outcomes for both parents and children.
+The development of future interventions and assessment of factors influencing effectiveness may be improved by paying careful attention to which family members are targeted and how they are involved in the intervention in terms of setting goals for behaviour change, providing support and training in behaviour change techniques.

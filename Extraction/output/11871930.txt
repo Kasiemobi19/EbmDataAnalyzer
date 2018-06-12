@@ -1,0 +1,20 @@
+Title 
+Archives of internal medicine
+
+Article Title 
+The impact of empirical management of acute cystitis on unnecessary antibiotic use.
+Abstract Text 
+Guidelines for the management of acute cystitis support empirical antibiotic treatment; however, up to half of symptomatic women have negative urine cultures.
+To determine whether empirical treatment leads to unnecessary antibiotic prescriptions in women with symptoms of acute cystitis.
+A cohort of 231 women (defined as females aged 16 years and older) presenting to family physicians' offices with symptoms of cystitis underwent a standardized clinical assessment, urine dip testing, and culture.
+Recommendations for urine testing and antibiotic treatment under 3 empirical strategies were compared with observed physician management and a logistic regression model for the outcomes of antibiotic prescriptions, urine culture testing, and unnecessary antibiotics, defined as a prescription where the subsequent urine culture was negative.
+There were 123 positive urine cultures (53.3%).
+Physicians prescribed antibiotics to 186 women (80.9%), of whom 74 (39.8%) were culture negative.
+Unnecessary antibiotic use was similar for 2 guidelines recommending empirical antibiotic treatment without testing for pyuria (41.4% and 40.6%).
+Treating women with classic cystitis symptoms and pyuria would have decreased unnecessary antibiotic use (26.2%;
+P =.02) but resulted in fewer women with confirmed urinary tract infection receiving immediate antibiotics (66.4% vs 91.8% usual care; P<.001).
+A derived prediction model incorporating testing for pyuria and nitrites would also have reduced unnecessary antibiotic use (27.5%;
+P =.03), but more women with confirmed urinary tract infection would have received immediate antibiotics (81.3%;
+P =.01).
+Empirical antibiotic treatment of acute cystitis in women without testing for pyuria promotes unnecessary antibiotic use.
+A simple decision rule provides for prompt treatment of infected women while reducing antibiotic overuse and unnecessary urine testing.

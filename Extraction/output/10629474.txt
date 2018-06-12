@@ -1,0 +1,14 @@
+Title 
+Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery
+
+Article Title 
+Diagnosis and treatment of uncomplicated acute bacterial rhinosinusitis: summary of the Agency for Health Care Policy and Research evidence-based report.
+Abstract Text 
+The goal was to critically examine evidence regarding the performance of diagnostic tests and the efficacy of antibiotic and other treatments for uncomplicated acute bacterial rhinosinusitis (ABR).
+Scientific literature was reviewed, and meta-analysis methods were used to assess diagnostic test and antibiotic efficacy.
+A decision analysis and cost-effective analysis were performed.
+Although more sensitive than clinical examination for diagnosis of ABR, sinus radiograms are not cost-effective as an initial management strategy.
+Antibiotics reduce the incidence of clinical failures by one half compared to no treatment and, when coupled with clinical criteria-based diagnosis, present the most cost-effective treatment strategy.
+However, without antibiotics, symptoms in two thirds of patients improve by 14 days with no serious complications.
+The risk of treatment failure does not differ significantly between amoxicillin or folate inhibitors and newer, more expensive antibiotics.
+The current literature shows that treatment of uncomplicated ABR with amoxicillin or folate inhibitors and based on clinical criteria is the most cost-effective strategy.

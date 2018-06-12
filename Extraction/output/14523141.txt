@@ -1,0 +1,21 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+The prevention of radiocontrast-agent-induced nephropathy by hemofiltration.
+Abstract Text 
+Nephropathy induced by exposure to radiocontrast agents, a possible complication of percutaneous coronary interventions, is associated with significant in-hospital and long-term morbidity and mortality.
+Patients with preexisting renal failure are at particularly high risk.
+We investigated the role of hemofiltration, as compared with isotonic-saline hydration, in preventing contrast-agent-induced nephropathy in patients with renal failure.
+We studied 114 consecutive patients with chronic renal failure (serum creatinine concentration, >2 mg per deciliter [176.8 micromol per liter]) who were undergoing coronary interventions.
+We randomly assigned them to either hemofiltration in an intensive care unit (ICU) (58 patients, with a mean [+/-SD] serum creatinine concentration of 3.0+/-1.0
+mg per deciliter [265.2+/-88.4
+micromol per liter]) or isotonic-saline hydration at a rate of 1 ml per kilogram of body weight per hour given in a step-down unit (56 patients, with a mean serum creatinine concentration of 3.1+/-1.0
+mg per deciliter [274.0+/-88.4
+micromol per liter]).
+Hemofiltration (fluid replacement rate, 1000 ml per hour without weight loss) and saline hydration were initiated 4 to 8 hours before the coronary intervention and were continued for 18 to 24 hours after the procedure was completed.
+An increase in the serum creatinine concentration of more than 25 percent from the base-line value after the coronary intervention occurred less frequently among the patients in the hemofiltration group than among the control patients (5 percent vs. 50 percent, P<0.001).
+Temporary renal-replacement therapy (hemodialysis or hemofiltration) was required in 25 percent of the control patients and in 3 percent of the patients in the hemofiltration group.
+The rate of in-hospital events was 9 percent in the hemofiltration group and 52 percent in the control group (P<0.001).
+In-hospital mortality was 2 percent in the hemofiltration group and 14 percent in the control group (P=0.02), and the cumulative one-year mortality was 10 percent and 30 percent, respectively (P=0.01).
+In patients with chronic renal failure who are undergoing percutaneous coronary interventions, periprocedural hemofiltration given in an ICU setting appears to be effective in preventing the deterioration of renal function due to contrast-agent-induced nephropathy and is associated with improved in-hospital and long-term outcomes.

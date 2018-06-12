@@ -1,0 +1,16 @@
+Title 
+Alcoholism, clinical and experimental research
+
+Article Title 
+Influence of alcohol intake on risk for increased low-density lipoprotein cholesterol in middle-aged Japanese men.
+Abstract Text 
+Decreased low-density lipoprotein (LDL) cholesterol in chronic alcoholics is well known.
+However, the importance of light to moderate alcohol consumption is less certain.
+We investigated the association of alcohol intake with risk for increased LDL cholesterol over 5 years in a cohort of 933 Japanese male office workers aged 35 to 54 years who had LDL cholesterol levels less than 140 mg/dl and were not taking medication for dyslipidemia, hypertension, diabetes, liver disease, or hyperuricemia at study entry.
+Incident-increased LDL cholesterol was defined by an LDL cholesterol level of 140 mg/dl or more or use of medication for dyslipidemia.
+Each individual's slope for LDL cholesterol was also calculated with a simple linear regression model.
+Three hundred twenty-one men developed increased LDL cholesterol during 3785 person-years of follow-up.
+After controlling for potential predictors of increased LDL cholesterol, the relative risk for increased LDL cholesterol compared with nondrinkers was 0.89 for those who drank 0.1 to 22.9 g/day of ethanol, 0.74 for those who drank 23.0 to 45.9 g/day of ethanol, 0.64 for those who drank 46.0 to 59.9 g/day of ethanol, and 0.54 for those who drank 69.0 g/day or more of ethanol (p < 0.001).
+Slopes of LDL cholesterol level decreased significantly as alcohol intake increased.
+From multiple linear regression analyses, alcohol intake remained as an independent negative factor for slopes of LDL cholesterol level.
+Alcohol intake is negatively associated with development of increased LDL cholesterol in middle-aged Japanese men.

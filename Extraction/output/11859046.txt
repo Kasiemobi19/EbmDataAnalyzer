@@ -1,0 +1,21 @@
+Title 
+BMJ (Clinical research ed.)
+
+Article Title 
+Ultrasonography and abdominal radiography versus intravenous urography in investigation of urinary tract infection in men: prospective incident cohort study.
+Abstract Text 
+To compare ultrasonography and abdominal radiography with intravenous urography in the investigation of urinary tract infection in men.
+Prospective study in two hospital departments.
+Radiological procedures and urological assessments performed on different days by different clinicians
+     
+      District general hospital.
+Consecutive series of men (n=114) referred to the department of urology for investigation of proved urinary tract infection.
+Ultrasonography and intravenous urography of renal tract and assessment of urinary flow rate.
+Clinical assessment, cystoscopy, urodynamic studies, and transrectal ultrasonography with biopsy.
+Sensitivity and specificity of ultrasonography and abdominal radiography compared with intravenous urography.
+Important abnormalities were seen in 53 of 100 fully evaluated patients, the most common being a poorly emptying bladder (34).
+The combination of plain radiographs of kidneys, ureter, and bladder and ultrasonography detected more abnormalities than intravenous urography alone.
+No important abnormality was missed by this combination (sensitivity 100% and specificity 93%).
+Ultrasonography with abdominal radiography is as accurate as intravenous urography in detecting important urological abnormalities in men presenting with urinary tract infection.
+This combination is safer than intravenous urography and should be the initial investigation for such patients.
+Additional determination of urinary flow rate is useful for the assessment of an incompletely emptying bladder.

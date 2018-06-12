@@ -1,0 +1,21 @@
+Title 
+The American journal of medicine
+
+Article Title 
+Epidemiology of urinary tract infections: incidence, morbidity, and economic costs.
+Abstract Text 
+Urinary tract infections (UTIs) are considered to be the most common bacterial infection.
+According to the 1997 National Ambulatory Medical Care Survey and National Hospital Ambulatory Medical Care Survey, UTI accounted for nearly 7 million office visits and 1 million emergency department visits, resulting in 100,000 hospitalizations.
+Nevertheless, it is difficult to accurately assess the incidence of UTIs, because they are not reportable diseases in the United States.
+This situation is further complicated by the fact that accurate diagnosis depends on both the presence of symptoms and a positive urine culture, although in most outpatient settings this diagnosis is made without the benefit of culture.
+Women are significantly more likely to experience UTI than men.
+Nearly 1 in 3 women will have had at least 1 episode of UTI requiring antimicrobial therapy by the age of 24 years.
+Almost half of all women will experience 1 UTI during their lifetime.
+Specific subpopulations at increased risk of UTI include infants, pregnant women, the elderly, patients with spinal cord injuries and/or catheters, patients with diabetes or multiple sclerosis, patients with acquired immunodeficiency disease syndrome/human immunodeficiency virus, and patients with underlying urologic abnormalities.
+Catheter-associated UTI is the most common nosocomial infection, accounting for >1 million cases in hospitals and nursing homes.
+The risk of UTI increases with increasing duration of catheterization.
+In noninstitutionalized elderly populations, UTIs are the second most common form of infection, accounting for nearly 25% of all infections.
+There are important medical and financial implications associated with UTIs.
+In the nonobstructed, nonpregnant female adult, acute uncomplicated UTI is believed to be a benign illness with no long-term medical consequences.
+However, UTI elevates the risk of pyelonephritis, premature delivery, and fetal mortality among pregnant women, and is associated with impaired renal function and end-stage renal disease among pediatric patients.
+Financially, the estimated annual cost of community-acquired UTI is significant, at approximately $1.6 billion.

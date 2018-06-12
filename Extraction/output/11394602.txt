@@ -1,0 +1,15 @@
+Title 
+The American journal of sports medicine
+
+Article Title 
+Outcome of surgery for chronic Achilles tendinopathy. A critical review.
+Abstract Text 
+Achilles tendinopathy is often treated surgically after failure of nonoperative management, but results are not uniformly excellent.
+We critically assessed the methods of 26 studies that reported surgical outcomes of patients with this condition.
+Using 10 previously published criteria, and blinded to study outcomes, we derived a "methodology score" (0 to 100) for each study.
+This score was highly reproducible (r = 0.99, P < 0.01).
+Scores were generally low concerning the type of study, subject selection process, and outcome measures, which indicates methods deficiency in the way the study was designed, performed, and analyzed.
+We found a negative correlation between reported success rate and overall methods scores (r = -0.53,
+P < 0.01), and a positive correlation between year of publication and overall methods score (r = 0.70, P < 0.01).
+Study methods may influence reported surgical outcome, and we suggest guidelines for improving study design in this area of clinical research.
+We acknowledge that study methods have improved over the course of the past 20 years.

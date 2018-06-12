@@ -1,0 +1,21 @@
+Title 
+Archives of internal medicine
+
+Article Title 
+The effect of antidepressant treatment on chronic back pain: a meta-analysis.
+Abstract Text 
+Back pain is one of the most common problems in primary care.
+Antidepressant medication is often prescribed, especially for chronic back discomfort, to alleviate pain and restore the patient's ability to conduct activities of daily living.
+To assess the efficacy of antidepressants in treating back pain in adults.
+We searched the MEDLINE (1966-2000), PsycLit, Cinhal, EMBASE, AIDSLINE, HealthSTAR, CANCERLIT, the Cochrane Library (clinical trials registry and the Database of Systematic Reviews), Micromedex, and Federal Research in Progress databases and references of reviewed articles.
+Included articles were written in English and dealt with randomized placebo-controlled trials of antidepressant medication use among adults with chronic back pain.
+Two reviewers abstracted data independently.
+Two continuous outcomes, change in back pain severity and ability to perform activities of daily living, were measured.
+Study quality was assessed with the methods used by Jadad and colleagues, and data were synthesized using a random-effects model.
+Nine randomized controlled trials with 10 treatment arms and 504 patients were included.
+Seven treatment arms included patients with major depression.
+Patients had chronic back pain, averaging 10.4 years.
+Patients treated with antidepressants were more likely to improve in pain severity than those taking placebo (standardized mean difference, 0.41; 95% confidence interval, 0.22-0.61)
+but not in activities of daily living (standardized mean difference, 0.24; 95% confidence interval, -0.21-0.69).
+Patients treated with antidepressants experienced more adverse effects (22% vs 14%, P =.01) than those receiving placebo.
+Antidepressants are more effective than placebo in reducing pain severity but not functional status in chronic back pain.

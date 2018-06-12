@@ -1,0 +1,24 @@
+Title 
+Drug safety : an international journal of medical toxicology and drug experience
+
+Article Title 
+New drugs for insomnia: comparative tolerability of zopiclone, zolpidem and zaleplon.
+Abstract Text 
+Insomnia affects 30-35% of people living in developed countries.
+The impact of insomnia on daytime functioning and its relationship with medical and psychiatric illnesses necessitate early treatment to prevent insomnia becoming persistent and to avoid the development of complications.
+However, pharmacological strategies must achieve a balance between sedative and adverse effects.
+In the last 30 years, benzodiazepines have been the preferred drugs for the treatment of insomnia.
+Benzodiazepines act nonselectively at two central receptor sites, named omega(1) and omega(2), which are located in different areas of the CNS.
+The sedative action of benzodiazepines is related to omega(1) receptors, whereas omega(2) receptors are responsible for their effects on memory and cognitive functioning.
+According to their pharmacokinetic profile, benzodiazepines can be classified into three groups: short half-life (<3 hours), medium half-life (8-24 hours) and long half-life (>24 hours).
+The newer non-benzodiazepine agents zopiclone, zolpidem and zaleplon have a hypnosedative action comparable with that of benzodiazepines, but they display specific pharmacokinetic and pharmacodynamic properties.
+These three 'Z' agents all share a short plasma half-life and limited duration of action.
+In addition, these agents are selective compounds that interact preferentially with omega(1) receptors (sedative effect), whereas benzodiazepines also interact with omega(2) receptors (adverse effects on cognitive performance and memory).
+Zaleplon is characterised by an ultrashort half-life (approximately 1 hour).
+Zolpidem and zopiclone have longer half-lives (approximately 2.4 and 5 hours, respectively).
+These properties, together with the low risk of residual effect, may explain the limited negative influences of these agents on daytime performance.
+Psychomotor tasks and memory capacities appear to be better preserved by non-benzodiazepine agents than by benzodiazepines.
+When present, cognitive deficits almost exclusively coincide with the peak plasma concentration.
+In particular, impairment can emerge in the first hours after drug administration, whereas psychomotor and memory tests carried out 7-8 hours later (i.e. in the morning) generally show no relevant alterations.
+As with benzodiazepines, the three 'Z' non-benzodiazepine agents should be used for a limited period, even in chronic relapsing conditions.
+Further evaluation is needed of the safety of hypnosedative medications in the long-term management of insomnia.

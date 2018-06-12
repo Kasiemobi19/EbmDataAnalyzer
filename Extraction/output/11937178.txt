@@ -1,0 +1,24 @@
+Title 
+Lancet
+
+Article Title 
+Cardiovascular morbidity and mortality in the Losartan Intervention For Endpoint reduction in hypertension study (LIFE): a randomised trial against atenolol.
+Abstract Text 
+Blood pressure reduction achieved with beta-blockers and diuretics is the best recorded intervention to date for prevention of cardiovascular morbidity and death in patients with hypertension.
+Left ventricular hypertrophy (LVH) is a strong independent indicator of risk of cardiovascular morbidity and death.
+We aimed to establish whether selective blocking of angiotensin II improves LVH beyond reducing blood pressure and, consequently, reduces cardiovascular morbidity and death.
+We did a double-masked, randomised, parallel-group trial in 9193 participants aged 55-80 years with essential hypertension (sitting blood pressure 160-200/95-115 mm Hg) and LVH ascertained by electrocardiography (ECG).
+We assigned participants once daily losartan-based or atenolol-based antihypertensive treatment for at least 4 years and until 1040 patients had a primary cardiovascular event (death, myocardial infarction, or stroke).
+We used Cox regression analysis to compare regimens.
+Blood pressure fell by 30.2/16.6 (SD 18.5/10.1)
+and 29.1/16.8
+mm Hg (19.2/10.1) in the losartan and atenolol groups, respectively.
+The primary composite endpoint occurred in 508 losartan (23.8 per 1000 patient-years) and 588 atenolol patients (27.9 per 1000 patient-years; relative risk 0.87, 95% CI 0.77-0.98,
+p=0.021).
+204 losartan and 234 atenolol patients died from cardiovascular disease (0.89, 0.73-1.07,
+p=0.206); 232 and 309, respectively, had fatal or non-fatal stroke (0.75, 0.63-0.89,
+p=0.001); and myocardial infarction (non-fatal and fatal) occurred in 198 and 188, respectively (1.07, 0.88-1.31,
+p=0.491).
+New-onset diabetes was less frequent with losartan.
+Interpretation Losartan prevents more cardiovascular morbidity and death than atenolol for a similar reduction in blood pressure and is better tolerated.
+Losartan seems to confer benefits beyond reduction in blood pressure.

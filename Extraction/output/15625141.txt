@@ -1,0 +1,17 @@
+Title 
+Obstetrics and gynecology
+
+Article Title 
+Body mass index, weight, and oral contraceptive failure risk.
+Abstract Text 
+To estimate the effect of body mass index (BMI) and weight on risk of pregnancy while using oral contraceptives (OCs).
+We conducted a case-control study of 248 health maintenance organization enrollees who became pregnant while using OCs between 1998 and 2001 and 533 age-matched enrollees who were nonpregnant OC users during the same period.
+Using logistic regression we calculated adjusted odds ratios (ORs) to estimate the risk of pregnancy according to BMI and weight quartile.
+Among all OC users, when compared with women having a BMI of 27.3 or less, the risk of pregnancy was nearly 60% higher in women with BMI greater than 27.3 (OR 1.58, 95% confidence interval [CI] 1.11-2.24)
+and over 70% higher in women with BMI greater than 32.2 (OR 1.72, 95% CI 1.04-2.82).
+Among consistent users (women who missed no pills in reference month), the risk of pregnancy was more than doubled in women with BMI greater than 27.3 (OR 2.17, 95% CI 1.38-3.41)
+or BMI greater than 32.2 (OR 2.22, 95% CI 1.18-4.20).
+When compared with women weighing 74.8 kg or less, among consistent OC users the risk of pregnancy was over 70% higher in women weighing more than 74.8 kg (OR 1.71, 95% CI 1.08-2.71)
+and nearly doubled in women weighing more than 86.2 kg (OR 1.95, 95% CI 1.06-3.67).
+Our results suggest that being overweight may increase the risk of becoming pregnant while using OCs.
+If causal, this association translates to an additional 2-4 pregnancies per 100 woman-years of use among overweight women, for whom consideration of additional or effective alternative contraceptive methods may be warranted.

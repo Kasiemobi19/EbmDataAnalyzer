@@ -1,0 +1,15 @@
+Title 
+Pediatrics
+
+Article Title 
+Usefulness of the American Academy of Pediatrics recommendations for identifying youths with hypercholesterolemia.
+Abstract Text 
+To determine the usefulness of parent history of hypercholesterolemia and cardiovascular disease as a screening criterion for hypercholesterolemia in youths.
+Data were available from a population-based survey of 3665 Quebec youths aged 9, 13, and 16 years (81.2% of eligible subjects).
+Blood specimens were collected from 2475 subjects (54.8% of those eligible), and questionnaire data were obtained from 3048 parents (67.5% of those eligible).
+Lipids were measured in a Centers for Disease Control and Prevention standardized laboratory.
+Usefulness of parent history in identifying borderline/high low-density lipoprotein cholesterol (LDL-C) (> or =2.8 mmol/L [> or =110 mg/dL]) and high LDL-C (> or =3.4 mmol/L [> or =130 mg/dL]) was assessed according to test performance statistics (sensitivity, specificity, positive predictive value, and negative predictive value).
+The prevalence of a positive parent history was 25.6%; 18.3% of subjects had borderline/high LDL-C, and 4.8% had high LDL-C.
+Sensitivity, specificity, positive predictive value, and negative predictive value of parent history were 33.1%, 76.0%, 23.7%, and 83.5%, respectively, for identifying borderline/high LDL-C; they were 40.7%, 75.1%, 7.7%, and 96.1% for identifying high LDL-C.
+Test performance statistics were not improved in subgroups defined according to age, gender, parent education, household income, family status, and family origin (French Canadian, other); neither were they improved by adding screening criteria (parent history of diabetes or hypertension, or youth overweight).
+Parent history screening criteria offer little improvement over random population screening in identifying youths with hypercholesterolemia.

@@ -1,0 +1,16 @@
+Title 
+The British journal of surgery
+
+Article Title 
+Systematic review of randomized clinical trials of surgical treatment for carpal tunnel syndrome.
+Abstract Text 
+Carpal tunnel syndrome (CTS) is a common disorder for which several surgical treatment options are available.
+However, there is no consensus on the most effective method of treatment.
+The object of this systematic review is to compare the efficacy of the various surgical techniques in relieving the symptoms of CTS and promoting return to work and/or activities of daily living.
+Computer-aided searches of Medline, EMBASE and the Cochrane Controlled Trials Register were conducted, together with reference checking.
+A rating system, based on the number of studies and their methodological quality and findings, was used to determine the strength of the available evidence for the efficacy of the treatment.
+Fourteen studies were included in the review.
+None of the alternatives to standard open carpal tunnel release (OCTR) seems to offer better relief of symptoms.
+There is conflicting evidence about whether endoscopic carpal tunnel release results in earlier return to work and/or activities of daily living.
+Standard OCTR is still the preferred method of treatment for CTS.
+It is just as effective as the alternatives, but is technically less demanding, so incurs a lower risk of complications and of added costs.

@@ -1,0 +1,18 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+Bupropion-SR, sertraline, or venlafaxine-XR after failure of SSRIs for depression.
+Abstract Text 
+After unsuccessful treatment for depression with a selective serotonin-reuptake inhibitor (SSRI), it is not known whether switching to one antidepressant is more effective than switching to another.
+We randomly assigned 727 adult outpatients with a nonpsychotic major depressive disorder who had no remission of symptoms or could not tolerate the SSRI citalopram to receive one of the following drugs for up to 14 weeks: sustained-release bupropion (239 patients) at a maximal daily dose of 400 mg, sertraline (238 patients) at a maximal daily dose of 200 mg, or extended-release venlafaxine (250 patients) at a maximal daily dose of 375 mg.
+The study was conducted in 18 primary and 23 psychiatric care settings.
+The primary outcome was symptom remission, defined by a total score of 7 or less on the 17-item Hamilton Rating Scale for Depression (HRSD-17) at the end of the study.
+Scores on the Quick Inventory of Depressive Symptomatology - Self Report (QIDS-SR-16), obtained at treatment visits, determined secondary outcomes, including remission (a score of 5 or less at exit) and response (a reduction of 50 percent or more on baseline scores).
+Remission rates as assessed by the HRSD-17 and the QIDS-SR-16, respectively, were 21.3 percent and 25.5 percent for sustained-release bupropion, 17.6 percent and 26.6 percent for sertraline, and 24.8 percent and 25.0 percent for extended-release venlafaxine.
+QIDS-SR-16 response rates were 26.1 percent for sustained-release bupropion, 26.7 percent for sertraline, and 28.2 percent for extended-release venlafaxine.
+These treatments did not differ significantly with respect to outcomes, tolerability, or adverse events.
+After unsuccessful treatment with an SSRI, approximately one in four patients had a remission of symptoms after switching to another antidepressant.
+Any one of the medications in the study provided a reasonable second-step choice for patients with depression.
+(ClinicalTrials.gov
+number, NCT00021528.).

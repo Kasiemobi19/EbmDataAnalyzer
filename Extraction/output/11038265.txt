@@ -1,0 +1,17 @@
+Title 
+BMC family practice
+
+Article Title 
+Are the pneumococcal polysaccharide vaccines effective? Meta-analysis of the prospective trials.
+Abstract Text 
+The objective was to review the evidence of effectiveness of the polyvalent polysaccharide pneumococcal vaccine from prospective properly randomised controlled trials comparing pneumococcal vaccines with placebo in subjects who are immunocompetent and those likely to have an impaired immune system.
+Databases searched included the Cochrane Library, (issue 2, 2000), MEDLINE (1966-August 2000), PubMed (to August 2000) and EMBASE ( to August 2000).
+Reference lists of reports and reviews were also searched.
+To be included in the analysis, a study had to have been a prospective randomised comparison of a polysaccharide pneumococcal vaccine (any valency) and to have a placebo or no treatment comparison group.
+Papers had to report important clinical outcomes, such as rates of pneumonia, pneumococcal pneumonia, lower respiratory tract infections, pneumonia deaths or bacteraemia.
+Serological outcomes were not sought.
+Thirteen randomised comparisons with over 45,000 subjects were identified in an extensive literature review.
+Eight studies had a quality score of 3 or more on a scale of 1 to 5. In three comparisons with 21,152 immunocompetent subjects (South African gold miners, New Guinea highlanders) pneumococcal vaccination was effective in reducing the incidence of all-cause pneumonia (relative risk 0.56, 95% confidence interval 0.47 to 0.66), pneumococcal pneumonia (0.16; 0.11 to 0.23), pneumonia deaths (0.70; 0.50 to 0.96) and bacteraemia (0.18; 0.09 to 0.34).
+In ten comparisons in over 24,000 people who were elderly or likely to have impaired immune systems, pneumococcal vaccination was without effect for any outcome.
+Present guidelines recommend pneumococcal vaccination for "high-risk" groups.
+There is no evidence from randomised trials that this is of any benefit.

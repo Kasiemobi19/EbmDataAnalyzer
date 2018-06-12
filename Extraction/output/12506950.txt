@@ -1,0 +1,12 @@
+Title 
+The Pediatric infectious disease journal
+
+Article Title 
+Comparison of fluconazole and nystatin oral suspensions for treatment of oral candidiasis in infants.
+Abstract Text 
+Oral thrush is a common condition in young infants.
+Nystatin treatment is associated with frequent recurrences and difficulty in administration.
+Fluconazole was compared with nystatin for the treatment of oral candidiasis in infants.
+Thirty-four infants were randomized to either nystatin oral suspension four times a day for 10 days or fluconazole suspension 3 mg/kg in a single daily dose for 7 days.
+Clinical cures for nystatin were 6 of 19 (32%), and those for fluconazole were 15 of 15 (100%), P < 0.0001.
+In this small pilot study fluconazole was shown to be superior to nystatin suspension for the treatment of oral thrush in otherwise healthy infants.

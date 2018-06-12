@@ -1,0 +1,23 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Cardiovascular prognosis of "masked hypertension" detected by blood pressure self-measurement in elderly treated hypertensive patients.
+Abstract Text 
+Blood pressure (BP) measurement in clinicians' offices with a mercury sphygmomanometer has numerous drawbacks.
+In contrast, the use of home BP measurement improves measurement precision and reproducibility.
+However, data about its prognostic value are lacking.
+To assess the prognostic value of home vs office BP measurement by general practitioners in a European population of elderly patients being treated for hypertension.
+Office and home BP and cardiac risk factors were measured at baseline in a cohort of 4939 treated hypertensive patients (mean age, 70 [SD, 6.5] years; 48.9% men) who were recruited and followed up by their usual general practitioners without specific recommendations about their management.
+The cohort was then followed up for a mean of 3.2 (SD, 0.5) years.
+The thresholds defining uncontrolled hypertension were at least 140/90 mm Hg for office BP and 135/85 mm Hg for home BP.
+The primary end point was cardiovascular mortality.
+Secondary end points were total mortality and the combination of cardiovascular mortality, nonfatal myocardial infarction, nonfatal stroke, transient ischemic attack, hospitalization for angina or heart failure, percutaneous transluminal coronary angioplasty, or coronary artery bypass graft surgery.
+At the end of follow-up, clinical status was known for 99.9% of patients.
+At least 1 cardiovascular event had occurred in 324 (incidence, 22.2/1000 patient-years).
+For BP self-measurement at home, each 10-mm Hg increase in systolic BP increased the risk of a cardiovascular event by 17.2% (95% confidence interval [CI], 11.0%-23.8%)
+and each 5-mm Hg increase in diastolic BP increased that risk by 11.7% (95% CI, 5.7%-18.1%).
+Conversely, for the same increase in BP observed using office measurement, there was no significant increase in the risk of a cardiovascular event.
+In a multivariable model with patients having controlled hypertension (normal home and office BP) as the referent, the hazard ratio of cardiovascular events was 1.96 (95% CI, 1.27-3.02) in patients with uncontrolled hypertension (high BP with both measurement methods), 2.06 (95% CI, 1.22-3.47) in patients with normal office BP and elevated home BP, and 1.18 (95% CI, 0.67-2.10) in patients with elevated office BP and normal home BP.
+Our findings suggest that home BP measurement has a better prognostic accuracy than office BP measurement.
+Blood pressure should systematically be measured at home in patients receiving treatment for hypertension.

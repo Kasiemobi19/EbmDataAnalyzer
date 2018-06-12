@@ -1,0 +1,15 @@
+Title 
+Canadian journal of psychiatry. Revue canadienne de psychiatrie
+
+Article Title 
+Attention-deficit hyperactivity disorder in children and youth: a quantitative systematic review of the efficacy of different management strategies.
+Abstract Text 
+To obtain estimates of the relative efficacy of 3 main treatment strategies for attention-deficit hyperactivity disorder (ADHD) in children and youth (age < 18 years).
+Design: quantitative systematic review of randomized trials.
+Subjects: 999 patients with ADHD from 26 randomized trials.
+Interventions: medications alone, behavioural interventions alone, and a combination of these 2 modalities.
+Main outcome measure: differences in scores between treatment groups on commonly used teacher- and parent-completed behaviour rating scales.
+Medication-only therapy was efficacious in ADHD.
+Behavioural therapies used alone appeared not to be efficacious in ADHD.
+Combination therapy was more efficacious than placebo or no treatment for parent but not teacher ratings, not more efficacious than drug therapy alone, and more efficacious than behavioural treatments alone based on parent but not teacher ratings.
+Though stimulant medications were found to be an effective treatment strategy for ADHD in children and youth, it proved difficult to assess the relative benefits of behavioural interventions alone and combined medication and behavioural therapy because of the paucity of treatment studies other than medication-only treatment studies and heterogeneity of various kinds that exist in relation to ADHD studies and treatments.

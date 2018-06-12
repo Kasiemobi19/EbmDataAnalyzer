@@ -1,0 +1,24 @@
+Title 
+Stroke; a journal of cerebral circulation
+
+Article Title 
+Cost-effectiveness analysis of screening for asymptomatic, unruptured intracranial aneurysms. A mathematical model.
+Abstract Text 
+Subarachnoid hemorrhage (SAH) due to aneurysmal rupture is a major cause of cerebrovascular disease-related death.
+This problem could be eliminated by diagnosis and successful treatment of aneurysms before rupture.
+Recent developments in high-resolution imaging technology have made screening for unruptured aneurysms possible in the general population.
+Such screening has become widespread in Japan ("No Dokku, " or brain checkup).
+As a result, unruptured aneurysms are being identified with increasing frequency.
+However, the economic implications of treatment decisions for unruptured aneurysms have not been analyzed.
+Therefore, we performed such an analysis.
+We used a Markov model to evaluate the cost-effectiveness of screening for asymptomatic, unruptured intracranial aneurysms.
+The model involved a set of variables describing discrete health states.
+Each state was assigned a quality of life score and an associated medical cost.
+A comparison of the expected outcomes was then made between 2 hypothetical cohorts, one receiving screening and the other no screening.
+A sensitivity analysis was performed by altering the input values within clinically reasonable ranges to reflect uncertainty in the baseline analysis and then assessing the effects on outcomes.
+Combining the incremental cost and effectiveness data revealed a cost per quality-adjusted life-year of $7760 for an annual rate of subarachnoid hemorrhage due to unruptured aneurysms (rupture rate) of 0.02; this cost was $39 450 for a rupture rate of 0.01.
+There was no benefit (negative quality-adjusted life-year benefit) for a rupture rate of 0.005, the rupture rate found in a recently published international cooperative study.
+The risks of surgery for unruptured aneurysms and the discounting ratio used to assess the impact of timing of costs and benefits on future outcomes also had significant effects on the results.
+Other variables had little impact on cost-effectiveness.
+The cost-effectiveness of screening for an unruptured aneurysm is highly sensitive to the annual rate of subarachnoid hemorrhage due to unruptured aneurysms.
+The low annual rupture rate seen in the recent large international cooperative study implies that screening asymptomatic populations to identify and treat unruptured aneurysms would not be cost cost-effective.

@@ -1,0 +1,16 @@
+Title 
+Sleep
+
+Article Title 
+Systematic review and meta-analysis of the literature regarding the diagnosis of sleep apnea.
+Abstract Text 
+To establish the evidence base for the diagnosis of sleep apnea (SA) in adult patients, a systematic review of the literature from 1980 through November 1, 1997 was performed.
+Diagnostic studies were included if they reported results of any test to establish or support a diagnosis of SA, in comparison to a diagnosis from a full polysomnogram (PSG).
+Test results were meta-analyzed using fixed effects models and summary receiver operating characteristic curves (ROCs) to examine consistency of tests within and between diagnostics vs. the "gold standard" of PSG.
+From a total of 937 studies, 249 fit the broad eligibility criteria for inclusion in the clinical trial database and its data were extracted from these reports; useable data for statistical analyses were reported in 71 studies (7,572 patients).
+The sensitivity and specificity of partial channel and partial time PSGs appeared most promising as replacements for full PSG in patients suspected of obstructive SA.
+Clinical prediction rules (multivariate models) were also promising.
+Studies of portable sleep monitors, radiologic or morphologic features, and focused questionnaires were too heterogeneous to be meta-analyzed.
+In general, the diversity of study designs and objectives were very high and the methodological rigor of these studies as assessments of diagnostic tests was very low.
+Thus, we are still not in a position to recommend standardization of diagnostic methodology for sleep apnea.
+Instead, our recommendations for future research include standardization of terms and diagnostic criteria, and consistently reported statistics to enhance the utility of this literature.

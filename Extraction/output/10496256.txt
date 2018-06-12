@@ -1,0 +1,18 @@
+Title 
+Neurology
+
+Article Title 
+Aneurysms in relatives of patients with subarachnoid hemorrhage: frequency and risk factors. MARS Study Group. Magnetic Resonance Angiography in Relatives of patients with Subarachnoid hemorrhage.
+Abstract Text 
+To evaluate the frequency and identify risk factors of unruptured aneurysms in first-degree relatives of patients with sporadic subarachnoid hemorrhage (SAH).
+First-degree relatives (parents, siblings, and children) of patients with SAH have a three to seven times increased risk of SAH.
+Magnetic resonance angiography (MRA) was performed in 626 first-degree relatives of a consecutive series of 193 index patients with "sporadic" SAH (participation rate, 78% of eligible relatives).
+The authors recorded demographic and medical data, and performed blood pressure measurements and blood tests (cholesterol, high-density lipid cholesterol, triglycerides, apoprotein A1, lipoprotein a, glucose).
+Aneurysms were found in 25 of 626 relatives (4.0%; 95% CI, 2.6 to 5.8%), and 6 relatives had multiple aneurysms.
+Index patients with multiple aneurysms and a younger age had a higher risk of aneurysms in relatives.
+Siblings of index patients had a four times higher risk than children.
+In screened relatives female sex, increasing age, polycystic kidney disease, hypertension, and elevated levels of cholesterol and glucose tended to be associated with a higher risk of aneurysms.
+No increase in risk was conferred by smoking or alcohol use, or by a previous family history of SAH or of atherosclerosis.
+First-degree relatives of index patients with sporadic subarachnoid hemorrhage have a 4.0% chance of intracranial aneurysms.
+Being a sibling of the index patient is the most important risk factor.
+Risk factors for general atherosclerosis (hypertension, smoking, hypercholesterolemia, high levels of blood triglycerides, lipoprotein a, and apoprotein A1) and use of alcohol do not increase the risk of intracranial aneurysms significantly in these relatives.

@@ -1,0 +1,16 @@
+Title 
+The American journal of medicine
+
+Article Title 
+Balloon angioplasty or medical therapy for hypertensive patients with atherosclerotic renal artery stenosis? A meta-analysis of randomized controlled trials.
+Abstract Text 
+The optimal treatment for hypertensive patients with atherosclerotic renal artery stenosis is controversial.
+We performed a meta-analysis comparing the effects of balloon angioplasty and medical therapy in these patients.
+We searched MEDLINE, EMBASE, the Science Citation Index, the Cochrane Controlled Trials Registry, and reference lists.
+Authors of published trials were contacted.
+We identified three trials involving a total of 210 patients with moderate-to-severe (> or = 50%) unilateral or bilateral atherosclerotic renal artery stenosis and poorly controlled hypertension who were followed for at least 3 months after intervention.
+Balloon angioplasty was significantly more effective in reducing blood pressure than was medical therapy; the weighted mean difference between the two treatments was -7 mm Hg (95% confidence interval [CI]: -12 to -1 mm Hg) for systolic blood pressure and -3 mm Hg (95% CI: -6 to -1 mm Hg) for diastolic blood pressure.
+There was no consistent difference in changes in renal function.
+Patients treated with balloon angioplasty were more likely to have patent renal arteries after 12 months (52% vs. 19%; odds ratio [OR] = 4.2; 95% CI: 1.8 to 9.8), used fewer antihypertensive medications, and appeared to have fewer major cardiovascular and renovascular complications (OR = 0.27; 95% CI: 0.06 to 1.23; P = 0.09).
+Balloon angioplasty has a modest but significant effect on blood pressure and should be considered for patients with atherosclerotic renal artery stenosis and poorly controlled hypertension.
+There is no evidence supporting its use in improving or preserving renal function, although none of the trials were designed to address this issue.

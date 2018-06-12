@@ -1,0 +1,20 @@
+Title 
+Lancet
+
+Article Title 
+Prediction of all-cause and cardiovascular mortality in elderly people from one low serum thyrotropin result: a 10-year cohort study.
+Abstract Text 
+Low serum thyrotropin, in combination with normal concentrations of circulating thyroid hormones, is common, especially in elderly people and in individuals with a history of thyroid disease.
+We aimed to assess the long-term effects of subclinical hyperthyroidism on mortality.
+We did a population-based study of mortality in a cohort of 1191 individuals not on thyroxine or antithyroid medication.
+All participants were aged 60 years or older.
+We measured concentration of thyrotropin in serum at baseline in 1988-89.
+We recorded vital status on June 1, 1999, and ascertained causes of death for those who had died.
+We compared data for causes of death with age-specific, sex-specific, and year-specific data for England and Wales.
+We also compared mortality within the cohort according to initial thyrotropin measurement.
+During 9733 person-years of follow-up, 509 of 1191 people died, the expected number of deaths being 496 (standardised mortality ratio [SMR] 1.0, 95% CI 0.9-1.1).
+Mortality from all causes was significantly increased at 2 (SMR 2.1), 3 (2.1), 4 (1.7), and 5 (1.8) years after first measurement in those with low serum thyrotropin (n471).
+These increases were largely accounted for by significant increases in mortality due to circulatory diseases (SMR 2.1, 2.2, 1.9, 2.0, at years 2, 3, 4, and 5 respectively).
+Increases in mortality from all causes in years 2-5 were higher in patients with low serum thyrotropin than in the rest of the cohort (hazard ratios for years 2, 3, 4, and 5 were 2.1, 2.2, 1.8, and 1.8, respectively).
+This result reflects an increase in mortality from circulatory diseases (hazard ratios at years 2, 3, 4, and 5 were 2.3, 2.6, 2.3, 2.3), and specifically from cardiovascular diseases (hazard ratios at years 2, 3, 4, and 5 were 3.3, 3.0, 2.3, 2.2).
+A single measurement of low serum thyrotropin in individuals aged 60 years or older is associated with increased mortality from all causes, and in particular mortality due to circulatory and cardiovascular diseases.

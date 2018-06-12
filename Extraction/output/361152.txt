@@ -1,0 +1,12 @@
+Title 
+British medical journal
+
+Article Title 
+Treating heartburn in pregnancy: comparison of acid and alkali mixtures.
+Abstract Text 
+A randomised crossover trial was performed in 55 pregnant women who complained of heartburn to see whether alkali or acid treatment alleviated it.
+Each woman was given a week's treatment with an acid mixture, an alkali mixture, and a placebo in randomised order.
+Both acid and alkali mixtures were better than placebo, but there was no significant difference between the acid and alkali treatments.
+Together with the inconsistent reports of some patients, these findings suggest that both acid reflux and bile regurgitation may cause heartburn in pregnant women and that other factors may also play a part.
+Because the cause of heartburn may be difficult to determine, treatment should be empirical.
+If the patient does not respond to seven days' acid treatment an alkali mixture should be prescribed; there is a 98% chance that one of these treatments will relieve symptoms.

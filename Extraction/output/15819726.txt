@@ -1,0 +1,13 @@
+Title 
+Acta psychiatrica Scandinavica
+
+Article Title 
+The effectiveness of psychological treatments for treatment-resistant depression: a systematic review.
+Abstract Text 
+A systematic review of all studies (controlled and uncontrolled) to evaluate psychological interventions with treatment-resistant depression.
+A systematic search to identify studies evaluating a psychological intervention with adults with a diagnosis of major depressive disorder who had not responded to at least one course of antidepressant medication.
+Twelve studies met inclusion criteria, of which four were controlled and eight uncontrolled.
+Treatment effect sizes were computable for four studies and ranged from 1.23 to 3.10 with a number of better quality studies demonstrating some improvements in patients following a psychological intervention.
+Psychological treatments for depression are commonly delivered and often recommended following the failure of medication.
+The paucity of evidence for their effectiveness in these situations is a significant problem.
+There is a need for studies with a strong controlled design investigating the effectiveness of psychological treatments for patients with treatment-resistant depression.

@@ -1,0 +1,23 @@
+Title 
+International journal of cardiology
+
+Article Title 
+Influence of withdrawal of statin treatment on proinflammatory response and fibrinolytic activity in humans: an effect independent on cholesterol elevation.
+Abstract Text 
+In addition to lowering lipid profile, statins have pleiotropic effects on improving vascular function.
+Changes of these pleiotropic effects and their relationship to lipid profile after withdrawal of statin treatment remained unclear.
+We investigated the changes of lipid profile and plasma concentrations of human soluble vascular cell adhesion molecule-1 (sVCAM-1) and human tissue type plasminogen activator (tPA) after withdrawal of statin treatment.
+Twenty-two patients (14 F, 8 M, aged 63+/-13 years) with hypercholesterolemia were treated with atorvastatin (ATOR; 10 mg/day) for 12 weeks.
+Blood samplings for serum lipid and markers were collected before, after and withdrawal of statin treatment.
+The total cholesterol, LDL-cholesterol and sVCAM-1 (from 394.4+/-251.7 to 321.0+/-198.9
+ng/ml, p<0.05) all decreased significantly and the tPA (from 9.47+/-3.57
+to 11.62+/-3.99
+ng/ml, p<0.05) increased significantly after atorvastatin treatment.
+During the following 3 days after withdrawal of atorvastatin, the total cholesterol and LDL-cholesterol did not show any significant change.
+However, the plasma sVCAM-1 significantly elevated on day 2 (from 321.0+/-198.9
+to 371.2+/-220.4
+ng/ml, p<0.05) and the plasma tPA significantly decreased on day 1 (from 11.62+/-3.99 to 10.52+/-3.55 ng/ml, p<0.05) and day 3 (from 11.62+/-3.99 to 10.27+/-3.69
+ng/ml, p<0.05).
+Both the significant elevation of sVCAM-1 and decrease of tPA after withdrawal of atorvastatin treatment occurred within 3 days, while the serum cholesterol and LDL-chol levels did not have any significant change and were still within the therapeutic range.
+After 12 weeks of atorvastatin treatment, the beneficial pleiotropic effects can be demonstrated simultaneously with lowering the lipid profile.
+However, after withdrawal of atorvastatin, the beneficial pleiotropic effects are abrogated rapidly within days and are independent on elevation of serum cholesterol.

@@ -1,0 +1,25 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Universal newborn hearing screening: summary of evidence.
+Abstract Text 
+Each year, approximately 5000 infants are born in the United States with moderate-to-profound, bilateral permanent hearing loss (PHL).
+Universal newborn hearing screening (UNHS) has been proposed as a means to speed diagnosis and treatment and thereby improve language outcomes in these children.
+To identify strengths, weaknesses, and gaps in the evidence supporting UNHS and to compare the additional benefits and harms of UNHS with those of selective screening of high-risk newborns.
+We searched the MEDLINE, CINAHL, and PsychINFO databases for relevant articles published from 1994 to August 2001, using terms for hearing disorders, infants or newborns, screening, and relevant treatments.
+We contacted experts and reviewed reference lists to identify additional articles, including those published before 1994.
+We included controlled and observational studies of (1) the accuracy, yield, and harms of screening using otoacoustic emissions (OAEs), auditory brainstem response (ABR), or both in the general newborn population and (2) the effects of screening or early identification and treatment on language outcomes.
+Of an original 340 articles identified, 19 articles, including 1 controlled trial, met these inclusion criteria.
+Data on population, test performance, outcomes, and methodological quality were extracted by 2 authors (D.C.T., H.M.) using prespecified criteria developed by the US Preventive Services Task Force.
+We queried authors when information needed to assess study quality was missing.
+Good-quality studies show that from 2041 to 2794 low-risk and 86 to 208 high-risk newborns were screened to find 1 case of moderate-to-profound PHL.
+The best estimate of positive predictive value was 6.7%.
+Six percent to 15% of infants who are missed by the screening tests are subsequently diagnosed with bilateral PHL.
+In a trial of UNHS vs clinical screening at age 8 months, UNHS increased the proportion of infants with moderate-to-severe hearing loss diagnosed by age 10 months (57% vs 14%) but did not reduce the rate of diagnosis after age 18 months.
+No good-quality controlled study has compared UNHS with selective screening of high-risk newborns.
+In fair- to poor-quality cohort studies, intervention before age 6 months was associated with improved language and communication skills by ages 2 to 5 years.
+These studies had unclear criteria for selecting subjects, and none compared an inception cohort of low-risk newborns identified by screening with those identified in usual care, making it impossible to exclude selection bias as an explanation for the results.
+In a mathematical model based on the literature review, we estimated that extending screening to low-risk infants would detect 1 additional case before age 10 months for every 1441 low-risk infants screened, and result in treatment before 10 months of 1 additional case for every 2401 low-risk infants screened.
+With UNHS, 254 newborns would be referred for audiological evaluation because of false-positive second-stage screening test results vs 48 for selective screening.
+Modern screening tests for hearing impairment can improve identification of newborns with PHL, but the efficacy of UNHS to improve long-term language outcomes remains uncertain.

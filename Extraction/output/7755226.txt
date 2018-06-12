@@ -1,0 +1,19 @@
+Title 
+Annals of internal medicine
+
+Article Title 
+Case-finding instruments for depression in primary care settings.
+Abstract Text 
+To evaluate the usefulness of case-finding instruments for identifying patients with major depression in primary care settings.
+A MEDLINE search of the English-language medical literature; bibliographies of selected papers; and experts.
+Studies that were done in primary care settings with unselected patients and that compared case-finding instruments with accepted diagnostic criterion standards for major depression were selected.
+9 case-finding instruments were assessed in 18 studies.
+More than 15,000 patients received screening with a case-finding instrument; approximately 5300 of these received criterion standard assessment.
+Case-finding instruments ranged in length from 2 to 28 questions.
+Average administration times ranged from less than 2 minutes to 6 minutes.
+Sensitivities and specificities for detecting major depression ranged from 67% to 99% and from 40% to 95%, respectively.
+No significant differences between instruments were found.
+Overall sensitivity was 84% (95% CI, 79% to 89%); overall specificity was 72% (CI, 67% to 77%).
+If a case-finding instrument were administered to 100 primary care patients with a 5% prevalence of major depression, the clinician could expect that 31 patients would screen positive, that 4 of the 31 would have major depression, and that 1 patient with major depression would not be identified.
+Several instruments with reasonable operating characteristics are available to help primary care clinicians identify patients with major depression.
+Because the operating characteristics of these instruments are similar, selection of a particular instrument should depend on issues such as feasibility, administration and scoring times, and the instruments' ability to serve additional purposes, such as monitoring severity or response to therapy.

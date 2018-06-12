@@ -1,0 +1,20 @@
+Title 
+Annals of medicine
+
+Article Title 
+Effectiveness of physiotherapy for lateral epicondylitis: a systematic review.
+Abstract Text 
+To evaluate the available evidence of the effectiveness of physiotherapy for lateral epicondylitis of the elbow.
+Randomised controlled trials (RCTs) identified by a highly sensitive search strategy in six databases in combination with reference checking.
+Two independent reviewers selected RCTs that included a physiotherapy intervention, patients with lateral epicondylitis, and at least one clinically relevant outcome measure.
+No language restrictions were made.
+Methodological quality was independently assessed by two blinded reviewers.
+A best evidence synthesis, including a quantitative and qualitative analysis, was conducted, weighting the studies with respect to their internal validity, statistical significance, clinical relevance, and statistical power.
+23 RCTs were included in the review, evaluating the effects of lasertherapy, ultrasound treatment, electrotherapy, and exercises and mobilisation techniques.
+Fourteen studies satisfied at least 50% of the internal validity criteria.
+Except for ultrasound, pooling of data from RCTs was not possible because of insufficient data, or clinical or statistical heterogeneity.
+The pooled estimate of the treatment effects of two studies on ultrasound compared to placebo ultrasound, showed statistically significant and clinically relevant differences in favour of ultrasound.
+There is insufficient evidence either to demonstrate benefit or lack of effect of lasertherapy, electrotherapy, exercises and mobilisation techniques for lateral epicondylitis.
+Despite the large number of studies, there is still insufficient evidence for most physiotherapy interventions for lateral epicondylitis due to contradicting results, insufficient power, and the low number of studies per intervention.
+Only for ultrasound, weak evidence for efficacy was found.
+More better designed, conducted and reported RCTs are needed.

@@ -1,0 +1,20 @@
+Title 
+Pediatrics
+
+Article Title 
+Atomoxetine in the treatment of children and adolescents with attention-deficit/hyperactivity disorder: a randomized, placebo-controlled, dose-response study.
+Abstract Text 
+Atomoxetine is an investigational, nonstimulant pharmacotherapy being studied as potential treatment for attention-deficit/hyperactivity disorder (ADHD).
+It is thought to act via blockade of the presynaptic norepinephrine transporter in the brain.
+We assessed the efficacy of 3 doses of atomoxetine compared with placebo in children and adolescents with ADHD.
+A total of 297 children and adolescents who were 8 to 18 years of age and had ADHD as defined by the Diagnostic and Statistical Manual of Mental Disorders, 4th edition, were randomized to placebo or atomoxetine dosed on a weight-adjusted basis at 0.5 mg/kg/day, 1.2 mg/kg/day, or 1.8 mg/kg/day for an 8-week period.
+ADHD symptoms, affective symptoms, and social and family functioning were assessed using parent and investigator rating scales.
+Approximately 71% of children enrolled were male, approximately 67% met criteria for mixed subtype (both inattentive and hyperactive/impulsive symptoms), and the only common psychiatric comorbidity was oppositional defiant disorder (approximately 38% of the sample).
+At baseline, symptom severity was rated as moderate to severe for most children.
+At endpoint, atomoxetine 1.2 mg/kg/day and 1.8 mg/kg/day were consistently associated with superior outcomes in ADHD symptoms compared with placebo and were not different from each other.
+The dose of 0.5 mg/kg/day was associated with intermediate efficacy between placebo and the 2 higher doses, suggesting a graded dose-response.
+Social and family functioning also were improved in the atomoxetine groups compared with placebo with statistically significant improvements in measures of children's ability to meet psychosocial role expectations and parental impact.
+Discontinuations as a result of adverse events were <5% for all groups.
+Among children and adolescents aged 8 to 18, atomoxetine was superior to placebo in reducing ADHD symptoms and in improving social and family functioning symptoms.
+Atomoxetine was associated with a graded dose-response, and 1.2 mg/kg/day seems to be as effective as 1.8 mg/kg/day and is likely to be the appropriate initial target dose for most patients.
+Treatment with atomoxetine was safe and well tolerated.

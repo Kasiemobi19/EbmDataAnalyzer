@@ -1,0 +1,14 @@
+Title 
+Journal of clinical epidemiology
+
+Article Title 
+Patient knowledge, awareness, and delay in seeking medical attention for malignant melanoma.
+Abstract Text 
+We investigated the relationship between patient knowledge, awareness, and delay in seeking medical attention for melanoma.
+The study population was comprised of 255 cases with cutaneous melanoma newly diagnosed during January 15, 1987 to May 15, 1989, who were part of a population-based case control study.
+Personal interviews were conducted to obtain information on patient's knowledge of melanoma signs and symptoms, skin awareness, delay in seeking medical attention, and related covariates.
+The adjusted odds ratio for the association between skin awareness and delay was 0.30 (95% confidence interval 0.12-0.71).
+Odds ratios ranged from 0.43 to 0.81 for knowledge and delay.
+Awareness of skin changes was associated with a reduced Breslow depth for stage I melanomas.
+Individuals who are aware of skin changes and abnormalities appear to be less likely to delay seeking medical attention for melanoma.
+Knowledge of melanoma signs and symptoms may also contribute to a decreased delay in melanoma diagnosis.

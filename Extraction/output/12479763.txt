@@ -1,0 +1,27 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Major outcomes in high-risk hypertensive patients randomized to angiotensin-converting enzyme inhibitor or calcium channel blocker vs diuretic: The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT).
+Abstract Text 
+Antihypertensive therapy is well established to reduce hypertension-related morbidity and mortality, but the optimal first-step therapy is unknown.
+To determine whether treatment with a calcium channel blocker or an angiotensin-converting enzyme inhibitor lowers the incidence of coronary heart disease (CHD) or other cardiovascular disease (CVD) events vs treatment with a diuretic.
+The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT), a randomized, double-blind, active-controlled clinical trial conducted from February 1994 through March 2002.
+A total of 33 357 participants aged 55 years or older with hypertension and at least 1 other CHD risk factor from 623 North American centers.
+Participants were randomly assigned to receive chlorthalidone, 12.5 to 25 mg/d (n = 15 255); amlodipine, 2.5 to 10 mg/d (n = 9048); or lisinopril, 10 to 40 mg/d (n = 9054) for planned follow-up of approximately 4 to 8 years.
+The primary outcome was combined fatal CHD or nonfatal myocardial infarction, analyzed by intent-to-treat.
+Secondary outcomes were all-cause mortality, stroke, combined CHD (primary outcome, coronary revascularization, or angina with hospitalization), and combined CVD (combined CHD, stroke, treated angina without hospitalization, heart failure [HF], and peripheral arterial disease).
+Mean follow-up was 4.9 years.
+The primary outcome occurred in 2956 participants, with no difference between treatments.
+Compared with chlorthalidone (6-year rate, 11.5%), the relative risks (RRs) were 0.98 (95% CI, 0.90-1.07)
+for amlodipine (6-year rate, 11.3%) and 0.99 (95% CI, 0.91-1.08)
+for lisinopril (6-year rate, 11.4%).
+Likewise, all-cause mortality did not differ between groups.
+Five-year systolic blood pressures were significantly higher in the amlodipine (0.8 mm Hg, P =.03) and lisinopril (2 mm Hg, P<.001) groups compared with chlorthalidone, and 5-year diastolic blood pressure was significantly lower with amlodipine (0.8 mm Hg, P<.001).
+For amlodipine vs chlorthalidone, secondary outcomes were similar except for a higher 6-year rate of HF with amlodipine (10.2% vs 7.7%; RR, 1.38; 95% CI, 1.25-1.52).
+For lisinopril vs chlorthalidone, lisinopril had higher 6-year rates of combined CVD (33.3% vs 30.9%;
+RR, 1.10; 95% CI, 1.05-1.16);
+stroke (6.3% vs 5.6%; RR, 1.15; 95% CI, 1.02-1.30);
+and HF (8.7% vs 7.7%; RR, 1.19; 95% CI, 1.07-1.31).
+Thiazide-type diuretics are superior in preventing 1 or more major forms of CVD and are less expensive.
+They should be preferred for first-step antihypertensive therapy.

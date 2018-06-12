@@ -1,0 +1,12 @@
+Title 
+Journal of toxicology. Clinical toxicology
+
+Article Title 
+Neurological effects associated with use of the insect repellent N,N-diethyl-m-toluamide (DEET).
+Abstract Text 
+N,N-Diethyl-m-toluamide, an effective tick repellent, when applied to the skin, is the major component of essentially all of the products marketed for this purpose.
+It is used by about 30% of the US population, and by 23-29% of children in this population.
+Reports of neurologic adversity and death are rare and primarily involve children, but the dose relationship between N,N-diethyl-m-toluamide exposure and the symptoms reported in the clinical literature is difficult to establish.
+Animal toxicology studies, clinical reports of neurological adversities in children and adults, and the available Poison Control Center records have been reviewed in an effort to understand the relationship between the N,N-diethyl-m-toluamide exposure and reported adverse events.
+Based on (1) the animal toxicology database on N,N-diethyl-m-toluamide, (2) the reports of adverse events in humans, and (3) the possible alternate etiologies for the symptoms reported in most patients, the risk of adversity from label-directed use of N,N-diethyl-m-toluamide appears low.
+Future efforts should focus on the prospective collection of adversity data with special attention paid to the documentation of clinical effects.

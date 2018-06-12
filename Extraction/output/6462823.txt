@@ -1,0 +1,12 @@
+Title 
+Pediatrics
+
+Article Title 
+Effect of breast-feeding on morbidity in rotavirus gastroenteritis.
+Abstract Text 
+Fifty infants less than 1 year of age with rotavirus gastroenteritis were studied with regard to the protective effect of breast-feeding.
+The initial incidence of breast-feeding was 64% in the patients infected with rotavirus and 70% in a matched control population.
+Seven patients were breast-fed at the time of infection, 25 patients had stopped breast-feeding prior to infection, and 18 patients were exclusively formula-fed.
+There were no significant differences between groups in the average age of infection, mean duration of diarrhea, mean number of bowel movements in 24 hours, or in the frequency of fever or irritability.
+The only apparent difference between groups was that the frequency of vomiting was significantly decreased in the breast-fed children.
+The results of this study suggest that breast-feeding offers little protection against rotavirus gastroenteritis.

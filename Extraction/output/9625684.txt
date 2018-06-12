@@ -1,0 +1,24 @@
+Title 
+Annals of internal medicine
+
+Article Title 
+Use of enalapril to attenuate decline in renal function in normotensive, normoalbuminuric patients with type 2 diabetes mellitus. A randomized, controlled trial.
+Abstract Text 
+Angiotensin-converting enzyme (ACE) inhibitors attenuate the decline in renal function in diabetic patients with microalbuminuria.
+However, no data are available on the use of ACE inhibitors to prevent the decrease in renal function in normotensive, normoalbuminuric patients with type 2 diabetes.
+To evaluate the effect of prolonged ACE inhibition on renal function and albuminuria in patients with type 2 diabetes.
+Randomized, double-blind, placebo-controlled trial with 6-year follow-up.
+Eight outpatient clinics coordinated by a department of medicine in a university hospital.
+156 patients in whom type 2 diabetes was diagnosed after 40 years of age who had a baseline mean blood pressure less than 107 mm Hg and albuminuria (albumin excretion < or = 30 mg/24 h).
+Enalapril, 10 mg/d, or placebo.
+Degree of albuminuria at 24 hours, creatinine clearance, blood pressure, and hemoglobin A1c values.
+Enalapril therapy decreased albumin excretion from a mean +/- SD of 11.6 +/- 7 mg/24 h to 9.7 +/- 6 mg/24 h at 2 years.
+This was followed by a gradual increase to 15.8 +/- 8 mg/24 h at 6 years.
+In the placebo group, albumin excretion increased from 10.8 +/- 8 mg/24 h to 26.5 +/- 10 mg/24 h at 6 years (P = 0.001 for enalapril compared with placebo).
+Transition to microalbuminuria occurred in 15 of 79 (19%) placebo recipients and 5 of 77 (6.5%) enalapril recipients.
+Enalapril treatment resulted in an absolute risk reduction of 12.5% (95% CI, 2% to 23%; P = 0.042) for development of microalbuminuria.
+After 6 years, creatinine clearance decreased from 1.78 +/- 0.13 mL/s to 1.63 +/- 0.12 mL/s (mean decrease, 0.025 mL/s per year) in enalapril recipients and from 1.81 +/- 0.15 mL/s to 1.57 +/- 0.17 mL/s (mean decrease, 0.04 mL/s per year) in placebo recipients (P = 0.040).
+Hemoglobin A1c values decreased modestly in both groups.
+Mean blood pressure remained normal (< 107 mm Hg) in all patients.
+Enalapril attenuated the decline in renal function and reduced the extent of albuminuria in normotensive, normoalbuminuric patients with type 2 diabetes.
+Further research is needed to determine whether this treatment forestalls the development of overt nephropathy.

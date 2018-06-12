@@ -1,0 +1,15 @@
+Title 
+Pediatrics
+
+Article Title 
+Age at first introduction of cow milk products and other food products in relation to infant atopic manifestations in the first 2 years of life: the KOALA Birth Cohort Study.
+Abstract Text 
+Scientific evidence is scarce about timing of solid-food introduction and its association with the development of atopy.
+We aimed to evaluate any associations between the introduction of cow milk products/other solid food products and infant atopic manifestations in the second year of life, taking into account reverse causation.
+Data from 2558 infants in an ongoing prospective birth cohort study in the Netherlands were analyzed.
+Data on the main determinants (introduction of cow milk products and other food products), outcomes (eczema; atopic dermatitis [United Kingdom Working Party criteria]; recurrent wheeze; any sensitization; sensitization against cow milk, hen egg, peanut, and at least 1 inhalant allergen), and confounders were collected by repeated questionnaires at 34 weeks of gestation and 3, 7, 12, and 24 months postpartum.
+Information on sensitization was gathered by venous blood collections performed during home visits at age 2. Analyses were performed by multiple logistic regression analyses.
+More delay in introduction of cow milk products was associated with a higher risk for eczema.
+In addition, a delayed introduction of other food products was associated with an increased risk for atopy development at the age of 2 years.
+Exclusion of infants with early symptoms of eczema and recurrent wheeze (to avoid reverse causation) did not essentially change our results.
+Delaying the introduction of cow milk or other food products may not be favorable in preventing the development of atopy.

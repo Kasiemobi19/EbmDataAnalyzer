@@ -1,0 +1,14 @@
+Title 
+Gastroenterology
+
+Article Title 
+Lactobacillus and bifidobacterium in irritable bowel syndrome: symptom responses and relationship to cytokine profiles.
+Abstract Text 
+The aim of this study was to compare the response of symptoms and cytokine ratios in irritable bowel syndrome (IBS) with ingestion of probiotic preparations containing a lactobacillus or bifidobacterium strain.
+Seventy-seven subjects with IBS were randomized to receive either Lactobacillus salivarius UCC4331 or Bifidobacterium infantis 35624, each in a dose of 1 x 10 10 live bacterial cells in a malted milk drink, or the malted milk drink alone as placebo for 8 weeks.
+The cardinal symptoms of IBS were recorded on a daily basis and assessed each week.
+Quality of life assessment, stool microbiologic studies, and blood sampling for estimation of peripheral blood mononuclear cell release of the cytokines interleukin (IL)-10 and IL-12 were performed at the beginning and at the end of the treatment phase.
+For all symptoms, with the exception of bowel movement frequency and consistency, those randomized to B infantis 35624 experienced a greater reduction in symptom scores; composite and individual scores for abdominal pain/discomfort, bloating/distention, and bowel movement difficulty were significantly lower than for placebo for those randomized to B infantis 35624 for most weeks of the treatment phase.
+At baseline, patients with IBS demonstrated an abnormal IL-10/IL-12 ratio, indicative of a proinflammatory, Th-1 state.
+This ratio was normalized by B infantis 35624 feeding alone.
+B infantis 35624 alleviates symptoms in IBS; this symptomatic response was associated with normalization of the ratio of an anti-inflammatory to a proinflammatory cytokine, suggesting an immune-modulating role for this organism, in this disorder.

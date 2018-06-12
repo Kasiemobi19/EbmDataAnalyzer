@@ -1,0 +1,14 @@
+Title 
+Hypertension
+
+Article Title 
+Hypokalemia associated with diuretic use and cardiovascular events in the Systolic Hypertension in the Elderly Program.
+Abstract Text 
+The treatment of hypertension with high-dose thiazide diuretics results in potassium depletion and a limited benefit for preventing coronary events.
+The clinical relevance of hypokalemia associated with low-dose diuretics has not been assessed.
+To determine whether hypokalemia that occurs with low-dose diuretics is associated with a reduced benefit on cardiovascular events, we analyzed data of 4126 participants in the Systolic Hypertension in the Elderly Program (SHEP), a 5-year randomized, placebo-controlled clinical trial of chlorthalidone-based treatment of isolated systolic hypertension in older persons.
+After 1 year of treatment, 7.2% of the participants randomized to active treatment had a serum potassium <3.5 mmol/L compared with 1% of the participants randomized to placebo (P<0.001).
+During the 4 years after the first annual visit, 451 participants experienced a cardiovascular event, 215 experienced a coronary event, 177 experienced stroke, and 323 died.
+After adjustment for known risk factors and study drug dose, the participants who received active treatment and who experienced hypokalemia had a similar risk of cardiovascular events, coronary events, and stroke as those randomized to placebo.
+Within the active treatment group, the risk of these events was 51%, 55%, and 72% lower, respectively, among those who had normal serum potassium levels compared with those who experienced hypokalemia (P<0.05).
+The participants who had hypokalemia after 1 year of treatment with a low-dose diuretic did not experience the reduction in cardiovascular events achieved among those who did not have hypokalemia.

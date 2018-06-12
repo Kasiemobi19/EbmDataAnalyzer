@@ -1,0 +1,32 @@
+Title 
+Cochrane database of systematic reviews (Online)
+
+Article Title 
+Non-invasive physical treatments for chronic/recurrent headache.
+Abstract Text 
+Non-invasive physical treatments are often used to treat common types of chronic/recurrent headache.
+To quantify and compare the magnitude of short- and long-term effects of non-invasive physical treatments for chronic/recurrent headaches.
+We searched the following databases from their inception to November 2002: MEDLINE, EMBASE, BIOSIS, CINAHL, Science Citation Index, Dissertation Abstracts, CENTRAL, and the Specialised Register of the Cochrane Pain, Palliative Care and Supportive Care review group.
+Selected complementary medicine reference systems were searched as well.
+We also performed citation tracking and hand searching of potentially relevant journals.
+We included randomized and quasi-randomized controlled trials comparing non-invasive physical treatments for chronic/recurrent headaches to any type of control.
+Two independent reviewers abstracted trial information and scored trials for methodological quality.
+Outcomes data were standardized into percentage point and effect size scores wherever possible.
+The strength of the evidence of effectiveness was assessed using pre-specified rules.
+Twenty-two studies with a total of 2628 patients (age 12 to 78 years) met the inclusion criteria.
+Five types of headache were studied: migraine, tension-type, cervicogenic, a mix of migraine and tension-type, and post-traumatic headache.
+Ten studies had methodological quality scores of 50 or more (out of a possible 100 points), but many limitations were identified.
+We were unable to pool data because of study heterogeneity.
+For the prophylactic treatment of migraine headache, there is evidence that spinal manipulation may be an effective treatment option with a short-term effect similar to that of a commonly used, effective drug (amitriptyline).
+Other possible treatment options with weaker evidence of effectiveness are pulsating electromagnetic fields and a combination of transcutaneous electrical nerve stimulation [TENS] and electrical neurotransmitter modulation.
+For the prophylactic treatment of chronic tension-type headache, amitriptyline is more effective than spinal manipulation during treatment.
+However, spinal manipulation is superior in the short term after cessation of both treatments.
+Other possible treatment options with weaker evidence of effectiveness are therapeutic touch; cranial electrotherapy; a combination of TENS and electrical neurotransmitter modulation; and a regimen of auto-massage, TENS, and stretching.
+For episodic tension-type headache, there is evidence that adding spinal manipulation to massage is not effective.
+For the prophylactic treatment of cervicogenic headache, there is evidence that both neck exercise (low-intensity endurance training) and spinal manipulation are effective in the short and long term when compared to no treatment.
+There is also evidence that spinal manipulation is effective in the short term when compared to massage or placebo spinal manipulation, and weaker evidence when compared to spinal mobilization.
+There is weaker evidence that spinal mobilization is more effective in the short term than cold packs in the treatment of post-traumatic headache.
+A few non-invasive physical treatments may be effective as prophylactic treatments for chronic/recurrent headaches.
+Based on trial results, these treatments appear to be associated with little risk of serious adverse effects.
+The clinical effectiveness and cost-effectiveness of non-invasive physical treatments require further research using scientifically rigorous methods.
+The heterogeneity of the studies included in this review means that the results of a few additional high-quality trials in the future could easily change the conclusions of our review.

@@ -1,0 +1,20 @@
+Title 
+Journal of clinical microbiology
+
+Article Title 
+Immunoblot interpretation criteria for serodiagnosis of early Lyme disease.
+Abstract Text 
+We monitored the antibody responses of 55 treated patients with early Lyme disease and physician-documented erythema migrans.
+Six sequential serum samples were obtained from patients before, during, and until one year after antibiotic therapy and analyzed by in-house enzyme-linked immunosorbent (ELISA) and immunoblot assays.
+An immunoblot procedure utilizing a gradient gel and an image analysis system was developed.
+A relational database management system was used to analyze the results and provide criteria for early disease immunoblot interpretation.
+Recommended criteria for the immunoglobulin M (IgM) immunoblot are the recognition of two of three proteins (24, 39, and 41 kDa).
+The recommended criteria for a positive IgG immunoblot are the recognition of two of five proteins (20, 24 [> 19 intensity units], 35, 39, and 88 kDa).
+Alternatively, if band intensity cannot be measured, the 22-kDa protein can be substituted for the 24-kDa protein with only a small decrease in sensitivity.
+Monoclonal antibodies were used to identify all these proteins except the 35-kDa protein.
+With the proposed immunoblot interpretations, the sequential serum samples were examined.
+At visit 1, the day of diagnosis and initiation of treatment, 54.5% of the serum samples were either IgM or IgG positive.
+The peak antibody response, with 80% of the serum samples positive, occurred at visit 2, 8 to 12 days into treatment.
+The sensitivities of the IgM and IgG immunoblot for detecting patients that were seropositive into the study period were 58.5 and 54.6%, respectively, at visit 1 and 100% at visit 2. Twenty percent of the patients remained seronegative throughout the study.
+The specificities of the IgM and IgG immunoblots were 92 to 94% and 93 to 96%, respectively.
+The IgM immunoblot and ELISA were similar in sensitivities, whereas the IgG immunoblot had greater sensitivity than the IgG ELISA (P = 0.006).

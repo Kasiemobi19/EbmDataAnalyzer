@@ -1,0 +1,20 @@
+Title 
+International angiology : a journal of the International Union of Angiology
+
+Article Title 
+Immediate mobilisation in acute vein thrombosis reduces post-thrombotic syndrome.
+Abstract Text 
+To investigate the effect of compression and immediate ambulation in the acute stage of deep vein thrombosis (DVT) on the development of postthrombotic syndrome (PTS).
+Design: follow-up study of patients who previously have been enrolled in a randomized controlled trial.
+Setting: outpatient department of a municipial hospital.
+Subjects and interventions: a follow-up was performed 2 years after 53 patients with acute proximal DVT had been enrolled into a randomized controlled trial, comparing bed rest and no compression (n=17), Unna boot bandages plus walking (n=18) and compression stockings plus walking (n=18).
+Telephone interviews could be conducted with 11 patients, 37 patients could be reinvestigated by independent observers (11 from the bed-rest group, 13 from the bandage group and 13 from the stocking group).
+Compression stockings up to the time of the follow-up were worn by 8/11 (73%) of the bed-rest patients and by 13/26 (50%) of the mobile patients.
+Main outcome measures: clinical and venous duplex investigation, pain assessment using visual analogue scale and Lowenberg test, leg circumference, clinical ''PTS-score'' combining 5 subjective symptoms with 6 objective signs (Villalta-Prandoni-scale).
+     
+      Duplex investigation of the deep veins and pain assessment by visual analogue scale showed no significant differences between the groups.
+Nine out of 11 patients after bed rest, but only 16/26 in the mobile groups showed a larger calf circumference on the diseased leg (n.s.).
+Judged by the Villalta-Prandoni-scale a significantly better outcome could be found in the mobile group (mean score 5.1) than in the bed-rest group (mean score 8.2), (p<0.01).
+(''Mild PTS'' = score 5-14, ''severe PTS'' score = or > 15).
+Eighteen out of 26 mobile patients, but only 2/11 bed-rest patients had a score = or < 5 (''no PTS'').
+Immediate mobilisation with compression in the acute stage of DVT reduces the incidence and the severity of PTS.

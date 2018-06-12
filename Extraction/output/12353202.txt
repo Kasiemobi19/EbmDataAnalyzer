@@ -1,0 +1,15 @@
+Title 
+Clinical infectious diseases : an official publication of the Infectious Diseases Society of America
+
+Article Title 
+Indications for therapy and treatment recommendations for bacterial vaginosis in nonpregnant and pregnant women: a synthesis of data.
+Abstract Text 
+Accumulating evidence has associated bacterial vaginosis (BV) with serious medical complications such as premature delivery.
+The present article synthesizes available data on the treatment of nonpregnant and pregnant women with BV to prevent preterm delivery.
+A literature search identified articles published since 1976 that evaluated treatment of BV.
+An intention-to-treat sensitivity analysis was performed, to better compare studies.
+Studies that evaluated therapy efficacy varied with regard to diagnostic criteria, patient characteristics, clinicians, and laboratories.
+Therapies varied in efficacy for cure 4 or more weeks after therapy, from 48% to 85%.
+Intervention studies to reduce BV-related adverse outcomes of pregnancy differed in populations studied, medication used, type of therapy (oral or intravaginal), and timing of treatment.
+The benefit of treating women at high risk with oral metronidazole has been shown in several studies; however, the effect of treating women without a history of premature delivery is unclear.
+The use of intravaginal clindamycin therapy, especially during the latter half of the second trimester and thereafter, appears to increase infections during the neonatal period.

@@ -1,0 +1,18 @@
+Title 
+BMJ (Clinical research ed.)
+
+Article Title 
+Comparison of physiotherapy, manipulation, and corticosteroid injection for treating shoulder complaints in general practice: randomised, single blind study.
+Abstract Text 
+To compare the efficacy of physiotherapy, manipulation, and corticosteroid injection for treating patients with shoulder complaints in general practice.
+Randomised, single blind study.
+Seven general practices in the Netherlands.
+198 patients with shoulder complaints, of whom 172 were divided, on the basis of physical examination, into two diagnostic groups: a shoulder girdle group (n = 58) and a synovial group (n = 114).
+Patients in the shoulder girdle group were randomised to manipulation or physiotherapy, and patients in the synovial group were randomised to corticosteroid injection, manipulation, or physiotherapy.
+Duration of shoulder complaints analysed by survival analysis.
+In the shoulder girdle group duration of complaints was significantly shorter after manipulation compared with physiotherapy (P < 0.001).
+Also the number of patients reporting treatment failure was less with manipulation.
+In the synovial group duration of complaints was shortest after corticosteroid injection compared with manipulation and physiotherapy (P < 0.001).
+Drop out due to treatment failure was low in the injection group (17%) and high in the manipulation group (59%) and physiotherapy group (51%).
+For treating shoulder girdle disorders, manipulation seems to be the preferred treatment.
+For the synovial disorders, corticosteroid injection seems the best treatment.

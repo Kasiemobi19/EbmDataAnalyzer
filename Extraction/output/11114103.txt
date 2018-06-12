@@ -1,0 +1,19 @@
+Title 
+Diabetes/metabolism research and reviews
+
+Article Title 
+Glutamic acid decarboxylase antibodies (GADA) is the most important factor for prediction of insulin therapy within 3 years in young adult diabetic patients not classified as Type 1 diabetes on clinical grounds.
+Abstract Text 
+Differentiation between Type 1 and Type 2 diabetes in adults is difficult at diagnosis.
+In this study we tested the hypothesis that autoantibodies at diagnosis are predictive for insulin treatment within 3 years in patients initially not classified as Type 1 diabetes.
+In a nationwide population-based study, blood samples were obtained from 764 patients, all diagnosed with diabetes during a 2-year period.
+At diagnosis, 583 (76%) were classified as Type 1, 110 (14%) as Type 2 and 71 (9.3%) could not be classified.
+Among patients not classified as Type 1 diabetes, 52 (47%) of Type 2 and 42 (59%) of unclassified patients were positive for islet cell antibodies (ICA), glutamic acid decarboxylase antibodies (GADA) or tyrosine phosphatase antibodies (IA-2A).
+These patients (n=94) had lower body mass index (BMI) (p<0.001) and lower C-peptide (p<0.001) compared to the autoantibody negative patients (n=87).
+Compared to clinically classified Type 1 diabetes patients positive for autoantibodies (n=477), they have higher BMI (p<0.001),
+higher C-peptide (p<0.001) and the same levels of ICA, GADA and IA-2A.
+After 3 years, 93% of autoantibody positive patients initially not classified as Type 1 were on insulin.
+When ICA, GADA, IA-2A, BMI and C-peptide were tested in a multiple logistic regression, only GADA was significant for insulin treatment within 3 years (OR=18.8;
+95% CI 1.8-191) in patients treated with diet or oral drugs at diagnosis.
+A correct classification is difficult in adult diabetic patients.
+The presence of pancreatic autoantibodies, especially GADA, at diagnosis of diabetes are highly predictive for insulin therapy within 3 years from diagnosis.

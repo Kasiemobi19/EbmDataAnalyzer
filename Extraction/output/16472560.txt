@@ -1,0 +1,19 @@
+Title 
+Contraception
+
+Article Title 
+Risk of nonfatal venous thromboembolism in women using a contraceptive transdermal patch and oral contraceptives containing norgestimate and 35 microg of ethinyl estradiol.
+Abstract Text 
+There is concern that a new transdermal contraceptive patch containing ethinyl estradiol (EE) and the progestin norelgestromin increases the risk for venous thromboembolism (VTE) compared to previously marketed oral contraceptives (OCs).
+Quantitative information was obtained on the risk of nonfatal VTE in women using the contraceptive patch in comparison to women using OCs, norgestimate (either monophasic or triphasic) and 35 microg EE (norgestimate-35), an OC that has been marketed for over a decade.
+Nested case-control design based on information from PharMetrics, a US-based company that collects and organizes information on claims paid by managed care plans.
+The study was nested among all women aged 15 to 44, who started either the contraceptive patch or norgestimate-35 after April 1, 2002.
+Cases were women with current use of one of these two study drugs and a documented diagnosis of VTE in the absence of identifiable clinical risk factors (idiopathic VTE).
+Up to four controls were matched to each case by age and calendar time.
+Odds ratios (ORs) comparing the risk of nonfatal VTE in new users of the two contraceptives and incidence rates of nonfatal VTE for new users of each of the study contraceptives.
+We identified 68 newly diagnosed, idiopathic cases of VTE in the study population.
+In the case-control analysis, the OR comparing the contraceptive patch to norgestimate-35 was 0.9 (95% CI 0.5-1.6).
+The overall incidence rate for VTE was 52.8 per 100,000 women-years (95% CI 35.8-74.9)
+among users of the contraceptive patch and 41.8 per 100,000 women-years among users of norgestimate-35 (95% CI 29.4-57.6),
+and the age-adjusted VTE incidence rate ratio (IRR) for current use of the contraceptive patch vs. norgestimate-35 was 1.1 (95% CI 0.7-1.8).
+The risk of nonfatal VTE for the contraceptive patch is similar to the risk for OCs containing 35 microg ethinylestradiol and norgestimate.

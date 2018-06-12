@@ -1,0 +1,13 @@
+Title 
+Lancet
+
+Article Title 
+Blood pressure, stroke, and coronary heart disease. Part 2, Short-term reductions in blood pressure: overview of randomised drug trials in their epidemiological context.
+Abstract Text 
+There are 14 unconfounded randomised trials of antihypertensive drugs (chiefly diuretics or beta-blockers): total 37,000 individuals, mean treatment duration 5 years, mean diastolic blood pressure (DBP) difference 5-6 mm Hg.
+In prospective observational studies, a long-term difference of 5-6 mm Hg in usual DBP is associated with about 35-40% less stroke and 20-25% less coronary heart disease (CHD).
+For those dying in the trials, the DBP difference had persisted only 2-3 years, yet an overview showed that vascular mortality was significantly reduced (2p less than 0.0002); non-vascular mortality appeared unchanged.
+Stroke was reduced by 42% SD 6 (95% confidence interval 35-50%; 289 vs 484 events, 2p less than 0.0001), suggesting that virtually all the epidemiologically expected stroke reduction appears rapidly.
+CHD was reduced by 14% SD 5 (95% CI 4-22%; 671 vs 771 events, 2p less than 0.01), suggesting that just over half the epidemiologically expected CHD reduction appears rapidly.
+Although this significant CHD reduction could well be worthwhile, its size remains indefinite for most circumstances (though beta-blockers after myocardial infarction are of substantial benefit).
+At present, therefore, a sufficiently high risk of stroke (perhaps because of age, blood pressure, or, in particular, history of cerebrovascular disease) may be the clearest indication for antihypertensive treatment.

@@ -1,0 +1,24 @@
+Title 
+Annals of the rheumatic diseases
+
+Article Title 
+Beneficial effects of weight loss associated with moderate calorie/carbohydrate restriction, and increased proportional intake of protein and unsaturated fat on serum urate and lipoprotein levels in gout: a pilot study.
+Abstract Text 
+Insulin resistance (IR) has been increasingly implicated in the pathogenesis of gout.
+The lipoprotein abnormalities described in hyperuricaemic subjects are similar to those associated with IR, and insulin influences renal urate excretion.
+In this study it was investigated whether dietary measures, reported to be beneficial in IR, have serum uric acid (SU) and lipid lowering effects in gout.
+Thirteen non-diabetic men (median age 50, range 38-62) were enrolled.
+Each patient had had at least two gouty attacks during the four months before enrollment.
+Dietary recommendations consisted of calorie restriction to 6690 kJ (1600 kcal) a day with 40% derived from carbohydrate, 30% from protein, and 30% from fat; replacement of refined carbohydrates with complex ones and saturated fats with mono- and polyunsaturated ones.
+At onset and after 16 weeks, fasting blood samples were taken for determination of SU, serum cholesterol (C), low density lipoprotein cholesterol (LDL-C), high density lipoprotein cholesterol (HDL-C), and triglycerides (TGs).
+Results were expressed as median (SD).
+At onset, the body mass index (BMI) was 30.5 (8.1) kg/m(2).
+Dietary measures resulted in weight loss of 7.7 (5.4) kg (p=0.002) and a decrease in the frequency of monthly attacks from 2.1 (0.8) to 0.6 (0.7) (p=0.002).
+The SU decreased from 0.57 (0.10) to 0.47 (0.09) mmol/l (p=0.001) and normalised in 7 (58%) of the 12 patients with an initially raised level.
+Serum cholesterol decreased from 6.0 (1.7) to 4.7 (0. 9) mmol/l (p=0.002),
+LDL-C from 3.5 (1.2) to 2.7 (0.8) mmol/l (p=0.
+004), TGs from 4.7 (4.2) to 1.9 (1.0) mmol/l (p=0.001), and C:HDL-C ratios from 6.7 (1.7) to 5.2 (1.0) (p=0.002).
+HDL-C levels increased insignificantly.
+High baseline SU, frequency of attacks, total cholesterol, LDL-C and TG levels, and total C:HDL-C ratios correlated with higher decreases in the respective variables upon dietary intervention (p<0.05).
+The results suggest that weight reduction associated with a change in proportional macronutrient intake, as recently recommended in IR, is beneficial, reducing the SU levels and dyslipidaemia in gout.
+Current dietary recommendations for gout may need re-evaluation.

@@ -1,0 +1,23 @@
+Title 
+The Journal of rheumatology
+
+Article Title 
+Effect of glucosamine hydrochloride in the treatment of pain of osteoarthritis of the knee.
+Abstract Text 
+Glucosamine products have been used extensively for the management of pain in osteoarthritis (OA).
+We investigated the efficacy of the hydrochloride salt of glucosamine on pain and disability in knee OA.
+At Week -2, subjects were examined, randomized, and instructed to take only prescribed acetaminophen for pain.
+At Week 0 patients were examined, prescribed acetaminophen, and either placebo or glucosamine hydrochloride (glucosamine).
+At Week 4 the prescriptions for acetaminophen and placebo or glucosamine were renewed.
+At Weeks 4 and 8, patients returned diaries and unused medications, and were examined.
+The WOMAC questionnaire was administered at Weeks -2, 0, and 8.
+After completing the randomized 8 week trial, subjects were offered known glucosamine hydrochloride capsules in an 8 week open label trial, with followup telephone survey after the 8 week open label trial.
+The primary endpoint (statistically significant difference in WOMAC pain score between Week 0 and Week 8) was not met.
+However, positive trends were noted for the glucosamine group in 23 of 24 WOMAC questions.
+A significant difference was noted from Week 5 through Week 8 in the knee examination (p = 0.026) and in the response to a daily diary pain question (p = 0.018).
+However, responding to the question, "Are you better than at the start of the trial?",
+40% of placebo and only 49% of glucosamine subjects answered in the affirmative (p = 0.58).
+At the end of the randomized trial, 34% of placebo and 47% of glucosamine subjects believed that they had been given glucosamine.
+After the end of the 8 week open label trial, 77% of the subjects were still taking glucosamine, although now obliged to pay for commercially available products.
+There was no significant difference in pain reduction between the glucosamine hydrochloride and placebo groups as measured by WOMAC.
+However, the secondary endpoints of cumulative pain reduction as measured by daily diary and knee examination were favorable, suggesting that glucosamine hydrochloride benefits some patients with knee OA.

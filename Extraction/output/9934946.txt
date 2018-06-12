@@ -1,0 +1,16 @@
+Title 
+Journal of clinical psychopharmacology
+
+Article Title 
+Effects of SSRIs on sexual function: a critical review.
+Abstract Text 
+Sexual problems are highly prevalent in both men and women and are affected by, among other factors, mood state, interpersonal functioning, and psychotropic medications.
+The incidence of antidepressant-induced sexual dysfunction is difficult to estimate because of the potentially confounding effects of the illness itself, social and interpersonal comorbidities, medication effects, and design and assessment problems in most studies.
+Estimates of sexual dysfunction vary from a small percentage to more than 80%.
+This article reviews current evidence regarding sexual side effects of selective serotonin reuptake inhibitors (SSRIs).
+Among the sexual side effects most commonly associated with SSRIs are delayed ejaculation and absent or delayed orgasm.
+Sexual desire (libido) and arousal difficulties are also frequently reported, although the specific association of these disorders to SSRI use has not been consistently shown.
+The effects of SSRIs on sexual functioning seem strongly dose-related and may vary among the group according to serotonin and dopamine reuptake mechanisms, induction of prolactin release, anticholinergic effects, inhibition of nitric oxide synthetase, and propensity for accumulation over time.
+A variety of strategies have been reported in the management of SSRI-induced sexual dysfunction, including waiting for tolerance to develop, dosage reduction, drug holidays, substitution of another antidepressant drug, and various augmentation strategies with 5-hydroxytryptamine-2 (5-HT2), 5-HT3, and alpha2 adrenergic receptor antagonists, 5-HT1A and dopamine receptor agonists, and phosphodiesterase (PDE5) enzyme inhibitors.
+Sexual side effects of SSRIs should not be viewed as entirely negative; some studies have shown improved control of premature ejaculation in men.
+The impacts of sexual side effects of SSRIs on treatment compliance and on patients' quality of life are important clinical considerations.

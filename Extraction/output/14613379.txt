@@ -1,0 +1,18 @@
+Title 
+Journal of managed care pharmacy : JMCP
+
+Article Title 
+Effects of a tablet-splitting program in patients taking HMG-CoA reductase inhibitors: analysis of clinical effects, patient satisfaction, compliance, and cost avoidance.
+Abstract Text 
+The primary objective was to determine the effect of a hydroxymethylglutaryl- CoA reductase inhibitor (HMG) tablet-splitting program on laboratory outcomes (lipid panel and liver enzyme tests).
+Other objectives were to assess patient compliance and satisfaction with splitting tablets and to measure the reduction in drug acquisition costs.
+Patients at a Veterans Affairs Health Care System facility were included in this study if they participated in the HMG tablet-splitting program between April and September 2000.
+Patients taking the same drug and dosage before and after implementation of the program were asked to complete a mailed questionnaire designed to measure satisfaction and compliance with the program.
+Data collected through electronic charts included patient demographics, prescribed medication, and the values for lipid panel and liver function tests.
+A total of 2,019 patients were included in the study.
+The total cost avoidance achieved over one year for atorvastatin, lovastatin, and simvastatin was 138,108 dollars (N=2,019).
+The majority of patients who responded to the questionnaire were satisfied and compliant with tablet splitting.
+In the laboratory analysis (N=512), there was no difference between prevalues and postvalues for total cholesterol and triglycerides.
+There was a statistically, but not clinically, significant decrease in LDL (102 versus 97, P<0.001) and increase in HDL (46 versus 48, P<0.001), AST (26 versus 28, P<0.001), and ALT (24 versus 26, P=0.006) after the initiation of tablet splitting.
+Tablet splitting of HMGs had no short-term negative effects on laboratory outcomes and favorable effects on humanistic outcomes as measured by patient satisfaction and compliance.
+Tablet splitting of HMGs is an effective way to reduce costs and nearly double the number of patients who can be treated for the same expense.

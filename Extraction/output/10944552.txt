@@ -1,0 +1,20 @@
+Title 
+Journal of the National Cancer Institute
+
+Article Title 
+Lung cancer mortality in the Mayo Lung Project: impact of extended follow-up.
+Abstract Text 
+The Mayo Lung Project (MLP) was a randomized, controlled clinical trial of lung cancer screening that was conducted in 9211 male smokers between 1971 and 1983.
+The intervention arm was offered chest x-ray and sputum cytology every 4 months for 6 years; the usual-care arm was advised at trial entry to receive the same tests annually.
+No lung cancer mortality benefit was evident at the end of the study.
+We have extended follow-up through 1996.
+A National Death Index-PLUS search was used to assign vital status and date and cause of death for 6523 participants with unknown information.
+The median survival for lung cancer patients diagnosed before July 1, 1983, was calculated by use of Kaplan-Meier estimates.
+Survival curves were compared with the log-rank test.
+The median follow-up time was 20.5 years.
+Lung cancer mortality was 4.4 (95% confidence interval [CI] = 3.9-4.9)
+deaths per 1000 person-years in the intervention arm and 3.9 (95% CI = 3.5-4.4) in the usual-care arm (two-sided P: for difference =.09).
+For participants diagnosed with lung cancer before July 1, 1983, survival was better in the intervention arm (two-sided P: =.0039).
+The median survival for patients with resected early-stage disease was 16.0 years in the intervention arm versus 5.0 years in the usual-care arm.
+Extended follow-up of MLP participants did not reveal a lung cancer mortality reduction for the intervention arm.
+Similar mortality but better survival for individuals in the intervention arm indicates that some lesions with limited clinical relevance may have been identified in the intervention arm.

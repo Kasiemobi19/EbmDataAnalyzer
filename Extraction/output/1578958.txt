@@ -1,0 +1,9 @@
+Title 
+The Medical clinics of North America
+
+Article Title 
+A practical approach to the differential diagnosis and evaluation of the adult patient with macrocytic anemia.
+Abstract Text 
+The most common causes of macrocytic anemias in the adults are (1) alcoholism, (2) liver diseases, (3) hemolysis or bleeding, (4) hypothyroidism, (5) folate or vitamin B12 deficiency, (6) exposure to chemotherapy and other drugs, and (7) myelodysplasia.
+A carefully obtained history and examination with evaluation of a peripheral blood smear and reticulocyte count should be performed in most patients with macrocytosis.
+Serum vitamin B12 and folate levels, serum thyroid studies, liver function studies, and bone marrow aspirate and biopsy with cytogenetic analysis are frequently required to confirm a diagnosis suspected on the basis of the initial evaluation.

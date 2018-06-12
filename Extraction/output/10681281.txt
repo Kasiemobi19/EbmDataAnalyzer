@@ -1,0 +1,21 @@
+Title 
+Annals of internal medicine
+
+Article Title 
+Subclinical hypothyroidism is an independent risk factor for atherosclerosis and myocardial infarction in elderly women: the Rotterdam Study.
+Abstract Text 
+Overt hypothyroidism has been found to be associated with cardiovascular disease.
+Whether subclinical hypothyroidism and thyroid autoimmunity are also risk factors for cardiovascular disease is controversial.
+To investigate whether subclinical hypothyroidism and thyroid autoimmunity are associated with aortic atherosclerosis and myocardial infarction in postmenopausal women.
+Population-based cross-sectional study.
+A district of Rotterdam, The Netherlands.
+Random sample of 1149 women (mean age +/- SD, 69.0 +/- 7.5 years) participating in the Rotterdam Study.
+Data on thyroid status, aortic atherosclerosis, and history of myocardial infarction were obtained at baseline.
+Subclinical hypothyroidism was defined as an elevated thyroid-stimulating hormone level (>4.0 mU/L) and a normal serum free thyroxine level (11 to 25 pmol/L [0.9 to 1.9 ng/dL]).
+In tests for antibodies to thyroid peroxidase, a serum level greater than 10 IU/mL was considered a positive result.
+Subclinical hypothyroidism was present in 10.8% of participants and was associated with a greater age-adjusted prevalence of aortic atherosclerosis (odds ratio, 1.7 [95% CI, 1.1 to 2.6]) and myocardial infarction (odds ratio, 2.3 [CI, 1.3 to 4.0]).
+Additional adjustment for body mass index, total and high-density lipoprotein cholesterol level, blood pressure, and smoking status, as well as exclusion of women who took beta-blockers, did not affect these estimates.
+Associations were slightly stronger in women who had subclinical hypothyroidism and antibodies to thyroid peroxidase (odds ratio for aortic atherosclerosis, 1.9 [CI, 1.1 to 3.6]; odds ratio for myocardial infarction, 3.1 [CI, 1.5 to 6.3]).
+No association was found between thyroid autoimmunity itself and cardiovascular disease.
+The population attributable risk percentage for subclinical hypothyroidism associated with myocardial infarction was within the range of that for known major risk factors for cardiovascular disease.
+Subclinical hypothyroidism is a strong indicator of risk for atherosclerosis and myocardial infarction in elderly women.

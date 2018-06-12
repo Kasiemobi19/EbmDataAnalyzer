@@ -1,0 +1,18 @@
+Title 
+Obesity surgery
+
+Article Title 
+Gastric bypass is an effective treatment for obstructive sleep apnea in patients with clinically significant obesity.
+Abstract Text 
+We have demonstrated that obstructive sleep apnea (OSA) is prevalent in 60% of patients undergoing bariatric surgery.
+A study was conducted to determine whether weight loss following bariatric surgery ameliorates OSA.
+All 100 consecutive patients with symptoms of OSA were prospectively evaluated by polysomnography before gastric bypass.
+Preoperative and postoperative scores of Epworth Sleepiness Scale (ESS), Respiratory Disturbance Index (RDI), and other parameters of sleep quality were compared using t-test.
+Preoperative RDI was 40 +/- 4 (normal 5 events/hour, n = 100).
+13 patients had no OSA, 29 had mild OSA, while the remaining 58 patients were treated preoperatively for moderate-severe OSA.
+At a median of 6 months follow-up, BMI and ESS scores improved (38 +/- 1 vs 54 +/- 1 kg/m2, 6 +/- 1 vs 12 +/- 0.1, P < 0.001, postoperatively vs preoperatively).
+To date, 11 patients have completed postoperative polysomnography (3-21 months) after losing weight (BMI 40 +/- 2 vs 62 +/- 3 kg/m2, P < 0.001).
+There was significant improvement in ESS (3 +/- 1 vs 14 +/- 2), minimum O2 saturation (SpO2 86 +/- 2 vs 77 +/- 5), sleep efficiency (85 +/- 2% vs 65 +/- 5%), all P < 0.001, postop vs preop; and RDI (56 +/- 13 vs 23 +/- 7, P = 0.041).
+Regression analysis demonstrated no correlation between preoperative BMI, ESS score and the severity of OSA; and no correlation between % excess body weight loss and postoperative RDI.
+Weight loss following gastric bypass results in profound improvement in OSA.
+The severity of apnea cannot be reliably predicted by preoperative BMI and ESS; therefore, patients with symptoms of OSA should undergo polysomnography.

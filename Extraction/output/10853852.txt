@@ -1,0 +1,17 @@
+Title 
+The European respiratory journal : official journal of the European Society for Clinical Respiratory Physiology
+
+Article Title 
+Long-term treatment of chronic obstructive pulmonary disease with salmeterol and the additive effect of ipratropium.
+Abstract Text 
+The efficacy and safety of salmeterol alone was compared with the combination of salmeterol plus ipratropium and with placebo during long-term treatment in patients with stable chronic obstructive pulmonary disease.
+In addition, the single-dose effect in response to the first dose of treatment was studied over 12 h.
+The patients (n=144; age 64+/-7 yrs, forced expiratory volume in one second (FEV1) 44+/-11% pred) participated in a three-centre double-blind double-placebo parallel group study and were randomized after a run-in period of 2 weeks to receive either salmeterol 50 microg b.i.d., salmeterol 5 microg b.i.d.
+plus ipratropium 40 microg q.i.d. or placebo for a period of 12 weeks.
+The single-dose study demonstrated that salmeterol produced a significant increase in FEV1 (peak of 7% pred) and specific airway conductance (sGaw) (maximum of 60% baseline) for > or =12 h.
+The combination of salmeterol plus ipratropium elicited a greater bronchodilator response (11% and 94% increases respectively) than salmeterol alone during the first 6 h after inhalation.
+During treatment there were significant improvements in daytime symptom scores and morning peak expiratory flow in both the salmeterol and the salmeterol plus ipratropium groups (p<0.001), with an associated decrease in the use of rescue salbutamol.
+Improvements in FEV1 and sGaw were greater in the salmeterol plus ipratropium group than in the patients receiving only salmeterol.
+Thirty-five patients had an exacerbation; 11 (23%) in the salmeterol group (versus placebo NS), six (13%) in the salmeterol plus ipratropium group (versus placebo p<0.01) and 18 (36%) in the placebo group.
+In conclusion, in patients with severe stable chronic obstructive pulmonary disease, long-term treatment with either salmeterol alone or salmeterol plus ipratropium is safe and effective.
+There was added benefit from the combination therapy in terms of improvement in airways obstruction, but not for improvement in symptom control or need for rescue salbutamol.

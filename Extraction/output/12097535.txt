@@ -1,0 +1,19 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+Comparative efficacy of insect repellents against mosquito bites.
+Abstract Text 
+The worldwide threat of arthropod-transmitted diseases, with their associated morbidity and mortality, underscores the need for effective insect repellents.
+Multiple chemical, botanical, and "alternative" repellent products are marketed to consumers.
+We sought to determine which products available in the United States provide reliable and prolonged complete protection from mosquito bites.
+We conducted studies involving 15 volunteers to test the relative efficacy of seven botanical insect repellents; four products containing N,N-diethyl-m-toluamide, now called N,N-diethyl-3-methylbenzamide (DEET); a repellent containing IR3535 (ethyl butylacetylaminopropionate); three repellent-impregnated wristbands; and a moisturizer that is commonly claimed to have repellent effects.
+These products were tested in a controlled laboratory environment in which the species of the mosquitoes, their age, their degree of hunger, the humidity, the temperature, and the light-dark cycle were all kept constant.
+DEET-based products provided complete protection for the longest duration.
+Higher concentrations of DEET provided longer-lasting protection.
+A formulation containing 23.8 percent DEET had a mean complete-protection time of 301.5 minutes.
+A soybean-oil-based repellent protected against mosquito bites for an average of 94.6 minutes.
+The IR3535-based repellent protected for an average of 22.9 minutes.
+All other botanical repellents we tested provided protection for a mean duration of less than 20 minutes.
+Repellent-impregnated wristbands offered no protection.
+Currently available non-DEET repellents do not provide protection for durations similar to those of DEET-based repellents and cannot be relied on to provide prolonged protection in environments where mosquito-borne diseases are a substantial threat.

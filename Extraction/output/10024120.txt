@@ -1,0 +1,21 @@
+Title 
+Medical care
+
+Article Title 
+Recurrence and care seeking after acute back pain: results of a long-term follow-up study. North Carolina Back Pain Project.
+Abstract Text 
+To explore the relationship between type of initial care as well as the likelihood of recurrence and consequent care seeking behavior.
+Prospective observational cohort recruited from 208 randomly selected North Carolina practices.
+Cohort study examined the recurrence of low back pain among patients free of back pain 3 months after their index visit to a practitioner for that problem.
+The following four practitioner strata were examined: primary care providers, chiropractors, orthopedic surgeons, and practitioners in a group model HMO.
+Patients were interviewed by telephone at 6 and 22 months after the initial visit.
+Rates of disabling and non-disabling low back pain; functional status using the Roland back disability scale; and care seeking.
+Rates of recurrence were substantial; functionally disabling recurrence rates varied between 8% and 14% between 3 to 6 months, and 20% to 35% between 6 to 22 months.
+Differences in rates among practitioner strata were statistically significant only between 6 to 22 months with higher recurrence rates for HMO patients.
+Functional status, number of bed days, and time off work were very similar among the practitioner strata.
+Care seeking, however, was greater among those patients who had initially seen a chiropractor for their back pain.
+Patients with recurrence saw the same practitioner type they had seen for the index episode 88% of the time.
+Satisfaction was slightly greater for patients who saw chiropractors when compared with patients seeing allopathic physicians.
+The recurrence of low back pain is common.
+Severe disability is rare.
+Patients who had sought care from chiropractors are more likely to return for recurrences than patients who had initially sought care from MDs.

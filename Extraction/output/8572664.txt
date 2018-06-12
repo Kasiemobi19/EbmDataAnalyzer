@@ -1,0 +1,13 @@
+Title 
+Annals of neurology
+
+Article Title 
+Impact of deprenyl and tocopherol treatment on Parkinson's disease in DATATOP patients requiring levodopa. Parkinson Study Group.
+Abstract Text 
+The Deprenyl and Tocopherol Antioxidant Therapy of Parkinsonism (DATATOP) trial was designed to test outcomes from treatment with 10 mg of deprenyl and/or 2,000 mg of tocopherol/day in 800 untreated patients with Parkinson's disease.
+The need of subjects for symptomatic treatment with levodopa and the conversion of all subjects to open-label deprenyl made it possible to study the long-term effect of early deprenyl and tocopherol treatment on the later development of levodopa-associated side effects.
+The rate of developing these side effects did not differ among the original treatment groups (early versus late deprenyl and tocopherol versus nontocopherol).
+About 50% of subjects developed "wearing off," 30% dyskinesias, and 25% "freezing" in each group.
+At the end of the study, the groups were similarly disabled on the Hoehn-Yahr, Schwab-England, and Unified Parkinson's Disease Rating scales and took similar amounts of levodopa.
+Young subjects were more likely to develop wearing off, women to develop dyskinesias, and older subjects with rapidly progressive disease to develop freezing.
+We conclude that prior treatment with deprenyl or tocopherol did not reduce the occurrence of subsequent levodopa-associated adverse effects in this population.

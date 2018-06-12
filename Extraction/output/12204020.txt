@@ -1,0 +1,19 @@
+Title 
+Annals of internal medicine
+
+Article Title 
+Breast cancer screening: a summary of the evidence for the U.S. Preventive Services Task Force.
+Abstract Text 
+To synthesize new data on breast cancer screening for the U.S. Preventive Services Task Force.
+MEDLINE; the Cochrane Controlled Trials Registry; and reference lists of reviews, editorials, and original studies.
+Eight randomized, controlled trials of mammography and 2 trials evaluating breast self-examination were included.
+One hundred fifty-four publications of the results of these trials, as well as selected articles about the test characteristics and harms associated with screening, were examined.
+Predefined criteria were used to assess the quality of each study.
+Meta-analyses using a Bayesian random-effects model were conducted to provide summary relative risk estimates and credible intervals (CrIs) for the effectiveness of screening with mammography in reducing death from breast cancer.
+For studies of fair quality or better, the summary relative risk was 0.84 (95% CrI, 0.77 to 0.91) and the number needed to screen to prevent one death from breast cancer after approximately 14 years of observation was 1224 (CrI, 665 to 2564).
+Among women younger than 50 years of age, the summary relative risk associated with mammography was 0.85 (CrI, 0.73 to 0.99) and the number needed to screen to prevent one death from breast cancer after 14 years of observation was 1792 (CrI, 764 to 10 540).
+For clinical breast examination and breast self-examination, evidence from randomized trials is inconclusive.
+In the randomized, controlled trials, mammography reduced breast cancer mortality rates among women 40 to 74 years of age.
+Greater absolute risk reduction was seen among older women.
+Because these results incorporate several rounds of screening, the actual number of mammograms needed to prevent one death from breast cancer is higher.
+In addition, each screening has associated risks and costs.

@@ -1,0 +1,18 @@
+Title 
+Neurosurgery
+
+Article Title 
+Spinal cord stimulation versus repeated lumbosacral spine surgery for chronic pain: a randomized, controlled trial.
+Abstract Text 
+Persistent or recurrent radicular pain after lumbosacral spine surgery is often associated with nerve root compression and is treated by repeated operation or, as a last resort, by spinal cord stimulation (SCS).
+We conducted a prospective, randomized, controlled trial to test our hypothesis that SCS is more likely than reoperation to result in a successful outcome by standard measures of pain relief and treatment outcome, including subsequent use of health care resources.
+For an average of 3 years postoperatively, disinterested third-party interviewers followed 50 patients selected for reoperation by standard criteria and randomized to SCS or reoperation.
+If the results of the randomized treatment were unsatisfactory, patients could cross over to the alternative.
+Success was based on self-reported pain relief and patient satisfaction.
+Crossover to the alternative procedure was an outcome measure.
+Use of analgesics, activities of daily living, and work status were self-reported.
+Among 45 patients (90%) available for follow-up, SCS was more successful than reoperation (9 of 19 patients versus 3 of 26 patients, P <0.01).
+Patients initially randomized to SCS were significantly less likely to cross over than were those randomized to reoperation (5 of 24 patients versus 14 of 26 patients, P=0.02).
+Patients randomized to reoperation required increased opiate analgesics significantly more often than those randomized to SCS (P <0.025).
+Other measures of activities of daily living and work status did not differ significantly.
+SCS is more effective than reoperation as a treatment for persistent radicular pain after lumbosacral spine surgery, and in the great majority of patients, it obviates the need for reoperation.

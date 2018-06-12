@@ -1,0 +1,15 @@
+Title 
+Obstetrics and gynecology
+
+Article Title 
+Contraception for women in selected circumstances.
+Abstract Text 
+To review new evidence regarding ten controversial issues in the use of contraceptive methods among women with special conditions and to present World Health Organization recommendations derived in part from this evidence.
+We searched MEDLINE and PREMEDLINE databases for English-language articles, published between January 1995 and December 2001, for evidence relevant to ten key contraceptive method and condition combinations: combined oral contraceptive (OC) use among women with hypertension or headaches, combined OC use for emergency contraception and adverse events, progestogen-only contraception use among young women and among breast-feeding women, tubal sterilization among young women, hormonal contraception and intrauterine device use among women who are human immunodeficiency virus (HIV) positive, have AIDS, or are at high risk of HIV infection.
+Search terms included: "contraception," "contraceptives, oral," "progestational hormones," "medroxyprogesterone-17 acetate," "norethindrone," "levonorgestrel," "Norplant," "contraceptives, postcoital," "sterilization, tubal," "intrauterine devices," "hypertension," "stroke," "myocardial infarction," "thrombosis," "headache," "migraine," "adverse effects," "bone mineral density," "breast-feeding," "lactation," "age factors," "regret," and "HIV."
+From 205 articles, we identified 33 studies published in peer-reviewed journals that specifically examined risks of contraceptive use among women with pre-existing conditions.
+Combined OC users with hypertension appear to be at increased risk of myocardial infarction and stroke relative to users without hypertension.
+Combined OC users with migraine appear to be at increased risk of stroke relative to nonusers with migraine.
+The evidence for the other eight method and condition combinations was either insufficient to draw conclusions or identified no excess risk.
+Of ten contraceptive method and condition combinations assessed, the evidence supported an increased risk of cardiovascular complications with combined OC use by women with hypertension or migraine.
+As new evidence becomes available, assessment of risk and recommendations for use of contraceptive methods can be revised accordingly.

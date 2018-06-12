@@ -1,0 +1,17 @@
+Title 
+The Annals of pharmacotherapy
+
+Article Title 
+Effect of tablet splitting on serum cholesterol concentrations.
+Abstract Text 
+To evaluate the effects of tablet splitting on low-density lipoprotein (LDL) cholesterol and total cholesterol values in patients taking simvastatin and atorvastatin.
+A retrospective chart review of total cholesterol and LDL cholesterol values of patients instructed to split simvastatin or atorvastatin between January 1999 and November 2000.
+Veterans Affairs Medical Center in Huntington, WV.
+Patients were included if they were taking simvastatin or atorvastatin with regular lipid management and follow-up laboratory results.
+Patients were required to remain on the same milligram-per-day dose at least 6-8 weeks before and after tablet-splitting initiation and have cholesterol values drawn at least 6 weeks after initiation of both whole-tablet and half-tablet dosing.
+Patients were excluded if they had a triglyceride level > 400 mg/dL or were noncompliant on the basis of pharmacy records and provider notes.
+MEASUREMENT OUTCOMES: The primary end points were changes in total cholesterol and LDL cholesterol values before and after the patient was switched to half-tablet therapy.
+The overall results for this review demonstrated no statistically significant increase in total cholesterol and LDL cholesterol concentrations.
+Total cholesterol and LDL cholesterol values actually decreased from presplitting to postsplitting, p = 0.017 and p = 0.003, respectively.
+The investigation showed that half-tablet dosing was as effective as whole-tablet dosing.
+The program will be continued as a part of quality patient care at the Huntington Veterans Affairs Medical Center.

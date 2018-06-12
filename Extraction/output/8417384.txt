@@ -1,0 +1,17 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+Effects of tocopherol and deprenyl on the progression of disability in early Parkinson's disease. The Parkinson Study Group.
+Abstract Text 
+In 1987 we began a multicenter controlled clinical trial of deprenyl (a monoamine oxidase inhibitor) and tocopherol (a component of vitamin E that traps free radicals) in the treatment of early Parkinson's disease.
+We randomly assigned 800 patients to one of four treatments: placebo, active tocopherol and deprenyl placebo, active deprenyl and tocopherol placebo, or both active drugs.
+The primary end point was the onset of disability prompting the clinical decision to begin administering levodopa.
+An interim analysis showed that deprenyl was beneficial (N Engl J Med 1989;321:1364-71).
+We report the results of tocopherol treatment after a mean (+/- SD) follow-up of 14 +/- 6 months, as well as the follow-up results for deprenyl.
+There was no beneficial effect of tocopherol or any interaction between tocopherol and deprenyl.
+The beneficial effects of deprenyl, which occurred largely during the first 12 months of treatment, remained strong and significantly delayed the onset of disability requiring levodopa therapy (hazard ratio, 0.50; 95 percent confidence interval, 0.41 to 0.62; P < 0.001).
+The difference in the estimated median time to the end point was about nine months.
+The ratings for Parkinson's disease improved during the first three months of deprenyl treatment; the motor performance of deprenyl-treated patients worsened after the treatments were withdrawn.
+Deprenyl (10 mg per day) but not tocopherol (2000 IU per day) delays the onset of disability associated with early, otherwise untreated Parkinson's disease.
+The action of deprenyl that accounts for its beneficial effects remains unclear.

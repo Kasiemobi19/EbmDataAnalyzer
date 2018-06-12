@@ -1,0 +1,18 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Safety of revaccination with pneumococcal polysaccharide vaccine.
+Abstract Text 
+Revaccination of healthy adults with pneumococcal polysaccharide vaccine (PPV) within several years of first vaccination has been associated with a higher than expected frequency and severity of local injection site reactions.
+The risk of adverse events associated with revaccination of elderly and chronically ill persons 5 or more years after first vaccination, as is currently recommended, has not been well defined.
+To determine whether revaccination with PPV at least 5 years after first vaccination is associated with more frequent or more serious adverse events than those following first vaccination.
+Comparative intervention study conducted between April 1996 and August 1997.
+Persons aged 50 to 74 years either who had never been vaccinated with PPV (n = 901) or who had been vaccinated once at least 5 years prior to enrollment (n = 513).
+PPV vaccination.
+Postvaccination local injection site reactions and prevaccination concentrations of type-specific antibodies.
+Those who were revaccinated were more likely than those who received their first vaccinations to report a local injection site reaction of at least 10.2 cm (4 in) in diameter within 2 days of vaccination: 11% (55/513) vs 3% (29/901) (relative risk [RR], 3.3; 95% confidence interval [CI], 2.1-5.1).
+These reactions resolved by a median of 3 days following vaccination.
+The highest rate was among revaccinated patients who were immunocompetent and did not have chronic illness: 15% (33/228) compared with 3% (10/337) among comparable patients receiving their first vaccinations (RR, 4.9; 95% CI, 2.4-9.7).
+The risk of these local reactions was significantly correlated with prevaccination geometric mean antibody concentrations.
+Physicians and patients should be aware that self-limited local injection site reactions occur more frequently following revaccination compared with first vaccination; however, this risk does not represent a contraindication to revaccination with PPV for recommended groups.

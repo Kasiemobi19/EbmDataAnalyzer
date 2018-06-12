@@ -1,0 +1,16 @@
+Title 
+Annals of the rheumatic diseases
+
+Article Title 
+Outcomes of a multicentre randomised clinical trial of etanercept to treat ankylosing spondylitis.
+Abstract Text 
+A double blind, randomised, placebo controlled study to evaluate the safety and efficacy of etanercept to treat adult patients with ankylosing spondylitis (AS).
+Adult patients with AS at 14 European sites were randomly assigned to 25 mg injections of etanercept or placebo twice weekly for 12 weeks.
+The primary efficacy end point was an improvement of at least 20% in patient reported symptoms, based on the multicomponent Assessments in Ankylosing Spondylitis (ASAS) response criteria (ASAS 20).
+Secondary end points included ASAS 50 and ASAS 70 responses and improved scores on individual components of ASAS, the Bath Ankylosing Spondylitis Disease Activity Index (BASDAI), acute phase reactants, and spinal mobility tests.
+Safety was evaluated during scheduled visits.
+Of 84 patients enrolled, 45 received etanercept and 39 received placebo.
+Significantly more etanercept patients than placebo patients responded at the ASAS 20 level as early as week 2, and sustained differences were evident up to week 12. Significantly more etanercept patients reported ASAS 50 responses at all times and ASAS 70 responses at weeks 2, 4, and 8; reported lower composite and fatigue BASDAI scores; had lower acute phase reactant levels; and had improved spinal flexion.
+Etanercept was well tolerated.
+Most adverse events were mild to moderate; the only between-group difference was injection site reactions, which occurred significantly more often in etanercept patients.
+Etanercept is a well tolerated and effective treatment for reducing clinical symptoms and signs of AS.

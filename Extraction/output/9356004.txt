@@ -1,0 +1,12 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Does this patient have community-acquired pneumonia? Diagnosing pneumonia by history and physical examination.
+Abstract Text 
+Community-acquired pneumonia is an important cause of acute respiratory symptoms (eg, cough) in the ambulatory care setting.
+Distinguishing pneumonia from other causes of respiratory illnesses, such as acute bronchitis and upper respiratory tract infections, has important therapeutic and prognostic implications.
+The reference standard for diagnosing pneumonia is chest radiography, but it is likely that many physicians rely on the patient's history and their physical examination to diagnose or exclude this disease.
+A review of published studies of patients suspected of having pneumonia reveals that there are no individual clinical findings, or combinations of findings, that can rule in the diagnosis of pneumonia for a patient suspected of having this illness.
+However, some studies have shown that the absence of any vital sign abnormalities or any abnormalities on chest auscultation substantially reduces the likelihood of pneumonia to a point where further diagnostic evaluation may be unnecessary.
+This article reviews the literature on the appropriate use of the history and physical examination in diagnosing community-acquired pneumonia.

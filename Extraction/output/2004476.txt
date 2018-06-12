@@ -1,0 +1,20 @@
+Title 
+Clinical endocrinology
+
+Article Title 
+Prevalence and follow-up of abnormal thyrotrophin (TSH) concentrations in the elderly in the United Kingdom.
+Abstract Text 
+Increasing use of assays for TSH with improved sensitivity as a first-line test of thyroid function has raised questions regarding prevalence and clinical significance of abnormal results, especially values below normal.
+We have assessed the thyroid status of 1210 patients aged over 60 registered with a single general practice by measurement of serum TSH using a sensitive assay.
+High TSH values were more common in females (11.6%) than males (2.9%).
+TSH values below normal were present in 6.3% of females and 5.5% of males, with values below the limit of detection of the assay present in 1.5% of females and 1.4% of males.
+Anti-thyroid antibodies were found in 60% of those with high TSH but only 5.6% of those with subnormal TSH.
+Eighteen patients were hypothyroid (high TSH, low free thyroxine) and one thyrotoxic (low TSH, raised free thyroxine) at initial testing.
+Seventy-three patients with elevated TSH but normal free T4 were followed for 12 months; 13 (17.8%)
+developed low free T4 levels and commenced thyroxine, TSH returned to normal in four (5.5%) and 56 (76.7%) continued to have high TSH values.
+Sixty-six patients with TSH results below normal were followed.
+Of the 50 subjects with low but detectable TSH at initial testing, 38 (76%) returned to normal at 12 months; of those 16 with undetectable TSH followed, 14 (87.5%)
+remained low at 12 months.
+Only one subject (who had an undetectable TSH) developed thyrotoxicosis.
+In view of the marked prevalence of thyroid dysfunction in the elderly, we suggest that screening of all patients over 60 should be considered.(ABSTRACT
+TRUNCATED AT 250 WORDS)

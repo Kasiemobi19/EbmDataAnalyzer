@@ -1,0 +1,5991 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12672309
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     03
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     24
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     01
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0140-6736
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       361
+      </volume>
+      <issue>
+       9363
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Mar
+       </month>
+       <day>
+        29
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Lancet
+     </title>
+     <isoabbreviation>
+      Lancet
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Early intervention with budesonide in mild persistent asthma: a randomised, double-blind trial.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1071-6
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Although inhaled glucocorticosteroids are recommended for persistent asthma, their long-term effect on recent onset, mild, persistent asthma has yet to be established.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We did a randomised, double-blind clinical trial in 7241 patients in 32 countries to assess the effects of budesonide in patients who had had mild persistent asthma for less than 2 years and who had not had previous regular treatment with glucocorticosteroids. Patients aged 5-66 years received either budesonide or placebo once daily for 3 years in addition to their usual asthma medications. The daily budesonide dose was 400 microg, or 200 microg for children younger than 11 years. The primary outcome was time to first severe asthma-related event, and analysis was by intention to treat.
+     </abstracttext>
+     <abstracttext label="FINDINGS" nlmcategory="RESULTS">
+      198 of 3568 patients on placebo and 117 of 3597 on budesonide had at least one severe asthma exacerbation; hazard ratio 0.56 (95% CI 0.45-0.71, p&lt;0.0001). Patients on budesonide had fewer courses of systemic corticosteroids and more symptom-free days than did those on placebo. Compared with placebo, budesonide increased postbronchodilator forced expiratory volume in 1 s (FEV1) from baseline by 1.48% (p&lt;0.0001) after 1 year and by 0.88% (p=0.0005) after 3 years (expressed as percent of the predicted value). The corresponding increase in prebronchodilator FEV1 was 2.24% after 1 year and 1.71% after 3 years (p&lt;0.0001 at both timepoints). The effect of treatment on all outcome variables was independent of the baseline lung function (prebronchodilator or postbronchodilator) or baseline medication. In children younger than 11 years, 3-year growth was reduced in the budesonide group by 1.34 cm. The reduction was greatest in the first year of treatment (0.58 cm) than years 2 and 3 (0.43 cm and 0.33 cm, respectively).
+     </abstracttext>
+     <abstracttext label="INTERPRETATION" nlmcategory="CONCLUSIONS">
+      Long-term, once-daily treatment with low-dose budesonide decreases the risk of severe exacerbations and improves asthma control in patients with mild persistent asthma of recent onset.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Respiratory Diseases, Ghent University Hospital, Ghent, Belgium. romain.pauwels@rug.ac.be &lt;romain.pauwels@rug.ac.be&gt;
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Pauwels
+      </lastname>
+      <forename>
+       Romain A
+      </forename>
+      <initials>
+       RA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Pedersen
+      </lastname>
+      <forename>
+       Søren
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Busse
+      </lastname>
+      <forename>
+       William W
+      </forename>
+      <initials>
+       WW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Tan
+      </lastname>
+      <forename>
+       Wan C
+      </forename>
+      <initials>
+       WC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Chen
+      </lastname>
+      <forename>
+       Yu-Zhi
+      </forename>
+      <initials>
+       YZ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ohlsson
+      </lastname>
+      <forename>
+       Stefan V
+      </forename>
+      <initials>
+       SV
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ullman
+      </lastname>
+      <forename>
+       Anders
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lamm
+      </lastname>
+      <forename>
+       Carl Johan
+      </forename>
+      <initials>
+       CJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       O'Byrne
+      </lastname>
+      <forename>
+       Paul M
+      </forename>
+      <initials>
+       PM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       START Investigators Group
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Lancet
+    </medlineta>
+    <nlmuniqueid>
+     2985213R
+    </nlmuniqueid>
+    <issnlinking>
+     0140-6736
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Asthmatic Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Inflammatory Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Bronchodilator Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Glucocorticoids
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      51333-22-3
+     </registrynumber>
+     <nameofsubstance>
+      Budesonide
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2004 Jan 10;363(9403):171
+     </refsource>
+     <pmid version="1">
+      14726188
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2003 Mar 29;361(9363):1066-7
+     </refsource>
+     <pmid version="1">
+      12672304
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Expert Rev Pharmacoecon Outcomes Res. 2003 Jun;3(3):223-5
+     </refsource>
+     <pmid version="1">
+      19807370
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Administration, Topical
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Asthmatic Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Inflammatory Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Asthma
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Body Height
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bronchodilator Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Budesonide
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child, Preschool
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dose-Response Relationship, Drug
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Therapy, Combination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Forced Expiratory Volume
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Glucocorticoids
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Long-Term Care
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Nebulizers and Vaporizers
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <investigatorlist>
+    <investigator validyn="Y">
+     <lastname>
+      Sheffer
+     </lastname>
+     <forename>
+      A
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Woolcock
+     </lastname>
+     <forename>
+      A
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Diaz
+     </lastname>
+     <forename>
+      P
+     </forename>
+     <initials>
+      P
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Silverman
+     </lastname>
+     <forename>
+      M
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Lindmark
+     </lastname>
+     <forename>
+      B
+     </forename>
+     <initials>
+      B
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Eckmayr
+     </lastname>
+     <forename>
+      Josef
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Riedler
+     </lastname>
+     <forename>
+      Josef
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Wurzinger
+     </lastname>
+     <forename>
+      Gert
+     </forename>
+     <initials>
+      G
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Ott
+     </lastname>
+     <forename>
+      Günter
+     </forename>
+     <initials>
+      G
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Zarkovic
+     </lastname>
+     <forename>
+      Jasminka
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Schulheim
+     </lastname>
+     <forename>
+      Andrea
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Götz
+     </lastname>
+     <forename>
+      Manfred
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Schinko
+     </lastname>
+     <forename>
+      Herwig
+     </forename>
+     <initials>
+      H
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Thomüller
+     </lastname>
+     <forename>
+      Ingrid
+     </forename>
+     <initials>
+      I
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      de Backer
+     </lastname>
+     <forename>
+      Wilfried
+     </forename>
+     <initials>
+      W
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      van Bever
+     </lastname>
+     <forename>
+      Hugo
+     </forename>
+     <initials>
+      H
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Verleden
+     </lastname>
+     <forename>
+      Geert
+     </forename>
+     <initials>
+      G
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      de Boeck
+     </lastname>
+     <forename>
+      Christiane
+     </forename>
+     <initials>
+      C
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Aumann
+     </lastname>
+     <forename>
+      Joseph
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Vincken
+     </lastname>
+     <forename>
+      Walter
+     </forename>
+     <initials>
+      W
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Dab
+     </lastname>
+     <forename>
+      Isidor
+     </forename>
+     <initials>
+      I
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      de Vuyst
+     </lastname>
+     <forename>
+      Paul
+     </forename>
+     <initials>
+      P
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Jonghe
+     </lastname>
+     <forename>
+      Marc de
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Casimir
+     </lastname>
+     <forename>
+      Georges
+     </forename>
+     <initials>
+      G
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Joos
+     </lastname>
+     <forename>
+      Guy
+     </forename>
+     <initials>
+      G
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      de Baets
+     </lastname>
+     <forename>
+      Frans
+     </forename>
+     <initials>
+      F
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Bogaerts
+     </lastname>
+     <forename>
+      Yves
+     </forename>
+     <initials>
+      Y
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Halloy
+     </lastname>
+     <forename>
+      Jean-Luc
+     </forename>
+     <initials>
+      JL
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Bartsch
+     </lastname>
+     <forename>
+      Pierre
+     </forename>
+     <initials>
+      P
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Casimir
+     </lastname>
+     <forename>
+      Georges
+     </forename>
+     <initials>
+      G
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Thiriaux
+     </lastname>
+     <forename>
+      Jacques
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Pohunek
+     </lastname>
+     <forename>
+      Petr
+     </forename>
+     <initials>
+      P
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Rybniŏek
+     </lastname>
+     <forename>
+      Ondrej
+     </forename>
+     <initials>
+      O
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Skopková
+     </lastname>
+     <forename>
+      Olga
+     </forename>
+     <initials>
+      O
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Pavelková
+     </lastname>
+     <forename>
+      Ludmila
+     </forename>
+     <initials>
+      L
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Broz
+     </lastname>
+     <forename>
+      Pavel
+     </forename>
+     <initials>
+      P
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Ohnutková
+     </lastname>
+     <forename>
+      Eva
+     </forename>
+     <initials>
+      E
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Novotná
+     </lastname>
+     <forename>
+      Bronislava
+     </forename>
+     <initials>
+      B
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Balý
+     </lastname>
+     <forename>
+      Jiri
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Krcmová
+     </lastname>
+     <forename>
+      Irena
+     </forename>
+     <initials>
+      I
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Kuralová
+     </lastname>
+     <forename>
+      Zuzana
+     </forename>
+     <initials>
+      Z
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Koci
+     </lastname>
+     <forename>
+      Tomás
+     </forename>
+     <initials>
+      T
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Honomichlová
+     </lastname>
+     <forename>
+      Helena
+     </forename>
+     <initials>
+      H
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Kasák
+     </lastname>
+     <forename>
+      Viktor
+     </forename>
+     <initials>
+      V
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Panzner
+     </lastname>
+     <forename>
+      Petr
+     </forename>
+     <initials>
+      P
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Vondra
+     </lastname>
+     <forename>
+      Vladimir
+     </forename>
+     <initials>
+      V
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Nĕmecková
+     </lastname>
+     <forename>
+      Jaroslava
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Seberová
+     </lastname>
+     <forename>
+      Ester
+     </forename>
+     <initials>
+      E
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Sỳkora
+     </lastname>
+     <forename>
+      Tomás
+     </forename>
+     <initials>
+      T
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Petrů
+     </lastname>
+     <forename>
+      Vít
+     </forename>
+     <initials>
+      V
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Turziková
+     </lastname>
+     <forename>
+      Jarmila
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Sörensen
+     </lastname>
+     <forename>
+      Torben
+     </forename>
+     <initials>
+      T
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Neldam
+     </lastname>
+     <forename>
+      Steen
+     </forename>
+     <initials>
+      S
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Kludt
+     </lastname>
+     <forename>
+      Jörgen Peter Jensenius
+     </forename>
+     <initials>
+      JP
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Hansen
+     </lastname>
+     <forename>
+      Ulrik Bo
+     </forename>
+     <initials>
+      UB
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Knudsen
+     </lastname>
+     <forename>
+      Thorkild
+     </forename>
+     <initials>
+      T
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Schultz
+     </lastname>
+     <forename>
+      Paul Jörgen
+     </forename>
+     <initials>
+      PJ
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Rost
+     </lastname>
+     <forename>
+      Dan
+     </forename>
+     <initials>
+      D
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Jensen
+     </lastname>
+     <forename>
+      Flemming
+     </forename>
+     <initials>
+      F
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Kinnula
+     </lastname>
+     <forename>
+      Vuokko
+     </forename>
+     <initials>
+      V
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Saarelainen
+     </lastname>
+     <forename>
+      Pekka
+     </forename>
+     <initials>
+      P
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Eho-Remes
+     </lastname>
+     <forename>
+      Mirja
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Valovirta
+     </lastname>
+     <forename>
+      Erkka
+     </forename>
+     <initials>
+      E
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Venho
+     </lastname>
+     <forename>
+      Kari K K
+     </forename>
+     <initials>
+      KK
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Kokko
+     </lastname>
+     <forename>
+      Eeva
+     </forename>
+     <initials>
+      E
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Järvinen
+     </lastname>
+     <forename>
+      Markku
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Toljamo
+     </lastname>
+     <forename>
+      Tuula
+     </forename>
+     <initials>
+      T
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Taivainen
+     </lastname>
+     <forename>
+      Antti
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Kava
+     </lastname>
+     <forename>
+      Tuomo
+     </forename>
+     <initials>
+      T
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Herrala
+     </lastname>
+     <forename>
+      Jaakko
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Kuusela
+     </lastname>
+     <forename>
+      Anna-Leena
+     </forename>
+     <initials>
+      AL
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Nordgren
+     </lastname>
+     <forename>
+      Pertti
+     </forename>
+     <initials>
+      P
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Syvänen
+     </lastname>
+     <forename>
+      Pirkko
+     </forename>
+     <initials>
+      P
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Godard
+     </lastname>
+     <forename>
+      Philippe
+     </forename>
+     <initials>
+      P
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Rufin
+     </lastname>
+     <forename>
+      Patrick
+     </forename>
+     <initials>
+      P
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Anton
+     </lastname>
+     <forename>
+      Michel
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Aubert
+     </lastname>
+     <forename>
+      Jean-Pierre
+     </forename>
+     <initials>
+      JP
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Grosclaude
+     </lastname>
+     <forename>
+      Martine
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Brambilla
+     </lastname>
+     <forename>
+      Christian
+     </forename>
+     <initials>
+      C
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Archaud
+     </lastname>
+     <forename>
+      Patrick
+     </forename>
+     <initials>
+      P
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Racineux
+     </lastname>
+     <forename>
+      Jean-Lousi
+     </forename>
+     <initials>
+      JL
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Muir
+     </lastname>
+     <forename>
+      Jean-Francois
+     </forename>
+     <initials>
+      JF
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Albertini
+     </lastname>
+     <forename>
+      Marc
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Le Roux
+     </lastname>
+     <forename>
+      Pascal
+     </forename>
+     <initials>
+      P
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Simmons
+     </lastname>
+     <forename>
+      Alain
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Bartuschka
+     </lastname>
+     <forename>
+      Brigitte
+     </forename>
+     <initials>
+      B
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Von Berg
+     </lastname>
+     <forename>
+      Andrea
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Bergmann
+     </lastname>
+     <forename>
+      Volker
+     </forename>
+     <initials>
+      V
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Bems
+     </lastname>
+     <forename>
+      Johannes
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Bisping-Arnold
+     </lastname>
+     <forename>
+      Adelheid
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Blum
+     </lastname>
+     <forename>
+      Hans-Christian
+     </forename>
+     <initials>
+      HC
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Garanin
+     </lastname>
+     <forename>
+      G
+     </forename>
+     <initials>
+      G
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Brückner
+     </lastname>
+     <forename>
+      Oswald-Jörg
+     </forename>
+     <initials>
+      OJ
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Burbach
+     </lastname>
+     <forename>
+      Peter
+     </forename>
+     <initials>
+      P
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Sudhoff
+     </lastname>
+     <forename>
+      H
+     </forename>
+     <initials>
+      H
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Feldmann
+     </lastname>
+     <forename>
+      Michael
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Schmoller
+     </lastname>
+     <forename>
+      Tibor
+     </forename>
+     <initials>
+      T
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Wozny
+     </lastname>
+     <forename>
+      Hans-Werner
+     </forename>
+     <initials>
+      HW
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Galaske
+     </lastname>
+     <forename>
+      Reiner
+     </forename>
+     <initials>
+      R
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Huptas
+     </lastname>
+     <forename>
+      Michael
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Kaecke
+     </lastname>
+     <forename>
+      Johannes
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Köcher
+     </lastname>
+     <forename>
+      Volker
+     </forename>
+     <initials>
+      V
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Laule-Peschel
+     </lastname>
+     <forename>
+      Marianne
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Lohr
+     </lastname>
+     <forename>
+      Eckart
+     </forename>
+     <initials>
+      E
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Goldberg
+     </lastname>
+     <forename>
+      Johanna
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Drescher
+     </lastname>
+     <forename>
+      Torsten
+     </forename>
+     <initials>
+      T
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Reeh
+     </lastname>
+     <forename>
+      Wolfgang
+     </forename>
+     <initials>
+      W
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Rabe
+     </lastname>
+     <forename>
+      Uta
+     </forename>
+     <initials>
+      U
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Rehn
+     </lastname>
+     <forename>
+      Lothar
+     </forename>
+     <initials>
+      L
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Scheffler
+     </lastname>
+     <forename>
+      Norbert-Klemens
+     </forename>
+     <initials>
+      NK
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Steinmetz
+     </lastname>
+     <forename>
+      Karl-Otto
+     </forename>
+     <initials>
+      KO
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Stutz
+     </lastname>
+     <forename>
+      Peter-Michael
+     </forename>
+     <initials>
+      PM
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Weber
+     </lastname>
+     <forename>
+      Hans-Henning
+     </forename>
+     <initials>
+      HH
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Uhde
+     </lastname>
+     <forename>
+      Claus
+     </forename>
+     <initials>
+      C
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Ullner
+     </lastname>
+     <forename>
+      Rolf
+     </forename>
+     <initials>
+      R
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Vehar
+     </lastname>
+     <forename>
+      Harald
+     </forename>
+     <initials>
+      H
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Zarkovic
+     </lastname>
+     <forename>
+      Jansminka
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Krohn
+     </lastname>
+     <forename>
+      Ernst-Ulrich
+     </forename>
+     <initials>
+      EU
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Orosz
+     </lastname>
+     <forename>
+      Marta
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Devai
+     </lastname>
+     <forename>
+      Agnes
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Uhereczky
+     </lastname>
+     <forename>
+      Gabor
+     </forename>
+     <initials>
+      G
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Rajkay
+     </lastname>
+     <forename>
+      Katalin
+     </forename>
+     <initials>
+      K
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Gönczi
+     </lastname>
+     <forename>
+      Ferenc
+     </forename>
+     <initials>
+      F
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Györi
+     </lastname>
+     <forename>
+      Erzsebet
+     </forename>
+     <initials>
+      E
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Dobra
+     </lastname>
+     <forename>
+      Gergely
+     </forename>
+     <initials>
+      G
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Puha
+     </lastname>
+     <forename>
+      Katalin
+     </forename>
+     <initials>
+      K
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Sztancsik
+     </lastname>
+     <forename>
+      Zsuzanna
+     </forename>
+     <initials>
+      Z
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Gömöri
+     </lastname>
+     <forename>
+      Katalin
+     </forename>
+     <initials>
+      K
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Dolinay
+     </lastname>
+     <forename>
+      Tamas
+     </forename>
+     <initials>
+      T
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Bittera
+     </lastname>
+     <forename>
+      Istvan
+     </forename>
+     <initials>
+      I
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Palinkasi
+     </lastname>
+     <forename>
+      Svetlana
+     </forename>
+     <initials>
+      S
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Cseke
+     </lastname>
+     <forename>
+      Zsuzsanna
+     </forename>
+     <initials>
+      Z
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Bisits
+     </lastname>
+     <forename>
+      Marta
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Bjämer
+     </lastname>
+     <forename>
+      Ditlef
+     </forename>
+     <initials>
+      D
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Holme
+     </lastname>
+     <forename>
+      Jan Ivar
+     </forename>
+     <initials>
+      JI
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Langhammer
+     </lastname>
+     <forename>
+      Arnulf
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Hunstad
+     </lastname>
+     <forename>
+      Kristin
+     </forename>
+     <initials>
+      K
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Holmboe
+     </lastname>
+     <forename>
+      Jens Harald
+     </forename>
+     <initials>
+      JH
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Grangård
+     </lastname>
+     <forename>
+      Erik
+     </forename>
+     <initials>
+      E
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Solberg
+     </lastname>
+     <forename>
+      Dag Asting
+     </forename>
+     <initials>
+      DA
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Grönneröd
+     </lastname>
+     <forename>
+      Thor Arne
+     </forename>
+     <initials>
+      TA
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Salkowitsch
+     </lastname>
+     <forename>
+      May-Britt
+     </forename>
+     <initials>
+      MB
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Oymar
+     </lastname>
+     <forename>
+      Knut
+     </forename>
+     <initials>
+      K
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Iversen
+     </lastname>
+     <forename>
+      Knut
+     </forename>
+     <initials>
+      K
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Szczeklik
+     </lastname>
+     <forename>
+      Andrzej
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Chyrek-Borowska
+     </lastname>
+     <forename>
+      Sabina
+     </forename>
+     <initials>
+      S
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Mincewicz
+     </lastname>
+     <forename>
+      Grzegorz
+     </forename>
+     <initials>
+      G
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Malaczynska
+     </lastname>
+     <forename>
+      Teresa
+     </forename>
+     <initials>
+      T
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Latos
+     </lastname>
+     <forename>
+      Tadeusz
+     </forename>
+     <initials>
+      T
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Obtulowicz
+     </lastname>
+     <forename>
+      Krystyna
+     </forename>
+     <initials>
+      K
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Emeryk
+     </lastname>
+     <forename>
+      Andrzej
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Gorski
+     </lastname>
+     <forename>
+      Pawel
+     </forename>
+     <initials>
+      P
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Nowak
+     </lastname>
+     <forename>
+      Dariusz
+     </forename>
+     <initials>
+      D
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Szmidt
+     </lastname>
+     <forename>
+      Miroslaw
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Alkiewicz
+     </lastname>
+     <forename>
+      Jerzy
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Ziolo
+     </lastname>
+     <forename>
+      Grzegorz
+     </forename>
+     <initials>
+      G
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Spychalski
+     </lastname>
+     <forename>
+      Leonard
+     </forename>
+     <initials>
+      L
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Chmielewska-Szewcyk
+     </lastname>
+     <forename>
+      Danuta
+     </forename>
+     <initials>
+      D
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Nowacka
+     </lastname>
+     <forename>
+      Krystyna
+     </forename>
+     <initials>
+      K
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Pirozynski
+     </lastname>
+     <forename>
+      Michal
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Prokurat
+     </lastname>
+     <forename>
+      Halina
+     </forename>
+     <initials>
+      H
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Boznanski
+     </lastname>
+     <forename>
+      Andrzej
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Malolepszy
+     </lastname>
+     <forename>
+      Jozef
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Rogala
+     </lastname>
+     <forename>
+      Edmund
+     </forename>
+     <initials>
+      E
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Kozielski
+     </lastname>
+     <forename>
+      Jerzy
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Eriksson
+     </lastname>
+     <forename>
+      Ulf L
+     </forename>
+     <initials>
+      UL
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Wahlestedt
+     </lastname>
+     <forename>
+      Halina
+     </forename>
+     <initials>
+      H
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Selberg
+     </lastname>
+     <forename>
+      Mia
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Larsson
+     </lastname>
+     <forename>
+      Ronny
+     </forename>
+     <initials>
+      R
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Rignér
+     </lastname>
+     <forename>
+      Karin
+     </forename>
+     <initials>
+      K
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Alm
+     </lastname>
+     <forename>
+      Bernt
+     </forename>
+     <initials>
+      B
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Aronsson
+     </lastname>
+     <forename>
+      Mikael
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Winnergård
+     </lastname>
+     <forename>
+      Inger
+     </forename>
+     <initials>
+      I
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Lagerwall
+     </lastname>
+     <forename>
+      Mats
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Martinsons
+     </lastname>
+     <forename>
+      Ulla
+     </forename>
+     <initials>
+      U
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Berlin
+     </lastname>
+     <forename>
+      Lucy
+     </forename>
+     <initials>
+      L
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Rydberg
+     </lastname>
+     <forename>
+      Barbro
+     </forename>
+     <initials>
+      B
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Weston
+     </lastname>
+     <forename>
+      David
+     </forename>
+     <initials>
+      D
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Johnson
+     </lastname>
+     <forename>
+      M E
+     </forename>
+     <initials>
+      ME
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Barrett
+     </lastname>
+     <forename>
+      Colin
+     </forename>
+     <initials>
+      C
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Siafakas
+     </lastname>
+     <forename>
+      Nikolaos
+     </forename>
+     <initials>
+      N
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Mantzourani
+     </lastname>
+     <forename>
+      Evangelia
+     </forename>
+     <initials>
+      E
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Orphanidou
+     </lastname>
+     <forename>
+      Dora
+     </forename>
+     <initials>
+      D
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Trakopoulos
+     </lastname>
+     <forename>
+      Gerogios
+     </forename>
+     <initials>
+      G
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Tzannes
+     </lastname>
+     <forename>
+      Spiridon
+     </forename>
+     <initials>
+      S
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Kotsovoulou
+     </lastname>
+     <forename>
+      Vasiliki
+     </forename>
+     <initials>
+      V
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Dimadi
+     </lastname>
+     <forename>
+      Maria
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Amfilochiou
+     </lastname>
+     <forename>
+      Anastasia
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Priftis
+     </lastname>
+     <forename>
+      Konstantinos
+     </forename>
+     <initials>
+      K
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Papageorgiou-Saxoni
+     </lastname>
+     <forename>
+      Fotini
+     </forename>
+     <initials>
+      F
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Christaki
+     </lastname>
+     <forename>
+      Pandora
+     </forename>
+     <initials>
+      P
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Tsankas
+     </lastname>
+     <forename>
+      Ioannis
+     </forename>
+     <initials>
+      I
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Paraskevi
+     </lastname>
+     <forename>
+      Margari
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Bousmoukilia
+     </lastname>
+     <forename>
+      Stavroula
+     </forename>
+     <initials>
+      S
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Spiropoulos
+     </lastname>
+     <forename>
+      Kostas
+     </forename>
+     <initials>
+      K
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Anthrakopoulos
+     </lastname>
+     <forename>
+      Michael
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Roussos
+     </lastname>
+     <forename>
+      Christina
+     </forename>
+     <initials>
+      C
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Alkouby
+     </lastname>
+     <forename>
+      Lea Bentur
+     </forename>
+     <initials>
+      LB
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Heimer
+     </lastname>
+     <forename>
+      Dov
+     </forename>
+     <initials>
+      D
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Tal
+     </lastname>
+     <forename>
+      Asher
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Horowitz
+     </lastname>
+     <forename>
+      Israel
+     </forename>
+     <initials>
+      I
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Soferman
+     </lastname>
+     <forename>
+      Ruth
+     </forename>
+     <initials>
+      R
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Katz
+     </lastname>
+     <forename>
+      Yitzhak
+     </forename>
+     <initials>
+      Y
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Stav
+     </lastname>
+     <forename>
+      David
+     </forename>
+     <initials>
+      D
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Weiler
+     </lastname>
+     <forename>
+      Zeev
+     </forename>
+     <initials>
+      Z
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Bibi
+     </lastname>
+     <forename>
+      Haim
+     </forename>
+     <initials>
+      H
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Rottem
+     </lastname>
+     <forename>
+      Menachem
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Mandelberg
+     </lastname>
+     <forename>
+      Avigdor
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Geller
+     </lastname>
+     <forename>
+      Carmi
+     </forename>
+     <initials>
+      C
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Roizin
+     </lastname>
+     <forename>
+      Hector
+     </forename>
+     <initials>
+      H
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Weiler-Ravell
+     </lastname>
+     <forename>
+      Daniel
+     </forename>
+     <initials>
+      D
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Kramer
+     </lastname>
+     <forename>
+      Mordechai Reuben
+     </forename>
+     <initials>
+      MR
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Schwartz
+     </lastname>
+     <forename>
+      Yehuda
+     </forename>
+     <initials>
+      Y
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Rossi
+     </lastname>
+     <forename>
+      Andrea
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Foresi
+     </lastname>
+     <forename>
+      Antonio
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Giuntini
+     </lastname>
+     <forename>
+      Carlo
+     </forename>
+     <initials>
+      C
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Bisetti
+     </lastname>
+     <forename>
+      Alberto
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Scoditti
+     </lastname>
+     <forename>
+      Sergio
+     </forename>
+     <initials>
+      S
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Tranfa
+     </lastname>
+     <forename>
+      Carmelindo
+     </forename>
+     <initials>
+      C
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Zacchello
+     </lastname>
+     <forename>
+      Franco
+     </forename>
+     <initials>
+      F
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Giovannini
+     </lastname>
+     <forename>
+      Marcello
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Boner
+     </lastname>
+     <forename>
+      Attilio
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      del Giudice
+     </lastname>
+     <forename>
+      Maurizio Miraglia
+     </forename>
+     <initials>
+      MM
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Fabbri
+     </lastname>
+     <forename>
+      Leonardo M
+     </forename>
+     <initials>
+      LM
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Girbino
+     </lastname>
+     <forename>
+      Giuseppe
+     </forename>
+     <initials>
+      G
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Barberio
+     </lastname>
+     <forename>
+      Giovanni
+     </forename>
+     <initials>
+      G
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Cacciari
+     </lastname>
+     <forename>
+      Emanuele
+     </forename>
+     <initials>
+      E
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Montefort
+     </lastname>
+     <forename>
+      Stephen
+     </forename>
+     <initials>
+      S
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Parascandalo
+     </lastname>
+     <forename>
+      Raymond
+     </forename>
+     <initials>
+      R
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Pato
+     </lastname>
+     <forename>
+      Rui
+     </forename>
+     <initials>
+      R
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      de Lourdes Chieira
+     </lastname>
+     <forename>
+      Maria
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Moreira
+     </lastname>
+     <forename>
+      Celso
+     </forename>
+     <initials>
+      C
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Santos Chieira
+     </lastname>
+     <forename>
+      D
+     </forename>
+     <initials>
+      D
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Brito
+     </lastname>
+     <forename>
+      Ulisses
+     </forename>
+     <initials>
+      U
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Drummond Borges
+     </lastname>
+     <forename>
+      Fernando
+     </forename>
+     <initials>
+      F
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Carvalho Marques
+     </lastname>
+     <forename>
+      Ana
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Manuel Figueiredo
+     </lastname>
+     <forename>
+      Maria
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Dias
+     </lastname>
+     <forename>
+      Felicidade
+     </forename>
+     <initials>
+      F
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Bugalho de Almeida
+     </lastname>
+     <forename>
+      Antonio
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Cesar-Ramos
+     </lastname>
+     <forename>
+      Jose
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Valente
+     </lastname>
+     <forename>
+      Maria Joao
+     </forename>
+     <initials>
+      MJ
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Dias Pereira
+     </lastname>
+     <forename>
+      Jose
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Nunes
+     </lastname>
+     <forename>
+      Carlos
+     </forename>
+     <initials>
+      C
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Riberio
+     </lastname>
+     <forename>
+      Maria Felicia
+     </forename>
+     <initials>
+      MF
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Marques
+     </lastname>
+     <forename>
+      Agostinho
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Queiros Rebelo Carvalho
+     </lastname>
+     <forename>
+      Mario
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Vaz de Azvedo
+     </lastname>
+     <forename>
+      Marianela
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Ramalho de Almeida
+     </lastname>
+     <forename>
+      Antonio
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Figueiredo Pinto
+     </lastname>
+     <forename>
+      Jose Augusto
+     </forename>
+     <initials>
+      JA
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Moia Praca Matos
+     </lastname>
+     <forename>
+      Maria De Fatima
+     </forename>
+     <initials>
+      Mde F
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Afonso
+     </lastname>
+     <forename>
+      Abel
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Lopes Dos Santos
+     </lastname>
+     <forename>
+      Jose
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Fernandez
+     </lastname>
+     <forename>
+      Carlos Villasante
+     </forename>
+     <initials>
+      CV
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Cienfuegos Agustin
+     </lastname>
+     <forename>
+      Isabel
+     </forename>
+     <initials>
+      I
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Lobos Bejarano
+     </lastname>
+     <forename>
+      Jose Maria
+     </forename>
+     <initials>
+      JM
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Abon Santos
+     </lastname>
+     <forename>
+      Alejandro
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Torrellas Font
+     </lastname>
+     <forename>
+      Eulalia
+     </forename>
+     <initials>
+      E
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Hernandez Huet
+     </lastname>
+     <forename>
+      Enric
+     </forename>
+     <initials>
+      E
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Lopez Lorente
+     </lastname>
+     <forename>
+      Teresa
+     </forename>
+     <initials>
+      T
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Mas Pujol
+     </lastname>
+     <forename>
+      Montserrat
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Pena Munroz
+     </lastname>
+     <forename>
+      Aser
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Simonet Aineto
+     </lastname>
+     <forename>
+      Pere
+     </forename>
+     <initials>
+      P
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Bardagi Forns
+     </lastname>
+     <forename>
+      Santiago
+     </forename>
+     <initials>
+      S
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Benavent I Areu
+     </lastname>
+     <forename>
+      Jaume
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Casan
+     </lastname>
+     <forename>
+      Pere
+     </forename>
+     <initials>
+      P
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Ignacio Garcia
+     </lastname>
+     <forename>
+      Jose Maria
+     </forename>
+     <initials>
+      JM
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Valencia Rodriquez
+     </lastname>
+     <forename>
+      Aurelio
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Sanchez Segura
+     </lastname>
+     <forename>
+      Pedro A
+     </forename>
+     <initials>
+      PA
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Sánchez Gil
+     </lastname>
+     <forename>
+      Rosa
+     </forename>
+     <initials>
+      R
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Pellicer Ciscar
+     </lastname>
+     <forename>
+      Concha
+     </forename>
+     <initials>
+      C
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Ferraro Garcia
+     </lastname>
+     <forename>
+      Javier
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Vegas Jimenez
+     </lastname>
+     <forename>
+      Tomas
+     </forename>
+     <initials>
+      T
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Sanchez Gonzalez
+     </lastname>
+     <forename>
+      Jose Ignacio
+     </forename>
+     <initials>
+      JI
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Quirce Andres
+     </lastname>
+     <forename>
+      Fernando
+     </forename>
+     <initials>
+      F
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Amoros Bueno
+     </lastname>
+     <forename>
+      Tomas
+     </forename>
+     <initials>
+      T
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Onrubia Baticon
+     </lastname>
+     <forename>
+      Consuelo
+     </forename>
+     <initials>
+      C
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Ruiz Miguel
+     </lastname>
+     <forename>
+      Cesar
+     </forename>
+     <initials>
+      C
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Duce Garcia
+     </lastname>
+     <forename>
+      Fernando
+     </forename>
+     <initials>
+      F
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Verea Hernando
+     </lastname>
+     <forename>
+      Hector
+     </forename>
+     <initials>
+      H
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Lopez Vina
+     </lastname>
+     <forename>
+      Antolin
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Matia
+     </lastname>
+     <forename>
+      Rafael Alonso
+     </forename>
+     <initials>
+      RA
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Serrano Cumplido
+     </lastname>
+     <forename>
+      Adalberto
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Martinez Andueza
+     </lastname>
+     <forename>
+      Maria Camino
+     </forename>
+     <initials>
+      MC
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Serradell Cabra
+     </lastname>
+     <forename>
+      Montserrat
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Cabrera Navarro
+     </lastname>
+     <forename>
+      Pedro L
+     </forename>
+     <initials>
+      PL
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Alvarez Rodriguez
+     </lastname>
+     <forename>
+      Felisa
+     </forename>
+     <initials>
+      F
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Li
+     </lastname>
+     <forename>
+      John H S
+     </forename>
+     <initials>
+      JH
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Landry
+     </lastname>
+     <forename>
+      Daniel
+     </forename>
+     <initials>
+      D
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      O'Keefe
+     </lastname>
+     <forename>
+      Dennis
+     </forename>
+     <initials>
+      D
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Muram
+     </lastname>
+     <forename>
+      Bhanu F
+     </forename>
+     <initials>
+      BF
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Conter
+     </lastname>
+     <forename>
+      Howard S
+     </forename>
+     <initials>
+      HS
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Tweel
+     </lastname>
+     <forename>
+      Douglas
+     </forename>
+     <initials>
+      D
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Peters
+     </lastname>
+     <forename>
+      Sharon D
+     </forename>
+     <initials>
+      SD
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Adelglass
+     </lastname>
+     <forename>
+      Jeffrey
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Baker
+     </lastname>
+     <forename>
+      James W
+     </forename>
+     <initials>
+      JW
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Berger
+     </lastname>
+     <forename>
+      William E
+     </forename>
+     <initials>
+      WE
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Bernstein
+     </lastname>
+     <forename>
+      David I
+     </forename>
+     <initials>
+      DI
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Vick Blake
+     </lastname>
+     <forename>
+      Kathryn
+     </forename>
+     <initials>
+      K
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Amelong
+     </lastname>
+     <forename>
+      Pamela
+     </forename>
+     <initials>
+      P
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Casale
+     </lastname>
+     <forename>
+      Thomas B
+     </forename>
+     <initials>
+      TB
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Charous
+     </lastname>
+     <forename>
+      B Lauren
+     </forename>
+     <initials>
+      BL
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Chervinsky
+     </lastname>
+     <forename>
+      Paul
+     </forename>
+     <initials>
+      P
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Condemi
+     </lastname>
+     <forename>
+      John J
+     </forename>
+     <initials>
+      JJ
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Cook
+     </lastname>
+     <forename>
+      David
+     </forename>
+     <initials>
+      D
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Creticos
+     </lastname>
+     <forename>
+      Peter S
+     </forename>
+     <initials>
+      PS
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      de Graff
+     </lastname>
+     <forename>
+      Arthur C
+     </forename>
+     <initials>
+      AC
+     </initials>
+     <suffix>
+      Jr
+     </suffix>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Smith
+     </lastname>
+     <forename>
+      Thomas
+     </forename>
+     <initials>
+      T
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Ellis
+     </lastname>
+     <forename>
+      Mark Howard
+     </forename>
+     <initials>
+      MH
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Grossman
+     </lastname>
+     <forename>
+      Jay
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Halverson
+     </lastname>
+     <forename>
+      Philip C
+     </forename>
+     <initials>
+      PC
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Galant
+     </lastname>
+     <forename>
+      Stanley
+     </forename>
+     <initials>
+      S
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Hollingsworth
+     </lastname>
+     <forename>
+      Helen
+     </forename>
+     <initials>
+      H
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Jackson
+     </lastname>
+     <forename>
+      Charles
+     </forename>
+     <initials>
+      C
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Jacobs
+     </lastname>
+     <forename>
+      Robert L
+     </forename>
+     <initials>
+      RL
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Welch
+     </lastname>
+     <forename>
+      Michael
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Kraemer
+     </lastname>
+     <forename>
+      Michael J
+     </forename>
+     <initials>
+      MJ
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Leflein
+     </lastname>
+     <forename>
+      Jeffrey
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Lemanske
+     </lastname>
+     <forename>
+      Robert F
+     </forename>
+     <initials>
+      RF
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Liebhaber
+     </lastname>
+     <forename>
+      Myron I
+     </forename>
+     <initials>
+      MI
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Lockey
+     </lastname>
+     <forename>
+      Richard
+     </forename>
+     <initials>
+      R
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Kelly
+     </lastname>
+     <forename>
+      Bill
+     </forename>
+     <initials>
+      B
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Mendelson
+     </lastname>
+     <forename>
+      Louis
+     </forename>
+     <initials>
+      L
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Nayak
+     </lastname>
+     <forename>
+      Anjuli
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Pearlman
+     </lastname>
+     <forename>
+      David S
+     </forename>
+     <initials>
+      DS
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Ruff
+     </lastname>
+     <forename>
+      Michael
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Schwarz
+     </lastname>
+     <forename>
+      Brian
+     </forename>
+     <initials>
+      B
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Scott
+     </lastname>
+     <forename>
+      Maryanne B
+     </forename>
+     <initials>
+      MB
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Shapiro
+     </lastname>
+     <forename>
+      Gail G
+     </forename>
+     <initials>
+      GG
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Silk
+     </lastname>
+     <forename>
+      Howard J
+     </forename>
+     <initials>
+      HJ
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Skoner
+     </lastname>
+     <forename>
+      David P
+     </forename>
+     <initials>
+      DP
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Stoloff
+     </lastname>
+     <forename>
+      Stuart
+     </forename>
+     <initials>
+      S
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Swamy
+     </lastname>
+     <forename>
+      Kumar N
+     </forename>
+     <initials>
+      KN
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Atkins
+     </lastname>
+     <forename>
+      Fred M
+     </forename>
+     <initials>
+      FM
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Szefler
+     </lastname>
+     <forename>
+      Stanley J
+     </forename>
+     <initials>
+      SJ
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Vandewalker
+     </lastname>
+     <forename>
+      Mark
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Wald
+     </lastname>
+     <forename>
+      Jeffrey
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Weinstein
+     </lastname>
+     <forename>
+      Steven F
+     </forename>
+     <initials>
+      SF
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Wong
+     </lastname>
+     <forename>
+      Dennis Anthony
+     </forename>
+     <initials>
+      DA
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Wu
+     </lastname>
+     <forename>
+      Frank
+     </forename>
+     <initials>
+      F
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Goldstein
+     </lastname>
+     <forename>
+      Stanley
+     </forename>
+     <initials>
+      S
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Murthy
+     </lastname>
+     <forename>
+      Krishna C
+     </forename>
+     <initials>
+      KC
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Dolmann
+     </lastname>
+     <forename>
+      Alberto
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Gene
+     </lastname>
+     <forename>
+      Ricardo
+     </forename>
+     <initials>
+      R
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Figueroa Casas
+     </lastname>
+     <forename>
+      Juan Carlos
+     </forename>
+     <initials>
+      JC
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Piovano
+     </lastname>
+     <forename>
+      Carlos
+     </forename>
+     <initials>
+      C
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Segal
+     </lastname>
+     <forename>
+      Edgardo
+     </forename>
+     <initials>
+      E
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Balanzat
+     </lastname>
+     <forename>
+      Ana Maria
+     </forename>
+     <initials>
+      AM
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Taborda
+     </lastname>
+     <forename>
+      Jorge
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Truganti
+     </lastname>
+     <forename>
+      Angel
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Teper
+     </lastname>
+     <forename>
+      Alejandro
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Garrood
+     </lastname>
+     <forename>
+      Jason
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Patel
+     </lastname>
+     <forename>
+      Majorie J E
+     </forename>
+     <initials>
+      MJ
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Hogan
+     </lastname>
+     <forename>
+      Chris
+     </forename>
+     <initials>
+      C
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Russel
+     </lastname>
+     <forename>
+      Grant
+     </forename>
+     <initials>
+      G
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Zhu
+     </lastname>
+     <forename>
+      Yuan Jue
+     </forename>
+     <initials>
+      YJ
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Cao
+     </lastname>
+     <forename>
+      Ling
+     </forename>
+     <initials>
+      L
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Liu
+     </lastname>
+     <forename>
+      Shi-Ying
+     </forename>
+     <initials>
+      SY
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Miao
+     </lastname>
+     <forename>
+      Jing-Zhi
+     </forename>
+     <initials>
+      JZ
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Ding
+     </lastname>
+     <forename>
+      Dong-Jie
+     </forename>
+     <initials>
+      DJ
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Yao
+     </lastname>
+     <forename>
+      Wan-zhen
+     </forename>
+     <initials>
+      WZ
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Liu
+     </lastname>
+     <forename>
+      You-Ning
+     </forename>
+     <initials>
+      YN
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Chen
+     </lastname>
+     <forename>
+      Ping
+     </forename>
+     <initials>
+      P
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Kong
+     </lastname>
+     <forename>
+      Shu-Qing
+     </forename>
+     <initials>
+      SQ
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Pang
+     </lastname>
+     <forename>
+      Lee
+     </forename>
+     <initials>
+      L
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Sun
+     </lastname>
+     <forename>
+      Bin
+     </forename>
+     <initials>
+      B
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Zhong
+     </lastname>
+     <forename>
+      Min Li
+     </forename>
+     <initials>
+      ML
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Li
+     </lastname>
+     <forename>
+      Guo-Shun
+     </forename>
+     <initials>
+      GS
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Chen
+     </lastname>
+     <forename>
+      Pei Li
+     </forename>
+     <initials>
+      PL
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Zhu
+     </lastname>
+     <forename>
+      Qing
+     </forename>
+     <initials>
+      Q
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Zhang
+     </lastname>
+     <forename>
+      Ting-Xi
+     </forename>
+     <initials>
+      TX
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Wang
+     </lastname>
+     <forename>
+      Xing-Hai
+     </forename>
+     <initials>
+      XH
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Wei
+     </lastname>
+     <forename>
+      Songhua
+     </forename>
+     <initials>
+      S
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Deng
+     </lastname>
+     <forename>
+      Wei-Wu
+     </forename>
+     <initials>
+      WW
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Zhou
+     </lastname>
+     <forename>
+      Xin
+     </forename>
+     <initials>
+      X
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Ji
+     </lastname>
+     <forename>
+      Yan Yan
+     </forename>
+     <initials>
+      YY
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Luo
+     </lastname>
+     <forename>
+      Wen-Tong
+     </forename>
+     <initials>
+      WT
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Li
+     </lastname>
+     <forename>
+      Qiang
+     </forename>
+     <initials>
+      Q
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Zhu
+     </lastname>
+     <forename>
+      Hiu-Ru
+     </forename>
+     <initials>
+      HR
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Sheng
+     </lastname>
+     <forename>
+      Jin-Yun
+     </forename>
+     <initials>
+      JY
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Ma
+     </lastname>
+     <forename>
+      Jia-Yong
+     </forename>
+     <initials>
+      JY
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Zhang
+     </lastname>
+     <forename>
+      De-Ping
+     </forename>
+     <initials>
+      DP
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Ji
+     </lastname>
+     <forename>
+      Chun-Zhen
+     </forename>
+     <initials>
+      CZ
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Xia
+     </lastname>
+     <forename>
+      Xi-Rong
+     </forename>
+     <initials>
+      XR
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Zhang
+     </lastname>
+     <forename>
+      Zu Yi
+     </forename>
+     <initials>
+      ZY
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Yin
+     </lastname>
+     <forename>
+      Kai-Sheng
+     </forename>
+     <initials>
+      KS
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Yiang
+     </lastname>
+     <forename>
+      Jiong
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Li
+     </lastname>
+     <forename>
+      Yuangui
+     </forename>
+     <initials>
+      Y
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Tang
+     </lastname>
+     <forename>
+      Pei-Wen
+     </forename>
+     <initials>
+      PW
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Liu
+     </lastname>
+     <forename>
+      Fu-Guang
+     </forename>
+     <initials>
+      FG
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Wang
+     </lastname>
+     <forename>
+      He-Ping
+     </forename>
+     <initials>
+      HP
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Zhong
+     </lastname>
+     <forename>
+      Nan-Shan
+     </forename>
+     <initials>
+      NS
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Rong
+     </lastname>
+     <forename>
+      Zhong-Sheng
+     </forename>
+     <initials>
+      ZS
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Tang
+     </lastname>
+     <forename>
+      Ying-Chun
+     </forename>
+     <initials>
+      YC
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Lin
+     </lastname>
+     <forename>
+      Cai-Yuan
+     </forename>
+     <initials>
+      CY
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Liu
+     </lastname>
+     <forename>
+      Jiu-Shan
+     </forename>
+     <initials>
+      JS
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Liu
+     </lastname>
+     <forename>
+      Han-Zhang
+     </forename>
+     <initials>
+      HZ
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Cai
+     </lastname>
+     <forename>
+      Ding-Min
+     </forename>
+     <initials>
+      DM
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Yang
+     </lastname>
+     <forename>
+      Jia-Cheng
+     </forename>
+     <initials>
+      JC
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Ma
+     </lastname>
+     <forename>
+      Qiong-Feng
+     </forename>
+     <initials>
+      QF
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Mangunnegoro
+     </lastname>
+     <forename>
+      Hadiarto
+     </forename>
+     <initials>
+      H
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Wijono
+     </lastname>
+     <forename>
+      Caecilia Arimah
+     </forename>
+     <initials>
+      CA
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Tobing
+     </lastname>
+     <forename>
+      Nancy Hutabart
+     </forename>
+     <initials>
+      NH
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Rahajoe
+     </lastname>
+     <forename>
+      Nastiti N
+     </forename>
+     <initials>
+      NN
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Sugito
+     </lastname>
+     <forename>
+      Eddy Surjanto
+     </forename>
+     <initials>
+      ES
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Hisyam
+     </lastname>
+     <forename>
+      Barmawi
+     </forename>
+     <initials>
+      B
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Alsagaff
+     </lastname>
+     <forename>
+      Hood
+     </forename>
+     <initials>
+      H
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Santosa
+     </lastname>
+     <forename>
+      Gunadi
+     </forename>
+     <initials>
+      G
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Kim
+     </lastname>
+     <forename>
+      You-Young
+     </forename>
+     <initials>
+      YY
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Park
+     </lastname>
+     <forename>
+      Choon-Sik
+     </forename>
+     <initials>
+      CS
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Kim
+     </lastname>
+     <forename>
+      Mi-Kyeong
+     </forename>
+     <initials>
+      MK
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Cho
+     </lastname>
+     <forename>
+      Young-Joo
+     </forename>
+     <initials>
+      YJ
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Choi
+     </lastname>
+     <forename>
+      Dong-Chull
+     </forename>
+     <initials>
+      DC
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Jee
+     </lastname>
+     <forename>
+      Young-Koo
+     </forename>
+     <initials>
+      YK
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Mohan
+     </lastname>
+     <forename>
+      Jai
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Yogeswery
+     </lastname>
+     <forename>
+      S
+     </forename>
+     <initials>
+      S
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Wong
+     </lastname>
+     <forename>
+      Swee Lan
+     </forename>
+     <initials>
+      SL
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Kuan
+     </lastname>
+     <forename>
+      Geok Lan
+     </forename>
+     <initials>
+      GL
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Koh
+     </lastname>
+     <forename>
+      Chong Tuan
+     </forename>
+     <initials>
+      CT
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Quah
+     </lastname>
+     <forename>
+      Ban Seng
+     </forename>
+     <initials>
+      BS
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      de Bruyne
+     </lastname>
+     <forename>
+      Jessie
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Liam
+     </lastname>
+     <forename>
+      C K
+     </forename>
+     <initials>
+      CK
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Mejia Avila
+     </lastname>
+     <forename>
+      Mayra
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Cuevas
+     </lastname>
+     <forename>
+      Francisco
+     </forename>
+     <initials>
+      F
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Chavaje
+     </lastname>
+     <forename>
+      Nicolas
+     </forename>
+     <initials>
+      N
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Mendoza Topete
+     </lastname>
+     <forename>
+      Luz Audina
+     </forename>
+     <initials>
+      LA
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Badilo
+     </lastname>
+     <forename>
+      Isaias
+     </forename>
+     <initials>
+      I
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Ponce
+     </lastname>
+     <forename>
+      Miguel
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Chan Merida
+     </lastname>
+     <forename>
+      Javier
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Gonzalez Espinosa
+     </lastname>
+     <forename>
+      Alicia
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Ledezma
+     </lastname>
+     <forename>
+      Jose Mario
+     </forename>
+     <initials>
+      JM
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Galindo Garcia
+     </lastname>
+     <forename>
+      Jose Arturo
+     </forename>
+     <initials>
+      JA
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Gonzalez Morales
+     </lastname>
+     <forename>
+      Guadalupe
+     </forename>
+     <initials>
+      G
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Montelongo Gomez
+     </lastname>
+     <forename>
+      Jaime
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Mendoza Martinez
+     </lastname>
+     <forename>
+      Francisco Javier
+     </forename>
+     <initials>
+      FJ
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Reyes Ramos
+     </lastname>
+     <forename>
+      Jesus Enrique
+     </forename>
+     <initials>
+      JE
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Rodriguez Dorantes
+     </lastname>
+     <forename>
+      Jorge
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Canseco Gonzalez
+     </lastname>
+     <forename>
+      Carlos
+     </forename>
+     <initials>
+      C
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Gomez Vera
+     </lastname>
+     <forename>
+      Javier
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Bayardo
+     </lastname>
+     <forename>
+      Ricardo Guido
+     </forename>
+     <initials>
+      RG
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Melendez
+     </lastname>
+     <forename>
+      Alvaro Pedroza
+     </forename>
+     <initials>
+      AP
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Loyola
+     </lastname>
+     <forename>
+      Carlos Baez
+     </forename>
+     <initials>
+      CB
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Cruz Suárez
+     </lastname>
+     <forename>
+      Miguel Angel
+     </forename>
+     <initials>
+      MA
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      de Guia
+     </lastname>
+     <forename>
+      Teresita
+     </forename>
+     <initials>
+      T
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Balgos
+     </lastname>
+     <forename>
+      Abundio
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Bautista
+     </lastname>
+     <forename>
+      Noel
+     </forename>
+     <initials>
+      N
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Realiza
+     </lastname>
+     <forename>
+      Tomas
+     </forename>
+     <initials>
+      T
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Diaz
+     </lastname>
+     <forename>
+      Dina
+     </forename>
+     <initials>
+      D
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Yu
+     </lastname>
+     <forename>
+      Charles
+     </forename>
+     <initials>
+      C
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Mendoza-Wi
+     </lastname>
+     <forename>
+      Jennifer-Ann
+     </forename>
+     <initials>
+      JA
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Juaneza
+     </lastname>
+     <forename>
+      Rene
+     </forename>
+     <initials>
+      R
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Bigornia
+     </lastname>
+     <forename>
+      Roman
+     </forename>
+     <initials>
+      R
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Mansukhani
+     </lastname>
+     <forename>
+      Parkash
+     </forename>
+     <initials>
+      P
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Cacanindin
+     </lastname>
+     <forename>
+      Danilo Nicolas
+     </forename>
+     <initials>
+      DN
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Wah
+     </lastname>
+     <forename>
+      Lee Bee
+     </forename>
+     <initials>
+      LB
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Hon
+     </lastname>
+     <forename>
+      Yoon Kam
+     </forename>
+     <initials>
+      YK
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Yau
+     </lastname>
+     <forename>
+      Ong Yong
+     </forename>
+     <initials>
+      OY
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Moh
+     </lastname>
+     <forename>
+      Chay Oh
+     </forename>
+     <initials>
+      CO
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Tang
+     </lastname>
+     <forename>
+      Wang Yee
+     </forename>
+     <initials>
+      WY
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Dippenaar
+     </lastname>
+     <forename>
+      Yvonne D A
+     </forename>
+     <initials>
+      YD
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Kirsten
+     </lastname>
+     <forename>
+      Dorelle L
+     </forename>
+     <initials>
+      DL
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Maraschin
+     </lastname>
+     <forename>
+      Enrico F
+     </forename>
+     <initials>
+      EF
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Ossip
+     </lastname>
+     <forename>
+      Mervyn S
+     </forename>
+     <initials>
+      MS
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Visser
+     </lastname>
+     <forename>
+      Sanet S
+     </forename>
+     <initials>
+      SS
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Mouton
+     </lastname>
+     <forename>
+      Wynand Louw
+     </forename>
+     <initials>
+      WL
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Mercer
+     </lastname>
+     <forename>
+      Madeleine
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Cassim
+     </lastname>
+     <forename>
+      Khalil M
+     </forename>
+     <initials>
+      KM
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Macleod
+     </lastname>
+     <forename>
+      Andrew H
+     </forename>
+     <initials>
+      AH
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Bateman
+     </lastname>
+     <forename>
+      Eric D
+     </forename>
+     <initials>
+      ED
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Leaver
+     </lastname>
+     <forename>
+      Roy
+     </forename>
+     <initials>
+      R
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Morison
+     </lastname>
+     <forename>
+      Adrian
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Nel
+     </lastname>
+     <forename>
+      Haylene
+     </forename>
+     <initials>
+      H
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Eckart von Delft
+     </lastname>
+     <forename>
+      K H
+     </forename>
+     <initials>
+      KH
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Vermeulen
+     </lastname>
+     <forename>
+      Jan H
+     </forename>
+     <initials>
+      JH
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Weinberg
+     </lastname>
+     <forename>
+      Eugene G
+     </forename>
+     <initials>
+      EG
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Lund
+     </lastname>
+     <forename>
+      Rolf Johan
+     </forename>
+     <initials>
+      RJ
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Weber
+     </lastname>
+     <forename>
+      Heinrich C
+     </forename>
+     <initials>
+      HC
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Kuo
+     </lastname>
+     <forename>
+      Sow-Hsong
+     </forename>
+     <initials>
+      SH
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Kuo
+     </lastname>
+     <forename>
+      Han-Pin
+     </forename>
+     <initials>
+      HP
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Wang
+     </lastname>
+     <forename>
+      Jui-Long
+     </forename>
+     <initials>
+      JL
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Hsiue
+     </lastname>
+     <forename>
+      Tzuen-Ren
+     </forename>
+     <initials>
+      TR
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Wang
+     </lastname>
+     <forename>
+      Jia-Horng
+     </forename>
+     <initials>
+      JH
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Ching
+     </lastname>
+     <forename>
+      Chi-Der
+     </forename>
+     <initials>
+      CD
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Vangveeravong
+     </lastname>
+     <forename>
+      Mukda
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Pothiratana
+     </lastname>
+     <forename>
+      Chaicharn
+     </forename>
+     <initials>
+      C
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Trakultivakorn
+     </lastname>
+     <forename>
+      Muthita
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Kongpanichkul
+     </lastname>
+     <forename>
+      Aree
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Thamanvat
+     </lastname>
+     <forename>
+      Bhusdee
+     </forename>
+     <initials>
+      B
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Fuangtong
+     </lastname>
+     <forename>
+      Ratanaporn
+     </forename>
+     <initials>
+      R
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Suntornlohanakul
+     </lastname>
+     <forename>
+      Somchai
+     </forename>
+     <initials>
+      S
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Youngchiyud
+     </lastname>
+     <forename>
+      Praparn
+     </forename>
+     <initials>
+      P
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Teeratakulpisarn
+     </lastname>
+     <forename>
+      Jamaree
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Boonsawat
+     </lastname>
+     <forename>
+      Watchara
+     </forename>
+     <initials>
+      W
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Viriyachaiyo
+     </lastname>
+     <forename>
+      Vilaiwan
+     </forename>
+     <initials>
+      V
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Direkwattanachai
+     </lastname>
+     <forename>
+      Chalerat
+     </forename>
+     <initials>
+      C
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Visitsunthorn
+     </lastname>
+     <forename>
+      Nualanong
+     </forename>
+     <initials>
+      N
+     </initials>
+    </investigator>
+   </investigatorlist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      4
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      25
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      4
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12672309
+    </articleid>
+    <articleid idtype="pii">
+     S0140-6736(03)12891-7
+    </articleid>
+    <articleid idtype="doi">
+     10.1016/S0140-6736(03)12891-7
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,24 @@
+Title 
+The Journal of clinical psychiatry
+
+Article Title 
+Venlafaxine extended release in the short-term treatment of depressed and anxious primary care patients with multisomatoform disorder.
+Abstract Text 
+This pilot study explored the efficacy and tolerability of extended-release venlafaxine (venlafaxine ER) in anxious and/or depressed patients with multisomatoform disorder (MSD).
+This 12-week, multicenter, randomized, double-blind study evaluated adult primary care outpatients with MSD and comorbid major depressive disorder, generalized anxiety disorder, or social anxiety disorder (DSM-IV criteria).
+The intent-to-treat population included 112 patients (venlafaxine ER, N = 55; placebo, N = 57).
+The primary efficacy variable was the change in the 15-item Patient Health Questionnaire (PHQ-15) somatic symptom severity score.
+Secondary outcomes included the Hamilton Rating Scale for Depression (HAM-D-17) and for Anxiety (HAM-A), Clinical Global Impressions-Severity of Illness (CGI-S) and -Improvement (CGI-I) scales, McGill Quality of Life Questionnaire Physical Symptoms Scale (MQOL-PS), and Medical Outcomes Study Short-Form 36-Item questionnaire (MOS SF-36).
+Data were collected from April 2003 to December 2003.
+The decline by week 12 in PHQ-15 scores was significant (p < .0001) in both groups; however, the difference between the venlafaxine ER and placebo groups (-8.3 vs. -6.6,
+respectively) was not (p = .097).
+Improvement was greater with venlafaxine ER than placebo on the PHQ-15 pain subscale (p = .03),
+SF-36 bodily pain scale (26.1 vs. 14.5, p = .03),
+MQOL-PS (-11.7 vs. -6.0,
+p = .02),
+HAM-A psychic anxiety subscale (p = .02),
+SF-36 mental component summary (p = .03),
+time to response (54 vs. 71 days, p = .01),
+and CGI-I scale (p = .009).
+Venlafaxine ER was generally well tolerated.
+These results suggest that venlafaxine ER may be effective in relieving some types of somatic physical symptoms, particularly pain, in patients with depression and/or anxiety disorders.

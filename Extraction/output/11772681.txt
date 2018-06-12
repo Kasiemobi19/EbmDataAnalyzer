@@ -1,0 +1,17 @@
+Title 
+The American journal of psychiatry
+
+Article Title 
+Comparative meta-analysis of pharmacotherapy and behavior therapy for persistent insomnia.
+Abstract Text 
+Although four meta-analytic reviews support the efficacy of pharmacotherapy and behavior therapy for the treatment of insomnia, no meta-analysis has evaluated whether these treatment modalities yield comparable outcomes during acute treatment.
+The authors conducted a quantitative review of the literature on the outcome of the two treatments to compare the short-term efficacy of pharmacotherapy and behavioral therapy in primary insomnia.
+They identified studies from 1966 through 2000 using MEDLINE, psycINFO, and bibliographies.
+Investigations were limited to studies using prospective measures and within-subject designs to assess the efficacy of benzodiazepines or benzodiazepine receptor agonists or behavioral treatments for primary insomnia.
+Benzodiazepine receptor agonists included zolpidem, zopiclone, and zaleplon.
+Behavioral treatments included stimulus control and sleep restriction therapies.
+Twenty-one studies summarizing outcomes for 470 subjects met inclusion criteria.
+Weighted effect sizes for subjective measures of sleep latency, number of awakenings, wake time after sleep onset, total sleep time, and sleep quality before and after treatment were moderate to large.
+There were no differences in magnitude between pharmacological and behavioral treatments in any measures except latency to sleep onset.
+Behavior therapy resulted in a greater reduction in sleep latency than pharmacotherapy.
+Overall, behavior therapy and pharmacotherapy produce similar short-term treatment outcomes in primary insomnia.

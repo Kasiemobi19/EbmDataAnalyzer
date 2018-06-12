@@ -1,0 +1,15 @@
+Title 
+Drug and alcohol dependence
+
+Article Title 
+A postmarketing surveillance program to monitor Ultram (tramadol hydrochloride) abuse in the United States.
+Abstract Text 
+Tramadol HCl, marketed as Ultram in the USA, was introduced as a non-scheduled drug in April 1995 based on the assumption that the risk of abuse was sufficiently low to warrant a non-scheduled status.
+However, approval was contingent upon the development of an innovative proactive surveillance program, to be overseen by an independent steering committee, which would detect unexpectedly high levels of abuse.
+The postmarketing surveillance program consisted of systematic collection and scientific evaluation of reports of suspected abuse in high-risk populations surveyed through an extensive key informant network of drug abuse specialists and all spontaneous reports of abuse received through the FDA MedWatch system.
+Methods to estimate the number of patients prescribed tramadol were also developed.
+Monthly rates of abuse were calculated as an index of the risk-benefit ratio (i.e., abuse cases per 100,000 patients prescribed the drug).
+The data for the 3 years since the drug was introduced show that the reported rate of abuse has been low.
+Although a period of experimentation seemed to occur in the first 18 months after its introduction--which reached a peak rate of approximately two cases per 100,000 patients exposed--during the 2 year period prior to June 1998, the reported rate of abuse has significantly (P = 0.011) declined, reaching levels of less than one case per 100,000 patients in the last 18 months.
+The overwhelming majority of abuse cases (97%) have been found to occur among individuals with a history of substance abuse and the abuse has been confined to isolated pockets around the country-notably none of which have significant populations of street drug abusers.
+Thus, the data support the decision not to schedule tramadol and, furthermore, suggest that a proactive post-marketing surveillance program can be successfully developed to effectively monitor abuse of new medications.

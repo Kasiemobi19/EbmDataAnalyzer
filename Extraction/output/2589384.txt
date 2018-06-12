@@ -1,0 +1,16 @@
+Title 
+The American journal of medicine
+
+Article Title 
+Pharmacokinetics of three newer quinolones in pregnant and lactating women.
+Abstract Text 
+Sixty pregnant women with fetuses affected by beta-thalassemia major underwent termination of gestation induced by amniocentesis and intrauterine instillation of prostaglandin F2 alpha between 19 and 25 weeks.
+Pharmacokinetics of ciprofloxacin in maternal blood and amniotic fluid were studied after two doses of ciprofloxacin (200 mg intravenously every 12 hours), after two doses of pefloxacin (400 mg intravenously every 12 hours), and after two doses of ofloxacin (400 mg intravenously every 12 hours).
+Twenty patients were studied in each group.
+The ranges of mean maternal serum and amniotic fluid levels were as follows: ciprofloxacin in maternal serum 0.01 to 0.28 micrograms/ml, in amniotic fluid 0.1 to 0.13 micrograms/ml; pefloxacin in maternal serum 2.65 to 4.31 micrograms/ml, in amniotic fluid 1.97 to 2.74 micrograms/ml; and ofloxacin in maternal serum 0.07 to 0.68 micrograms/ml, in amniotic fluid 0.13 to 0.25 micrograms/ml.
+Three groups of lactating women (10 women in each), were given three doses of 750 mg ciprofloxacin orally, 400 mg pefloxacin orally, and 400 mg ofloxacin orally.
+Serum and milk samples were obtained simultaneously at two, four, six, nine, 12, and 24 hours after dosage administration.
+The mean breast milk levels of ciprofloxacin at the corresponding time intervals were 3.79, 2.26, 0.86, 0.51, 0.20, and 0.02 micrograms/ml.
+The mean breast milk levels of pefloxacin were 3.54, 3.43, 2.93, 2.24, 1.79, and 0.88 micrograms/ml, and of ofloxacin, 2.41, 1.91, 1.25, 0.64, 0.29, and 0.05 micrograms/ml.
+It is concluded that all studied quinolones penetrate the placenta and are found in amniotic fluid at low concentrations and at much higher levels in breast milk.
+Because of the potential for quinolones to cause arthropathy in juvenile animals, their use should be avoided in pregnant and lactating women.

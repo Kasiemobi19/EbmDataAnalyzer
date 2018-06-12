@@ -1,0 +1,22 @@
+Title 
+BMJ (Clinical research ed.)
+
+Article Title 
+Predictors of poor outcome and benefits from antibiotics in children with acute otitis media: pragmatic randomised trial.
+Abstract Text 
+To identify which children with acute otitis media are at risk of poor outcome and to assess benefit from antibiotics in these children.
+Secondary analysis of randomised controlled trial cohort.
+Primary care.
+315 children aged 6 months to 10 years.
+Immediate or delayed (taken after 72 hours if necessary) antibiotics.
+Predictors of short term outcome: an episode of distress or night disturbance three days after child saw doctor.
+Distress by day three was more likely in children with high temperature (adjusted odds ratio 4.5, 95% confidence interval 2.3 to 9.0), vomiting (2.6,1.3 to 5.0), and cough (2.0, 1.1 to 3.8) on day one.
+Night disturbance by day three was more likely with high temperature 2.4 (1.2 to 4.8), vomiting (2.1,1.1 to 4.0), cough (2.3,1.3 to 4.2), and ear discharge (2.1, 1.2 to 3.9).
+Among the children with high temperature or vomiting, distress by day three was less likely with immediate antibiotics (32% for immediate v 53% for delayed, chi2=4.0;
+P=0.045, number needed to treat 5) as was night disturbance (26% v 59%, chi2=9.3;
+P=0.002; number needed to treat 3).
+In children without higher temperature or vomiting, immediate antibiotics made little difference to distress by day three (15% v 19%, chi2=0.74;
+P=0.39) or night disturbance (20% v 27%, chi2=1.6;
+P=0.20).
+Addition of cough did not significantly improve prediction of benefit.
+In children with otitis media but without fever and vomiting antibiotic treatment has little benefit and a poor outcome is unlikely.

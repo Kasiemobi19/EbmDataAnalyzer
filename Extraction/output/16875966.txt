@@ -1,0 +1,15 @@
+Title 
+Journal of the American College of Cardiology
+
+Article Title 
+Meta-analysis of cardiovascular outcomes trials comparing intensive versus moderate statin therapy.
+Abstract Text 
+The purpose of this study was to conduct a meta-analysis that compares the reduction of cardiovascular outcomes with high-dose statin therapy versus standard dosing.
+Debate exists regarding the merit of more intensive lipid lowering with high-dose statin therapy as compared with standard-dose therapy.
+We searched PubMed and article references for randomized controlled trials of intensive versus standard-dose statin therapy enrolling more than 1,000 patients with either stable coronary heart disease or acute coronary syndromes.
+Four trials were identified: the TNT (Treating to New Targets) and the IDEAL (Incremental Decrease in End Points Through Aggressive Lipid-Lowering) trials involved patients with stable cardiovascular disease, and the PROVE IT-TIMI-22 (Pravastatin or Atorvastatin Evaluation and Infection Therapy-Thrombolysis in Myocardial Infarction-22) and A-to-Z (Aggrastat-to-Zocor) trials involved patients with acute coronary syndromes.
+We carried out a meta-analysis of the relative odds on the basis of a fixed-effects model using the Mantel-Haenszel method for the major outcomes of death and cardiovascular events.
+A total of 27,548 patients were enrolled in the 4 large trials.
+The combined analysis yielded a significant 16% odds reduction in coronary death or myocardial infarction (p < 0.00001), as well as a significant 16% odds reduction of coronary death or any cardiovascular event (p < 0.00001).
+No difference was observed in total or non-cardiovascular mortality, but a trend toward decreased cardiovascular mortality (odds reduction 12%, p = 0.054) was observed.
+Intensive lipid lowering with high-dose statin therapy provides a significant benefit over standard-dose therapy for preventing predominantly non-fatal cardiovascular events.

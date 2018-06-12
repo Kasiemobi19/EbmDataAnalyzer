@@ -1,0 +1,16 @@
+Title 
+Clinical and diagnostic virology
+
+Article Title 
+Evaluation of six commercially available kits using purified heterophile antigen for the rapid diagnosis of infectious mononucleosis compared with Epstein-Barr virus-specific serology.
+Abstract Text 
+Novel commercial kits based on antibody reactivity to purified heterophile antigens have recently been introduced for the diagnosis of Epstein-Barr (EB) virus-associated infectious mononucleosis (IM).
+It is important to determine possible improvements in the performance and reliability of such tests for the diagnosis of IM.
+To evaluate the reliability of six commercially available kits for the rapid diagnosis of IM in comparison to EB-virus-specific serology.
+In total, 100 sera, 53 from patients with serologically verified primary EB virus infection and 47 from EB-virus-immune or -susceptible patients, were used to evaluate the six rapid test kits: Monolatex, Mono-Latex, Mono-Lex (latex agglutination-based kits), Mono-Plus, IM-Check and Clearview IM (solid-phase-based kits).
+EB-virus-specific serologies including detection of viral capsid antigen IgM and IgG and EB nuclear antigen-1 IgG, were used as reference methods.
+Compared with the reference methods, the sensitivities and specificities of the heterophile antibody test kits were 70-92% and 96-100%, respectively.
+IM-Check had a low sensitivity and was difficult to read.
+The remaining kits performed well.
+Monolatex, Mono-Latex, Mono-Lex, Mono-Plus and Clearview IM can be recommended for the confirmation of EB-virus-associated infectious mononucleosis.
+Clearview IM combined a high sensitivity and specificity with very simple one-step solid-phase-based procedure.

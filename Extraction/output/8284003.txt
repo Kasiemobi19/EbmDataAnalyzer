@@ -1,0 +1,17 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+The bone density of female twins discordant for tobacco use.
+Abstract Text 
+Smoking is recognized as a risk factor for vertebral, forearm, and hip fractures.
+Since bone density is an important determinant of bone strength, we conducted a study to ascertain whether a deficit in bone density is associated with tobacco use and, if so, to identify the responsible mechanisms.
+We conducted a cross-sectional study of bone density at the lumbar spine and the femoral neck and shaft in 41 pairs of female twins (21 monozygotic pairs), 27 to 73 years of age (mean, 49), who were discordant for at least 5 pack-years of smoking (mean, 23; maximum, 64).
+Bone density was measured by dual-photon absorptiometry.
+The difference in bone density between the members of a pair was expressed as a percentage of the mean value for the pair.
+For every 10 pack-years of smoking, the bone density of the twin who smoked more heavily was 2.0 percent lower at the lumbar spine (P = 0.01), 0.9 percent lower at the femoral neck (P = 0.25), and 1.4 percent lower at the femoral shaft (P = 0.04).
+These results were not confounded by measured lifestyle factors.
+In the 20 pairs who were discordant by 20 or more pack-years (mean, 35), the (mean +/- SE) within-pair differences in bone density at the three sites were 9.3 +/- 3.1 percent (P = 0.008), 5.8 +/- 2.9 percent (P = 0.06), and 6.5 +/- 3.2 percent (P = 0.05), respectively.
+Smoking was associated with higher serum concentrations of follicle-stimulating hormone (P = 0.02) and luteinizing hormone (P = 0.03) and lower serum concentrations of parathyroid hormone (P = 0.05).
+Differences in spinal bone density between members of a pair were associated with differences in the serum concentrations of parathyroid hormone (P = 0.01) and calcium (P = 0.05) and urinary pyridinoline excretion (P = 0.06), a marker of bone resorption.
+Women who smoke one pack of cigarettes each day throughout adulthood will, by the time of menopause, have an average deficit of 5 to 10 percent in bone density, which is sufficient to increase the risk of fracture.

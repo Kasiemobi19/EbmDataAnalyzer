@@ -1,0 +1,16 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+Fulminant hepatitis associated with hepatitis A virus superinfection in patients with chronic hepatitis C.
+Abstract Text 
+Hepatitis A virus (HAV) infection rarely causes fulminant hepatic failure in people with no underlying liver disease.
+There are limited data on the course of this infection in patients with chronic hepatitis B and chronic hepatitis C.
+     
+      We prospectively followed, from June 1990 to July 1997, 595 adults with biochemical and histologic evidence of chronic hepatitis B (163 patients) or chronic hepatitis C (432 patients) who were seronegative for HAV antibodies.
+All were tested every four months for serum IgM and IgG antibodies to HAV.
+Twenty-seven patients acquired HAV superinfection, 10 of whom had chronic hepatitis B and 17 of whom had chronic hepatitis C. One of the patients with chronic hepatitis B, who also had cirrhosis, had marked cholestasis (peak serum bilirubin level, 28 mg per deciliter [479 micromol per liter]); the other nine had uncomplicated courses of hepatitis A. Fulminant hepatic failure developed in seven of the patients with chronic hepatitis C, all but one of whom died.
+The other 10 patients with chronic hepatitis C had uncomplicated courses of hepatitis A.
+     
+      Although most patients with chronic hepatitis B who acquired HAV infection had an uncomplicated course, patients with chronic hepatitis C had a substantial risk of fulminant hepatitis and death associated with HAV superinfection.
+Our data suggest that patients with chronic hepatitis C should be vaccinated against hepatitis A.

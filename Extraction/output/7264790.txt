@@ -1,0 +1,16 @@
+Title 
+The Journal of pediatrics
+
+Article Title 
+Diagnosis of iron deficiency: the limitations of laboratory tests in predicting response to iron treatment in 1-year-old infants.
+Abstract Text 
+This study was designed to compare the effectiveness of laboratory tests for iron deficiency (mean corpuscular volume, erythrocyte protoporphyrin, transferrin saturation, and serum ferritin) in predicting hemoglobin response to iron therapy in infants found to have low Hgb concentrations.
+Screening for anemia was performed on capillary blood of 1,128 healthy 1-year-old infants of United States Air Force personnel.
+The 25% who had Hgb values less than 11.5 gm/dl were asked to return for tests on venous blood before therapy and again after three months of therapy.
+Of the 188 infants completing therapy, 66 (35%) had a rise in Hgb concentration greater than or equal to 1.0 gm/dl and were designated responders.
+None of the confirmatory tests on venous blood reliably distinguished responders from those who subsequently showed no response.
+By using any one of the tests in combination with a capillary Hgb value less than 11.5 gm/dl, more than half of the infants with an abnormal value responded.
+But well over half of the responders would have been missed if treatment had been restricted to infants with abnormal values.
+Neither changes in the criteria for normality nor combinations of tests substantially improved our ability to distinguish the two groups.
+Because of the difficulty in distinguishing responders from nonresponders with additional laboratory tests and because of the simplicity, low cost, and relative safety of iron therapy in infants, we favor an initial therapeutic trial of iron first for determining the cause of low Hgb values in similar high-risk populations.
+Further costly workup can then be reserved for the small number of infants who still have unexplained Hgb concentrations less than 11.0 gm/dl after a therapeutic trial.

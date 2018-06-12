@@ -1,0 +1,14 @@
+Title 
+Southern medical journal
+
+Article Title 
+Oral contraceptive drug interactions: important considerations.
+Abstract Text 
+Interactions with oral contraceptives (OCs) occur with drugs commonly used to treat epilepsy, tuberculosis, and depression.
+Most women are more likely to use antibiotics, analgesics, and antihistamines, which have also been shown to interact with OCs.
+The mechanisms behind these interactions may be hepatic microsomal enzyme induction or inhibition, interference with the enterohepatic circulation of steroid metabolites, interference with absorption, competition between two drugs for the same metabolizing enzyme, or induction of an opposite physiologic effect.
+Rifampin was the first drug reported to interfere with the efficacy of OCs.
+The anticonvulsants and certain antibiotics, namely ampicillin and tetracycline, also decrease the efficacy of OCs.
+Oral contraceptives also interfere with the metabolism of other drugs.
+Plasma concentrations of theophylline, diazepam, and certain other benzodiazepines are increased by OC steroids.
+Because OCs interact with a wide variety of prescription and over-the-counter medications, a thorough drug history should be taken in all patients taking OCs.

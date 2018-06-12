@@ -1,0 +1,14 @@
+Title 
+Arthritis and rheumatism
+
+Article Title 
+Randomized, double-blind, placebo-controlled study of the treatment of the painful shoulder.
+Abstract Text 
+The effect of triamcinolone subacromial bursa injection versus naproxen therapy was compared in a randomized, double-blind, placebo-controlled study of 100 patients who had painful shoulders.
+Outcome was compared using degree of active abduction, pain, limitation of function, and a clinical index that combined equally weighted measures of all of these.
+In a time-adjusted analysis, triamcinolone was superior to placebo in all clinical variables.
+Naproxen was superior to placebo in all variables except pain.
+Triamcinolone was superior to naproxen in the relief of pain (P = 0.04) and the clinical index (P = 0.04).
+Multiple linear regression analysis showed that naproxen and triamcinolone treatment accounted for only 16% of the variation in outcome, compared with 44% accounted for by the clinical index prior to treatment.
+Thus, patients with a poor pretreatment clinical index (those with the most room for improvement) were least likely to improve.
+We conclude that both triamcinolone (P = 0.00005) and naproxen (P = 0.02) are superior to placebo in the treatment of the painful shoulder.

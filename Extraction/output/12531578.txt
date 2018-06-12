@@ -1,0 +1,26 @@
+Title 
+Lancet
+
+Article Title 
+Combination treatment of angiotensin-II receptor blocker and angiotensin-converting-enzyme inhibitor in non-diabetic renal disease (COOPERATE): a randomised controlled trial.
+Abstract Text 
+Present angiotensin-converting-enzyme inhibitor treatment fails to prevent progression of non-diabetic renal disease.
+We aimed to assess the efficacy and safety of combined treatment of angiotensin-converting-enzyme inhibitor and angiotensin-II receptor blocker, and monotherapy of each drug at its maximum dose, in patients with non-diabetic renal disease.
+336 patients with non-diabetic renal disease were enrolled from one renal outpatient department in Japan.
+After screening and an 18-week run-in period, 263 patients were randomly assigned angiotensin-II receptor blocker (losartan, 100 mg daily), angiotensin-converting-enzyme inhibitor (trandolapril, 3 mg daily), or a combination of both drugs at equivalent doses.
+Survival analysis was done to compare the effects of each regimen on the combined primary endpoint of time to doubling of serum creatinine concentration or end-stage renal disease.
+Analysis was by intention to treat.
+Seven patients discontinued or were otherwise lost to follow-up.
+Ten (11%) of 85 patients on combination treatment reached the combined primary endpoint compared with 20 (23%) of 85 on trandolapril alone (hazard ratio 0.38, 95% CI 0.18-0.63,
+p=0.018) and 20 (23%) of 86 on losartan alone (0.40, 0.17-0.69,
+p=0.016).
+Covariates affecting renal survival were combination treatment (hazard ratio 0.38, 95% CI 0.18-0.63,
+p=0.011), age (1.30, 1.03-2.29,
+p=0.009), baseline renal function (1.80, 1.02-2.99,
+p=0.021), change in daily urinary protein excretion rate (0.58, 0.24-0.88,
+p=0.022), use of diuretics (0.80, 0.30-0.94,
+p=0.043), and antiproteinuric response to trandolapril (0.81, 0.21-0.91,
+p=0.039).
+Frequency of side-effects with combination treatment was the same as with trandolapril alone.
+Combination treatment safely retards progression of non-diabetic renal disease compared with monotherapy.
+However, since some patients reached the combined primary endpoint on combined treatment, further strategies for complete management of progressive non-diabetic renal disease need to be researched.

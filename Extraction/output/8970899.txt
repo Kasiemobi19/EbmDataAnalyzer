@@ -1,0 +1,15 @@
+Title 
+Journal of bone and mineral research : the official journal of the American Society for Bone and Mineral Research
+
+Article Title 
+Correcting calcium nutritional deficiency prevents spine fractures in elderly women.
+Abstract Text 
+We tested the spine antifracture and bone sparing efficacy of 1.2 g/day of oral calcium as carbonate in two groups of elderly women, one with prevalent fractures (PF, n = 94) on entry and the other without (NPF, n = 103).
+It was a prospective randomized, double-blind, placebo-controlled trial in mostly rural communities in women over age 60 who were living independently and were consuming < 1 g/day of calcium.
+We obtained annual lateral spine radiographs and semiannual forearm bone density over 4.3 +/- 1.1 years and determined vertebral fractures by radiographic morphometry augmented by physician assessment.
+In the PF group, 15 of 53 subjects on calcium had incident fractures, compared with 21 of 41 on placebo (p = 0.023, chi2).
+Calcium did not reduce the rate of incident fractures in the NPF group.
+Those with a prevalent fracture on entry and not treated with calcium were 2.8 times more likely to experience an incident fracture than all others.
+Change in the forearm bone mass on placebo in the PF group was -1.24 +/- 2.41%/year compared with +0.31 +/- 1.80%/year on calcium (p < 0.001).
+In the NPF group, the difference was less: -0.39 +/- 2.08%/year versus 0.00 +/- 1.64%/year (p = 0.2).
+We conclude that in elderly postmenopausal women with spine fractures and selfselected calcium intakes of < 1 g/day, a calcium supplement of 1.2 g/day reduces the incidence of spine fractures and halts measurable bone loss.

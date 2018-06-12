@@ -1,0 +1,19 @@
+Title 
+Anesthesiology
+
+Article Title 
+A randomized study of the effects of gabapentin on postamputation pain.
+Abstract Text 
+Pain after amputation is common but difficult to treat.
+Therefore, the authors examined whether postoperative treatment with gabapentin could reduce postamputation stump and phantom pain.
+Forty-six patients scheduled to undergo lower limb amputation were randomly assigned to receive oral gabapentin or placebo.
+Treatment was started on the first postoperative day and continued for 30 days.
+The daily dose of gabapentin or placebo was gradually increased to 2,400 mg/day.
+The intensity of stump and phantom pain was recorded every day on a numeric rating scale (0-10) during the 30-day treatment period.
+Five interviews were performed after 7, 14, and 30 days and after 3 and 6 months.
+Results from 41 patients were included in the data analysis.
+The risk of phantom pain (gabapentin vs. placebo) was 55.0% versus 52.6% (risk difference, 2.4%; 95% confidence interval, -28.9 to 33.7%; P = 0.88; 30 days) and 58.8% versus 50.0%
+(risk difference, 8.8%; 95% confidence interval, -23.3 to 40.9%; P = 0.59; 6 months).
+The median intensity of phantom pain (gabapentin vs. placebo) was 1.5 (range, 0-9.0) versus 1.2 (range, 0-6.6) (P = 0.60; 30 days) and 1.0 (range, 0-6.0) versus 0.5 (range, 0-5.0) (P = 0.77; 6 months).
+The median intensity of stump pain was 0.85 (range, 0-8.2) versus 1.0 (range, 0-5.4) (P = 0.68; 30 days) and 0 (range, 0-8.0) versus 0 (range, 0-5.0) (P = 0.58; 6 months).
+Gabapentin administered in the first 30 postoperative days after amputation does not reduce the incidence or intensity of postamputation pain.

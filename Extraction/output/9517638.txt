@@ -1,0 +1,17 @@
+Title 
+The American journal of gastroenterology
+
+Article Title 
+Laparoscopic antireflux surgery in the elderly.
+Abstract Text 
+Laparoscopic antireflux surgery is indicated in young patients with medication-dependent gastroesophageal reflux disease (GERD), both because of their need for lifelong medical treatment and the need to prevent the complications of GERD.
+Many elderly patients with GERD have similar concerns.
+We compared the safety and efficacy of laparoscopic antireflux surgery in the elderly with the results achieved in patients <65 yr.
+A total of 359 patients have had laparoscopic antireflux surgery in our hospital, 42 of whom were > or = 65 yr of age.
+Symptoms were scored from 0 (none) to 4 (severe) before and after surgery.
+Ambulatory pH monitoring was also performed before and after surgery.
+Results were compared between age groups with the Mann-Whitney U test.
+Elderly patients had significantly higher preoperative American Society of Anesthesiologists (ASA) scores (mean 2.4 vs 2.0) (p = 0.0024), but otherwise there were no significant differences in preoperative symptom scores or pH results.
+Both groups demonstrated equivalent postoperative improvement in symptoms and 24-h pH study.
+There was no mortality in either group, and there was no significant difference in morbidity or hospital stay between the two groups.
+Laparoscopic antireflux surgery is a safe and effective treatment of GERD in the elderly and should not be refused solely on the basis of age.

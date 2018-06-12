@@ -1,0 +1,15 @@
+Title 
+Annals of the rheumatic diseases
+
+Article Title 
+Intra-articular corticosteroids are effective in osteoarthritis but there are no clinical predictors of response.
+Abstract Text 
+To show whether intra-articular steroid injections are effective in osteoarthritis; to determine factors that predict response; and to determine whether injection has a beneficial effect on muscle strength.
+Double blind, placebo controlled, crossover study in 59 patients with symptomatic osteoarthritis of the knee.
+Outcome measure-Primary outcome measure: change in visual analogue score for pain at three weeks.
+Predictors of response analysed using logistic regression with a 15% decrease in pain score at three weeks defining response.
+Intra-articular methyl prednisolone acetate produced a significant reduction in visual analogue pain score at three weeks compared to both baseline (median change -2.0 mm, interquartile range -16.25 to 4.0) and placebo (median 0.0 mm, interquartile range -9.0 to 6.25).
+No clinical predictors of response could be identified.
+Muscle strength was not significantly improved in the short term by intra-articular injection.
+Intra-articular corticosteroids are effective for short term relief of pain in osteoarthritis but predicting responders is not possible.
+There may be a place for their more widespread use.

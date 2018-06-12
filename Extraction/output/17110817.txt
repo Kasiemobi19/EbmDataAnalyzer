@@ -1,0 +1,18 @@
+Title 
+Journal of clinical psychopharmacology
+
+Article Title 
+Efficacy of quetiapine monotherapy in bipolar I and II depression: a double-blind, placebo-controlled study (the BOLDER II study).
+Abstract Text 
+This study evaluated the efficacy and tolerability of quetiapine monotherapy for depressive episodes in patients with bipolar I or II disorder (Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition) who were randomized to 8 weeks of double-blind treatment with quetiapine (300 or 600 mg/d; once daily, evening dosing) or placebo.
+Patients were assessed weekly using the Montgomery-Asberg Depression Rating Scale (MADRS) and Hamilton Depression Rating Scale (HAM-D).
+The primary end point was change in MADRS total score from baseline to Week 8 (analysis of covariance/last-observation-carried-forward analysis).
+Of 509 patients randomized, 59% completed the study.
+Improvements from baseline in mean MADRS total scores were significantly greater with quetiapine 300 and 600 mg/d than with placebo from first evaluation (Week 1) through Week 8 (both P <or= 0.001 vs. placebo).
+Therapeutic effect sizes at Week 8 were 0.61 and 0.54 for quetiapine 300 and 600 mg/d, respectively.
+Improvements in mean HAM-D scores were also significantly greater with both quetiapine doses than with placebo (P < 0.001) as early as Week 1 and throughout the study.
+The MADRS response and remission rates were also significantly greater in both quetiapine dose groups compared with placebo.
+Improvements in primary and secondary outcomes were observed with both 300 and 600 mg/d quetiapine without major differences between the doses.
+Common adverse events included dry mouth, sedation, somnolence, dizziness, and constipation.
+The incidence of treatment-emergent mania or hypomania was lower with quetiapine treatment than placebo.
+This study demonstrates that quetiapine monotherapy is an effective and well-tolerated treatment for depressive episodes in bipolar disorder, confirming the results observed from a previous study (BipOLar DEpRession [BOLDER] I).

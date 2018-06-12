@@ -1,0 +1,18 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Use of antibiotics in preventing recurrent acute otitis media and in treating otitis media with effusion. A meta-analytic attempt to resolve the brouhaha.
+Abstract Text 
+To determine the efficacy of antibiotics for prophylaxis of recurrent otitis media and treatment of otitis media with effusion (OME) in children.
+MEDLINE from 1966 through April 1993, textbooks, Current Contents, and bibliographies of selected articles.
+Thirty-three studies initially identified were reviewed by three blinded reviewers assessing study quality and suitability for inclusion.
+Twenty-seven met inclusion criteria for the meta-analyses.
+We abstracted quantitative data and calculated rate differences (RDs) using tympanometry as the preferred outcome measure.
+Nine studies of antibiotic prophylaxis of recurrent otitis media with 958 subjects had an RD of 0.11 (95% confidence interval [Cl], 0.03 to 0.19) favoring antibiotic treatment.
+Twelve studies of short-term patient outcomes of OME with 1697 subjects had an RD favoring antibiotics of 0.16 (95% Cl, 0.03 to 0.29), while eight studies using the ear as the outcome measure with 2052 ears studied had an RD of 0.25 (95% Cl, 0.10 to 0.40).
+No significant difference was shown between placebo and antibiotics (RD, 0.06; 95% Cl, -0.03 to 0.14) in the eight studies of longer-term outcome of OME.
+Subgroup analyses by antibiotic grouping, duration of treatment, and duration of disease did not show significant differences.
+Antibiotics appear to have beneficial but limited effect on recurrent otitis media and short-term resolution of OME.
+Longer-term benefit for OME has not been shown.
+The findings are limited by the failure of most studies to consider potential confounders and by inability to identify groups of patients most likely to benefit.

@@ -1,0 +1,24 @@
+Title 
+Annals of internal medicine
+
+Article Title 
+Evaluation of acute knee pain in primary care.
+Abstract Text 
+The evaluation of acute knee pain often includes radiography of the knee.
+To synthesize the literature to determine the role of radiologic procedures in evaluating common causes of acute knee pain: fractures, meniscal or ligamentous injuries, osteoarthritis, and pseudogout.
+MEDLINE search from 1966 to October 2002.
+We included all published, peer-reviewed studies of decision rules for fractures.
+We included studies that used arthroscopy as the gold standard for measuring the accuracy of the physical examination and magnetic resonance imaging (MRI) for meniscal and ligamentous knee damage.
+We included all studies on the use of radiographs in pseudogout.
+We extracted all data in duplicate and abstracted physical examination and MRI results into 2 x 2 tables.
+Among the 5 decision rules for deciding when to use plain films in knee fractures, the Ottawa knee rules (injury due to trauma and age >55 years, tenderness at the head of the fibula or the patella, inability to bear weight for 4 steps, or inability to flex the knee to 90 degrees) have the strongest supporting evidence.
+When the history suggests a potential meniscal or ligamentous injury, the physical examination is moderately sensitive (meniscus, 87%; anterior cruciate ligament, 74%; and posterior cruciate ligament, 81%) and specific (meniscus, 92%; anterior cruciate ligament, 95%; and posterior cruciate ligament, 95%).
+The Lachman test is more sensitive and specific for ligamentous tears than is the drawer sign.
+For meniscal tears, joint line tenderness is sensitive (75%) but not specific (27%), while the McMurray test is specific (97%) but not sensitive (52%).
+Compared with the physical examination, MRI is more sensitive for ligamentous and meniscal damage but less specific.
+When the differential diagnosis for acute knee pain includes an exacerbation of osteoarthritis, clinical features (age >50 years, morning stiffness <30 minutes, crepitus, or bony enlargement) are 89% sensitive and 88% specific for underlying chronic arthritis.
+Adding plain films improves sensitivity slightly but not specificity.
+Plain films for pseudogout are not sensitive or specific, according to limited-quality studies.
+We recommend the Ottawa knee rules to decide when to obtain plain films for suspected knee fracture.
+A careful physical examination should be sufficient to decide whether to refer patients with potential meniscal and ligament injuries, and we prefer clinical criteria rather than plain films for evaluating osteoarthritis.
+We do not recommend using plain films to diagnose pseudogout.

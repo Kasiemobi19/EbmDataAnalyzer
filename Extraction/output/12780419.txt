@@ -1,0 +1,20 @@
+Title 
+Acta obstetricia et gynecologica Scandinavica
+
+Article Title 
+A systematic review of transvaginal ultrasonography, sonohysterography and hysteroscopy for the investigation of abnormal uterine bleeding in premenopausal women.
+Abstract Text 
+To determine the accuracy of transvaginal ultrasonography, sonohysterography and diagnostic hysteroscopy for the investigation of abnormal uterine bleeding in premenopausal women.
+Systematic review of common diagnostic imaging tests.
+Relevant papers were identified through electronic searching of MEDLINE (1980 to July 2001) and EMBASE (1980 to July 2001) and manual searching of a bibliography of primary and review articles.
+Studies were selected if accuracy of transvaginal ultrasonography, sonohysterography and diagnostic hysteroscopy was compared with a reference standard and included data that could be abstracted into a two-by-two table in order to calculate sensitivity and specificity.
+Quality assessment and data extraction were performed by at least two independent reviewers.
+Diagnostic accuracy was determined by calculating positive and negative likelihood ratios for all intrauterine pathologies, submucous fibroids and endometrial hyperplasia.
+Nineteen studies met the inclusion criteria.
+Statistically significant heterogeneity was present between the likelihood ratios for studies of transvaginal ultrasound.
+A positive test result with sonohysterography diagnosed submucous fibroids with a pooled likelihood ratio of 29.7 (17.8, 49.6).
+A positive test result with hysteroscopy diagnosed submucous fibroids with a pooled likelihood ratio of 29.4 (13.4,
+65.3), and any intrauterine pathology with a pooled likelihood ratio of 7.7 (4.3, 13.7).
+A negative test result with hysteroscopy for diagnosing any intrauterine pathology had a pooled likelihood ratio of 0.07 (0.04, 0.15).
+Although there was considerable variability present between the studies, all three diagnostic tests were moderately accurate in detecting intrauterine pathology.
+However, sonohysterography and hysteroscopy performed better than transvaginal ultrasound in detecting submucous fibroids.

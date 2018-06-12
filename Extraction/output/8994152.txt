@@ -1,0 +1,20 @@
+Title 
+Medical decision making : an international journal of the Society for Medical Decision Making
+
+Article Title 
+Diagnostic value of signs and symptoms associated with peripheral arterial occlusive disease seen in general practice: a multivariable approach.
+Abstract Text 
+To assess the diagnostic values of single and combined data from the history, physical examination, and medical record with regard to peripheral arterial occlusive disease (PAOD) in patients with leg complaints; to construct a multivariable model for the clinical diagnosis of PAOD by primary care physicians.
+18 general practice centers in The Netherlands.
+Cross-sectional comparison of signs, symptoms, and data from the medical record with the independently assessed ankle-brachial systolic pressure index (ABPI; cutoff point < 0.90); analysis: bivariate, multiple logistic regression (MLR).
+2,455 individuals with leg complaints, aged 40.7-78.4
+years; ABPI < 0.90 present in 9.2% of legs (11.7% of individuals).
+Clinical variables: sensitivity, specificity, positive and negative predictive values (PV+, PV-), diagnostic odds ratio (OR); models: likelihood ratio test, area under the receiver operating characteristic curve (AUC).
+Bivariate analysis: highest sensitivity: age more than 60 years (77.3%);
+highest specificity: wounds or sores on toes and foot (99.7%); highest PV+: typical intermittent claudication (IC) (45.0%) (abnormal foot pulses 41.3%); highest PV-: strong pulses of both foot arteries (97.7%).
+MRL: the best-performing model (AUC 0.89) consisted of ten clinical variables: gender (OR 1.5), age more than 60 (OR 2.2); IC (OR 3.5); palpation of the skin temperature of the feet (OR 2.5), palpation of both foot pulses [OR 16.4 (abnormal) and 7.0 (doubtful)], auscultation of the femoral artery (OR 3.5); previous diagnosis of IHD (OR 1.7) or diabetes (OR 1.6), history of smoking (OR 2.1), and elevated blood pressure (OR 1.5).
+The range of predicted probabilities was 0.4-98%.
+The Hosmer-Lemeshow goodness-of-fit test indicated good overall fit (p = 52).
+Palpation of both foot pulses is the key procedure for the clinical diagnosis of PAOD.
+Traditional clinical evaluation enables the general practitioner to exclude the diagnosis of PAOD in many individuals with a high degree of certainly, to establish the diagnosis in a small group of patients, and to define a limited group of patients where supplementary noninvasive testing is appropriate.
+The MLR model can be used as a diagnostic checklist and as a reference for the physician's clinical hypothesis.

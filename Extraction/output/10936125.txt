@@ -1,0 +1,21 @@
+Title 
+Chest
+
+Article Title 
+Should children with suspected obstructive sleep apnea syndrome and normal nap sleep studies have overnight sleep studies?
+Abstract Text 
+Overnight polysomnography (ONP) is the "gold standard" for the diagnosis of sleep-disordered breathing, but it is expensive and time-consuming.
+Thus, daytime nap studies have been used as screening tests.
+If the findings of a nap study are normal or mildly abnormal, should ONP be performed?
+Do specific abnormalities in nap studies predict abnormal findings in ONP?
+To answer these questions, we conducted this study.
+Retrospective chart review.
+Children's hospital.
+One hundred forty-three children with suspected obstructive sleep apnea syndrome secondary to isolated adenotonsillar hypertrophy, who had normal or mildly abnormal nap studies, and underwent ONP.
+MEASUREMENTS AND RESULTs: We compared daytime nap and overnight polysomnograms in 143 children (52 girls; mean [+/- SD] age, 5.6 +/- 3.1 years).
+Total sleep time was 1 h in daytime nap, and 5.1 +/- 1.3 h in ONP.
+The interval between the two studies was 5.9 +/- 4.8 months.
+The findings of 59% of the nap studies were mildly abnormal, while 66% of overnight studies were abnormal.
+No individual nap study parameter (including short obstructive apneas, hypopneas, hypoxemia, hypoventilation, snoring, paradoxical breathing, gasping, retractions) had good sensitivity at predicting abnormal overnight polysomnograms, but most had good specificity and positive predictive value.
+We conclude that individual nap study parameters are not very sensitive in predicting abnormal ONP findings.
+However, when nap study parameters are abnormal, the chance of obstructive sleep apnea syndrome is high.

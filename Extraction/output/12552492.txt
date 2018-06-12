@@ -1,0 +1,17 @@
+Title 
+American journal of kidney diseases : the official journal of the National Kidney Foundation
+
+Article Title 
+Beneficial effects of weight loss in overweight patients with chronic proteinuric nephropathies.
+Abstract Text 
+Proteinuria is a recognized complication of obesity, but no study has investigated the effect of weight loss in overweight patients with chronic proteinuric nephropathies of different causes.
+We randomly assigned (in a 2:1 ratio) 30 overweight patients (body mass index [BMI] > 27 kg/m(2)) with diabetic and nondiabetic proteinuric nephropathies to either follow a low-calorie normoproteinic diet or maintain their usual dietary intake for 5 months.
+The primary outcome was change in urinary protein excretion.
+Secondary outcomes were changes in renal function (serum creatinine level and Cockcroft-Gault creatinine clearance) and lipid profile.
+Patients in the diet group showed a significant decrease in body weight and BMI, whereas patients in the control group showed a significant increase in body weight and BMI (between-group comparison, P < 0.05).
+Mean weight loss in the diet group was 4.1% +/- 3%, and 14 of 20 patients in this group lost more than 3%.
+Proteinuria decreased by 31.2% +/- 37% in the diet group (from protein of 2.8 +/- 1.4 to 1.9 +/- 1.4 g/24 h; P < 0.005), whereas it tended to increase in the control group (between-group comparison, P < 0.05).
+Changes in renal function did not differ significantly between groups, although renal function remained stable in the diet group and showed significant worsening in the control group.
+Serum triglyceride levels remained stable in the diet group and tended to increase in the control group (between-group comparison, P < 0.05).
+Moderate weight loss in overweight patients with chronic proteinuric nephropathies induces a significant decrease in proteinuria.
+Am J Kidney Dis 41:319-327.

@@ -1,0 +1,17 @@
+Title 
+Osteoarthritis and cartilage / OARS, Osteoarthritis Research Society
+
+Article Title 
+Effect of glucosamine supplementation on fasting and non-fasting plasma glucose and serum insulin concentrations in healthy individuals.
+Abstract Text 
+To test the hypothesis that glucose intolerance does not occur when healthy adults consume normal, recommended dosages of glucosamine sulfate.
+Healthy adults (N=19) ingested 1500 mg of glucosamine sulfate or placebo (double blind) each day for 12 weeks.
+Three-hour oral glucose tolerance tests (OGTT) were performed using 75 g of dextrose.
+These occurred before the start of supplementation, at 6 weeks, and at the completion of supplementation (12 weeks).
+There were no significant differences between fasted levels of serum insulin or blood glucose.
+Glucosamine sulfate supplementation did not alter serum insulin or plasma glucose during the OGTT.
+There were no significant differences within or between treatments, ages or gender.
+Glycated hemoglobin measurements at the three time points showed no significant change over time, within or between treatments, ages or gender.
+The lack of significant changes may have been due to large standard deviations in the data.
+The data suggests that glucosamine supplementation, with normal recommended dosages, does not cause glucose intolerance in healthy adults.
+This cannot be determined conclusively, however, until further studies are conducted using alternative types of testing.

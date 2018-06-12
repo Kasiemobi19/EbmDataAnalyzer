@@ -1,0 +1,21 @@
+Title 
+Pediatrics
+
+Article Title 
+Lactobacillus therapy for acute infectious diarrhea in children: a meta-analysis.
+Abstract Text 
+Childhood diarrhea accounts for substantial morbidity and mortality worldwide.
+Multiple studies in children have shown that Lactobacillus, administered orally, may have antidiarrheal properties.
+We conducted a meta-analysis of randomized, controlled studies to assess whether treatment with Lactobacillus improves clinical outcomes in children with acute infectious diarrhea.
+Studies were sought in bibliographic databases of traditional biomedical as well as complementary and alternative medicine literature published from 1966 to 2000.
+Search terms were "competitive inhibition," "diarrhea," "gastroenteritis," "Lactobacillus," "probiotic," "rotavirus," and "yog(h)urt."
+We included studies that were adequately randomized, blinded, controlled trials in which the treatment group received Lactobacillus and the control group received an adequate placebo and that reported clinical outcome measures of diarrhea intensity.
+These inclusion criteria were applied by blind review and consensus.
+The original search yielded 26 studies, 9 of which met the criteria.
+Multiple observers independently extracted study characteristics and clinical outcomes.
+Data sufficient to perform meta-analysis of the effect of Lactobacillus on diarrhea duration and diarrhea frequency on day 2 were contained in 7 and 3 of the included studies, respectively.
+Summary point estimates indicate a reduction in diarrhea duration of 0.7 days (95% confidence interval: 0.3-1.2
+days) and a reduction in diarrhea frequency of 1.6 stools on day 2 of treatment (95% confidence interval: 0.7-2.6 fewer stools) in the participants who received Lactobacillus compared with those who received placebo.
+Details of treatment protocols varied among the studies.
+A preplanned subanalysis suggests a dose-effect relationship.
+The results of this meta-analysis suggest that Lactobacillus is safe and effective as a treatment for children with acute infectious diarrhea.

@@ -1,0 +1,17 @@
+Title 
+The Journal of pediatrics
+
+Article Title 
+Bedsharing, roomsharing, and sudden infant death syndrome in Scotland: a case-control study.
+Abstract Text 
+To examine the hypothesis that bedsharing with an infant is associated with an increased risk of sudden infant death syndrome (SIDS).
+A 1:2, case:control study in Scotland UK, population 5.1 million, including 123 infants who died of SIDS between January 1, 1996 and May 31, 2000, and 263 controls.
+The main outcome measure was sharing a sleep surface during last sleep.
+Sharing a sleep surface was associated with SIDS (multivariate OR 2.89, 95% CI 1.40, 5.97).
+The largest risk was associated with couch sharing (OR 66.9, 95% CI 2.8, 1597).
+Of 46 SIDS infants who bedshared during their last sleep, 40 (87%) were found in the parents' bed.
+Sharing a bed when <11 weeks (OR 10.20, 95% CI 2.99, 34.8) was associated with a greater risk, P = .010,
+compared with sharing when older (OR 1.07, 95% CI 0.32, 3.56).
+The association remained if mother did not smoke (OR 8.01, 95% CI 1.20, 53.3) or the infant was breastfed (OR 13.10, 95% CI 1.29, 133).
+Bedsharing is associated with an increased risk of SIDS for infants <11 weeks of age.
+Sharing a couch for sleep should be strongly discouraged at any age.

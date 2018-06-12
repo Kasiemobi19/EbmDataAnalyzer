@@ -1,0 +1,15 @@
+Title 
+Archives of disease in childhood
+
+Article Title 
+Factors relating to the infant's last sleep environment in sudden infant death syndrome in the Republic of Ireland.
+Abstract Text 
+To identify risk factors for sudden infant death syndrome (SIDS) in the sleeping environment of Irish infants.
+A five year population based case-control study with parental interviews conducted for each case and three controls matched for age, place of birth, and last sleep period.
+A total of 203 SIDS cases and 622 control infants born 1994-98 were studied.
+In a multivariate analysis, co-sleeping significantly increased the risk of SIDS both as a usual practice (adjusted OR 4.31; 95% CI 1.07 to 17.37) and during the last sleep period (adjusted OR 16.47; 95% CI 3.73 to 72.75).
+The associated risk was dependent on maternal smoking (OR 21.84; 95% CI 2.27 to 209.89), and was not significant for infants who were > or =20 weeks of age (OR 2.63; 95% CI 0.49 to 70.10) or placed back in their own cot/bed to sleep (OR 1.07; 95% CI 0.21 to 5.41).
+The use of pillows, duvets, and bedding with tog value > or =10 were not significant risk factors when adjusted for the effects of confounding variables, including maternal smoking and social disadvantage.
+However, the prone sleeping position remains a significant SIDS risk factor, and among infants using soothers, the absence of soother use during the last sleep period also significantly increased the SIDS risk (OR 5.83; CI 2.37 to 14.36).
+Co-sleeping should be avoided in infants who are <20 weeks of age, or whose mothers smoked during pregnancy.
+The prone position remains a factor in some SIDS deaths, and the relation between soother use and SIDS is a complex variable requiring further study.

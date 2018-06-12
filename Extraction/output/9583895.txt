@@ -1,0 +1,17 @@
+Title 
+American journal of clinical pathology
+
+Article Title 
+The absolute neutrophil count: is it the best indicator for occult bacteremia in infants?
+Abstract Text 
+Occult bacteremia affects approximately 5% of febrile children ages 2 to 36 months.
+Many physicians empirically treat children who have a temperature higher than 39 degrees C, a white blood cell (WBC) count of more than 15.0 x 10(9)/L, and no focus of infection with antibiotics.
+We undertook this investigation to better define predictive indicators for bacteremia.
+Specifically we were concerned with determining whether the absolute neutrophil count (ANC) is a better diagnostic indicator than the total WBC count and whether the manual differential (which includes a band cell count) is necessary or helpful.
+Three separate groups of patients aged 2 to 36 months were assessed retrospectively.
+Group A consisted of febrile children (temperature, > 39 degrees C) who had positive blood cultures (50 patients).
+Group B included febrile children (temperature, > 39 degrees C) who had negative blood cultures (59 patients).
+Group C, nonfebrile children admitted to the hospital was the control group (61 patients).
+The ANC and the total WBC count were significantly higher in group A than in group B. Although they were equally sensitive, the ANC was more specific than the total WBC count.
+Band cell counts of greater than 10% and the percentage of total neutrophils also were greater in group A than in group B. The values for group C were not significantly different from those for group B. Although a total WBC count of 15.0 x 10(9)/L is currently used to identify children at risk for occult bacteremia, the ANC seems to be as sensitive an indicator and may be more specific.
+Our study demonstrated that (1) the WBC count is a good indicator of occult bacteremia, (2) the ANC is as sensitive as the WBC count and may be more specific, (3) automated ANCs are comparable to manual ANCs, and (4) the band cell count is insensitive as an indicator and does not add any predictive value.

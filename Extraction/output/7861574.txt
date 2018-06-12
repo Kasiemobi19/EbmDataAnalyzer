@@ -1,0 +1,18 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+The effect of passive smoking and tobacco exposure through breast milk on sudden infant death syndrome.
+Abstract Text 
+To examine the relationship between sudden infant death syndrome (SIDS) and smoking during pregnancy; postnatal tobacco smoke exposure from the mother, father, live-in-adults, and day care providers; and postnatal smoke exposure from breast-feeding.
+Case-control study.
+Five counties in Southern California.
+A total of 200 white, African-American, Hispanic, and Asian parents of infants who died of SIDS between 1989 and 1992 were compared with 200 control parents who delivered healthy infants.
+Case infants were matched to control infants on the basis of birth hospital, birth date, gender, and race.
+All information was obtained from a detailed telephone interview and validated with medical records.
+Risk of SIDS associated with passive smoking by the mother, father, live-in adults, and day care providers; smoking in the same room as the infant; total number of cigarettes smoked by all adults; and maternal smoking during the time period of breast-feeding.
+Conditional logistic regression resulted in overall adjusted odds ratios (ORs) for SIDS associated with passive smoke from the mother of 2.28, the father of 3.46, other live-in adults of 2.18, and all sources of 3.50 (95% confidence interval, 1.81 to 6.75), while simultaneously adjusting for birth weight, sleep position, prenatal care, medical conditions at birth, breast-feeding, and maternal smoking during pregnancy.
+A dose-response effect was noted for SIDS associated with increasing numbers of cigarettes, as well as total number of smokers.
+Breast-feeding was protective for SIDS among nonsmokers (OR = 0.37) but not smokers (OR = 1.38), when adjusting for potential confounders.
+Passive smoking in the same room as the infant increases the risk for SIDS.
+Physicians should educate new and prospective parents about the risk of tobacco smoke exposure during pregnancy and the first year of the infant's life.

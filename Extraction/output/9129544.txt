@@ -1,0 +1,16 @@
+Title 
+Archives of internal medicine
+
+Article Title 
+The probability of malignancy in solitary pulmonary nodules. Application to small radiologically indeterminate nodules.
+Abstract Text 
+A clinical prediction model to identify malignant nodules based on clinical data and radiological characteristics of lung nodules was derived using logistic regression from a random sample of patients (n = 419) and tested on data from a separate group of patients (n = 210).
+To use multivariate logistic regression to estimate the probability of malignancy in radiologically indeterminate solitary pulmonary nodules (SPNs) in a clinically relevant subset of patients with SPNs that measured between 4 and 30 mm in diameter.
+A retrospective cohort study at a multispecialty group practice included 629 patients (320 men, 309 women) with newly discovered (between January 1, 1984, and May 1, 1986) 4- to 30-mm radiologically indeterminate SPNs on chest radiography.
+Patients with a diagnosis of cancer within 5 years prior to the discovery of the nodule were excluded.
+Clinical data included age, sex, cigarette-smoking status, and history of extrathoracic malignant neoplasm, asbestos exposure, and chronic interstitial or obstructive lung disease; chest radiological data included the diameter, location, edge characteristics (eg, lobulation, spiculation, and shagginess), and other characteristics (eg, cavitation) of the SPNs.
+Predictors were identified in a random sample of two thirds of the patients and tested in the remaining one third.
+Sixty-five percent of the nodules were benign, 23% were malignant, and 12% were indeterminate.
+Three clinical characteristics (age, cigarette-smoking status, and history of cancer [diagnosis, > or = 5 years ago]) and 3 radiological characteristics (diameter, spiculation, and upper lobe location of the SPNs) were independent predictors of malignancy.
+The area (+/-SE) under the evaluated receiver operating characteristic curve was 0.8328 +/- 0.0226.
+Three clinical and 3 radiographic characteristics predicted the malignancy in radiologically indeterminate SPNs.

@@ -1,0 +1,22 @@
+Title 
+Journal of the American Geriatrics Society
+
+Article Title 
+Subjective memory deterioration and future dementia in people aged 65 and older.
+Abstract Text 
+To study whether subjective memory deterioration is associated with future dementia in older people.
+A population-based prospective cohort study begun in 1994 with biennial follow-up interviews.
+Community-based members of Group Health Cooperative, a large health maintenance organization in the Seattle area.
+A sample of 1,883 subjects, dementia free, aged 65 and older, who scored 91 or higher on the 100-point Cognitive Ability Screening Instrument (CASI) at study entry.
+Subjective memory was assessed by asking whether memory had changed on 5-point Likert scales (e.g., 1=definitely improved, 3=no change, 5=definitely deteriorated) with regard to five items: remembering names, faces, friends, and appointments and judging the time.
+The items were summed for a possible total score ranging from 5 to 25. Subjective memory deterioration was defined as present if the total score was 20 or above.
+Cognitive performance was measured using the CASI.
+Incident dementia cases were identified using Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition criteria.
+Of 1,883 subjects, 126 developed dementia during 5 years of follow-up.
+Subjective memory deterioration was associated with cognitive decline and incident dementia.
+Age modified the association between subjective memory deterioration and future dementia.
+For persons reporting subjective memory deterioration at the ages of 70, 75, and 80, the hazard ratios of developing dementia were 6.0 (95% confidence interval (CI)=2.1-18),
+3.2 (95% CI=1.6-6.2) and 1.6 (95% CI=0.86-3.1),
+respectively.
+Subjective memory deterioration was found to precede the development of dementia in older people with normal cognitive screening results.
+These findings suggest that a high level of subjective memory deterioration in persons with normal objective cognitive function may identify a subset of individuals at greater risk for developing dementia.

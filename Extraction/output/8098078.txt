@@ -1,0 +1,11 @@
+Title 
+Lancet
+
+Article Title 
+First trimester topical tretinoin and congenital disorders.
+Abstract Text 
+We used information from the Group Health Cooperative of Puget Sound, Washington, USA, to evaluate the risk of birth defects in mothers exposed to topical tretinoin--a retinoid preparation used to treat acne--in the first trimester of pregnancy.
+We identified 215 women who delivered live or stillborn infants at Group Health Cooperative hospitals and who were exposed to topical tretinoin early in pregnancy, and 430 age-matched nonexposed women who delivered live or stillborn infants at the same hospitals.
+The prevalence of major anomalies among babies born to the exposed women was 1.9% and among babies born to the nonexposed women was 2.6%.
+The relative risk estimate for having a baby with a major congenital anomaly for exposed versus nonexposed women was 0.7 (95% CI 0.2-2.3).
+We conclude that topical tretinoin is not associated with an increased risk for major congenital disorders.

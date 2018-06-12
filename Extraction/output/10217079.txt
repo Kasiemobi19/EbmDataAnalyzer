@@ -1,0 +1,17 @@
+Title 
+Lancet
+
+Article Title 
+Screening for ovarian cancer: a pilot randomised controlled trial.
+Abstract Text 
+The value of screening for ovarian cancer is uncertain.
+We did a pilot randomised trial to assess multimodal screening with sequential CA 125 antigen and ultrasonography.
+Postmenopausal women aged 45 years or older were randomised to a control group (n=10,977) or screened group (n=10,958).
+Women randomised to screening were offered three annual screens that involved measurement of serum CA 125, pelvic ultrasonography if CA 125 was 30 U/mL or more, and referral for gynaecological opinion if ovarian volume was 8.8 mL or more on ultrasonography.
+All women were followed up to see whether they developed invasive epithelial cancers of the ovary or fallopian tube (index cancers).
+Of 468 women in the screened group with a raised CA 125, 29 were referred for a gynaecological opinion; screening detected an index cancer in six and 23 had false-positive screening results.
+The positive predictive value was 20.7%.
+During 7-year follow-up, ten further women with index cancers were identified in the screened group and 20 in the control group.
+Median survival of women with index cancers in the screened group was 72.9 months and in the control group was 41.8 months (p=0.0112).
+The number of deaths from an index cancer did not differ significantly between the control and screened groups (18 of 10,977 vs nine of 10,958, relative risk 2.0 [95% CI 0.78-5.13]).
+These results show that a multimodal approach to ovarian cancer screening in a randomised trial is feasible and justify a larger randomised trial to see whether screening affects mortality.

@@ -1,0 +1,19 @@
+Title 
+The Journal of clinical endocrinology and metabolism
+
+Article Title 
+Corticotropin tests for hypothalamic-pituitary- adrenal insufficiency: a metaanalysis.
+Abstract Text 
+The diagnostic value of tests for detecting hypothalamic-pituitary adrenal insufficiency (HPAI) is controversial.
+Our objective was to compare standard-dose and low-dose corticotropin tests for diagnosing HPAI.
+We searched the PubMed database from 1966-2006 for studies reporting diagnostic value of standard-dose or low-dose corticotropin tests, with patient-level data obtained from original investigators.
+Eligible studies had more than 10 patients.
+All subjects were evaluated because of suspicion for chronic HPAI, and patient-level data were available.
+We excluded studies with no accepted reference standard for HPAI (insulin hypoglycemia or metyrapone test) if test subjects were in the intensive care unit or if only normal healthy subjects were used as controls.
+We constructed receiver operator characteristic (ROC) curves using patient-level data from each study and then merged results to create summary ROC curves, adjusting for study size and cortisol assay method.
+Diagnostic value of tests was measured by calculating area under the ROC curve (AUC) and likelihood ratios.
+Patient-level data from 13 of 23 studies (57%; 679 subjects) were included in the metaanalysis.
+The AUC were as follows: low-dose corticotropin test, 0.92 (95% confidence interval 0.89-0.94),
+and standard-dose corticotropin test, 0.79 (95% confidence interval 0.74-0.84).
+Among patients with paired data (seven studies, 254 subjects), diagnostic value of low-dose corticotropin test was superior to standard-dose test (AUC 0.94 and 0.85, respectively; P<0.001).
+Low-dose corticotropin test was superior to standard-dose test for diagnosing chronic HPAI, although it has technical limitations.

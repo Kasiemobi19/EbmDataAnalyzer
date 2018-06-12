@@ -1,0 +1,15 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+Preliminary report: effect of encainide and flecainide on mortality in a randomized trial of arrhythmia suppression after myocardial infarction. The Cardiac Arrhythmia Suppression Trial (CAST) Investigators.
+Abstract Text 
+The occurrence of ventricular premature depolarizations in survivors of myocardial infarction is a risk factor for subsequent sudden death, but whether antiarrhythmic therapy reduces the risk is not known.
+The Cardiac Arrhythmia Suppression Trial (CAST) is evaluating the effect of antiarrhythmic therapy (encainide, flecainide, or moricizine) in patients with asymptomatic or mildly symptomatic ventricular arrhythmia (six or more ventricular premature beats per hour) after myocardial infarction.
+As of March 30, 1989, 2309 patients had been recruited for the initial drug-titration phase of the study: 1727 (75 percent) had initial suppression of their arrhythmia (as assessed by Holter recording) through the use of one of the three study drugs and had been randomly assigned to receive active drug or placebo.
+During an average of 10 months of follow-up, the patients treated with active drug had a higher rate of death from arrhythmia than the patients assigned to placebo.
+Encainide and flecainide accounted for the excess of deaths from arrhythmia and nonfatal cardiac arrests (33 of 730 patients taking encainide or flecainide [4.5 percent]; 9 of 725 taking placebo [1.2 percent]; relative risk, 3.6; 95 percent confidence interval, 1.7 to 8.5).
+They also accounted for the higher total mortality (56 of 730 [7.7 percent] and 22 of 725 [3.0 percent], respectively; relative risk, 2.5; 95 percent confidence interval, 1.6 to 4.5).
+Because of these results, the part of the trial involving encainide and flecainide has been discontinued.
+We conclude that neither encainide nor flecainide should be used in the treatment of patients with asymptomatic or minimally symptomatic ventricular arrhythmia after myocardial infarction, even though these drugs may be effective initially in suppressing ventricular arrhythmia.
+Whether these results apply to other patients who might be candidates for antiarrhythmic therapy is unknown.

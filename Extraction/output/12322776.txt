@@ -1,0 +1,14 @@
+Title 
+American family physician
+
+Article Title 
+The adult neck mass.
+Abstract Text 
+Family physicians frequently encounter neck masses in adult patients.
+A careful medical history should be obtained, and a thorough physical examination should be performed.
+The patient's age and the location, size, and duration of the mass are important pieces of information.
+Inflammatory and infectious causes of neck masses, such as cervical adenitis and cat-scratch disease, are common in young adults.
+Congenital masses, such as branchial anomalies and thyroglossal duct cysts, must be considered in the differential diagnosis.
+Neoplasms (benign and malignant) are more likely to be present in older adults.
+Fine-needle aspiration and biopsy and contrast-enhanced computed tomographic scanning are the best techniques for evaluating these masses.
+An otolaryngology consultation for endoscopy and possible excisional biopsy should be obtained when a neck mass persists beyond four to six weeks after a single course of a broad-spectrum antibiotic.

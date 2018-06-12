@@ -1,0 +1,16 @@
+Title 
+Sleep
+
+Article Title 
+A primary care "friendly" cognitive behavioral insomnia therapy.
+Abstract Text 
+This study was conducted to test the effectiveness of an abbreviated cognitive-behavioral insomnia therapy (ACBT) with primary
+     
+      A single-blind, randomized group design was used in which study patients were randomized to either a brief, 2-session ACBT or a similarly brief intervention (SHC) that included only generic sleep hygiene recommendations.
+A university-affiliated Department of Veterans Affairs medical center.
+Twenty (2 women) veteran patients (M(age) = 51.0 yrs., SD = 13.7 years) who met criteria for chronic primary insomnia.
+Participants completed sleep logs for 2 weeks and questionnaires to measures insomnia symptoms, sleep-related self-efficacy, and dysfunctional beliefs about sleep before treatment, during a 2-week posttreatment assessment, and again at a 3-month posttreatment follow-up.
+Statistical analyses showed that ACBT produced significantly larger improvements across a majority of outcome measures than did SHC.
+Case-by-case analyses showed that only the ACBT produced consistent positive effects across study patients, and a sizeable proportion of these patients receiving this treatment achieved clinically significant improvements by their study endpoints.
+Approximately 52% of those receiving the ACBT reported at least a 50% reduction in their wake time after sleep onset, and 55.6% of ACBT-treated patients who entered the study with pathologic scores on an Insomnia Symptom Questionnaire (ISQ), achieved normal ISQ scores by their final outcome assessment.
+ACBT is effective for reducing subjective sleep disturbance and insomnia symptoms in primary care patients.

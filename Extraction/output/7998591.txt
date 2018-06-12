@@ -1,0 +1,11 @@
+Title 
+American journal of epidemiology
+
+Article Title 
+Defining the perimenopause for application in epidemiologic investigations.
+Abstract Text 
+The authors present a method for defining the inception of perimenopause that is based on self-reported data.
+The study sample (n = 1,550) was obtained from a 5-year longitudinal study of 2,569 Massachusetts women aged 45-55 years that began in 1981.
+The definition was derived from the ability of responses to questions concerning timing of the last menstrual period, menstrual regularity, and presence of menopausal symptoms (hot flashes/sweats) to predict menopause 3 years later.
+The two items that best defined the inception of perimenopause were 3-11 months of amenorrhea and increased menstrual irregularity for those without amenorrhea.
+This definition can easily be used in large epidemiologic investigations.

@@ -1,0 +1,16 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+Interferon alfa-2b alone or in combination with ribavirin as initial treatment for chronic hepatitis C. Hepatitis Interventional Therapy Group.
+Abstract Text 
+Only 15 to 20 percent of patients with chronic hepatitis C have a sustained virologic response to interferon therapy.
+We compared the efficacy and safety of recombinant interferon alfa-2b alone with those of a combination of interferon alfa-2b and ribavirin for the initial treatment of patients with chronic hepatitis C.
+     
+      We randomly assigned 912 patients with chronic hepatitis C to receive standard-dose interferon alfa-2b alone or in combination with ribavirin (1000 or 1200 mg orally per day, depending on body weight) for 24 or 48 weeks.
+Efficacy was assessed by measurements of serum hepatitis C virus (HCV) RNA and serum aminotransferases and by liver biopsy.
+The rate of sustained virologic response (defined as an undetectable serum HCV RNA level 24 weeks after treatment was completed) was higher among patients who received combination therapy for either 24 weeks (70 of 228 patients, 31 percent) or 48 weeks (87 of 228 patients, 38 percent) than among patients who received interferon alone for either 24 weeks (13 of 231 patients, 6 percent) or 48 weeks (29 of 225 patients, 13 percent) (P<0.001 for the comparison of interferon alone with both 24 weeks and 48 weeks of combination treatment).
+Among patients with HCV genotype 1 infection, the best response occurred in those who were treated for 48 weeks with interferon and ribavirin.
+Histologic improvement was more common in patients who were treated with combination therapy for either 24 weeks (57 percent) or 48 weeks (61 percent) than in those who were treated with interferon alone for either 24 weeks (44 percent) or 48 weeks (41 percent).
+The drug doses had to be reduced and treatment discontinued more often in patients who were treated with combination therapy.
+In patients with chronic hepatitis C, initial therapy with interferon and ribavirin was more effective than treatment with interferon alone.

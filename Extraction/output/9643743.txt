@@ -1,0 +1,34 @@
+Title 
+Lancet
+
+Article Title 
+Complications of use of intrauterine devices among HIV-1-infected women.
+Abstract Text 
+A WHO expert group and the International Planned Parenthood Federation recommend against use of intrauterine devices (IUDs) in HIV-1-infected women based on theoretical concerns about pelvic infection and increased blood loss.
+We investigated whether the risk of complications after IUD insertion is higher in HIV-1-infected women than in non-infected women.
+649 (156 HIV-1 infected 493 non-infected) women in Nairobi, Kenya, who requested and met local eligibility criteria for insertion of an IUD were enrolled.
+We gathered information on IUD-related complications, including pelvic inflammatory disease, removals due to infection, pain, or bleeding, expulsions, and pregnancies at 1 and 4 months after insertion.
+Patients' HIV-1 status was masked from physicians.
+Complications were identified in 48 of 615 women (11 [7.6%] HIV-1-infected women, 37 [7.9%] non-infected).
+Incident pelvic inflammatory disease (two [1.4%] HIV-1 infected, one [0.2%]
+non-infected) and infection-related complications (any tenderness, removal of IUD for infection or pain; ten [6.9%] HIV-1 infected, 27 [5.7%]
+non-infected) were also rare and similar in the two groups.
+Complication rates were similar by CD4 (immune) status.
+Multivariate analyses suggested no association between HIV-1 infection and increased risks for overall complications (odds ratio 0.8 [95% CI 0.4-1.7])
+or infection-related complications (1.0 [0.5-2.3]),
+adjusted for marital status, study site, previous IUD use, ethnic origin, and frequency of sexual intercourse, but a slight increase cannot be ruled out.
+Our data suggest that IUDs may be a safe contraceptive method for appropriately selected HIV-1-infected women with continuing access to medical services.
+Both the International Planned Parenthood Federation and the World Health Organization have warned against use of IUDs in HIV-infected women due to theoretical concerns about pelvic infection and increased blood loss.
+No published studies have investigated this concern, however.
+The validity of this recommendation was investigated in a comparative study of 156 HIV-1-infected and 493 non-infected women from two public family planning clinics (Kenyatta National Hospital and Riruta City Clinic) in Nairobi, Kenya, who requested and met local eligibility criteria for IUD insertion.
+At 1 and 4 months after insertion, information was collected from physicians--blinded as to the patient's HIV status--on IUD-related complications such as pelvic inflammatory disease (PID), removals, expulsions, and pregnancies.
+Complications were identified in 11 (7.6%)
+HIV-positive and 37 (7.9%)
+HIV-negative women.
+There were only 3 incident cases of PID, 2 of which occurred in HIV-infected women.
+IUD removal due to pain or infection occurred in 10 (6.9%) HIV-infected and 27 (5.7%)
+noninfected women.
+There were no differences in overall IUD complications in HIV-1-infected women by CD4 status (severely, moderately, or mildly immunocompromised).
+After adjustment for marital status, study site, previous IUD use, ethnic origin, and frequency of sexual intercourse, multivariate analysis suggested no association between HIV-1 infection and increased risks for overall IUD-related complications (odds ratio (OR), 0.8; 95% confidence interval (CI), 0.4-1.7)
+or infection-related complications (OR, 1.0; 95% CI, 0.5-2.3).
+These findings suggest that the IUD may be a safe contraceptive method for appropriately selected HIV-infected women with continuing access to medical services.

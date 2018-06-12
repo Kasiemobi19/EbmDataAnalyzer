@@ -1,0 +1,14 @@
+Title 
+Best practice & research. Clinical gastroenterology
+
+Article Title 
+Screening for hepatocellular carcinoma.
+Abstract Text 
+There is currently no evidence that screening patients at risk for hepatocellular carcinoma reduces mortality from the disease.
+Nonetheless, screening is widely practiced.
+Screening is a process that includes selecting patients, applying screening tests, deciding on recall policies, and subsequently proving or disproving the presence of cancer.
+The literature on screening for hepatocellular carcinoma is confusing at best, and does not adequately consider the many biases that result from uncontrolled and retrospective studies.
+Nonetheless, screening can be justified because it is likely that mortality is decreased by adequate treatment of small cancers, particularly in the era of liver transplantation.
+False-positive screening test results are common.
+Once an abnormal screening result is obtained there is little guidance from the literature as to how patients should be investigated further, nor about how to determine whether the screening test result was a false-positive.
+This should at minimum include short interval follow-up with CT scans and MRI's.

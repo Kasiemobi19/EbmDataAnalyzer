@@ -1,0 +1,15 @@
+Title 
+Headache
+
+Article Title 
+A placebo-controlled crossover trial of nimodipine in pediatric migraine.
+Abstract Text 
+An 8-month, double-blind, placebo-controlled crossover trial was carried out on the use of nimodipine in migraine prophylaxis in 37 patients aged 7 to 18 years old.
+After a 4-week medication-free run-in period, 19 subjects (Group 1) received a placebo while 18 (Group 2) received nimodipine (10-20 mg t.i.d., according to body weight), for 12 weeks.
+After a 4-week wash-out period, the groups switched therapy for a further 12 weeks.
+30 patients completed the trial and the number of dropouts was comparable in the 2 groups.
+The only side-effect during nimodipine treatment was mild abdominal discomfort (3 cases).
+The treatments were evaluated on the basis of frequency and duration of attacks.
+There was a significant reduction in both parameters during the first period of treatment.
+During the second period of treatment, nimodipine proved to have a significantly greater effect than the placebo with regard to frequency, whereas the response was similar with the placebo as regards duration of attacks.
+The latter parameter shows a significant decrease during the treatment periods, regardless of type of therapy.

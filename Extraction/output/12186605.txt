@@ -1,0 +1,32 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Postmenopausal hormone replacement therapy: scientific review.
+Abstract Text 
+Although postmenopausal hormone replacement therapy (HRT) is widely used in the United States, new evidence about its benefits and harms requires reconsideration of its use for the primary prevention of chronic conditions.
+To assess the benefits and harms of HRT for the primary prevention of cardiovascular disease, thromboembolism, osteoporosis, cancer, dementia, and cholecystitis by reviewing the literature, conducting meta-analyses, and calculating outcome rates.
+All relevant English-language studies were identified in MEDLINE (1966-2001), HealthSTAR (1975-2001), Cochrane Library databases, and reference lists of key articles.
+Recent results of the Women's Health Initiative (WHI) and the Heart and Estrogen/progestin Replacement Study (HERS) are included for reported outcomes.
+We used all published studies of HRT if they contained a comparison group of HRT nonusers and reported data relating to HRT use and clinical outcomes of interest.
+Studies were excluded if the population was selected according to prior events or presence of conditions associated with higher risks for targeted outcomes.
+Meta-analyses of observational studies indicated summary relative risks (RRs) for coronary heart disease (CHD) incidence and mortality that were significantly reduced among current HRT users only, although risk for incidence was not reduced when only studies that controlled for socioeconomic status were included.
+The WHI reported increased CHD events (hazard ratio [HR], 1.29; 95% confidence interval [CI], 1.02-1.63).
+Stroke incidence but not mortality was significantly increased among HRT users in the meta-analysis and the WHI.
+The meta-analysis indicated that risk was significantly elevated for thromboembolic stroke (RR, 1.20; 95% CI, 1.01-1.40)
+but not subarachnoid or intracerebral stroke.
+Risk of venous thromboembolism among current HRT users was increased overall (RR, 2.14; 95% CI, 1.64-2.81)
+and was highest during the first year of use (RR, 3.49; 95% CI, 2.33-5.59)
+according to a meta-analysis of 12 studies.
+Protection against osteoporotic fractures is supported by a meta-analysis of 22 estrogen trials, cohort studies, results of the WHI, and trials with bone density outcomes.
+Current estrogen users have an increased risk of breast cancer that increases with duration of use.
+Endometrial cancer incidence, but not mortality, is increased with unopposed estrogen use but not with estrogen with progestin.
+A meta-analysis of 18 observational studies showed a 20% reduction in colon cancer incidence among women who had ever used HRT (RR, 0.80; 95% CI, 0.74-0.86),
+a finding supported by the WHI.
+Women symptomatic from menopause had improvement in certain aspects of cognition.
+Current studies of estrogen and dementia are not definitive.
+In a cohort study, current HRT users had an age-adjusted RR for cholecystitis of 1.8 (95% CI, 1.6-2.0),
+increasing to 2.5 (95% CI, 2.0-2.9)
+after 5 years of use.
+Benefits of HRT include prevention of osteoporotic fractures and colorectal cancer, while prevention of dementia is uncertain.
+Harms include CHD, stroke, thromboembolic events, breast cancer with 5 or more years of use, and cholecystitis.

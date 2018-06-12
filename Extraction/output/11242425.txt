@@ -1,0 +1,20 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Promotion of Breastfeeding Intervention Trial (PROBIT): a randomized trial in the Republic of Belarus.
+Abstract Text 
+Current evidence that breastfeeding is beneficial for infant and child health is based exclusively on observational studies.
+Potential sources of bias in such studies have led to doubts about the magnitude of these health benefits in industrialized countries.
+To assess the effects of breastfeeding promotion on breastfeeding duration and exclusivity and gastrointestinal and respiratory infection and atopic eczema among infants.
+The Promotion of Breastfeeding Intervention Trial (PROBIT), a cluster-randomized trial conducted June 1996-December 1997 with a 1-year follow-up.
+Thirty-one maternity hospitals and polyclinics in the Republic of Belarus.
+A total of 17 046 mother-infant pairs consisting of full-term singleton infants weighing at least 2500 g and their healthy mothers who intended to breastfeed, 16491 (96.7%) of which completed the entire 12 months of follow-up.
+Sites were randomly assigned to receive an experimental intervention (n = 16) modeled on the Baby-Friendly Hospital Initiative of the World Health Organization and United Nations Children's Fund, which emphasizes health care worker assistance with initiating and maintaining breastfeeding and lactation and postnatal breastfeeding support, or a control intervention (n = 15) of continuing usual infant feeding practices and policies.
+Duration of any breastfeeding, prevalence of predominant and exclusive breastfeeding at 3 and 6 months of life and occurrence of 1 or more episodes of gastrointestinal tract infection, 2 or more episodes of respiratory tract infection, and atopic eczema during the first 12 months of life, compared between the intervention and control groups.
+Infants from the intervention sites were significantly more likely than control infants to be breastfed to any degree at 12 months (19.7% vs 11.4%; adjusted odds ratio [OR], 0.47; 95% confidence interval [CI], 0.32-0.69),
+were more likely to be exclusively breastfed at 3 months (43.3% vs 6.4%; P<.001) and at 6 months (7.9% vs 0.6%; P =.01), and had a significant reduction in the risk of 1 or more gastrointestinal tract infections (9.1% vs 13.2%; adjusted OR, 0.60; 95% CI, 0.40-0.91)
+and of atopic eczema (3.3% vs 6.3%; adjusted OR, 0.54; 95% CI, 0.31-0.95),
+but no significant reduction in respiratory tract infection (intervention group, 39.2%; control group, 39.4%; adjusted OR, 0.87; 95% CI, 0.59-1.28).
+Our experimental intervention increased the duration and degree (exclusivity) of breastfeeding and decreased the risk of gastrointestinal tract infection and atopic eczema in the first year of life.
+These results provide a solid scientific underpinning for future interventions to promote breastfeeding.

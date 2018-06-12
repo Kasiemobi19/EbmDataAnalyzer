@@ -1,0 +1,12 @@
+Title 
+Clinical pediatrics
+
+Article Title 
+Comparison of polyethylene glycol 3350 and lactulose for treatment of chronic constipation in children.
+Abstract Text 
+Polyethylene glycol (PEG) 3350 and lactulose were compared in an unblinded, randomized, crossover design for treatment of constipation in 37 children aged 2 to 16 years.
+Subjects received lactulose (1.3 g/kg/d divided twice daily up to 20 g) or PEG 3350 (10 g/m2/day) for 2 weeks.
+PEG 3350 significantly decreased the total colonic transit time compared to lactulose (47.6+/-2.7 vs 55.3+/-2.4
+hours, mean +/- SE, PEG 3350 vs lactulose, respectively, p = 0.038).
+The stool frequency, form, and the ease of passage were similar for each laxative.
+Polyethylene glycol 3350 is an effective laxative for the treatment of chronic constipation in children.

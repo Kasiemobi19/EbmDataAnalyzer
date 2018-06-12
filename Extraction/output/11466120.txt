@@ -1,0 +1,27 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Albuminuria and risk of cardiovascular events, death, and heart failure in diabetic and nondiabetic individuals.
+Abstract Text 
+Microalbuminuria is a risk factor for cardiovascular (CV) events.
+The relationship between the degree of albuminuria and CV risk is unclear.
+To estimate the risk of CV events in high-risk individuals with diabetes mellitus (DM) and without DM who have microalbuminuria and to determine whether levels of albuminuria below the microalbuminuria threshold increase CV risk.
+The Heart Outcomes Prevention Evaluation study, a cohort study conducted between 1994 and 1999 with a median 4.5 years of follow-up.
+Community and academic practices in North and South America and Europe.
+Individuals aged 55 years or more with a history of CV disease (n = 5545) or DM and at least 1 CV risk factor (n = 3498) and a baseline urine albumin/creatinine ratio (ACR) measurement.
+Cardiovascular events (myocardial infarction, stroke, or CV death); all-cause death; and hospitalization for congestive heart failure.
+Microalbuminuria was detected in 1140 (32.6%) of those with DM and 823 (14.8%) of those without DM at baseline.
+Microalbuminuria increased the adjusted relative risk (RR) of major CV events (RR, 1.83; 95% confidence interval [CI], 1.64-2.05),
+all-cause death (RR, 2.09; 95% CI, 1.84-2.38),
+and hospitalization for congestive heart failure (RR, 3.23; 95% CI, 2.54-4.10).
+Similar RRs were seen for participants with or without DM, even after adjusting for other CV risk factors (eg, the adjusted RR of the primary aggregate end point was 1.97 [95% CI, 1.68-2.31] in those with DM and 1.61 [95% CI, 1.36-1.90] in those without DM).
+Compared with the lowest quartile of ACR (<0.22 mg/mmol), the RRs of the primary aggregate end point in the second quartile (ie, ACR range, 0.22-0.57
+mg/mmol) was 1.11 (95% CI, 0.95-1.30);
+third quartile, 1.38 (95% CI, 1.19-1.60;
+ACR range, 0.58-1.62
+mg/mmol); and fourth quartile, 1.97 (95% CI, 1.73-2.25;
+ACR range, >1.62 mg/mmol) (P for trend <.001, even after excluding those with microalbuminuria).
+For every 0.4-mg/mmol increase in ACR level, the adjusted hazard of major CV events increased by 5.9% (95% CI, 4.9%-7.0%).
+Our results indicate that any degree of albuminuria is a risk factor for CV events in individuals with or without DM; the risk increases with the ACR, starting well below the microalbuminuria cutoff.
+Screening for albuminuria identifies people at high risk for CV events.

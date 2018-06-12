@@ -1,0 +1,21 @@
+Title 
+Neurology
+
+Article Title 
+Ten-year follow-up of three different initial treatments in de-novo PD: a randomized trial.
+Abstract Text 
+The long-term effectiveness of three different initial drug regimes in patients with early, mild PD was evaluated by the PD Research Group of the United Kingdom (PDRGUK).
+In 1995, the selegiline arm of the trial was terminated following an interim analysis.
+This was an open, randomized trial.
+Between 1985 and 1990, 782 patients with de-novo PD were recruited and randomized to one of three treatment arms: levodopa plus dopa decarboxylase inhibitor; levodopa plus decarboxylase inhibitor and selegiline; or bromocriptine.
+The main endpoints were mortality, disability, and adverse events.
+Intention-to-treat analysis was used.
+There was no significant difference in mortality between the bromocriptine and the levodopa arms (hazard ratio 1.15 [95% CI 0.90, 1.47]).
+Patients initially randomized to bromocriptine had slightly worse disability scores throughout follow-up.
+This difference was significant during the first years.
+Patients in the bromocriptine arm returned to pretreatment disability levels one year earlier than those in the levodopa arm.
+Patients randomized to bromocriptine had a significantly lower incidence of dyskinesias than those randomized to levodopa (rate ratio 0.73 [95% CI 0.57, 0.93]).
+However, this difference was not significant when only moderate to severe dyskinesias were considered.
+Patients in the bromocriptine arm had slightly lower rates of dystonias and on-off fluctuations, but moderate and severe forms were equally frequent in both arms.
+Starting treatment with the dopamine agonist bromocriptine does not reduce mortality in PD.
+A slightly lower incidence of motor complications is achieved at the expense of significantly worse disability scores throughout the first years of therapy.

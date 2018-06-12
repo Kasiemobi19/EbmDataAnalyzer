@@ -1,0 +1,18 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+Long-term, low-intensity warfarin therapy for the prevention of recurrent venous thromboembolism.
+Abstract Text 
+Standard therapy to prevent recurrent venous thromboembolism includes 3 to 12 months of treatment with full-dose warfarin with a target international normalized ratio (INR) between 2.0 and 3.0.
+However, for long-term management, no therapeutic agent has shown an acceptable benefit-to-risk ratio.
+Patients with idiopathic venous thromboembolism who had received full-dose anticoagulation therapy for a median of 6.5 months were randomly assigned to placebo or low-intensity warfarin (target INR, 1.5 to 2.0).
+Participants were followed for recurrent venous thromboembolism, major hemorrhage, and death.
+The trial was terminated early after 508 patients had undergone randomization and had been followed for up to 4.3 years (mean, 2.1).
+Of 253 patients assigned to placebo, 37 had recurrent venous thromboembolism (7.2 per 100 person-years), as compared with 14 of 255 patients assigned to low-intensity warfarin (2.6 per 100 person-years), a risk reduction of 64 percent (hazard ratio, 0.36 [95 percent confidence interval, 0.19 to 0.67]; P<0.001).
+Risk reductions were similar for all subgroups, including those with and those without inherited thrombophilia.
+Major hemorrhage occurred in two patients assigned to placebo and five assigned to low-intensity warfarin (P=0.25).
+Eight patients in the placebo group and four in the group assigned to low-intensity warfarin died (P=0.26).
+Low-intensity warfarin was thus associated with a 48 percent reduction in the composite end point of recurrent venous thromboembolism, major hemorrhage, or death.
+According to per-protocol and as-treated analyses, the reduction in the risk of recurrent venous thromboembolism was between 76 and 81 percent.
+Long-term, low-intensity warfarin therapy is a highly effective method of preventing recurrent venous thromboembolism.

@@ -1,0 +1,14 @@
+Title 
+Journal of anxiety disorders
+
+Article Title 
+Identifying PTSD in primary care: comparison of the Primary Care-PTSD screen (PC-PTSD) and the General Health Questionnaire-12 (GHQ).
+Abstract Text 
+The aim of this study was to compare the PC-PTSD and GHQ-12 in detecting new cases of PTSD among primary care patients.
+Data on the PC-PTSD, GHQ-12 and psychiatric diagnoses was extracted from clinical databases for 11,230 VA primary care patients.
+Signal detection analyses and likelihood ratios were used to compare screens.
+Logistic regression analysis was used to examine the prediction of PTSD by the PC-PTSD after controlling for the GHQ.
+The PC-PTSD had a higher positive predictive value than the GHQ (41 percent vs. 31 percent).
+Combining positive results on the two screens in predicting PTSD yielded the highest likelihood ratio (LR=17.3)
+compared to a positive result on the PC-PTSD only (LR=8.3) or the GHQ only (LR=4.6).
+The PC-PTSD performed slightly better than the GHQ and provided unique information in identifying PTSD, suggesting that disorder specific screens are important to use in primary care settings.

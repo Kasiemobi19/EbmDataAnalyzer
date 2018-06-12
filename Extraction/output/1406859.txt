@@ -1,0 +1,19 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+Warfarin in the prevention of stroke associated with nonrheumatic atrial fibrillation. Veterans Affairs Stroke Prevention in Nonrheumatic Atrial Fibrillation Investigators.
+Abstract Text 
+Nonrheumatic atrial fibrillation is common among the elderly and is associated with an increased risk of stroke.
+We investigated whether anticoagulation with warfarin would reduce this risk.
+We conducted a randomized, double-blind, placebo-controlled study to evaluate low-intensity anticoagulation with warfarin (prothrombin-time ratio, 1.2 to 1.5) in 571 men with chronic nonrheumatic atrial fibrillation; 525 patients had not previously had a cerebral infarction, whereas 46 patients had previously had such an event.
+The primary end point was cerebral infarction; secondary end points were cerebral hemorrhage and death.
+Among the patients with no history of stroke, cerebral infarction occurred in 19 of the 265 patients in the placebo group during an average follow-up of 1.7 years (4.3 percent per year) and in 4 of the 260 patients in the warfarin group during an average follow-up of 1.8 years (0.9 percent per year).
+The reduction in risk with warfarin therapy was 0.79 (95 percent confidence interval, 0.52 to 0.90; P = 0.001).
+The annual event rate among the 228 patients over 70 years of age was 4.8 percent in the placebo group and 0.9 percent in the warfarin group (risk reduction, 0.79; P = 0.02).
+The only cerebral hemorrhage occurred in a 73-year-old patient in the warfarin group.
+Other major hemorrhages, all gastrointestinal, occurred in 10 patients: 4 in the placebo group, for a rate of 0.9 percent per year, and 6 in the warfarin group, for a rate of 1.3 percent per year.
+There were 37 deaths that were not preceded by a cerebral end point--22 in the placebo group and 15 in the warfarin group (risk reduction, 0.31; P = 0.19).
+Cerebral infarction was more common among patients with a history of cerebral infarction (9.3 percent per year in the placebo group and 6.1 percent per year in the warfarin group) than among those without such a history.
+Low-intensity anticoagulation with warfarin prevented cerebral infarction in patients with nonrheumatic atrial fibrillation without producing an excess risk of major hemorrhage.
+This benefit extended to patients over 70 years of age.

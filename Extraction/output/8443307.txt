@@ -1,0 +1,16 @@
+Title 
+Clinical infectious diseases : an official publication of the Infectious Diseases Society of America
+
+Article Title 
+Pertussis in Missouri: evaluation of nasopharyngeal culture, direct fluorescent antibody testing, and clinical case definitions in the diagnosis of pertussis.
+Abstract Text 
+No diagnostic test for pertussis in routine use in the United States has both high sensitivity and high specificity.
+During a statewide increase in the incidence of pertussis in Missouri, we studied the clinical features of 153 patients with suspected pertussis in the Greater St. Louis area from whom a specimen for pertussis culture had been taken between 15 May and 19 September 1989.
+In this cross-sectional study, nasopharyngeal cultures were more likely to be positive for persons whose specimens were collected < 21 days after cough onset (adjusted rate ratio [RRa] and 95% confidence interval = 3.4; 1.5-8.0)
+and who were not receiving erythromycin/sulfamethoxazole prior to the culture [RRa = 5.8; 0.8-40.6],
+who had received fewer than three prior doses of pertussis vaccine [RRa = 1.8; 0.8-4.2],
+and whose specimen was in transit to the laboratory for < 4 days [RRa = 2.0; 0.8-5.5].
+Among children < 5 years of age, spasmodic cough plus a lymphocytosis of > 10,000/mm3 was the acute symptom complex associated with the highest predictive value for a positive culture result (67%).
+Cough for > or = 14 days plus whoop was sensitive (81%) and specific (58%) for identifying children with culture-confirmed pertussis.
+Direct fluorescent antibody staining performed well as a screening test for pertussis but requires substantial commitment of personnel and resources.
+In the absence of a positive culture result, clinical case definitions should be used for decision making (e.g., initiation of antimicrobial therapy and routine case reporting).

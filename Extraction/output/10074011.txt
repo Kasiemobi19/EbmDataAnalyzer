@@ -1,0 +1,20 @@
+Title 
+BMJ (Clinical research ed.)
+
+Article Title 
+Iron supplemented formula milk related to reduction in psychomotor decline in infants from inner city areas: randomised study.
+Abstract Text 
+To compare the effect of unmodified cows' milk and iron supplemented formula milk on psychomotor development in infants from inner city areas when used as the main milk source.
+Double blind, randomised intervention trial.
+Birmingham health centre.
+100 infants, mean age 7.8 months (range 5.7 to 8.6 months), whose mothers had already elected to use unmodified cows' milk as their infant's milk source.
+Changing to an iron supplemented formula milk from enrolment to 18 months of age, or continuing with unmodified cows' milk.
+Developmental assessments using Griffiths scales at enrolment and at 18 and 24 months.
+85 participants completed the trial.
+There were no significant differences in haemoglobin concentration between the two groups at enrolment, but by 18 months of age 33% of the unmodified cows' milk group, but only 2% of the iron supplemented group, were anaemic (P<0.001).
+The experimental groups had Griffiths general quotient scores that were not significantly different at enrolment, but the scores in both groups declined during the study.
+By 24 months the decrease in the mean scores in the unmodified cows' milk group was 14.7 whereas the decrease in the mean scores in the iron supplemented group was 9.3 (P<0.02,
+95% confidence interval 0.4 to 10.4).
+Mean subquotient scores were considerably lower in the unmodified cows' milk group at 24 months; significantly so for personal and social scores (P<0.02,
+1.2 to 16.8 [corrected]).
+Replacing unmodified cows' milk with an iron supplemented formula milk up to 18 months of age in infants from inner city areas prevents iron deficiency anaemia and reduces the decline in psychomotor development seen in such infants from the second half of the first year.

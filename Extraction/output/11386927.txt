@@ -1,0 +1,16 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Effect of ramipril vs amlodipine on renal outcomes in hypertensive nephrosclerosis: a randomized controlled trial.
+Abstract Text 
+Incidence of end-stage renal disease due to hypertension has increased in recent decades, but the optimal strategy for treatment of hypertension to prevent renal failure is unknown, especially among African Americans.
+To compare the effects of an angiotensin-converting enzyme (ACE) inhibitor (ramipril), a dihydropyridine calcium channel blocker (amlodipine), and a beta-blocker (metoprolol) on hypertensive renal disease progression.
+Interim analysis of a randomized, double-blind, 3 x 2 factorial trial conducted in 1094 African Americans aged 18 to 70 years with hypertensive renal disease (glomerular filtration rate [GFR] of 20-65 mL/min per 1.73 m(2)) enrolled between February 1995 and September 1998.
+This report compares the ramipril and amlodipine groups following discontinuation of the amlodipine intervention in September 2000.
+Participants were randomly assigned to receive amlodipine, 5 to 10 mg/d (n = 217), ramipril, 2.5 to 10 mg/d (n = 436), or metoprolol, 50 to 200 mg/d (n = 441), with other agents added to achieve 1 of 2 blood pressure goals.
+The primary outcome measure was the rate of change in GFR; the main secondary outcome was a composite index of the clinical end points of reduction in GFR of more than 50% or 25 mL/min per 1.73 m(2), end-stage renal disease, or death.
+Among participants with a urinary protein to creatinine ratio of >0.22 (corresponding approximately to proteinuria of more than 300 mg/d), the ramipril group had a 36% (2.02 [SE, 0.74] mL/min per 1.73 m(2)/y) slower mean decline in GFR over 3 years (P =.006) and a 48% reduced risk of the clinical end points vs the amlodipine group (95% confidence interval [CI], 20%-66%).
+In the entire cohort, there was no significant difference in mean GFR decline from baseline to 3 years between treatment groups (P =.38).
+However, compared with the amlodipine group, after adjustment for baseline covariates the ramipril group had a 38% reduced risk of clinical end points (95% CI, 13%-56%), a 36% slower mean decline in GFR after 3 months (P =.002), and less proteinuria (P<.001).
+Ramipril, compared with amlodipine, retards renal disease progression in patients with hypertensive renal disease and proteinuria and may offer benefit to patients without proteinuria.

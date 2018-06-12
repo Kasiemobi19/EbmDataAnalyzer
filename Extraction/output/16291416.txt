@@ -1,0 +1,21 @@
+Title 
+Clinical therapeutics
+
+Article Title 
+Efficacy and safety of biphasic insulin aspart 30 combined with pioglitazone in type 2 diabetes poorly controlled on glibenclamide (glyburide) monotherapy or combination therapy: an 18-week, randomized, open-label study.
+Abstract Text 
+Few large randomized controlled trials have assessed the value of adding insulin to an oral antidiabetic drug regimen.
+This trial compared the efficacy and safety of biphasic insulin aspart 30/70 (BIAsp 30) plus pioglitazone (n = 93), glibenclamide (glyburide) plus pioglitazone (n = 91), or BIAsp 30 monotherapy (n = 97).
+This 18-week, multinational, multicenter, randomized, open-label, parallel-group trial involved 281 patients with type 2 diabetes (60% male; mean age, 56 years; mean body mass index, 29.5 kg/m2) with inadequate glycemic control (mean glycosylated hemoglobin [HbA(1c)], 9.5%; range, 7.4%-14.7%)
+on glibenclamide monotherapy or combination therapy.
+The primary objective was to compare end-of-trial HbA(1c) among the 3 treatment groups.
+Fasting and mean 7- and 8-point blood glucose profiles, blood lipid levels, plasminogen activator inhibitor levels, adverse events, and hypoglycemia frequency were also compared.
+Patients using BIAsp 30 (alone or with pioglitazone) were injected twice daily (immediately before breakfast and dinner).
+Pioglitazone (30 mg/d) and glibenclamide (5-15 mg/d) were taken orally once daily with or immediately after breakfast.
+At the end of the trial, HbA(1c) was significantly lower for the BIAsp 30 plus pioglitazone group than for the glibenclamide plus pioglitazone group (mean [SD], -0.64% [0.23%]; P = 0.005) and the BIAsp 30 monotherapy group (-0.60% [0.22%]; P = 0.008).
+Mean (SD) fasting blood glucose (before breakfast) was significantly lower for BIAsp 30 plus pioglitazone than for glibenclamide plus pioglitazone (153 [45] mg/dL vs 169 [65] mg/dL, respectively; P = 0.012).
+Each time point on the 8-point blood glucose profile was lower for BIAsp 30 plus pioglitazone than for glibenclamide plus pioglitazone (P < 0.001 to P < 0.05).
+No major hypoglycemic episodes were reported, and the absolute rate of hypoglycemic events was low (<1 event/patient-week) in the BIAsp-only group.
+Edema was reported in < or =9% of patients in each treatment group, but no occurrence was classified as serious.
+Weight gain (mean, 4.0 kg) was more common in the BIAsp plus pioglitazone group (8%); however, this was consistent with improved glycemic control and is similar to that reported in other pioglitazone trials.
+BIAsp 30 plus pioglitazone provided an efficacious and well-tolerated treatment alternative to glibenclamide plus pioglitazone or BIAsp 30 alone in this population of patients who previously were not well controlled on glibenclamide monotherapy or combination therapy.

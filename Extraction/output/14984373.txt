@@ -1,0 +1,15 @@
+Title 
+Alimentary pharmacology & therapeutics
+
+Article Title 
+Treatment of irritable bowel syndrome with herbal preparations: results of a double-blind, randomized, placebo-controlled, multi-centre trial.
+Abstract Text 
+Herbal medications have been used in many countries for the treatment of patients with irritable bowel syndrome.
+Controlled data supporting the efficacy of these treatments in patients with irritable bowel syndrome are lacking.
+To assess the efficacy and safety of a commercially available herbal preparation (STW 5) (nine plant extracts), the research herbal preparation STW 5-II (six plant extracts) and the bitter candytuft mono-extract in patients with irritable bowel syndrome.
+Two hundred and eight patients with irritable bowel syndrome were recruited after standardized diagnostic work-up into a double-blind, placebo-controlled, multi-centre trial and were randomly assigned to receive one of four treatments: commercially available herbal preparation STW 5 (n = 51), research herbal preparation STW 5-II (n = 52), bitter candytuft mono-extract (n = 53) or placebo (n = 52).
+The main outcome variables were the changes in total abdominal pain and irritable bowel syndrome symptom scores.
+Two hundred and three patients completed the trial.
+STW 5 and STW 5-II were significantly better than placebo in reducing the total abdominal pain score (intention-to-treat: STW 5, P = 0.0009; STW 5-II, P = 0.0005) and the irritable bowel syndrome symptom score (intention-to-treat: STW 5, P = 0.001; STW 5-II, P = 0.0003) at 4 weeks.
+There were no statistically significant differences between the bitter candytuft mono-extract group and the placebo group (P = 0.1473, P = 0.1207).
+The commercially available herbal preparation STW 5 and its research preparation STW 5-II are both effective in alleviating irritable bowel syndrome symptoms.

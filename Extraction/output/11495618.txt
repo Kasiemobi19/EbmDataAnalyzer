@@ -1,0 +1,20 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Risk factors for meningococcal disease in college students.
+Abstract Text 
+Elevated rates of meningococcal disease were noted among 18- to 22-year-olds in the mid-1990s.
+However, national data on rates of meningococcal disease in US college students were not collected until 1998.
+To determine rates of meningococcal disease in US college students and to identify risk factors for meningococcal disease in this population.
+Prospective surveillance study with nested case-control study of US college students with meningococcal infection from September 1, 1998, to August 31, 1999.
+Fifty state health departments and 231 college health centers participated.
+Incidence of and risk factors for meningococcal disease in US college students.
+Ninety-six cases of meningococcal disease were identified.
+The incidence rate for undergraduates was 0.7 per 100 000 persons vs 1.4 per 100 000 for the general population of 18- to 23-year-old nonstudents (P<.001).
+Freshmen living in dormitories had the highest incidence rate at 5.1 per 100 000.
+Of the 79 case-patients for whom information was available, 54 (68%) had illness due to vaccine-preventable meningococcal serogroups.
+On multivariable analysis of case-control study data, freshmen who lived in dormitories had an elevated risk of meningococcal disease (matched odds ratio, 3.6; 95% confidence interval, 1.6-8.5;
+P =.003) compared with other college students.
+Freshmen who live in dormitories have an independent, elevated risk of meningococcal disease compared with other college students.
+Use of the currently available quadrivalent polysaccharide vaccine among college students could substantially decrease their risk of meningococcal disease.

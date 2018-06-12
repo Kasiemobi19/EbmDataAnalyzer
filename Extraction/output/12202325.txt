@@ -1,0 +1,19 @@
+Title 
+BMJ (Clinical research ed.)
+
+Article Title 
+Local treatments for cutaneous warts: systematic review.
+Abstract Text 
+To assess the evidence for the efficacy of local treatments for cutaneous warts.
+Systematic review of randomised controlled trials.
+Total clearance of warts and adverse effects such as irritation, pain, and blistering.
+Randomised controlled trials of any local treatment for uncomplicated cutaneous warts.
+All published and unpublished material was considered, with no restriction on date or language.
+50 included trials provided generally weak evidence because of poor methods and reporting.
+The best evidence was for topical treatments containing salicylic acid.
+Data pooled from six placebo controlled trials showed a cure rate of 75% (144 of 191) in cases compared with 48% (89 of 185) in controls (odds ratio 3.91, 95% confidence interval 2.40 to 6.36).
+Some evidence for the efficacy of contact immunotherapy was provided by two small trials comparing dinitrochlorobenzene with placebo.
+Evidence for the efficacy of cryotherapy was limited.
+No consistent evidence was found for the efficacy of intralesional bleomycin, and only limited evidence was found for the efficacy of topical fluorouracil, intralesional interferons, photodynamic therapy, and pulsed dye laser.
+Reviewed trials of local treatments for cutaneous warts were highly variable in methods and quality, and there was a paucity of evidence from randomised, placebo controlled trials on which to base the rational use of the treatments.
+There is good evidence that topical treatments containing salicylic acid have a therapeutic effect and some evidence for the efficacy of dinitrochlorobenzene. Less evidence was found for the efficacy of all the other treatments reviewed, including cryotherapy.

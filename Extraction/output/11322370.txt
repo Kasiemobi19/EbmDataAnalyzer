@@ -1,0 +1,24 @@
+Title 
+Pediatric nephrology (Berlin, Germany)
+
+Article Title 
+The underlying diseases and follow-up in Taiwanese children screened by urinalysis.
+Abstract Text 
+To date, the underlying diseases and follow-up of Taiwanese children screened by urinalysis have not been reported.
+The grading of urine abnormalities varied from grade A (microscopic hematuria only), grade B (light proteinuria only), grade C (light proteinuria and microscopic hematuria) to grade D (heavy proteinuria).
+From January 1991 to August 1998, 630 students, aged 6-15 years and with positive urinary screening, were admitted to our hospital for further evaluation.
+Of these, 573 students had confirmed abnormal findings, 298 were boys, 275 were girls, and 294 students received a renal biopsy and have had regular follow-up visits.
+This study was designed to retrospectively elucidate: (1) the relationship between grading of urine abnormality and underlying disease; (2) the relationships among hypertension, grading of urine abnormality, and underlying disease; (3) the underlying disease of low serum C3 level; and (4) to determine whether urinary screening progressively decreased the number of students with end-stage renal disease (ESRD) annually.
+The results show that glomerular nephritis (GN) is still one of the major causes of urinary abnormalities.
+The most-important secondary GN was systemic lupus erythematosus (SLE) with lupus nephritis.
+One-quarter of the patients fulfilled at least four of the revised American Rheumatology Association (ARA) criteria for SLE at first administration, while the others who fulfilled only two to three of the revised ARA criteria had gradually developing signs and symptoms of SLE at follow-up.
+The percentage of SLE patients amongst anti-nuclear antibody (ANA) positive children was 72%.
+Membranoproliferative GN is very rare.
+The distribution of hypertension was 8.2% in grade A, 10.7% in grade B, 9.7% in grade C, and 28.9% in grade D urinary abnormality.
+There were statistical differences between grade D and either grade A or B or C (P<0.05).
+Lower serum C3 levels were found only in a minority of patients, including those with SLE.
+In this series, focal segmental glomerular sclerosis (FSGS) and active class IV lupus nephritis patients were found early enough to receive methylprednisolone pulse plus cyclosporine A therapy.
+To date there have been only 2 cases (5%) of FSGS with impaired renal function, and none of the lupus nephritis patients are in the predialysis stage.
+In conclusion, GN is still the major cause of urinary screening abnormality.
+ANA study is indicated in all Chinese students with abnormal urinary screening.
+The correlations between the severity of proteinuria and hypertension showed more-severe proteinuria in patients with nephritis as well as in those with hypertension.

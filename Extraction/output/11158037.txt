@@ -1,0 +1,18 @@
+Title 
+The Journal of clinical endocrinology and metabolism
+
+Article Title 
+Longitudinal effects of aging on serum total and free testosterone levels in healthy men. Baltimore Longitudinal Study of Aging.
+Abstract Text 
+Many studies have shown cross-sectional (and two small studies, longitudinal) declines in total and/or free testosterone (T) levels, with age, in men.
+The extent to which decline in T is the result of the aging process per se, as opposed to chronic illness, medication use, and other age-related factors, remains controversial.
+The frequency with which aging leads to T levels consistent with hypogonadism has also not been defined.
+These issues bear on the potential use of T replacement in aging men, because aging and hypogonadism have, in common, reduced bone and lean body mass and muscle strength and increased total and abdominal fat.
+We measured T and sex hormone-binding globulin (SHBG), by RIA, in stored samples from 890 men in the Baltimore Longitudinal Study on Aging.
+Using a mixed-effects model, we found independent effects of age and date of sampling to reduce T levels.
+After compensating for date effects, which investigation suggested was artifactual, we observed significant, independent, age-invariant, longitudinal effects of age on both T and free T index (free T index = T/SHBG), with an average change of -0.124 nmol/L.yr
+and -0.0049 nmol T/nmol SHBG.yr.
+T, but not free T index, also decreased with increasing body mass index.
+Use of beta-blocking drugs was associated with higher T and higher free T index levels.
+Using total T criteria, incidence of hypogonadal T levels increased to about 20% of men over 60, 30% over 70 and 50% over 80 yr of age, and even greater percentages when free T index criteria were employed.
+Our observations of health factor independent, age-related longitudinal decreases in T and free T, resulting in a high frequency of hypogonadal values, suggest that further investigation of T replacement in aged men, perhaps targeted to those with the lowest serum T concentrations, are justified.

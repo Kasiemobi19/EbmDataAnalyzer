@@ -1,0 +1,16 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+A comparison of sucralfate and ranitidine for the prevention of upper gastrointestinal bleeding in patients requiring mechanical ventilation. Canadian Critical Care Trials Group.
+Abstract Text 
+Critically ill patients who require mechanical ventilation are at increased risk for gastrointestinal bleeding from stress ulcers.
+There are conflicting data on the effect of histamine H2-receptor antagonists and the cytoprotective agent sucralfate on rates of gastrointestinal bleeding, ventilator-associated pneumonia, and mortality.
+In a multicenter, randomized, blinded, placebo-controlled trial, we compared sucralfate with the H2-receptor antagonist ranitidine for the prevention of upper gastrointestinal bleeding in 1200 patients who required mechanical ventilation.
+Patients received either nasogastric sucralfate suspension (1 g every six hours) and an intravenous placebo or intravenous ranitidine (50 mg every eight hours) and a nasogastric placebo.
+The patients in the two groups had similar base-line characteristics.
+Clinically important gastrointestinal bleeding developed in 10 of 596 (1.7 percent) of the patients receiving ranitidine, as compared with 23 of 604 (3.8 percent) of those receiving sucralfate (relative risk, 0.44; 95 percent confidence interval, 0.21 to 0.92; P=0.02).
+In the ranitidine group, 114 of 596 patients (19.1 percent) had ventilator-associated pneumonia, as compared with 98 of 604 (16.2 percent) in the sucralfate group (relative risk, 1.18; 95 percent confidence interval, 0.92 to 1.51; P=0.19).
+There was no significant difference between the groups in mortality in the intensive care unit (ICU) (23.5 percent in the ranitidine group and 22.9 percent in the sucralfate group) or the duration of the stay in the ICU (median, nine days in both groups).
+Among critically ill patients requiring mechanical ventilation, those receiving ranitidine had a significantly lower rate of clinically important gastrointestinal bleeding than those treated with sucralfate.
+There were no significant differences in the rates of ventilator-associated pneumonia, the duration of the stay in the ICU, or mortality.

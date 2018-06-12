@@ -1,0 +1,23 @@
+Title 
+Lancet
+
+Article Title 
+Atenolol in hypertension: is it a wise choice?
+Abstract Text 
+Atenolol is one of the most widely used beta blockers clinically, and has often been used as a reference drug in randomised controlled trials of hypertension.
+However, questions have been raised about atenolol as the best reference drug for comparisons with other antihypertensives.
+Thus, our aim was to systematically review the effect of atenolol on cardiovascular morbidity and mortality in hypertensive patients.
+Reports were identified through searches of The Cochrane Library, MEDLINE, relevant textbooks, and by personal communication with established researchers in hypertension.
+Randomised controlled trials that assessed the effect of atenolol on cardiovascular morbidity or mortality in patients with primary hypertension were included.
+We identified four studies that compared atenolol with placebo or no treatment, and five that compared atenolol with other antihypertensive drugs.
+Despite major differences in blood pressure lowering, there were no outcome differences between atenolol and placebo in the four studies, comprising 6825 patients, who were followed up for a mean of 4.6 years on all-cause mortality (relative risk 1.01 [95% CI 0.89-1.15]),
+cardiovascular mortality (0.99 [0.83-1.18]),
+or myocardial infarction (0.99 [0.83-1.19]).
+The risk of stroke, however, tended to be lower in the atenolol than in the placebo group (0.85 [0.72-1.01]).
+When atenolol was compared with other antihypertensives, there were no major differences in blood pressure lowering between the treatment arms.
+Our meta-analysis showed a significantly higher mortality (1.13 [1.02-1.25])
+with atenolol treatment than with other active treatment, in the five studies comprising 17671 patients who were followed up for a mean of 4.6 years.
+Moreover, cardiovascular mortality also tended to be higher with atenolol treatment than with other antihypertensive treatment.
+Stroke was also more frequent with atenolol treatment.
+Our results cast doubts on atenolol as a suitable drug for hypertensive patients.
+Moreover, they challenge the use of atenolol as a reference drug in outcome trials in hypertension.

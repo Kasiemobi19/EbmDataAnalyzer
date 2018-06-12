@@ -1,0 +1,16 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+Valsartan, captopril, or both in myocardial infarction complicated by heart failure, left ventricular dysfunction, or both.
+Abstract Text 
+Angiotensin-converting-enzyme (ACE) inhibitors such as captopril reduce mortality and cardiovascular morbidity among patients with myocardial infarction complicated by left ventricular systolic dysfunction, heart failure, or both.
+In a double-blind trial, we compared the effect of the angiotensin-receptor blocker valsartan, the ACE inhibitor captopril, and the combination of the two on mortality in this population of patients.
+Patients receiving conventional therapy were randomly assigned, 0.5 to 10 days after acute myocardial infarction, to additional therapy with valsartan (4909 patients), valsartan plus captopril (4885 patients), or captopril (4909 patients).
+The primary end point was death from any cause.
+During a median follow-up of 24.7 months, 979 patients in the valsartan group died, as did 941 patients in the valsartan-and-captopril group and 958 patients in the captopril group (hazard ratio in the valsartan group as compared with the captopril group, 1.00; 97.5 percent confidence interval, 0.90 to 1.11; P=0.98; hazard ratio in the valsartan-and-captopril group as compared with the captopril group, 0.98; 97.5 percent confidence interval, 0.89 to 1.09; P=0.73).
+The upper limit of the one-sided 97.5 percent confidence interval for the comparison of the valsartan group with the captopril group was within the prespecified margin for noninferiority with regard to mortality (P=0.004) and with regard to the composite end point of fatal and nonfatal cardiovascular events (P<0.001).
+The valsartan-and-captopril group had the most drug-related adverse events.
+With monotherapy, hypotension and renal dysfunction were more common in the valsartan group, and cough, rash, and taste disturbance were more common in the captopril group.
+Valsartan is as effective as captopril in patients who are at high risk for cardiovascular events after myocardial infarction.
+Combining valsartan with captopril increased the rate of adverse events without improving survival.

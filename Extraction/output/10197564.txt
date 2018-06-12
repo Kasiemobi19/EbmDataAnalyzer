@@ -1,0 +1,17 @@
+Title 
+The American journal of clinical nutrition
+
+Article Title 
+Effects of the National Cholesterol Education Program's Step I and Step II dietary intervention programs on cardiovascular disease risk factors: a meta-analysis.
+Abstract Text 
+Plasma lipid and lipoprotein responses have been variable in dietary intervention studies.
+The objective of this study was to evaluate the effects of the National Cholesterol Education Program's Step I and Step II dietary interventions on major cardiovascular disease risk factors using meta-analysis.
+MEDLINE was used to select 37 dietary intervention studies in free-living subjects published from 1981 to 1997.
+Step I and Step II dietary interventions significantly decreased plasma lipids and lipoproteins.
+Plasma total cholesterol (TC), LDL cholesterol, triacylglycerol, and TC:HDL cholesterol decreased by 0.63 mmol/L (10%), 0.49 mmol/L (12%), 0.17 mmol/L (8%), and 0.50 (10%), respectively, in Step I intervention studies, and by 0.81 mmol/L (13%), 0.65 mmol/L (16%), 0.19 mmol/L (8%), and 0.34 (7%), respectively, in Step II intervention studies (P < 0.01 for all).
+HDL cholesterol decreased by 7% (P = 0.05) in response to Step II but not to Step I dietary interventions.
+Positive correlations between changes in dietary total and saturated fatty acids and changes in TC and LDL and HDL cholesterol were observed (r = 0.59, 0.61, and 0.46, respectively; P < 0.001).
+Multiple regression analyses showed that for every 1% decrease in energy consumed as dietary saturated fatty acid, TC decreased by 0.056 mmol/L and LDL cholesterol by 0.05 mmol/L.
+Moreover, for every 1-kg decrease in body weight, triacylglycerol decreased by 0.011 mmol/L and HDL cholesterol increased by 0.011 mmol/L.
+Exercise resulted in greater decreases in TC, LDL cholesterol, and triacylglycerol and prevented the decrease in HDL cholesterol associated with low-fat diets.
+Step I and Step II dietary interventions have multiple beneficial effects on important cardiovascular disease risk factors.

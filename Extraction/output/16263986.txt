@@ -1,0 +1,19 @@
+Title 
+Pediatrics
+
+Article Title 
+Effect of a low-allergen maternal diet on colic among breastfed infants: a randomized, controlled trial.
+Abstract Text 
+There is controversy regarding whether hypersensitivity to food proteins contributes to colic among breastfed infants.
+A randomized, controlled trial of a low-allergen maternal diet was conducted among exclusively breastfed infants presenting with colic.
+In the active arm, mothers excluded cow's milk, eggs, peanuts, tree nuts, wheat, soy, and fish from their diet; mothers in the control group continued to consume these foods.
+Outcomes were assessed after 7 days, as the change in cry/fuss duration over 48 hours, with validated charts.
+The primary end point was a reduction in cry/fuss duration of > or =25% from baseline.
+Mothers also assessed the responses to diet with categorical and visual analog scales.
+Of 107 infants, 90 completed the trial (mean age: 5.7 weeks; range: 2.9-8.6 weeks; 54 male infants).
+Infants in both groups presented with significant distress (geometric mean: low-allergen group: 690 minutes per 48 hours; control group: 631 minutes per 48 hours).
+In follow-up assessments on days 8 and 9, there were significantly more responders in the low-allergen group (74% vs 37%), ie, an absolute risk reduction of 37% (95% confidence interval: 18-56%).
+Cry/fuss duration per 48 hours was reduced by a substantially greater amount in the low-allergen group; the adjusted geometric mean ratio was 0.79 (95% confidence interval: 0.63-0.97),
+ie, an average reduction of 21% (95% confidence interval: 3-37%).
+Mothers' subjective assessments of the responses to diet indicated little difference between the groups.
+Exclusion of allergenic foods from the maternal diet was associated with a reduction in distressed behavior among breastfed infants with colic presenting in the first 6 weeks of life.

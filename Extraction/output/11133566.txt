@@ -1,0 +1,18 @@
+Title 
+AJR. American journal of roentgenology
+
+Article Title 
+The solitary pulmonary nodule on chest radiography: can we really tell if the nodule is calcified?
+Abstract Text 
+This study was designed to assess the ability of radiologists to accurately detect calcification within a solitary pulmonary nodule with chest radiography.
+Thirty-five solitary pulmonary nodules that were examined by both posteroanterior and lateral chest radiography and on thin-section CT were retrospectively identified.
+Fourteen radiologists blinded to the results of CT assessed the nodules for the presence or absence of calcification using chest radiographs alone.
+The radiologists then assigned one of six values on the basis of their confidence in that assessment.
+The accuracy and confidence values for each nodule were analyzed on the basis of the presence or absence of calcification as seen on CT.
+Receiver operating characteristic (ROC) curves were generated.
+The positive predictive value of a "definitely calcified" assessment was 0.93.
+Combining all levels of radiologists' confidence, the sensitivity of the chest radiograph in the detection of calcium was 0.50 and the specificity was 0.87.
+There was no difference in the confidence levels reported between the calcified and noncalcified nodules, and there was no correlation of nodule size with accuracy or confidence level.
+The ability of radiologists to detect calcium in a solitary pulmonary nodule by chest radiography was low, as defined by the ROC data.
+Of the "definitely calcified" nodules, up to 7% may not be calcified and may be potentially malignant.
+Without documentation of long-term stability, a low threshold for recommending CT may be appropriate.

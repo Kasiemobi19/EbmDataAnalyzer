@@ -1,0 +1,16 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+Effect of calcium and vitamin D supplementation on bone density in men and women 65 years of age or older.
+Abstract Text 
+Inadequate dietary intake of calcium and vitamin D may contribute to the high prevalence of osteoporosis among older persons.
+We studied the effects of three years of dietary supplementation with calcium and vitamin D on bone mineral density, biochemical measures of bone metabolism, and the incidence of nonvertebral fractures in 176 men and 213 women 65 years of age or older who were living at home.
+They received either 500 mg of calcium plus 700 IU of vitamin D3 (cholecalciferol) per day or placebo.
+Bone mineral density was measured by dual-energy x-ray absorptiometry, blood and urine were analyzed every six months, and cases of nonvertebral fracture were ascertained by means of interviews and verified with use of hospital records.
+The mean (+/-SD) changes in bone mineral density in the calcium-vitamin D and placebo groups were as follows: femoral neck, +0.50+/-4.80 and -0.70+/-5.03
+percent, respectively (P=0.02); spine,+2.12+/-4.06 and +1.22+/-4.25 percent (P=0.04); and total body, +0.06+/-1.83 and -1.09+/-1.71
+percent (P<0.001).
+The difference between the calcium-vitamin D and placebo groups was significant at all skeletal sites after one year, but it was significant only for total-body bone mineral density in the second and third years.
+Of 37 subjects who had nonvertebral fractures, 26 were in the placebo group and 11 were in the calcium-vitamin D group (P=0.02).
+In men and women 65 years of age or older who are living in the community, dietary supplementation with calcium and vitamin D moderately reduced bone loss measured in the femoral neck, spine, and total body over the three-year study period and reduced the incidence of nonvertebral fractures.

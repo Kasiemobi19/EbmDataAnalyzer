@@ -1,0 +1,18 @@
+Title 
+The Journal of clinical psychiatry
+
+Article Title 
+Acceleration and augmentation of antidepressants with lithium for depressive disorders: two meta-analyses of randomized, placebo-controlled trials.
+Abstract Text 
+The delayed onset of therapeutic response and the high number of nonresponders to antidepressants remain major clinical problems in depressive disorders.
+Among the strategies to overcome both dilemmas, the additional treatment with lithium has been suggested as a viable method.
+The authors determined in 2 separate meta-analyses the efficacy of lithium in accelerating and in augmenting clinical response in patients with depression.
+STUDY SELECTION AND DATA SOURCES: Two meta-analyses of randomized, double-blind, placebo-controlled trials including subjects with unipolar or bipolar disorder, depressive phase, assessed the concomitant administration of lithium and antidepressant to accelerate or augment clinical response in the acute treatment phase of depression.
+Data were obtained from searching the following databases: MEDLINE (1966 to July 2006), EMBASE (1989 to July 2006), and The Cochrane Central Register of Controlled Trials (The Cochrane Library 2006, Issue 3).
+For the accelerating meta-analysis, subject headings including depressive disorder, bipolar disorder, antidepressive agents, and lithium and text words such as depress*, lithium, and antidepress* were used.
+For the augmentation meta-analysis, subject headings included depressive disorder, bipolar disorder, anti-depressive agents, lithium, drug therapy, and combination, and text words included augment*, refract*, and resistant.
+Outcomes investigated included response rates and depression scale rates.
+Five acceleration studies (231 participants) adding lithium to tricyclics and tetracyclics and 10 augmentation studies (269 participants) adding lithium to various antidepressants including selective serotonin reuptake inhibitors were incorporated.
+In the acceleration meta-analysis, a statistical trend in favor of lithium was found (standardized mean difference of -0.43, 95% CI = -0.93 to 0.07).
+In the augmentation meta-analysis, lithium was significantly more effective than placebo (odds ratio = 3.11, 95% CI = 1.80 to 5.37).
+There is firm evidence for lithium as an effective augmentation strategy but only modest evidence for lithium to accelerate response to antidepressants in patients with depressive disorders.

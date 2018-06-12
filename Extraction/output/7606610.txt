@@ -1,0 +1,18 @@
+Title 
+Academic emergency medicine : official journal of the Society for Academic Emergency Medicine
+
+Article Title 
+Prospective evaluation of topical antibiotics for preventing infections in uncomplicated soft-tissue wounds repaired in the ED.
+Abstract Text 
+To determine differences in infection rates among uncomplicated, repaired wounds managed with: topical bacitracin zinc (BAC); neomycin sulfate, bacitracin zinc, and polymyxin B sulfate combination (NEO); silver sulfadiazine (SIL); and petrolatum (PTR).
+This was a prospective, randomized, double-blind, placebo-controlled study conducted at a military community hospital with an emergency medicine residency program.
+Patients were enrolled if they: presented to the ED within 12 hours of injury and did not have puncture wounds, allergies to the agents used, or a history of immunocompromise; were not receiving antibiotics, chemotherapy, or steroids at the time of presentation; had not taken antibiotics within the preceding seven days; did not have an underlying fracture; and were not pregnant as determined by history.
+Local anesthetics without epinephrine and high-pressure irrigation with normal saline were used for all patients.
+Wound scrubbing, débridement, and polyglactin subcutaneous (SQ) suture placement were carried out when necessary.
+Interrupted simple sutures using a monofilament, nonabsorbable material were used for skin closure.
+Numbered, randomized vials were given to all patients, with standardized instructions to inspect, clean, and redress their wounds three times a day.
+The wounds were evaluated for clinical infection at the time of follow-up.
+Among the groups, there was no difference in patient ages; gender; wound location, type, length, or depth; time elapsed from injury to ED treatment; number of wounds scrubbed or necessitating débridement; number of SQ and cutaneous sutures used; and rate of compliance with returning the used vial of dispensed topical agent.
+The wound infection rates for the treatment groups were: BAC, six of 109 (5.5%); NEO, five of 110 (4.5%); SIL, 12 of 99 (12.1%); and PTR, 19 of 108 (17.6%) (p = 0.0034).
+The use of topical antibiotics resulted in significantly lower infection rates than did the use of a petrolatum control.
+BAC and NEO had the lowest wound infection rates.

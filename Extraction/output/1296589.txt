@@ -1,0 +1,21 @@
+Title 
+British journal of obstetrics and gynaecology
+
+Article Title 
+Which hormone tests for the diagnosis of polycystic ovary syndrome?
+Abstract Text 
+To assess the frequency of abnormal values for hormone measurements commonly used in the biochemical diagnosis of polycystic ovary syndrome (PCOS).
+Hormone measurements in 63 unselected women with clinical and ultrasound diagnosis of PCOS attending gynaecological and general endocrine clinics in a District General Hospital were compared with those from a group of 20 normal ovulatory controls in the early follicular phase of their cycles.
+Serum levels of luteinizing hormone (LH), follicle stimulating hormone (FSH), LH/FSH ratio, total testosterone, derived free testosterone, sex hormone binding globulin, androstenedione, and dehydroepiandrosterone (DHEA) were measured by radioimmunoassays.
+LH and FSH measured by two different assays.
+The mean serum LH and LH/FSH ratio were significantly (P less than 0.01) higher in the women with PCOS compared with the normal group, but these two measurements were in the abnormal range for only 35% and 41-44%, respectively.
+Absolute gonadotrophin values were significantly different using the two assay methods, which employed the same reference preparation as standard.
+Mean serum total testosterone concentration was significantly higher in the PCOS group and was the most frequently (70%) abnormal biochemical marker for PCOS.
+Sex hormone binding globulin (SHBG) did not differ significantly between the two groups but showed a negative correlation with body mass index in women with PCOS.
+The combination of SHBG and testosterone to derive a free testosterone value did not further aid the biochemical diagnosis of PCOS.
+Androstenedione was significantly higher in the PCOS group than in the control group, with a frequency of 53%.
+There was no significant difference in DHEA-S between the two groups.
+When typical ovarian ultrasound appearances plus the clinical features of oligomenorrhea and/or hirsuitism were used to define PCOS total testosterone was the best single hormonal marker of the condition.
+Testosterone, androstenedione or LH, either alone or in combination, were raised in 86% of women with PCOS and these should be the definitive hormonal tests.
+Using LH/FSH ratio as a biochemical criterion for diagnosis of PCOS should be abandoned because of its low sensitivity.
+To be of value the normal range for all hormones should be precisely defined in a group of regularly ovulating women in the early follicular phase of the cycle for the assay used in each laboratory.

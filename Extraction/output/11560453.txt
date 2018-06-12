@@ -1,0 +1,14 @@
+Title 
+Annals of internal medicine
+
+Article Title 
+Diagnostic tests for renal artery stenosis in patients suspected of having renovascular hypertension: a meta-analysis.
+Abstract Text 
+To summarize and compare the validity of computed tomography angiography, magnetic resonance angiography, ultrasonography, captopril renal scintigraphy, and the captopril test for diagnosis of renal artery stenosis in patients suspected of having renovascular hypertension.
+For each diagnostic modality, published studies were identified by MEDLINE literature searches.
+Original studies were selected if they met the following criteria: 1) suspicion of renovascular hypertension was the indication for the test; 2) intra-arterial x-ray angiography was used as the gold standard; 3) a cutoff point for a positive test result was explicitly defined; and 4) absolute numbers of true-positive, false-negative, true-negative, and false-positive results were available or could be derived from the presented data.
+A standard form was used to extract relevant data.
+Data on the accuracy of the different diagnostic methods were analyzed and compared by constructing summary receiver-operating characteristic (ROC) curves and by computing areas under the summary ROC curves.
+Although accuracy varied greatly for all diagnostic modalities, summary ROC curves found that computed tomography angiography and gadolinium-enhanced, three-dimensional magnetic resonance angiography performed significantly better than the other diagnostic tests.
+Computed tomography angiography and gadolinium-enhanced three-dimensional magnetic resonance angiography seem to be preferred in patients referred for evaluation of renovascular hypertension.
+However, because few studies of these tests have been published, further research is recommended.

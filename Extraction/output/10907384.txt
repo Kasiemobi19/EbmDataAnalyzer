@@ -1,0 +1,14 @@
+Title 
+Mayo Clinic proceedings. Mayo Clinic
+
+Article Title 
+The canalith repositioning procedure for the treatment of benign paroxysmal positional vertigo: a randomized controlled trial.
+Abstract Text 
+To compare the canalith repositioning procedure (CRP) with a sham maneuver for the treatment of benign paroxysmal positional vertigo.
+We recruited 50 patients with a history of positional vertigo and unilateral positional nystagmus on physical examination (Dix-Hallpike maneuver).
+Patients were randomized to either the CRP (n = 24) or a sham maneuver (n = 26).
+Measured outcomes included resolution of vertigo and positional nystagmus at follow-up examination.
+The mean duration of follow-up was 10 days for both groups.
+Resolution of symptoms was reported by 12 (50%) of the 24 patients in the CRP group and by 5 (19%) of the 26 patients in the sham group (P = .02).
+The results of the Dix-Hallpike maneuver were negative for positional nystagmus in 16 (67%) of 24 patients in the CRP group and in 10 (38%) of 26 patients in the sham group (P = .046).
+The CRP is effective treatment of benign paroxysmal positional vertigo, and this procedure can be performed by general internists on outpatients with this disorder.

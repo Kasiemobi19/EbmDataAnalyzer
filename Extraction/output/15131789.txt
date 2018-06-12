@@ -1,0 +1,16 @@
+Title 
+Gastroenterology
+
+Article Title 
+Patients with elevated liver enzymes are not at higher risk for statin hepatotoxicity.
+Abstract Text 
+Studies that evaluate the risk of hepatotoxicity from statins in hyperlipidemic subjects with elevated baseline serum transaminases are lacking.
+We conducted a study to test the hypothesis that patients with elevated baseline liver enzymes have higher risk of statin hepatotoxicity.
+Our study consisted of the following 3 cohorts of patients seen between January 1, 1998 and June 31, 2002: Cohort 1: 342 hyperlipidemic patients with elevated baseline enzymes (AST >40 IU/L or ALT >35 IU/L) who were prescribed a statin; cohort 2: 1437 hyperlipidemic patients with normal transaminases who were prescribed a statin; and cohort 3: 2245 patients with elevated liver enzymes but who were not prescribed a statin.
+The effect of statins on liver biochemistries was assessed over a 6-month period after statins were prescribed.
+Elevations in liver biochemistries during follow-up were categorized into mild-moderate or severe based on predefined criteria.
+The incidence of mild-moderate elevations and severe elevations in liver biochemistries in cohort 1 were 4.7% and 0.6%, respectively.
+Compared with cohort 1, individuals in cohort 2 had lower incidence of mild-moderate elevations (1.9%, P = 0.002) but not severe elevations (0.2%, P = 0.2).
+However, between cohorts 1 and 3, there were no differences in the incidence of mild-moderate elevations (4.7% vs. 6.4%, respectively, P = 0.2) or severe elevations (0.6% vs. 0.4%, respectively, P = 0.6).
+Statin discontinuation during the follow-up was similar between cohorts 1 and 2 (11.1% vs. 10.7%, respectively, P = 0.8).
+These data suggest that individuals with elevated baseline liver enzymes do not have higher risk for hepatotoxicity from statins.

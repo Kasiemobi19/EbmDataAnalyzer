@@ -1,0 +1,16 @@
+Title 
+Obesity reviews : an official journal of the International Association for the Study of Obesity
+
+Article Title 
+Effects of weight loss in overweight/obese individuals and long-term lipid outcomes--a systematic review.
+Abstract Text 
+This paper aims to review the evidence for long-term effectiveness of weight loss on cholesterol, high-density lipoprotein (HDL), low-density lipoprotein (LDL) and triglycerides in overweight/obese people.
+Current evidence is mostly based on short-term studies.
+A systematic review of long-term lipid outcomes of weight loss in studies published between 1966 and 2001, was conducted.
+Inclusion criteria included all cohort studies and trials carried out on participants with body mass index of greater than or equal to 28 kg m(-2).
+Studies had at least two weight change measurements and follow-up of more than 2 years.
+Thirteen long-term studies with a follow-up of more than 2 years were included.
+Cholesterol has a significant positive linear relationship with weight change (r = 0.89) where change in weight explains about 80% of the cholesterol difference variation (Adj R2 = 0.80).
+For every 10 kg weight loss a drop of 0.23 mmol L(-1) in cholesterol may be expected for a person suffering from obesity or are grossly overweight.
+Weight loss has long-term beneficial effects especially on LDL and cholesterol.
+Weight loss in obese patients should be encouraged and sustained.

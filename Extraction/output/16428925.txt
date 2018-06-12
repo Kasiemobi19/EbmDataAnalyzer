@@ -1,0 +1,11 @@
+Title 
+American journal of therapeutics
+
+Article Title 
+The treatment of psoriatic arthritis.
+Abstract Text 
+Psoriatic arthritis (PsA) is a chronic, autoimmune, seronegative inflammatory arthritis characterized by varying degrees of axial and peripheral arthritis.
+Here, we review the literature on the pharmacological management of PsA and present a simple treatment algorithm based on the available information.
+Although PsA management must be individualized to the degree and type of joint pain and inflammation, in general, nonsteroidal antiinflammatory drugs (NSAIDs) still represent first-line treatment of mild PsA.
+Second-line therapy includes older agents such as gold salts, methotrexate, sulfasalazine, and cyclosporine.
+The tumor necrosis factor alpha (TNF-alpha) antagonists represent the most recent major advance in the clinical management of PsA.

@@ -1,0 +1,31 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Does this woman have an acute uncomplicated urinary tract infection?
+Abstract Text 
+Symptoms suggestive of acute urinary tract infection (UTI) constitute one of the most common reasons for women to visit clinicians.
+Although the clinical encounter typically involves taking a history and performing a physical examination, the diagnostic accuracy of the clinical assessment for UTI remains uncertain.
+To review the accuracy and precision of history taking and physical examination for the diagnosis of UTI in women.
+We conducted a MEDLINE search for articles published from 1966 through September 2001 and manually reviewed bibliographies, 3 commonly used clinical skills textbooks, and contacted experts in the field.
+Studies were included if they contained original data on the accuracy or precision of history or physical examination for diagnosing acute uncomplicated UTI in women.
+One author initially screened titles and abstracts found by our search.
+Nine of 464 identified studies met inclusion criteria.
+Two authors independently abstracted data from the included studies.
+Disagreements were resolved by discussion and consensus with a third author.
+Four symptoms and 1 sign significantly increased the probability of UTI: dysuria (summary positive likelihood ratio [LR], 1.5; 95% confidence interval [CI], 1.2-2.0),
+frequency (LR, 1.8; 95% CI, 1.1-3.0),
+hematuria (LR, 2.0; 95% CI, 1.3-2.9),
+back pain (LR, 1.6; 95% CI, 1.2-2.1),
+and costovertebral angle tenderness (LR, 1.7; 95% CI, 1.1-2.5).
+Four symptoms and 1 sign significantly decreased the probability of UTI: absence of dysuria (summary negative LR, 0.5; 95% CI, 0.3-0.7),
+absence of back pain (LR, 0.8; 95% CI, 0.7-0.9),
+history of vaginal discharge (LR, 0.3; 95% CI, 0.1-0.9),
+history of vaginal irritation (LR, 0.2; 95% CI, 0.1-0.9),
+and vaginal discharge on examination (LR, 0.7; 95% CI, 0.5-0.9).
+Of all individual diagnostic signs and symptoms, the 2 most powerful were history of vaginal discharge and history of vaginal irritation, which significantly decreased the likelihood of UTI when present (LRs, 0.3 and 0.2, respectively).
+One study examined combinations of symptoms, and the resulting LRs were more powerful (24.6 for the combination of dysuria and frequency but no vaginal discharge or irritation).
+One study of patients with recurrent UTI found that self-diagnosis significantly increased the probability of UTI (LR, 4.0).
+In women who present with 1 or more symptoms of UTI, the probability of infection is approximately 50%.
+Specific combinations of symptoms (eg, dysuria and frequency without vaginal discharge or irritation) raise the probability of UTI to more than 90%, effectively ruling in the diagnosis based on history alone.
+In contrast, history taking, physical examination, and dipstick urinalysis are not able to reliably lower the posttest probability of disease to a level where a UTI can be ruled out when a patient presents with 1 or more symptoms.

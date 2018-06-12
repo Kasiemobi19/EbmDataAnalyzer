@@ -1,0 +1,17 @@
+Title 
+The Journal of pediatrics
+
+Article Title 
+Antibiotics for the prevention of urinary tract infection in children: A systematic review of randomized controlled trials.
+Abstract Text 
+The objective was to evaluate the effectiveness of low-dose, long-term antibiotics for the prevention of symptomatic urinary tract infection (UTI) in children.
+This was a systematic review of randomized controlled trials with a random effects model meta-analysis.
+Five trials involving 463 children were performed.
+Three trials (n = 392) evaluated the effectiveness of long treatment courses of antibiotics (2 to 6 months) for children with acute UTI to prevent subsequent, off-treatment infection.
+Only 2 trials (n = 71) evaluated the effectiveness of long-term, low-dose antibiotics to prevent on-treatment UTI.
+Very few of the children enrolled in the trials were boys, had abnormal renal tracts, or were infants.
+The trial quality was poor, with a lack of blinding, and unstated UTI definitions were almost universal.
+Long-term antibiotic administration reduced the risk of UTI with treatment (relative risk 0.31, 95% confidence limits 0.10 to 1.00), but there was significant heterogeneity (Q = 13.45,
+P <.01), and there was no sustained benefit once antibiotics had ceased (relative risk 0.79, 0.61 to 1.02).
+Methodologic and applicability problems with published trials mean that there is considerable uncertainty about whether long-term, low-dose antibiotic administration prevents UTI in children.
+Well-designed, randomized, placebo-controlled trials are still required to evaluate this commonly used intervention.

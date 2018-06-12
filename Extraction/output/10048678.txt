@@ -1,0 +1,17 @@
+Title 
+The Pediatric infectious disease journal
+
+Article Title 
+Etiology of outpatient pediatric nondysenteric diarrhea: a multicenter study in the United States.
+Abstract Text 
+Few data have been published recently on the etiology of outpatient pediatric diarrhea in the US.
+We determined the etiology of acute, nondysenteric diarrhea among 147 children between 2 and 11 years old presenting to 9 outpatient clinics in various regions of the US between August, 1991, and August, 1993.
+Enteropathogens were sought by conventional laboratory methods.
+The various diarrheagenic Escherichia coli were sought.
+A recognized etiologic agent was detected in the stools of 89 (60.5%) children and 15 (10) patients had multiple agents detected.
+Rotavirus was found in 43 (29.3%) of the children, with a spring and winter peak in occurrence.
+Giardia lamblia was identified in 22 (15%) cases with a spring peak.
+HEp-2 cell-adherent E. coli were found in 15 (10.2%).
+Other agents found included: enteric adenovirus in 7 (4.8%);
+Salmonella in 5 (3.4%); enterohemorrhagic E. coli in 5 (3.4%); enteropathogenic E. coli in 2 (1.4%); enterotoxigenic E. coli in 2 (1.4%); Entamoeba histolytica in 1 (0.70%); and Campylobacter jejuni in 1 (0.7%).
+In addition to the presence of conventional enteropathogens, diarrheagenic E. coli (HEp-2 cell-adherent E. coli, enterohemorrhagic E. coli, enteropathogenic E. coli and enterotoxigenic E. coli) were associated with endemic pediatric diarrhea in the US.

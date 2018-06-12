@@ -1,0 +1,14 @@
+Title 
+Clinical infectious diseases : an official publication of the Infectious Diseases Society of America
+
+Article Title 
+Rethinking recommendations for use of pneumococcal vaccines in adults.
+Abstract Text 
+Streptococcus pneumoniae remains a major cause of disease worldwide; the emergence of antibiotic-resistant strains emphasizes the importance of disease prevention by use of vaccines.
+Recent studies have provided information that is useful for the evaluation of current vaccine recommendations.
+Recommendations target most people who are at high risk for invasive pneumococcal disease.
+However, higher risk has also been identified for African Americans and smokers, but these groups are not specifically targeted by current recommendations.
+The vaccine is effective against invasive disease in immunocompetent people, although studies in immunocompromised subjects have found few subgroups in which the vaccine appears to be effective.
+Questions with regard to optimal timing and indications for revaccination remain a challenge, because the duration of protection and effectiveness of revaccination remain unknown.
+New pneumococcal vaccines appear promising but will need to be tested against the performance of the polysaccharide vaccine.
+Improving delivery of the currently available pneumococcal polysaccharide vaccine to adults who will benefit should be a high priority.

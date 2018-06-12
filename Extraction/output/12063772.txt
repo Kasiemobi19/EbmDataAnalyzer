@@ -1,0 +1,13 @@
+Title 
+Nutrition, metabolism, and cardiovascular diseases : NMCD
+
+Article Title 
+Statins in children. Why and when.
+Abstract Text 
+There is now ample evidence to demonstrate that atherosclerosis begins in childhood and is significantly accelerated in certain genetic disorders, most notably familial hypercholesterolemia (FH).
+Untreated FH, both the homozygous and heterozygous forms, carry a substantial burden of morbidity and mortality if left untreated or inadequately treated.
+Males with FH are at earlier and greater risk than females and thus should begin therapy earlier, preferably at about 10.
+While bile acid sequestrants have long been considered the drug of choice in children, they have never been approved for pediatric use by FDA, are poorly tolerated, marginally effective at lowering low-density lipoprotein cholesterol and have minimal well controlled studies in children upon which to adequately assess safety.
+Over the last decade statins have been studied extensively in children and adolescents, although many of these studies have also been poorly controlled, of short duration, too small and lack detailed assessment.
+However there has been at least one large, randomized, placebo-controlled and comprehensive study with lovastatin in adolescent males that indicated efficacy similar to that anticipated in adults and no apparent safety concerns.
+While additional well-controlled studies are needed, especially those focusing on surrogates of atherosclerosis to determine clinical benefit, it is opportune for re-evaluation of current treatment guidelines.

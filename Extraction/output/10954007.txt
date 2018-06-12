@@ -1,0 +1,19 @@
+Title 
+Journal of hypertension
+
+Article Title 
+Pilot study of combined blockade of the renin-angiotensin system in essential hypertensive patients.
+Abstract Text 
+Additive hemodynamic effects of combined blockade of the renin-angiotensin system by an angiotensin I converting enzyme inhibitor and an angiotensin II antagonist have been observed in sodium-depleted normotensive volunteers and in patients with congestive heart failure.
+To investigate whether the same additive hemodynamic effects occur in patients with hypertension and to verify the safety of such an approach.
+Multicenter, randomized, double-blind, parallel-group, pilot study.
+177 patients with mild-to-moderate hypertension [diastolic blood pressure (DBP): 95-115 mmHg after a 4-week placebo run-in period] were included in the study.
+Combination therapy consisting of 50 mg losartan daily and 10 mg enalapril daily was administered for 6 weeks.
+The effects of this therapeutic regimen was compared with similar groups of patients who received either 50 mg losartan daily or 10 mg enalapril daily.
+24-hour ambulatory mean DBP and clinic DBP measured at trough after 6 weeks of treatment.
+24-hour ambulatory mean DBP did not significantly differ between treatment groups although the combination tended to lower BP more.
+The combination therapy was more effective on clinic DBP measured at trough than was losartan by 3.2 mmHg [confidence interval (95%, CI) 0.7-5.7 mmHg, P = 0.012], and more effective than enalapril by 4.0 mmHg (95% CI, 1.5-6.4
+mmHg, P = 0.002).
+In a subgroup of 28 patients, higher plasma active renin and angiotensin I levels during blockade by the combination therapy were observed.
+This finding confirmed that the combination of the two agents inhibited the renin-angiotensin system to a greater extent than did either agent alone.
+A combination of 10 mg enalapril daily and 50 mg losartan daily safely induces a supplementary, although modest, fall in clinic DBP in patients with mild-to-moderate essential hypertension.

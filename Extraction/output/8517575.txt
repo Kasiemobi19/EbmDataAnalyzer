@@ -1,0 +1,19 @@
+Title 
+Annals of emergency medicine
+
+Article Title 
+Practice guideline for the management of infants and children 0 to 36 months of age with fever without source. Agency for Health Care Policy and Research.
+Abstract Text 
+To develop guidelines for the care of infants and children from birth to 36 months of age with fever without source.
+An expert panel of senior academic faculty with expertise in pediatrics and infectious diseases or emergency medicine.
+A comprehensive literature search was used to identify all publications pertinent to the management of the febrile child.
+When appropriate, meta-analysis was used to combine the results of multiple studies.
+One or more specific management strategies were proposed for each of the decision nodes in draft management algorithms.
+The draft algorithms, selected publications, and the meta-analyses were provided to the panel, which determined the final guidelines using the modified Delphi technique.
+All toxic-appearing infants and children and all febrile infants less than 28 days of age should be hospitalized for parenteral antibiotic therapy.
+Febrile infants 28 to 90 days of age defined at low risk by specific clinical and laboratory criteria may be managed as outpatients if close follow-up is assured.
+Older children with fever less than 39.0 C without source need no laboratory tests or antibiotics.
+Children 3 to 36 months of age with fever of 39.0 C or more and whose WBC count is 15,000/mm3 or more should have a blood culture and be treated with antibiotics pending culture results.
+Urine cultures should be obtained from all boys 6 months of age or less and all girls 2 years of age or less who are treated with antibiotics.
+These guidelines do not eliminate all risk or strictly confine antibiotic treatment to children likely to have occult bacteremia.
+Physicians may individualize therapy based on clinical circumstances or adopt a variation of these guidelines based on a different interpretation of the evidence.

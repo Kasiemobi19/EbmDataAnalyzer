@@ -1,0 +1,21 @@
+Title 
+The American journal of medicine
+
+Article Title 
+Intensity of murmurs correlates with severity of valvular regurgitation.
+Abstract Text 
+To evaluate the relationship between the intensity of murmurs and severity of mitral and aortic regurgitation.
+Consecutive patients with chronic isolated aortic (n = 40) or mitral (n = 170) regurgitation undergoing echocardiographic quantitation of regurgitation between 1990 and 1991 were studied.
+Regurgitant volume and fraction were measured using two simultaneous methods (quantitative Doppler echocardiography and quantitative two-dimensional echocardiography); the intensity of the regurgitant murmur (grade 0 to 6) was noted by physicians unaware of the study.
+Correlations between murmur intensity and regurgitant volume and fraction were good in aortic regurgitation (r = .60
+and r = .67,
+respectively; P < 0.001) and mitral regurgitation (r = .64
+and r = .67,
+respectively; P < 0.001) but weaker (r = .47
+and r = .45,
+respectively) in the subset of mitral regurgitation of ischemic or functional cause.
+Murmur intensity grades > or = 3 for aortic regurgitation and > or = 4 for mitral regurgitation predicted severe regurgitation (regurgitant fraction > or = 40%) in 71% and 91% of patients, respectively.
+Murmur grades < or = 1 for aortic regurgitation and < or = 2 for mitral regurgitation predicted "not severe" regurgitation in 100% and 88% of patients, respectively.
+Murmur grades 2 for aortic regurgitation and 3 for mitral regurgitation were not correlated to degree of regurgitation.
+The severity of regurgitation was the most powerful determinant of intensity of murmur.
+Murmur intensity correlates well with the degree of chronic organic aortic and mitral regurgitation, and can be used as a predictor of regurgitation severity and as a simple guideline for diagnostic testing in these patients.

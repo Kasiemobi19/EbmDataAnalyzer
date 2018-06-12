@@ -1,0 +1,14 @@
+Title 
+Croatian medical journal
+
+Article Title 
+Comparison of conventional spin-echo and fast spin-echo magnetic resonance imaging with fat suppression [correction for suppresion] in cruciate ligament injury.
+Abstract Text 
+To compare the quality and diagnostic reliability of conventional spin-echo and fast spin-echo with fat suppression magnetic resonance (MR) imaging in the evaluation of cruciate ligament injury.
+Thirty-five patients with internal knee injury and positive clinical signs of cruciate ligament injury were examined by using an Elscint Prestige 2T MR scanner.
+Findings of conventional and fast spin-echo with fat suppression MR sequences were evaluated and compared with each other and with arthroscopic findings.
+In all patients, arthroscopy was performed within 2 months after the MR examination.
+Analysis of anterior cruciate ligament injury with conventional spin-echo sequence showed 81.8% sensitivity.
+The sensitivity of fast spin-echo sequences with fat suppression was 96.9%.
+According to the type of the anterior cruciate ligament injury, the sensitivity of fast spin-echo sequences with fat suppression was higher than that of conventional spin-echo sequence (85.7% and 66.7%, respectively) for partial rupture, but the sensitivity of both sequences for complete rupture was the same (100% both).
+Fast spin-echo with fat suppression sequence can be used routinely in clinical practice for the assessment of acutely injured knees as the substitute for conventional spin-echo sequence without decreased diagnostic reliability.

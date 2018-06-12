@@ -1,0 +1,12 @@
+Title 
+Annals of internal medicine
+
+Article Title 
+L-Thyroxine therapy in subclinical hypothyroidism. A double-blind, placebo-controlled trial.
+Abstract Text 
+The indications for treating patients with subclinical hypothyroidism (normal serum thyroxine and free thyroxine levels, but elevated serum thyrotrophin levels) are poorly defined.
+In this study, 33 patients with subclinical hypothyroidism were randomly assigned in a double-blind manner to receive placebo or L-thyroxine therapy and were followed for 1 year with thyroid function tests, serum lipid measurements, basal metabolic rate and systolic time interval determinations, and a questionnaire on hypothyroid symptoms.
+The placebo group showed no changes in thyroid function or peripheral indices of thyroid hormone action.
+In the thyroxine-treated group, serum lipids and the mean systolic time interval did not change, but the systolic time intervals became normal in the 5 patients with the most abnormal baseline values.
+Symptoms improved in 8 of 14 patients receiving thyroxine and in 3 of 12 patients receiving placebo (p less than 0.05).
+L-Thyroxine therapy may be useful for patients with subclinical hypothyroidism with abnormal myocardial contractility or symptoms consistent with mild hypothyroidism, or both.

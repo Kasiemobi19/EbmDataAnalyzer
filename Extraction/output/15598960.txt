@@ -1,0 +1,18 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+Maternal and perinatal outcomes associated with a trial of labor after prior cesarean delivery.
+Abstract Text 
+The proportion of women who attempt vaginal delivery after prior cesarean delivery has decreased largely because of concern about safety.
+The absolute and relative risks associated with a trial of labor in women with a history of cesarean delivery, as compared with elective repeated cesarean delivery without labor, are uncertain.
+We conducted a prospective four-year observational study of all women with a singleton gestation and a prior cesarean delivery at 19 academic medical centers.
+Maternal and perinatal outcomes were compared between women who underwent a trial of labor and women who had an elective repeated cesarean delivery without labor.
+Vaginal delivery was attempted by 17,898 women, and 15,801 women underwent elective repeated cesarean delivery without labor.
+Symptomatic uterine rupture occurred in 124 women who underwent a trial of labor (0.7 percent).
+Hypoxic-ischemic encephalopathy occurred in no infants whose mothers underwent elective repeated cesarean delivery and in 12 infants born at term whose mothers underwent a trial of labor (P<0.001).
+Seven of these cases of hypoxic-ischemic encephalopathy followed uterine rupture (absolute risk, 0.46 per 1000 women at term undergoing a trial of labor), including two neonatal deaths.
+The rate of endometritis was higher in women undergoing a trial of labor than in women undergoing repeated elective cesarean delivery (2.9 percent vs. 1.8 percent), as was the rate of blood transfusion (1.7 percent vs. 1.0 percent).
+The frequency of hysterectomy and of maternal death did not differ significantly between groups (0.2 percent vs. 0.3 percent, and 0.02 percent vs. 0.04 percent, respectively).
+A trial of labor after prior cesarean delivery is associated with a greater perinatal risk than is elective repeated cesarean delivery without labor, although absolute risks are low.
+This information is relevant for counseling women about their choices after a cesarean section.

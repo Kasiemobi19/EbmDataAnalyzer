@@ -1,0 +1,13 @@
+Title 
+The Journal of infectious diseases
+
+Article Title 
+Population-based risk factors for neonatal group B streptococcal disease: results of a cohort study in metropolitan Atlanta.
+Abstract Text 
+To determine risk factors for neonatal group B streptococcal (GBS) disease, a cohort study was conducted in Atlanta of infants with invasive GBS disease during 1982 and 1983.
+Laboratory review detected 71 infants with early-onset disease (1.09 cases/1000 live births) and 37 infants with late-onset disease (0.57 cases/1000 live births).
+Compared with the 64,858 births in Atlanta in the same period, infants with early-onset GBS disease were more often black, less than 2500 g, and born to teenage mothers.
+A history of miscarriage increased a woman's risk of delivering an infant with early-onset disease.
+Black infants had 35 times the risk of late-onset disease that nonblack infants had.
+Thirty percent of early-onset disease and 92% of late-onset disease could be attributed to black race, independent of other risk factors.
+Most case-mothers (96%) received prenatal care, suggesting that prevention strategies such as prenatal screening or maternal immunization could reach nearly all the population at risk.

@@ -1,0 +1,17 @@
+Title 
+Journal of general internal medicine
+
+Article Title 
+Case-finding instruments for depression. Two questions are as good as many.
+Abstract Text 
+To determine the validity of a two-question case-finding instrument for depression as compared with six previously validated instruments.
+The test characteristics of a two-question case-finding instrument that asks about depressed mood and anhedonia were compared with six common case-finding instruments, using the Quick Diagnostic Interview Schedule as a criterion standard for the diagnosis of major depression.
+Urgent care clinic at the San Francisco Department of Veterans Affairs Medical Center.
+Five hundred thirty-six consecutive adult patients without mania or schizophrenia.
+Measurements were two questions from the Primary Care Evaluation of Mental Disorders patient questionnaire, both the long and short forms of the Center for Epidemiologic Studies Depression Scale, both the long and short forms of the Book Depression Inventory, the Symptom-Driven Diagnostic System for Primary Care, the Medical Outcomes Study depression measure, and the Quick Diagnostic Interview Schedule.
+The prevalence of depression, as determined by the standardized interview, was 18% (97 of 536).
+Overall, the case-finding instruments had sensitivities of 89% to 96% and specificities of 51% to 72% for diagnosing major depression.
+A positive response to the two-item instrument had a sensitivity of 96% (95% confidence interval [CI], 90-99%) and a specificity of 57% (95% CI 53-62%).
+Areas under the receiver operating characteristic curves were similar for all of the instruments, with a range of 0.82 to 0.89.
+The two-question case-finding instrument is a useful measure for detecting depression in primary care.
+It has similar test characteristics to other case-finding instruments and is less time-consuming.

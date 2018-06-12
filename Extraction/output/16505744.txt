@@ -1,0 +1,14 @@
+Title 
+Sexually transmitted diseases
+
+Article Title 
+Prevalence of Neisseria Gonorrhoeae among men screened for Chlamydia Trachomatis in four United States cities, 1999-2003.
+Abstract Text 
+Neisseria gonorrhoeae infections are the second most commonly reported disease in the United States and cause significant morbidity.
+We describe the prevalence of gonorrhea in a large sample of men tested for gonorrhea and Chlamydia trachomatis in Baltimore, Denver, San Francisco, and Seattle.
+Gonorrhea prevalence was measured among 17,712 men tested in a variety of non-sexually transmitted disease (STD) clinic venues using urine-based nucleic acid amplification tests.
+Among 16,850 asymptomatic men, prevalence ranged from 0% to 1.5% by city (P=0.20):
+Baltimore 1.3%, Denver 1.5%, San Francisco 1.5%, and Seattle 0%.
+Among 862 symptomatic men, the gonorrhea prevalence varied from 0.0% to 28.3% by city (P<0.01).
+The high prevalence of gonorrhea in symptomatic men supports the importance of testing for symptomatic men.
+The prevalence of gonorrhea among asymptomatic men is low, and routine screening cannot be recommended when screening is performed for chlamydia, unless a substantial local prevalence of gonorrhea can be documented in specific targeted venues or population groups.

@@ -1,0 +1,11 @@
+Title 
+The Journal of international medical research
+
+Article Title 
+Effectiveness of a 23-valent polysaccharide vaccine in preventing pneumonia and non-invasive pneumococcal infection in elderly people: a large-scale retrospective cohort study.
+Abstract Text 
+This retrospective cohort study evaluated the effectiveness of a 23-valent pneumococcal polysaccharide vaccine in reducing hospital admission for pneumonia, otitis media and exacerbation of asthma or other syndromes due to Streptococcus pneumoniae in 9170 high-risk individuals.
+Cohort members were followed from 1 January 1998 to 31 December 2002.
+With regard to preventing hospitalization due to pneumonia, we observed a decrease in the incidence of 1/10000 person-months and a reduction in the relative risk of 38% in the vaccinated cohort compared with the non-vaccinated subjects.
+A decrease in the risk of hospital admission for asthma, acute otitis media, chronic obstructive pulmonary disease and other respiratory infections was also observed in vaccinated compared with non-vaccinated subjects.
+The specificity of these findings was confirmed by the lack of a protective effect from vaccination for those outcomes, such as hospitalization 'for all causes' and 'other otorhinolaryngological diagnoses', that were not directly related to pneumococcal disease.

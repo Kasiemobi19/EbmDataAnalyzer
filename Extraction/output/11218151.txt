@@ -1,0 +1,13 @@
+Title 
+Scandinavian journal of clinical and laboratory investigation
+
+Article Title 
+Random C-peptide in the classification of diabetes.
+Abstract Text 
+To clarify whether random C-peptide is a valuable test in the classification of diabetes.
+All C-peptide measurements conducted in the diabetic population of Skaraborg (280,539 inhabitants and 3.2% diabetes) between 1995 and 1998 (3,115 samples) were considered, but only patients with well-defined diabetes type (1,449 samples from 1,093 patients) were analyzed for the correlation between diabetes type and C-peptide concentration.
+Serum C-peptide was measured after fasting over night (fCP), after glucagon stimulation (gCP), and randomly (rCP) without considering previous meals at an ordinary visit to the diabetic clinic (rCP).
+Receiver Operating Characteristic (ROC) curves were constructed to illustrate the power of the different C-peptide protocols and to determine the optimal cut-off values.
+Although all three tests had high discriminative power, the ROC curves demonstrated that rCP was superior to fCP and gCP in discriminating type 1 from type 2 diabetes.
+The optimal cut-off value for rCP was 0.50 nmol/L, for fCP 0.42 nmol/L, and for gCP 0.60 nmol/L.
+rCP is more powerful than fCP and gCP in distinguishing type 1 from type 2 diabetes and can therefore be recommended as a classification tool, particularly in outpatients.

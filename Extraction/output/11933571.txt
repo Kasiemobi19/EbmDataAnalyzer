@@ -1,0 +1,15 @@
+Title 
+Clinics in laboratory medicine
+
+Article Title 
+Clinical utility of the band count.
+Abstract Text 
+Enumeration of band neutrophils has a long clinical tradition as a diagnostic test for bacterial infection.
+Yet, the band count is a nonspecific, inaccurate, and imprecise laboratory test.
+Review of the literature provides little support for the clinical utility of the band count in patients greater than 3 months of age.
+The white blood cell count and the automated absolute neutrophil count are better diagnostic tests for adults and most children.
+Absolute numbers of bands are required for the Rochester criteria, a diagnostic algorithm for acutely ill, febrile children less than 3 months of age.
+No studies, however, assess the independent contribution of bands to the performance of the algorithm, or the use of the automated total neutrophil count as a replacement for the band count.
+Band counts also are required to calculate an immature to total neutrophil ratio (I:T ratio), an index widely used to aid in the diagnosis of neonatal sepsis.
+Studies, however, show a wide range of sensitivity and specificity for the I:T ratio, indicating variable performance.
+In the near future, rapid analysis of inflammatory factors, adhesion molecules, cytokines, neutrophil surface antigens, or even bacterial DNA may be superior alternative tests for the early diagnosis of sepsis.

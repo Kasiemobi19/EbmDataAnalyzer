@@ -1,0 +1,15 @@
+Title 
+Emergency medicine journal : EMJ
+
+Article Title 
+Is ice right? Does cryotherapy improve outcome for acute soft tissue injury?
+Abstract Text 
+The use of ice or cryotherapy in the management of acute soft tissue injuries is widely accepted and widely practised.
+This review was conducted to examine the medical literature to investigate if there is evidence to support an improvement in clinical outcome following the use of ice or cryotherapy.
+A comprehensive literature search was performed and all human and animal trials or systematic reviews pertaining to soft tissue trauma, ice or cryotherapy were assessed.
+The clinically relevant outcome measures were (1) a reduction in pain; (2) a reduction in swelling or oedema; (3) improved function; or (4) return to participation in normal activity.
+Six relevant trials in humans were identified, four of which lacked randomisation and blinding.
+There were two well conducted randomised controlled trials, one showing supportive evidence for the use of a cooling gel and the other not reaching statistical significance.
+Four animal studies showed that modest cooling reduced oedema but excessive or prolonged cooling is damaging.
+There were two systematic reviews, one of which was inconclusive and the other suggested that ice may hasten return to participation.
+There is insufficient evidence to suggest that cryotherapy improves clinical outcome in the management of soft tissue injuries.

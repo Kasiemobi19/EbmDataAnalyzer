@@ -1,0 +1,19 @@
+Title 
+Pediatrics
+
+Article Title 
+Timing of solid food introduction in relation to eczema, asthma, allergic rhinitis, and food and inhalant sensitization at the age of 6 years: results from the prospective birth cohort study LISA.
+Abstract Text 
+Current prophylactic feeding guidelines recommend a delayed introduction of solids for the prevention of atopic diseases.
+This study investigates whether a delayed introduction of solids (past 4 or 6 months) is protective against the development of eczema, asthma, allergic rhinitis, and food or inhalant sensitization at the age of 6 years.
+Data from 2073 children in the ongoing LISA birth cohort study were analyzed at 6 years of age.
+Multivariate logistic regression analyses were performed for all children and for children without skin or allergic symptoms within the first 6 months of life to take into account reverse causality.
+A delayed introduction of solids (past 4 or 6 months) was not associated with decreased odds for asthma, allergic rhinitis, or sensitization against food or inhalant allergens at 6 years of age.
+On the contrary, food sensitization was more frequent in children who were introduced to solids later.
+The relationship between the timing of solid food introduction and eczema was not clear.
+There was no protective effect of a late introduction of solids or a less diverse diet within the first 4 months of life.
+However, in children without early skin or allergic symptoms were considered, eczema was significantly more frequent in children who received a more diverse diet within the first 4 months.
+This study found no evidence supporting a delayed introduction of solids beyond 4 or 6 months for the prevention of asthma, allergic rhinitis, and food or inhalant sensitization at the age of 6 years.
+For eczema, the results were conflicting, and a protective effect of a delayed introduction of solids cannot be excluded.
+Positive associations between late introduction of solids and food sensitization have to be interpreted with caution.
+A true protective effect of a delayed introduction of solids on food sensitization seems unlikely.

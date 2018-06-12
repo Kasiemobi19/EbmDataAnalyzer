@@ -1,0 +1,23 @@
+Title 
+Cochrane database of systematic reviews (Online)
+
+Article Title 
+Symptomatic treatment of the cough in whooping cough.
+Abstract Text 
+The worldwide incidence of whooping cough (pertussis) has been estimated at 48.5 million cases and nearly 295,000 deaths per year.
+In low-income countries, the case-fatality rate among infants may be as high as 4%.
+Much of the morbidity of whooping cough in children and adults is due to the effects of the paroxysmal cough.
+Cough treatments proposed include corticosteroids, beta 2-adrenergic agonists, pertussis-specific immunoglobulin, antihistamines and possibly leukotriene receptor antagonists (LTRAs).
+To assess the effectiveness and safety of interventions to reduce the severity of paroxysmal cough in whooping cough in children and adults.
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2009, issue 1), which contains the Cochrane Acute Respiratory Infections Group's Specialised Register and the Database of Abstracts of Reviews of Effects (DARE); MEDLINE (1950 to March 2009); EMBASE (1980 to March 2009); AMED (1985 to March 2009); CINAHL (1982 to March 2009) and LILACS (March 2009).
+Randomised controlled trials (RCTs) and quasi-RCTs of any intervention (excluding antibiotics and vaccines) to suppress the cough in whooping cough.
+Two review authors (SB, MT) independently selected trials, extracted data and assessed the quality of each trial.
+The primary outcome was frequency of paroxysms of coughing.
+Secondary outcomes were frequency of vomiting, frequency of whoop, frequency of cyanosis (turning blue), development of serious complications, mortality from any cause, side effects due to medication, admission to hospital and duration of hospital stay.
+Ten trials were included of varying sample sizes (N = 9 to 135) from high-income countries.
+Study quality was generally poor.
+Included studies did not show a statistically significant benefit for any of the interventions.
+Diphenhydramine did not change coughing episodes; the mean difference of coughing spells per 24 hours was 1.9 (95% confidence interval (CI) - 4.7 to 8.5).
+One study on pertussis immunoglobulin reported a possible mean reduction of -3.1 whoops per 24 hours (95% CI -6.2 to 0.02) but no change in hospital stay (-0.7 days) (95% CI -3.8 to 2.4).
+Dexamethasone did not show a clear decrease in length of hospital stay (-3.5 days) (95% CI -15.3 to 8.4) and salbutamol showed no change in coughing paroxysms per 24 hours (-0.22) (95% CI -4.13 to 3.69).
+Insufficient evidence exists to draw conclusions about the effects of interventions for the cough in whooping cough.

@@ -1,0 +1,24 @@
+Title 
+Lancet
+
+Article Title 
+Effects of intensive blood-pressure lowering and low-dose aspirin in patients with hypertension: principal results of the Hypertension Optimal Treatment (HOT) randomised trial. HOT Study Group.
+Abstract Text 
+Despite treatment, there is often a higher incidence of cardiovascular complications in patients with hypertension than in normotensive individuals.
+Inadequate reduction of their blood pressure is a likely cause, but the optimum target blood pressure is not known.
+The impact of acetylsalicylic acid (aspirin) has never been investigated in patients with hypertension.
+We aimed to assess the optimum target diastolic blood pressure and the potential benefit of a low dose of acetylsalicylic acid in the treatment of hypertension.
+18790 patients, from 26 countries, aged 50-80 years (mean 61.5 years) with hypertension and diastolic blood pressure between 100 mm Hg and 115 mm Hg (mean 105 mm Hg) were randomly assigned a target diastolic blood pressure.
+6264 patients were allocated to the target pressure < or =90 mm Hg, 6264 to < or =85 mm Hg, and 6262 to < or =80 mm Hg.
+Felodipine was given as baseline therapy with the addition of other agents, according to a five-step regimen.
+In addition, 9399 patients were randomly assigned 75 mg/day acetylsalicylic acid (Bamycor, Astra) and 9391 patients were assigned placebo.
+Diastolic blood pressure was reduced by 20.3 mm Hg, 22.3 mm Hg, and 24.3 mm Hg, in the < or =90 mm Hg, < or =85 mm Hg, and < or =80 mm Hg target groups, respectively.
+The lowest incidence of major cardiovascular events occurred at a mean achieved diastolic blood pressure of 82.6 mm Hg; the lowest risk of cardiovascular mortality occurred at 86.5 mm Hg.
+Further reduction below these blood pressures was safe.
+In patients with diabetes mellitus there was a 51% reduction in major cardiovascular events in target group < or =80 mm Hg compared with target group < or =90 mm Hg (p for trend=0.005).
+Acetylsalicylic acid reduced major cardiovascular events by 15% (p=0.03) and all myocardial infarction by 36% (p=0.002), with no effect on stroke.
+There were seven fatal bleeds in the acetylsalicylic acid group and eight in the placebo group, and 129 versus 70 non-fatal major bleeds in the two groups, respectively (p<0.001).
+Intensive lowering of blood pressure in patients with hypertension was associated with a low rate of cardiovascular events.
+The HOT Study shows the benefits of lowering the diastolic blood pressure down to 82.6 mm Hg.
+Acetylsalicylic acid significantly reduced major cardiovascular events with the greatest benefit seen in all myocardial infarction.
+There was no effect on the incidence of stroke or fatal bleeds, but non-fatal major bleeds were twice as common.

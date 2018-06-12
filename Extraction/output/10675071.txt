@@ -1,0 +1,17 @@
+Title 
+Lancet
+
+Article Title 
+Effects of ramipril on cardiovascular and microvascular outcomes in people with diabetes mellitus: results of the HOPE study and MICRO-HOPE substudy. Heart Outcomes Prevention Evaluation Study Investigators.
+Abstract Text 
+Diabetes mellitus is a strong risk factor for cardiovascular and renal disease.
+We investigated whether the angiotensin-converting-enzyme (ACE) inhibitor ramipril can lower these risks in patients with diabetes.
+3577 people with diabetes included in the Heart Outcomes Prevention Evaluation study, aged 55 years or older, who had a previous cardiovascular event or at least one other cardiovascular risk factor, no clinical proteinuria, heart failure, or low ejection fraction, and who were not taking ACE inhibitors, were randomly assigned ramipril (10 mg/day) or placebo, and vitamin E or placebo, according to a two-by-two factorial design.
+The combined primary outcome was myocardial infarction, stroke, or cardiovascular death.
+Overt nephropathy was a main outcome in a substudy.
+The study was stopped 6 months early (after 4.5 years) by the independent data safety and monitoring board because of a consistent benefit of ramipril compared with placebo.
+Ramipril lowered the risk of the combined primary outcome by 25% (95% CI 12-36, p=0.0004), myocardial infarction by 22% (6-36), stroke by 33% (10-50), cardiovascular death by 37% (21-51), total mortality by 24% (8-37), revascularisation by 17% (2-30), and overt nephropathy by 24% (3-40, p=0.027).
+After adjustment for the changes in systolic (2.4 mm Hg) and diastolic (1.0 mm Hg) blood pressures, ramipril still lowered the risk of the combined primary outcome by 25% (12-36, p=0.0004).
+Ramipril was beneficial for cardiovascular events and overt nephropathy in people with diabetes.
+The cardiovascular benefit was greater than that attributable to the decrease in blood pressure.
+This treatment represents a vasculoprotective and renoprotective effect for people with diabetes.

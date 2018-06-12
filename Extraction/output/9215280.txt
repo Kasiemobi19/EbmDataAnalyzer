@@ -1,0 +1,28 @@
+Title 
+The Journal of clinical endocrinology and metabolism
+
+Article Title 
+Troglitazone improves defects in insulin action, insulin secretion, ovarian steroidogenesis, and fibrinolysis in women with polycystic ovary syndrome.
+Abstract Text 
+Women with polycystic ovary syndrome (PCOS) are characterized by defects in insulin action, insulin secretion, ovarian steroidogenesis, and fibrinolysis.
+We administered the insulin-sensitizing agent troglitazone to 13 obese women with PCOS and impaired glucose tolerance to determine whether attenuation of hyperinsulinemia ameliorates these defects.
+All subjects had oligomenorrhea, hirsutism, polycystic ovaries, and hyperandrogenemia.
+Before and after treatment with troglitazone (400 mg daily for 12 weeks), all had 1) a GnRH agonist (leuprolide) test, 2) a 75-g oral glucose tolerance test, 3) a frequently sampled iv glucose tolerance test to determine the insulin sensitivity index and the acute insulin response to glucose, 4) an oscillatory glucose infusion to assess the ability of the beta-cell to entrain to glucose as quantitated by the normalized spectral power for the insulin secretion rate, and 5) measures of fibrinolytic capacity [plasminogen activator inhibitor type 1 (PAI-1) and tissue plasminogen activator].
+There was no change in body mass index (39.9
++/- 1.4 vs. 40.2
++/- 1.4 kg/m2) or body fat distribution after treatment.
+Both the fasting (91 +/- 3 vs.
+103 +/- 3 mg/dL; P < 0.001) and 2 h (146 +/- 8 vs. 171 +/- 6 mg/dL; P < 0.02) plasma glucose concentrations during the oral glucose tolerance test declined significantly.
+There was a concordant reduction in glycosylated hemoglobin to 5.7 +/- 0.1 from a pretreatment level of 6.1 +/- 0.1% (P < 0.03).
+Insulin sensitivity increased from 0.58 +/- 0.14 to 0.95 +/- 0.26 10(-5) min-1/pmol.L (P < 0.01) after treatment as did the disposition index (745 +/- 135 vs. 381 +/- 96; P < 0.05).
+The ability of the beta-cell to appropriately detect and respond to an oscillatory glucose infusion improved significantly after troglitazone treatment; the normalized spectral power for the insulin secretion rate increased to 5.9 +/- 1.1 from 4.3 +/- 0.8 (P < 0.05).
+Basal levels of total testosterone (109.3 +/- 15.2 vs. 79.4
++/- 9.8 ng/dL; P < 0.05) and free testosterone (33.3 +/- 4.0 vs. 21.2
++/- 2.6 pg/mL; P < 0.01) declined significantly after troglitazone treatment.
+Leuprolide-stimulated levels of 17-hydroxyprogesterone, androstenedione, and total testosterone were significantly lower posttreatment compared to pretreatment.
+The reduction in androgen levels occurred independently of any changes in gonadotropin levels.
+A decreased functional activity of PAI-1 in blood (from 12.7 +/- 2.8 to 6.3 +/- 1.4 AU/mL P < 0.05) was associated with a decreased concentration of PAI-1 protein (from 64.9 +/- 9.1 to 44.8 +/- 6.1 ng/mL; P < 0.05).
+No change in the functional activity of tissue plasminogen activator (from 5.3 +/- 0.4 to 5.1 +/- 0.5 IU/mL) was observed despite a decrease in its concentration (from 9.6 +/- 0.9 to 8.2 +/- 0.7 ng/mL; P < 0.05).
+The marked reduction in PAI-1 could be expected to improve the fibrinolytic response to thrombosis in these subjects.
+We conclude that administration of troglitazone to women with PCOS and impaired glucose tolerance ameliorates the metabolic and hormonal derangements characteristic of the syndrome.
+Troglitazone holds potential as a useful primary or adjunctive treatment for women with PCOS.

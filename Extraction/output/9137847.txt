@@ -1,0 +1,19 @@
+Title 
+Cephalalgia : an international journal of headache
+
+Article Title 
+Divalproex sodium in migraine prophylaxis: a dose-controlled study.
+Abstract Text 
+To evaluate the efficacy and safety of divalproex sodium (DVPX) when used as prophylactic monotherapy in patients with migraine.
+Multicenter, double-blind, placebo-controlled, parallel group.
+Patients were previously untreated or had failed no more than two adequate trials of prophylactic therapy.
+During the 4-week (single-blind) baseline, patients received placebo and completed a headache diary.
+Patients with two or more migraine attacks during the baseline were randomized to receive a DVPX daily dose of 500, 1000, or 1500 mg, or to placebo.
+The experimental phase (EP) lasted 12 weeks, the first 4 weeks for dose escalation to randomized dose, and the remaining 8 weeks for maintenance at that dose.
+The primary efficacy variable was 4-week migraine attack frequency during the EP.
+One-hundred-and-seventy-six patients (44 placebo, 132 DVPX) were randomized; 171 provided efficacy data and 137 completed the study.
+During the EP, after adjustment for differences in baseline migraine attack frequencies, mean reductions in the DVPX groups were 1.7 (500 mg), 2.0 (1000 mg) and 1.7 (1500 mg) migraine attacks per 4 weeks compared to a mean reduction of 0.5 migraine attacks in the placebo group (p < or = 0.05 vs placebo).
+Forty-four to 45% of DVPX-treated patients compared to 21% of patients in the placebo group achieved > or = 50% reduction in their migraine attack frequencies (p < or = 0.05 vs placebo).
+The recommended initial dose of DVPX in migraine prophylaxis is 500 mg per day, although some patients may benefit from higher doses.
+Adverse events were similar in the DVPX and placebo treatment groups except for nausea, dizziness and tremor in which incidence rates were significantly higher in the DVPX 1500 mg group (nausea was also higher in 500 mg group) than in the placebo group.
+Divalproex sodium is an effective prophylactic treatment in migraine and is generally well tolerated.

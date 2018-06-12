@@ -1,0 +1,31 @@
+Title 
+Cochrane database of systematic reviews (Online)
+
+Article Title 
+Metformin monotherapy for type 2 diabetes mellitus.
+Abstract Text 
+Metformin is an anti-hyperglycaemic agent used for the treatment of type 2 diabetes mellitus.
+Type 2 diabetes may present long-term complications: micro- (retinopathy, nephropathy and neuropathy) and macrovascular (stroke, myocardial infarction and peripheral vascular disease).
+Two meta-analyses have been published before, although only secondary outcomes were assessed.
+To assess the effects of metformin monotherapy on mortality, morbidity, quality of life, glycaemic control, body weight, lipid levels, blood pressure, insulinaemia, and albuminuria in patients with type 2 diabetes mellitus.
+Studies were obtained from computerised searches of multiple electronic databases and hand searches of reference lists of relevant trials identified.
+Date of last search: September 2003.
+Trials fulfilling the following inclusion criteria: Diabetes mellitus type 2, metformin versus any other oral intervention, assessment of relevant clinical outcome measures, use of random allocation.
+Two reviewers extracted data, using a standard data extraction form.
+Data were summarised under a random effects model.
+Dichotomous data were expressed as relative risk.
+We calculated the risk difference (RD), and the Number Needed to Treat, when it was possible.
+We collected data of mean and standard deviation from changes to baseline.
+However many trials reported end point data.
+This limitation lead to the expression of the results as standardised mean differences (SMD) and an overall SMD was calculated.
+Heterogeneity was tested for using the Z score and the I-squared statistic.
+Subgroup, sensitivity analysis and meta-regression were used to explore heterogeneity.
+We included for analysis 29 trials with 37 arms (5259 participants), comparing metformin (37 arms and 2007 participants) with sulphonylureas (13 and 1167), placebo (12 and 702), diet (three and 493), thiazolidinediones (three and 132), insulin (two and 439), meglitinides (two and 208), and glucosidase inhibitors (two and 111).
+Nine studies reported data on primary outcomes.
+Obese patients allocated to intensive blood glucose control with metformin showed a greater benefit than chlorpropamide, glibenclamide, or insulin for any diabetes-related outcomes (P = 0.009), and for all-cause mortality (P = 0.03).
+Obese participants assigned to intensive blood glucose control with metformin showed a greater benefit than overweight patients on conventional treatment for any diabetes-related outcomes (P = 0.004), diabetes-related death (P = 0.03), all-cause mortality (P = 0.01), and myocardial infarction (P = 0.02).
+Patients assigned to metformin monotherapy showed a significant benefit for glycaemia control, weight, dyslipidaemia, and diastolic blood pressure.
+Metformin presents a strong benefit for HbA1c when compared with placebo and diet; and a moderated benefit for: glycaemia control, LDL cholesterol, and BMI or weight when compared with sulphonylureas.
+Metformin may be the first therapeutic option in the diabetes mellitus type 2 with overweight or obesity, as it may prevent some vascular complications, and mortality.
+Metformin produces beneficial changes in glycaemia control, and moderated in weight, lipids, insulinaemia and diastolic blood pressure.
+Sulphonylureas, alpha-glucosidase inhibitors, thiazolidinediones, meglitinides, insulin, and diet fail to show more benefit for glycaemia control, body weight, or lipids, than metformin.

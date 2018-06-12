@@ -1,0 +1,15 @@
+Title 
+Menopause (New York, N.Y.)
+
+Article Title 
+Menopausal transition: predicting time to menopause for women 44 years or older from simple questions on menstrual variability.
+Abstract Text 
+To assess whether menstrual variability predicts time to menopause.
+Analyses drew on 326 menstruating women, aged 44 to 56, who were followed until they reached menopause or the study ended.
+The women provided data on their menstrual characteristics at intake.
+We evaluated the utility of six definitions of menstrual variability for predicting time to ascertained menopause (final menstrual period + 12 months): (1) more than 90 days since the most recent menstrual period (n = 20); (2) 60 or more days of amenorrhea during the previous year (n = 71); (3) cycle lengths that varied by 19 or more days (n = 106); (4) cycle lengths too variable to report a usual length (n = 29); (5) cycles less regular than they had been at age 40 (n = 107); and (6) change in the duration or heaviness of menstrual flow compared with age 40 (n = 255).
+In addition, we evaluated hot flashes or night sweats during the previous week (n = 50) and age 50 or more years (n = 60) as predictors.
+Definitions 1 to 5 predicted time to menopause; definition 6 did not.
+Definition 1 had the highest positive predictive value for ascertained menopause within 2 years and within 4 years; definitions 2 and 4 had low to moderate positive predictive values for ascertained menopause within 2 years but good positive predictive values for ascertained menopause within 4 years.
+For ascertained menopause within 2 years, definition 2 showed the best balance of sensitivity (94%) and specificity (91%).
+Simple questions about menstrual variability elicit information that is informative about proximity to menopause.

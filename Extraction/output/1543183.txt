@@ -1,0 +1,11 @@
+Title 
+American journal of diseases of children (1960)
+
+Article Title 
+The case against screening urinalyses for asymptomatic bacteriuria in children.
+Abstract Text 
+Screening children for asymptomatic bacteriuria to prevent pyelonephritis and renal scarring is widely recommended, but its cost-effectiveness has not been established.
+We reviewed published studies to determine the costs and benefits of screening toilet-trained, asymptomatic children for bacteriuria.
+Given the sensitivity and specificity of current screening methods (approximately 80% each) and the prevalence of bacteriuria in asymptomatic children (approximately 1% in girls and 0.03% in boys), screening 100,000 children would result in 19,897 (20%) false-positive tests; initial screening and two urine cultures to confirm the diagnosis of asymptomatic bacteriuria would miss 28% of 515 children with true bacteriuria, and cost nearly $2.9 million.
+There is no evidence that detection and treatment of children with asymptomatic bacteriuria prevents subsequent pyelonephritis or renal scarring.
+Screening for bacteriuria in asymptomatic children is costly, fails to prevent pyelonephritis or renal scarring, and should be discontinued as a part of routine well-child care.

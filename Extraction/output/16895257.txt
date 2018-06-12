@@ -1,0 +1,19 @@
+Title 
+Sleep
+
+Article Title 
+Physical examination: Mallampati score as an independent predictor of obstructive sleep apnea.
+Abstract Text 
+To assess the clinical usefulness of the Mallampati score in patients with obstructive sleep apnea.
+Mallampati scoring of the orophyarynx is a simple noninvasive method used to assess the difficulty of endotracheal intubation, but its clinical usefulness has not been validated in patients with sleep-disordered breathing.
+Prospective multivariate assessment of a predictor variable.
+The UCSF Sleep Disorders Center.
+One hundred thirty-seven adult patients who were evaluated for possible obstructive sleep apnea.
+Prospective determination of the Mallampati score, assessment of other variables for multivariate analysis, and subsequent overnight polysomnography.
+The Mallampati score was an independent predictor of both the presence and severity of obstructive sleep apnea.
+On average, for every 1-point increase in the Mallampati score, the odds of having obstructive sleep apnea (apnea-hypopnea index> or = 5) increased more than 2-fold (odds ratio [per 1-point increase] = 2.5; 95% confidence interval: 1.2-5.0;
+p = .01),
+and the apnea-hypopnea index increased by more than 5 events per hour (coefficient = 5.2; 95% confidence interval: 0.2-10; p = .04).
+These results were independent of more than 30 variables that reflected airway anatomy, body habitus, symptoms, and medical history.
+Our results indicate that Mallampati scoring is a useful part of the physical examination of patients prior to polysomnography.
+The independent association between Mallampati score and presence and severity of obstructive sleep apnea suggests that this scoring system will have practical value in clinical settings and prospective studies of sleep-disordered breathing.

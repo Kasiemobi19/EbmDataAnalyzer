@@ -1,0 +1,15 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+The effect of carvedilol on morbidity and mortality in patients with chronic heart failure. U.S. Carvedilol Heart Failure Study Group.
+Abstract Text 
+Controlled clinical trials have shown that beta-blockers can produce hemodynamic and symptomatic improvement in chronic heart failure, but the effect of these drugs on survival has not been determined.
+We enrolled 1094 patients with chronic heart failure in a double-blind, placebo-controlled, stratified program, in which patients were assigned to one of the four treatment protocols on the basis of their exercise capacity.
+Within each of the four protocols patients with mild, moderate, or severe heart failure with left ventricular ejection fractions < or = 0.35 were randomly assigned to receive either placebo (n = 398) or the beta-blocker carvedilol (n = 696); background therapy with digoxin, diuretics, and an angiotensin-converting-enzyme inhibitor remained constant.
+Patient were observed for the occurrence death or hospitalization for cardiovascular reasons during the following 6 months, after the beginning (12 months for the group with mild heart failure).
+The overall mortality rate was 7.8 percent in the placebo group and 3.2 percent in the carvedilol group; the reduction in risk attributable to carvedilol was 65 percent (95 percent confidence interval, 39 to 80 percent; P < 0.001).
+This finding led the Data and Safety Monitoring Board to recommend termination of the study before its scheduled completion.
+In addition, as compared with placebo, carvedilol therapy was accompanied by a 27 percent reduction in the risk of hospitalization for cardiovascular causes (19.6 percent vs. 14.1 percent, P = 0.036), as well as a 38 percent reduction in the combined risk of hospitalization or death (24.6 percent vs, 15.8 percent, P < 0.001).
+Worsening heart failure as an adverse reaction during treatment was less frequent in the carvedilol than in the placebo group.
+Carvedilol reduces the risk or death as well as the risk of hospitalization for cardiovascular causes in patients with heart failure who are receiving treatment with digoxin, diuretics, and an angiotensin-converting-enzyme inhibitor.

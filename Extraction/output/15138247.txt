@@ -1,0 +1,31 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Drug treatment of hyperlipidemia in women.
+Abstract Text 
+Several clinical trials have evaluated the effects of lipid-lowering medications on coronary heart disease (CHD).
+Many of the trials have not included enough women to allow sex-specific analyses or have not reported results in women separately.
+To assess and synthesize the evidence regarding drug treatment of hyperlipidemia for the prevention of CHD events in women and to conduct a meta-analysis of the effect of drug treatment on mortality.
+We searched MEDLINE, the Cochrane Database, and the Database of Abstracts of Reviews of Effectiveness for articles published from 1966 through December 2003.
+We reviewed reference lists of articles and consulted content experts.
+Studies of outpatients that had a treatment duration of at least 1 year, assessed the impact of lipid lowering on clinical outcomes, and reported results by sex were included.
+Outcomes evaluated were total mortality, CHD mortality, nonfatal myocardial infarction, revascularization, and total CHD events.
+Summary estimates of the relative risks (RRs) with therapy were calculated using a random-effects model for patients with and without a previous history of cardiovascular disease.
+Thirteen studies were included.
+Six trials included a total of 11 435 women without cardiovascular disease and assessed the effects of lipid-lowering medications.
+Lipid lowering did not reduce total mortality (RR, 0.95; 95% confidence interval [CI], 0.62-1.46),
+CHD mortality (RR, 1.07; 95% CI, 0.47-2.40),
+nonfatal myocardial infarction (RR, 0.61; 95% CI, 0.22-1.68),
+revascularization (RR, 0.87; 95% CI, 0.33-2.31),
+or CHD events (RR, 0.87; 95% CI, 0.69-1.09).
+However, some analyses were limited by too few CHD events in the available trials.
+Eight trials included 8272 women with cardiovascular disease and assessed the effects of lipid-lowering medications.
+Lipid lowering did not reduce total mortality in women with cardiovascular disease (RR, 1.00; 95% CI, 0.77-1.29).
+However, lipid lowering reduced CHD mortality (RR, 0.74; 95% CI, 0.55-1.00),
+nonfatal myocardial infarction (RR, 0.71; 95% CI, 0.58-0.87),
+revascularization (RR, 0.70; 95% CI, 0.55-0.89),
+and total CHD events (RR, 0.80; CI, 0.71-0.91).
+For women without cardiovascular disease, lipid lowering does not affect total or CHD mortality.
+Lipid lowering may reduce CHD events, but current evidence is insufficient to determine this conclusively.
+For women with known cardiovascular disease, treatment of hyperlipidemia is effective in reducing CHD events, CHD mortality, nonfatal myocardial infarction, and revascularization, but it does not affect total mortality.

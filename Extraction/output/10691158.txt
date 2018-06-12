@@ -1,0 +1,15 @@
+Title 
+Diabetic medicine : a journal of the British Diabetic Association
+
+Article Title 
+Addition of low-dose rosiglitazone to sulphonylurea therapy improves glycaemic control in Type 2 diabetic patients.
+Abstract Text 
+This study was designed to test the efficacy and safety of low-dose rosiglitazone, a potent, insulin-sensitizing thiazolidinedione, in combination with sulphonylurea in Type 2 diabetic patients.
+For the intention-to-treat analysis, 574 patients (59% male, mean age 61 years) were available, randomized to receive 26 weeks of twice-daily placebo (n = 192), rosiglitazone 1 mg (n = 199) or rosiglitazone 2 mg (n = 183) in addition to existing sulphonylurea treatment with gliclazide (47.6% of patients), glibenclamide (41.8%) or glipizide (9.4%) (two patients were taking carbutamide or glimepiride).
+Change in haemoglobin A1c (HbA1c), fasting plasma glucose (FPG), fructosamine, insulin, C-peptide, albumin, and lipids were measured, and safety was evaluated.
+Mean baseline HbA1c was 9.2% and FPG was 11.4 mmol/l.
+Rosiglitazone at doses of 1 and 2 mg b.d.
+plus sulphonylurea produced significant decreases, compared with sulphonylurea plus placebo, in HbA1c (-0.59% and -1.03%, respectively; both P<0.0001) and FPG (1.35 mmol/l and 2.44 mmol/l, respectively; both P<0.0001).
+Both HDL-cholesterol and LDL-cholesterol increased and potentially beneficial decreases in non-esterified fatty acids and gamma glutamyl transpeptidase levels were seen in both rosiglitazone groups.
+The overall incidence of adverse experiences was similar in all three treatment groups, with no significant cardiac events, hypoglycaemia or hepatotoxicity.
+Overall, the combination of rosiglitazone and a sulphonylurea was safe, well tolerated and effective in patients with Type 2 diabetes.

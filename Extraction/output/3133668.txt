@@ -1,0 +1,13 @@
+Title 
+Physical therapy
+
+Article Title 
+Comparison of three treatment procedures for minimizing ankle sprain swelling.
+Abstract Text 
+The purpose of this study was to compare the effects of cold, heat, and contrast bath treatments on the amount of edema in first- and second-degree sprained ankles during the postacute phase of rehabilitation.
+Thirty subjects with postacute sprained ankles were assigned to a cold (n = 10), heat (n = 10), or contrast bath (n = 10) treatment group.
+A specially constructed tank was used to take pretreatment and posttreatment volumetric measurements of subjects' sprained ankles.
+Descriptive statistics, a 3 x 3 two-way analysis of variance for repeated measures, and Tukey's Honestly Significant Difference post hoc test revealed that cold therapy produced the least edema in subjects with sprained ankles (p less than .05).
+All three treatments (cold, heat, and contrast bath) produced an increase in the amount of edema in the postacute sprained ankles of the subjects.
+Heat and contrast bath therapy produced almost identical increases in the amount of ankle edema on each of the three days of the study.
+We concluded that cold therapy is the most appropriate of the three treatments if the therapeutic objective is to minimize edema before rehabilitative exercise during the third, fourth, and fifth days postinjury for first- and second-degree ankle sprains.

@@ -1,0 +1,17 @@
+Title 
+Journal of hypertension
+
+Article Title 
+Self-measured versus ambulatory blood pressure in the diagnosis of hypertension.
+Abstract Text 
+We examined to what extent self-measurement of blood pressure at home (HBP) can be an alternative to ambulatory monitoring (ABP) to diagnose white-coat hypertension.
+In 247 untreated patients, we compared the white-coat effects obtained by HBP and ABP.
+The thresholds to diagnose hypertension were > or = 140/> or = 90 mmHg for conventional blood pressure (CBP) and > or = 135/> or = 85 mmHg for daytime ABP and HBP.
+Mean systolic/diastolic CBP, HBP and ABP were 155.4/100.0,
+143.1/91.5 and 148.1/95.0
+mmHg, respectively.
+The white-coat effect was 5.0/3.5 mmHg larger on HBP compared with ABP (12.3/8.6 versus 7.2/5.0
+mmHg; P < 0.001).
+The correlation coefficients between the white-coat effects based on HBP and ABP were 0.74 systolic and 0.60 diastolic (P < 0.001).
+With ABP as a reference, the specificity of HBP to detect white-coat hypertension was 88.6%, and the sensitivity was 68.4%.
+Our findings are in line with the recommendations of the ASH Ad Hoc Panel that recommends HBP for screening while ABP has a better prognostic accuracy.

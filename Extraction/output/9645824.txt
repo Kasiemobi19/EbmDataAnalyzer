@@ -1,0 +1,13 @@
+Title 
+Archives of internal medicine
+
+Article Title 
+Klinefelter syndrome.
+Abstract Text 
+Klinefelter syndrome is the most common sex chromosome disorder.
+Affected males carry an additional X chromosome, which results in male hypogonadism, androgen deficiency, and impaired spermatogenesis.
+Some patients may exhibit all of the classic signs of this disorder, including gynecomastia, small testes, sparse body hair, tallness, and infertility, whereas others, because of the wide variability in clinical expression, lack many of these features.
+Treatment consists of testosterone replacement therapy to correct the androgen deficiency and to provide patients with appropriate virilization.
+This therapy also has positive effects on mood and self-esteem and has been shown to protect against osteoporosis, although it will not reverse infertility.
+Although the diagnosis of Klinefelter syndrome is now made definitively using chromosomal karyotyping, revealing in most instances a 47,XXY genotype, the diagnosis also can be made using a careful history and results of a physical examination, with the hallmark being small, firm testes.
+As it affects 1 in 500 male patients and presents with a variety of clinical features, primary care physicians should be familiar with this condition.

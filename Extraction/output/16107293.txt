@@ -1,0 +1,20 @@
+Title 
+Vaccine
+
+Article Title 
+Poor antibody response to pneumococcal polysaccharide vaccination suggests increased susceptibility to pneumococcal infection in splenectomized patients with hematological diseases.
+Abstract Text 
+Patients with hematological diseases undergoing diagnostic or therapeutic splenectomy are at increased risk of pneumococcal infections.
+Vaccination is a straightforward option in preventing these infections.
+A well-defined cohort of splenectomized patients with hematological disorders was followed according to response to 23-valent pneumococcal capsular polysaccharide (Pneumovax N) vaccination.
+A total of 76 splenectomized patients (Hodgkin lymphoma, HL 26, non-Hodgkin lymphoma, NHL 19, immune-mediated cytopenias 28, and others 3) with a median age of 52 years (range 18-82 years) were included.
+Pneumococcal polysaccharide (PS) antibodies were determined using an enzyme-linked immunosorbent assay before vaccination, at peak, and follow-up.
+A poor response to vaccination was observed in 21 (28%) patients and a good response in 55 (72%), respectively.
+During the follow-up period of 7.5 years (range 3.5-10.5
+years) after vaccination, and despite repeated revaccination in many cases, a total of five episodes (in three patients) of pneumococcal infections were reported, all confined to the poor responder group.
+Revaccination did not improve antibody levels in this group.
+The median age at vaccination was significantly higher in the group of poor responders (p=0.0006).
+None of the following factors could predict a poor antibody response: gender, disease activity or aggressiveness in hematological malignancies, previous radiotherapy and/or chemotherapy, time between splenectomy and pneumococcal vaccination, time between chemotherapy/radiotherapy and study pneumococcal vaccination (1 year), or the presence of hypogammaglobulinemia.
+In conclusion, a substantial proportion of splenectomized patients with hematological diseases mounted a poor PS antibody response and remained at risk for pneumococcal infections despite vaccination.
+In the absence of apt indirect clinical predictors of antibody response, with the exception of age, measurement of antibody levels seems to be a feasible method for early identification of this patient subgroup.
+Poor responders do not benefit from revaccination, and should be offered other prophylactic measures.

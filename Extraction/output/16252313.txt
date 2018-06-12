@@ -1,0 +1,15 @@
+Title 
+The British journal of surgery
+
+Article Title 
+Systematic review of randomized trials comparing rubber band ligation with excisional haemorrhoidectomy.
+Abstract Text 
+This review compares the two most popular treatments for haemorrhoids, namely rubber band ligation (RBL) and excisional haemorrhoidectomy.
+Randomized trials were identified from the major electronic databases.
+Symptom control, retreatment, postoperative pain, complications, time off work and patient satisfaction were assessed.
+Relative risk (RR) and weighted mean difference with 95 per cent confidence interval (c.i.) were estimated using a random-effects model for dichotomous and continuous outcomes respectively.
+Three trials met the inclusion criteria and all were of poor methodological quality.
+Complete remission of haemorrhoidal symptoms was better after haemorrhoidectomy (RR 1.68 (95 per cent c.i 1.00 to 2.83)).
+There was significant heterogeneity between the studies (I(2) = 90.5 per cent; P < 0.001).
+Fewer patients required retreatment after haemorrhoidectomy (RR 0.20 (95 per cent c.i 0.09 to 0.40)), but anal stenosis, postoperative haemorrhage and incontinence to flatus were more common with this operation.
+Haemorrhoidectomy produced better long-term symptom control in patients with grade III haemorrhoids, but was associated with more postoperative complications than RBL.

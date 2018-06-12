@@ -1,0 +1,17 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Identifying adults at increased risk of coronary disease. How well do the current cholesterol guidelines work?
+Abstract Text 
+To assess the accuracy of lipid screening strategies to identify individuals at increased risk of coronary heart disease mortality.
+The 15% random sample of adults recruited into the Lipid Research Clinic Prevalence and Follow-up Studies, which included 3678 men and women aged 35 to 74 years.
+Total plasma cholesterol levels, lipoprotein fractions, and other coronary risk factors at study entry were compared with subsequent coronary heart disease mortality (mean follow-up, 12.2 years).
+The areas under receiver operating characteristic curves for blood lipids, lipid ratios, the screening guidelines proposed by the National National Cholesterol Education Program, those of the Canadian Consensus Conference on Cholesterol, and a coronary risk model that used Framingham data.
+The current National Cholesterol Education Program guidelines (area under the curve, 0.74) were significantly (P = .03)
+more accurate than the old National Cholesterol Education Program guidelines (area, 0.72).
+The ratio of total plasma cholesterol level to high-density lipoprotein cholesterol level (area, 0.72) was as accurate as current National Cholesterol Education Program guidelines.
+The coronary risk model (area, 0.85) was superior (P < .003) to all other screening maneuvers.
+Compared with the current National Cholesterol Education Program guidelines, the risk model demonstrated superior test sensitivity (70% vs 45%) with only slightly reduced specificity (82% vs 86%).
+The ratio of total plasma cholesterol level to high-density lipoprotein cholesterol level is as accurate as current American screening guidelines.
+Future guidelines should better incorporate high-density lipoprotein cholesterol levels and nonlipid risk factors to target high-risk individuals accurately.

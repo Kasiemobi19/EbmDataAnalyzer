@@ -1,0 +1,14 @@
+Title 
+Journal of the American Academy of Child and Adolescent Psychiatry
+
+Article Title 
+Atomoxetine treatment in children and adolescents with attention-deficit/hyperactivity disorder and comorbid oppositional defiant disorder.
+Abstract Text 
+To examine (1) moderating effects of oppositional defiant disorder (ODD) on attention-deficit/hyperactivity disorder (ADHD) treatment response and (2) responses of ODD symptoms to atomoxetine.
+Children and adolescents (ages 8-18) with ADHD were treated for approximately 8 weeks with placebo or atomoxetine (fixed dosing: 0.5, 1.2, or 1.8 mg/kg/day, b.i.d.) under randomized, double-blind conditions.
+Among patients with lifetime diagnostic information (n = 293), 39% were diagnosed with comorbid ODD and 61% were not.
+Treatment-group differences and differences between patients with and without comorbid ODD were examined post hoc for changes on the Attention-Deficit/Hyperactivity Disorder Rating Scale IV-Parent version, investigator-administered and -scored; Conners' Parent Rating Scale-Revised Short Form; Clinical Global Impressions Severity of ADHD Scale; and the parent-rated Child Health Questionnaire.
+Youths with ADHD and comorbid ODD showed statistically significant improvement in ADHD, ODD, and quality-of-life measures.
+Treatment response was similar in youths with and without ODD, except that the comorbid group showed improvement compared with placebo at 1.8 mg/kg/day but not 1.2 mg/kg/day.
+In contrast, youths without ODD showed improvement at 1.2 mg/kg/day and no incremental benefit at 1.8 mg/kg/day.
+Atomoxetine treatment improves ADHD and ODD symptoms in youths with ADHD and ODD, although the comorbid group may require higher doses.

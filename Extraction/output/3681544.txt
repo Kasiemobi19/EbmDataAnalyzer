@@ -1,0 +1,10 @@
+Title 
+The Journal of pediatrics
+
+Article Title 
+Consequences of starting whole cow milk at 6 months of age.
+Abstract Text 
+Two groups of infants, one fed whole cow milk commencing at 6 months of age (n = 69) and the other continuing to receive iron-fortified infant formula (n = 98), were closely observed over their second 6 months of life.
+At 12 months of age, infants fed cow milk had significantly lower mean serum ferritin levels and mean corpuscular volume, higher free erythrocyte protoporphyrin values, and greater incidence of hemoglobin values less than 11 g/dl than did formula-fed infants.
+There were no significant differences in frequency of otitis media, wheezing episodes, nasal discharge or congestion, diaper dermatitis, constipation, guaiac-positive stools, or hospital admissions between the two groups.
+These data suggest that, to avoid iron deficiency, infants should continue to receive iron-fortified formula throughout the first year of life or a daily iron supplement if they are fed whole cow milk before their first birthday.

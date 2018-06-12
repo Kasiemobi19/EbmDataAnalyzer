@@ -1,0 +1,19 @@
+Title 
+Annals of internal medicine
+
+Article Title 
+Diagnosis of adrenal insufficiency.
+Abstract Text 
+The cosyntropin stimulation test is the initial endocrine evaluation of suspected primary or secondary adrenal insufficiency.
+To critically review the utility of the cosyntropin stimulation test for evaluating adrenal insufficiency.
+The MEDLINE database was searched from 1966 to 2002 for all English-language papers related to the diagnosis of adrenal insufficiency.
+Studies with fewer than 5 persons with primary or secondary adrenal insufficiency or with fewer than 10 persons as normal controls were excluded.
+For secondary adrenal insufficiency, only studies that stratified participants by integrated tests of adrenal function were included.
+Summary receiver-operating characteristic (ROC) curves were generated from all studies that provided sensitivity and specificity data for 250-microg and 1-microg cosyntropin tests; these curves were then compared by using area under the curve (AUC) methods.
+All estimated values are given with 95% CIs.
+At a specificity of 95%, sensitivities were 97%, 57%, and 61% for summary ROC curves in tests for primary adrenal insufficiency (250-microg cosyntropin test), secondary adrenal insufficiency (250-microg cosyntropin test), and secondary adrenal insufficiency (1-microg cosyntropin test), respectively.
+The area under the curve for primary adrenal insufficiency was significantly greater than the AUC for secondary adrenal insufficiency for the high-dose cosyntropin test (P < 0.001), but AUCs for the 250-microg and 1-microg cosyntropin tests did not differ significantly (P > 0.5) for secondary adrenal insufficiency.
+At a specificity of 95%, summary ROC analysis for the 250-microg cosyntropin test yielded a positive likelihood ratio of 11.5 (95% CI, 8.7 to 14.2) and a negative likelihood ratio of 0.45 (CI, 0.30 to 0.60) for the diagnosis of secondary adrenal insufficiency.
+Cortisol response to cosyntropin varies considerably among healthy persons.
+The cosyntropin test performs well in patients with primary adrenal insufficiency, but the lower sensitivity in patients with secondary adrenal insufficiency necessitates use of tests involving stimulation of the hypothalamus if the pretest probability is sufficiently high.
+The operating characteristics of the 250-microg and 1-microg cosyntropin tests are similar.

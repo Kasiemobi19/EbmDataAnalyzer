@@ -1,0 +1,30 @@
+Title 
+Cochrane database of systematic reviews (Online)
+
+Article Title 
+Antibiotics for acute bacterial conjunctivitis.
+Abstract Text 
+There are concerns regarding whether antibiotic therapy confers significant benefit in the treatment of acute bacterial conjunctivitis.
+The aim of this review is to assess the benefit and harm of antibiotic therapy in the management of acute bacterial conjunctivitis.
+We searched the Cochrane Eyes and Vision Group specialised register, the Cochrane Controlled Trials Register - Central, MEDLINE and the reference lists of identified trial reports.
+We used the Science Citation Index to look for articles that cited the relevant studies, and we contacted investigators and pharmaceutical companies for information about additional trials.
+The most recent searches were carried out in September 1998.
+We included double masked randomised controlled trials in which any form of antibiotic treatment had been compared with placebo in the management of acute bacterial conjunctivitis.
+This included topical, systemic and combination (for example, antibiotics and steroids) antibiotic usage.
+One reviewer extracted data and the accuracy was checked by a second reviewer.
+Relative risks were summarised.
+We tested for heterogeneity between studies.
+Six published trials were identified of which three fulfilled the eligibility criteria for inclusion in this review.
+One trial was single masked and therefore excluded.
+A second report, when translated, was found to have no placebo group and was therefore excluded.
+One trial is currently 'awaiting assessment'.
+This has been published in abstract form and has yet to be fully reported.
+All the trials thus far identified appear to have been conducted on a selected specialist care patient population.
+The trials were heterogeneous in terms of their inclusion and exclusion criteria, the nature of the intervention, and the outcome measures assessed.
+Meta-analysis indicates that acute bacterial conjunctivitis is frequently a self-limiting condition, as clinical remission (cure or significant improvement) occurred by days two to five in 64% (95% confidence interval (CI) 57% to 71%) of those treated with placebo.
+Treatment with antibiotics was, however, associated with significantly better rates of clinical remission (days two to five: relative risk (RR) 1.31 95% CI 1.11 to 1.55, NNT=5) with a suggestion that this benefit was maintained for late clinical remission (days six to 10: RR 1.27 95% CI 1.00 to 1.61, NNT=5).
+Antibiotic treatment was associated with rates of microbiological remission (pathogen eradication or reduction).
+No serious outcomes were reported in either the active or placebo arms of these trials, indicating that important sight-threatening complications are an infrequent occurrence.
+Acute bacterial conjunctivitis is frequently a self-limiting condition but the use of antibiotics is associated with significantly improved rates of early clinical remission and early and late microbiological remission.
+Since trials to-date have been conducted in selected specialist care patient populations these results may not necessarily be generalisable to a primary care based population.
+A trial based in primary care designed to assess the cost-effectiveness of commonly prescribed antibiotic(s) versus placebo in acute bacterial conjunctivitis is warranted.

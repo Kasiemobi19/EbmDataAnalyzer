@@ -1,0 +1,17 @@
+Title 
+Diabetes care
+
+Article Title 
+Outcome results of the Fosinopril Versus Amlodipine Cardiovascular Events Randomized Trial (FACET) in patients with hypertension and NIDDM.
+Abstract Text 
+ACE inhibitors and calcium antagonists may favorably affect serum lipids and glucose metabolism.
+The primary aim of the Fosinopril Versus Amlodipine Cardiovascular Events Randomized Trial (FACET) was to compare the effects of fosinopril and amlodipine on serum lipids and diabetes control in NIDDM patients with hypertension.
+Prospectively defined cardiovascular events were assessed as secondary outcomes.
+Inclusion criteria included a diagnosis of NIDDM and hypertension (systolic blood pressure of > 140 mmHg or diastolic blood pressure of > 90 mmHg).
+Exclusion criteria included a history of coronary heart disease or stroke, serum creatinine > 1.5 mg/dl, albuminuria > 40 micrograms/min, and use of lipid-lowering drugs, aspirin, or antihypertensive agents other than beta-blockers or diuretics.
+A total of 380 hypertensive diabetics were randomly assigned to open-label fosinopril (20 mg/day) or amlodipine (10 mg/day) and followed for up to 3.5 years.
+If blood pressure was not controlled, the other study drug was added.
+Both treatments were effective in lowering blood pressure.
+At the end of follow-up, between the two groups there was no significant difference in total serum cholesterol, HDL cholesterol, HbA1c, fasting serum glucose, or plasma insulin.
+The patients receiving fosinopril had a significantly lower risk of the combined outcome of acute myocardial infarction, stroke, or hospitalized angina than those receiving amlodipine (14/189 vs. 27/191; hazards ratio = 0.49, 95% CI = 0.26-0.95).
+Fosinopril and amlodipine had similar effects on biochemical measures, but the patients randomized to fosinopril had a significantly lower risk of major vascular events, compared with the patients randomized to amlodipine.

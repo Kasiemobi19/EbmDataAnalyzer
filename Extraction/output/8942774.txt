@@ -1,0 +1,23 @@
+Title 
+Lancet
+
+Article Title 
+Randomised study of screening for colorectal cancer with faecal-occult-blood test.
+Abstract Text 
+Case-control studies and a voluntary-based follow-up study have suggested that repeated screening with faecal-occult-blood (FOB) tests can lead to a reduction in mortality from colorectal cancer (CRC).
+The aim of this randomised study was to compare mortality rates after FOB tests every 2 years during a 10-year period with those of unscreened similar controls.
+140,000 people aged 45-75 years lived in Funen, Denmark, in August, 1985, and were considered for inclusion in our study.
+Before randomisation we excluded individuals who had CRC or precursor adenomas and those who had taken part in a previous pilot study.
+Randomisation of 137,485 people in blocks of 14 allocated three per 14 to the screening group (30,967), three per 14 to the control group (30,966), and eight not to be enrolled in the study (75,552).
+Controls were not told about the study and continued to use health-care facilities as normal.
+Hemoccult-II blood tests (with dietary restrictions but without rehydration) were sent to screening-group participants.
+Only those participants who completed the first screening round were invited for further screening--five rounds of screening during a 10-year period.
+Participants with positive tests were asked to attend to full examination and were offered colonoscopy whenever possible.
+The primary endpoint was death from CRC.
+Of the 30,967 screening-group participants, 20,672 (67%) completed the first screening round and were invited for further screening; more than 90% accepted repeated screenings.
+During the 10-year study, 481 people in the screening group had a diagnosis of CRC, compared with 483 unscreened controls.
+There were 205 deaths attributable to CRC in the screening group, compared with 249 deaths in controls.
+CRC mortality, including deaths attributable to complications from CRC treatment, was significantly lower in the screening group than in controls (mortality ratio 0.82 [95% CI 0.68-0.99])
+p = 0.03).
+Our findings indicate that biennial screening by FOB tests can reduce CRC mortality.
+This study is being continued to improve its statistical power and to assess the effect of the removal of more precursor adenomas in the screening-group participants than in controls on CRC incidence.

@@ -1,0 +1,16 @@
+Title 
+Archives of dermatology
+
+Article Title 
+Comparative safety of tetracycline, minocycline, and doxycycline.
+Abstract Text 
+Because minocycline can cause serious adverse events including hypersensitivity syndrome reaction (HSR), serum sicknesslike reaction (SSLR), and drug-induced lupus, a follow-up study based on a retrospective review of our Drug Safety Clinic and the Health Protection Branch databases and a literature review was conducted to determine if similar rare events are associated with tetracycline and doxycycline.
+Cases of isolated single organ dysfunction (SOD) attributable to the use of these antibiotics also were identified.
+Nineteen cases of HSR due to minocycline, 2 due to tetracycline, and 1 due to doxycycline were identified.
+Eleven cases of SSLR due to minocycline, 3 due to tetracycline, and 2 due to doxycycline were identified.
+All 33 cases of drug-induced lupus were attributable to minocycline.
+Forty cases of SOD from minocycline, 37 cases from tetracycline, and 6 from doxycycline were detected.
+Hypersensitivity syndrome reaction, SSLR, and SOD occur on average within 4 weeks of therapy, whereas minocycline-induced lupus occurs on average 2 years after the initiation of therapy.
+Early serious events occurring during the course of tetracycline antibiotic treatment include HSR, SSLR, and SOD.
+Drug-induced lupus, which occurs late in the course of therapy, is reported only with minocycline.
+We theorize that minocycline metabolism may account for the increased frequency of serious adverse events with this drug.

@@ -1,0 +1,20 @@
+Title 
+Archives of disease in childhood
+
+Article Title 
+Use of tonsil size in the evaluation of obstructive sleep apnoea.
+Abstract Text 
+(1) To determine the extent to which tonsil size contributes to the severity of obstructive sleep apnoea (OSA) in children; and (2) to assess the use of tonsillar-pharyngeal (TP) ratio in differentiating patients with different severity of OSA.
+Lateral neck radiograph was performed on 35 children referred consecutively to a university paediatric chest clinic for suspected OSA secondary to tonsillar hypertrophy.
+The tonsil size was determined by measuring the TP ratio on the radiographs.
+The severity of OSA was assessed by overnight polysomnography.
+A total of 24 boys and 11 girls (median age 6.2 years) were studied.
+All presented with symptoms of OSA, and tonsillar hypertrophy was detected on clinical examination.
+The median apnoea-hypopnoea index (AHI) was 16.93 (interquartile range: 8.41 to 28.29).
+The median TP ratio was 0.76 (interquartile range: 0.65 to 0.80).
+AHI was positively correlated with the TP ratio.
+The clinical tonsil size did not correlate with the AHI or the TP ratio.
+Using a TP ratio of 0.479, the sensitivity and specificity in predicting cases with moderate/severe OSA (AHI >10) were 95.8% and 81.8% respectively, while the positive and negative predictive values were 92.0% and 90.0%
+respectively.
+Results show that in a population of children with OSA, tonsillar hypertrophy as assessed by lateral neck radiograph correlates positively with the severity of obstructive sleep apnoea.
+The TP ratio has high sensitivity and specificity in predicting those with moderate/severe disease and this feature may be used as a clinical screening method in prioritising patients with OSA for further assessment.

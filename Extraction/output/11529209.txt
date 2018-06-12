@@ -1,0 +1,18 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+Use of copper intrauterine devices and the risk of tubal infertility among nulligravid women.
+Abstract Text 
+Previous studies of intrauterine devices (IUDs), many of which are no longer in use, suggested that they might cause tubal infertility.
+The concern that IUDs that contain copper--currently the most commonly used type--may increase the risk of infertility in nulligravid women has limited the use of this highly effective method of birth control.
+We conducted a case-control study of 1895 women recruited between 1997 and 1999.
+We enrolled 358 women with primary infertility who had tubal occlusion documented by hysterosalpingography, as well as 953 women with primary infertility who did not have tubal occlusion (infertile controls) and 584 primigravid women (pregnant controls).
+We collected information on the women's past use of contraceptives, including copper IUDs, previous sexual relationships, and history of genital tract infections.
+Each woman's blood was tested for antibodies to Chlamydia trachomatis.
+We used stratified analyses and logistic regression to assess the association between the previous use of a copper IUD and tubal occlusion.
+In analyses involving the women with tubal occlusion and the infertile controls, the odds ratio for tubal occlusion associated with the previous use of a copper IUD was 1.0 (95 percent confidence interval, 0.6 to 1.7).
+When the primigravid women served as the controls, the corresponding odds ratio was 0.9 (95 percent confidence interval, 0.5 to 1.6).
+Tubal infertility was not associated with the duration of IUD use, the reason for the removal of the IUD, or the presence or absence of gynecologic problems related to its use.
+The presence of antibodies to chlamydia was associated with infertility.
+The previous use of a copper IUD is not associated with an increased risk of tubal occlusion among nulligravid women whereas infection with C. trachomatis is.

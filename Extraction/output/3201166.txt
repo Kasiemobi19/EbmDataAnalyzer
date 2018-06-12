@@ -1,0 +1,14 @@
+Title 
+Scandinavian journal of urology and nephrology. Supplementum
+
+Article Title 
+Long term reproducibility of urodynamic investigations in healthy fertile females.
+Abstract Text 
+The long term reproducibility of uroflowmetry, urethral pressure profilometry, cystometry and pressure-flow studies was evaluated in 10 healthy fertile female volunteers over a two year period.
+All parameters were unchanged, except for an increase in the detrusor pressure.
+The volume at first sensation, the maximal cystometric capacity and the maximum flow rate, had a coefficience of variation (CV) of 24%, 15% and 21% respectively.
+The compliance and the opening time however showed a considerably higher CV.
+Several parameters showed a larger intra individual standard variation (SD) than the interindividual SD, indicating that these parameters should be interpreted with great care.
+Repetition of the investigations showed in this small material a reduction in the standard error of the mean (SEM).
+Repeating the investigation reduces the number of patients needed in a clinical trial to obtain a statistically significant change.
+The study showed that urodynamic investigation is a reliable tool in evaluation of patients over a period of years.

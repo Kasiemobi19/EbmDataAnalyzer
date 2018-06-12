@@ -1,0 +1,15 @@
+Title 
+The Journal of clinical endocrinology and metabolism
+
+Article Title 
+Rosiglitazone monotherapy is effective in patients with type 2 diabetes.
+Abstract Text 
+This study evaluated the efficacy and safety of rosiglitazone monotherapy in patients with type 2 diabetes.
+After a 4-week placebo run-in period, 493 patients with type 2 diabetes were randomized to receive rosiglitazone [2 or 4 mg twice daily (bd)] or placebo for 26 weeks.
+The primary end point was change in hemoglobin A(1c); other variables assessed included fasting plasma glucose, fructosamine, endogenous insulin secretion, urinary albumin excretion, serum lipids, and adverse events.
+Rosiglitazone (2 and 4 mg bd) decreased mean hemoglobin A(1c) relative to placebo by 1.2 and 1.5 percentage points, respectively, and reduced fasting plasma glucose concentrations relative to placebo by 3.22 and 4.22 mmol/L, respectively.
+Fasting plasma insulin and insulin precursor molecules decreased significantly.
+Homeostasis model assessment estimates indicate that rosiglitazone (2 and 4 mg bd) reduced insulin resistance by 16.0% and 24.6%, respectively, and improved ss-cell function over baseline by 49.5% and 60.0%, respectively.
+Urinary albumin excretion decreased significantly in the rosiglitazone (4 mg bd) group.
+There was no increase in adverse events with rosiglitazone.
+In the short-term, rosiglitazone is an insulin sensitizer that is effective and safe as monotherapy in patients with type 2 diabetes who are inadequately controlled by lifestyle interventions.

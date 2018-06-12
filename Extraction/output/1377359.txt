@@ -1,0 +1,12 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+Effect of the antiarrhythmic agent moricizine on survival after myocardial infarction. The Cardiac Arrhythmia Suppression Trial II Investigators.
+Abstract Text 
+The Cardiac Arrhythmia Suppression Trial (CAST) tested the hypothesis that the suppression of asymptomatic or mildly symptomatic ventricular premature depolarizations in survivors of myocardial infarction would decrease the number of deaths from ventricular arrhythmias and improve overall survival.
+The second CAST study (CAST-II) tested this hypothesis with a comparison of moricizine and placebo.
+CAST-II was divided into two blinded, randomized phases: an early, 14-day exposure phase that evaluated the risk of starting treatment with moricizine after myocardial infarction (1325 patients), and a long-term phase that evaluated the effect of moricizine on survival after myocardial infarction in patients whose ventricular premature depolarizations were either adequately suppressed by moricizine (1155 patients) or only partially suppressed (219 patients).
+CAST-II was stopped early because the first 14-day period of treatment with moricizine after a myocardial infarction was associated with excess mortality (17 of 665 patients died or had cardiac arrests), as compared with no treatment or placebo (3 of 660 patients died or had cardiac arrests); and estimates of conditional power indicated that it was highly unlikely (less than 8 percent chance) that a survival benefit from moricizine could be observed if the trial were completed.
+At the completion of the long-term phase, there were 49 deaths or cardiac arrests due to arrhythmias in patients assigned to moricizine, and 42 in patients assigned to placebo (adjusted P = 0.40).
+As with the antiarrhythmic agents used in CAST-I (flecainide and encainide), the use of moricizine in CAST-II to suppress asymptomatic or mildly symptomatic ventricular premature depolarizations to try to reduce mortality after myocardial infarction is not only ineffective but also harmful.

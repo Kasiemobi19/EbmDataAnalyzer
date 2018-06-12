@@ -1,0 +1,18 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Risk factors for sudden infant death syndrome among northern plains Indians.
+Abstract Text 
+Sudden infant death syndrome (SIDS) is a leading cause of postneonatal mortality among American Indians, a group whose infant death rate is consistently above the US national average.
+To determine prenatal and postnatal risk factors for SIDS among American Indians.
+Population-based case-control study of 33 SIDS infants and 66 matched living controls among American Indians in South Dakota, North Dakota, Nebraska, and Iowa enrolled from December 1992 to November 1996 and investigated using standardized parental interview, medical record abstraction, autopsy protocol, and infant death review.
+Association of SIDS with maternal socioeconomic and behavioral factors, health care utilization, and infant care practices.
+The proportions of case and control infants who were usually placed prone to sleep (15.2% and 13.6%, respectively), who shared a bed with parents (59.4% and 55.4%), or whose mothers smoked during pregnancy (69.7% and 54.6%) were similar.
+However, mothers of 72.7% of case infants and 45.5% of control infants engaged in binge drinking during pregnancy.
+Conditional logistic regression revealed significant associations between SIDS and 2 or more layers of clothing on the infant (adjusted odds ratio [aOR], 6.2; 95% confidence interval [CI], 1.4-26.5),
+any visits by a public health nurse (aOR, 0.2; 95% CI, 0.1-0.8),
+periconceptional maternal alcohol use (aOR, 6.2; 95% CI, 1.6-23.3),
+and maternal first-trimester binge drinking (aOR, 8.2; 95% CI, 1.9-35.3).
+Public health nurse visits, maternal alcohol use during the periconceptional period and first trimester, and layers of clothing are important risk factors for SIDS among Northern Plains Indians.
+Strengthening public health nurse visiting programs and programs to reduce alcohol consumption among women of childbearing age could potentially reduce the high rate of SIDS.

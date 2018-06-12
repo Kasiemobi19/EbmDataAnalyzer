@@ -1,0 +1,13 @@
+Title 
+The Journal of pediatrics
+
+Article Title 
+Iron deficiency in one-year-old infants: comparison of results of a therapeutic trial in infants with anemia or low-normal hemoglobin values.
+Abstract Text 
+The purpose of this study was to determine the Hgb response to a therapeutic trial of iron in infants with anemia compared to those with low-normal hemoglobin values.
+Hgb was determined in 1.128 one-year-old infants.
+The 278 infants (25%) who had an Hgb less than 11.5 gm/dl were given a three-month oral course of ferrous sulfate (3 mg iron/kg/day); the regimen was satisfactorily completed by 188 infants.
+Of the 75 infants whose initial capillary Hgb was in the anemic range (Hgb less than 11.0 gm/dl), 45% had an increase in venous Hgb greater than or equal to 1.0 gm/dl.
+Of the 113 infants with initial capillary values in the low-normal range (11.0 to 11.4 gm/dl), 28% had greater than or equal to 1.0 gm/dl Hgb response.
+Despite the lower rate of response in the low-normal group, almost half of the infants with a greater than or equal to 1 gm/dl response would have been missed by using the generally accepted cutoff value of 11 gm/dl for a therapeutic trial.
+Because of the low cost and simplicity of a therapeutic trial, we favor including the low-normal Hgb group for a therapeutic trial of iron in order to avoid missing iron-responsive individuals among groups of infants with a similarly high prevalence of iron deficiency anemia.

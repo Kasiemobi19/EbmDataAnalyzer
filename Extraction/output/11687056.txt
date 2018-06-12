@@ -1,0 +1,31 @@
+Title 
+Cochrane database of systematic reviews (Online)
+
+Article Title 
+Eletriptan for acute migraine.
+Abstract Text 
+Eletriptan (Relpax) is a new triptan soon to be made available by prescription for the treatment of acute migraine.
+Currently five triptans are available by prescription and more are under development.
+In light of the many drugs for treating acute migraine, there is a need for evidence-based assessments to help determine the relative efficacy and harm of these treatments.
+To determine the efficacy of eletriptan for treating a single migraine attack using the outcomes of headache response and pain-free response at 0.5, 1, 2 and 4 hours, and sustained relief over 24 hours.
+To express efficacy in terms of number-needed-to-treat (NNT).
+To determine the adverse effects of a single dose of eletriptan and express this in terms of number-needed-to-harm (NNH).
+To allow for the comparison of the efficacy of eletriptan with other migraine treatments evaluated systematically in the same way.
+Data from all Phase III randomised placebo-controlled trials were made available by the manufacturer, Pfizer Inc.
+To date, these trials comprise the only data on eletriptan relevant to this review in a published or unpublished form; thus, searches of electronic databases for further trials of eletriptan were not conducted.
+Trials of eletriptan for acute migraine; randomised allocation to treatment groups, including a placebo group; double-blind design; International Headache Society diagnostic criteria for migraine with or without aura; single migraine attack; single-dose treatment at standard doses; adult population; baseline pain of moderate or severe intensity using a 4-point standardised rating scale (0 = no pain, 1 = mild pain, 2 = moderate pain and 3 = severe pain); and dichotomous or percentage data for at least one of the main efficacy outcomes.
+Trials were scored for quality and data extracted by two independent reviewers.
+Dichotomous or percentage data were extracted and pooled to calculate the relative benefit (RB) or relative risk (RR) and NNTs or NNHs for a number of outcomes for eletriptan 20 mg, 40 mg and 80 mg.
+The main outcomes considered were headache response at 1 and 2 hours, pain-free response at 2 hours, sustained relief over 24 hours and adverse effects.
+Minor outcomes considered were headache response at 0.5 and 4 hours, and pain-free response at 0.5, 1 and 4 hours.
+Six trials met the inclusion criteria.
+Significant benefit of eletriptan over placebo was shown for eletriptan 20 mg, 40 mg and 80 mg for the primary efficacy outcomes of headache response and pain-free response at 2 hours.
+For headache response at 2 hours, the NNTs (with 95% confidence intervals) were 4.4 (3.4 to 6.2), 2.9 (2.6 to 3.3) and 2.6 (2.4 to 3.0) for eletriptan 20 mg, 40 mg and 80 mg, respectively.
+For pain-free response at 2 hours, the NNTs were 9.9 (6.9 to 18), 4.5 (4.0 to 5.1) and 3.7 (3.4 to 4.2), for eletriptan 20 mg, 40 and 80 mg, respectively.
+There was no significant difference in the incidence of major adverse effects between any dose of eletriptan and placebo.
+The incidence of minor adverse effects was significantly higher for all eletriptan doses than for placebo, with NNHs of 11 (95% confidence interval, 6.2 to 39), 7.0 (5.2 to 11) and 3.7 (3.1 to 4.5) for eletriptan 20 mg, 40 mg and 80 mg, respectively.
+Eletriptan 20 mg, 40 mg and 80 mg are effective for the treatment of an acute migraine attack.
+Effectiveness is dose-related, with statistically significant differences between doses for pain-free response and 24-hour outcomes.
+Eletriptan compares well with other triptans available for outcomes measured up to 2 hours and provides meaningful relief for 24 hours.
+Taken as a single dose, eletriptan was well tolerated and caused no major harm.
+The incidence of minor harm was dose-dependent, with 80 mg giving significantly more adverse effects than 40 mg.

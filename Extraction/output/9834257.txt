@@ -1,0 +1,18 @@
+Title 
+Gastroenterology
+
+Article Title 
+Tissue transglutaminase autoantibody enzyme-linked immunosorbent assay in detecting celiac disease.
+Abstract Text 
+Tissue transglutaminase has been reported to be the target for endomysial antibodies in celiac disease.
+We sought to establish whether immunoglobulin (Ig) A class tissue transglutaminase autoantibodies can be considered specific for celiac disease.
+Serum samples from 136 patients with untreated celiac disease (diagnosed according to the criteria of the European Society for Pediatric Gastroenterology, Hepatology and Nutrition) and 207 disease controls were studied.
+Enzyme-linked immunosorbent assay (ELISA) and Western blots were performed using calcium-treated and untreated tissue transglutaminase as antigen.
+Reticulin, endomysial, and mouse monoclonal tissue transglutaminase antibodies were studied by an indirect immunofluorescence method and gliadin antibodies with ELISA.
+The calcium-activated tissue transglutaminase autoantibody ELISA was highly sensitive (129 of 136) and specific (194 of 207) in detecting celiac disease.
+The new autoantibody ELISA test correlated well with the endomysial antibody test.
+Tissue transglutaminase autoantibody ELISA showed a clearly better predictive potential than the IgA class gliadin antibody ELISA.
+Immunoblots and ELISA blocking studies showed that calcium is needed for the specific antigen-antibody reaction to occur.
+Double immunofluorescence staining in human umbilical cord with sera from patients with celiac disease and with monoclonal tissue transglutaminase antibodies showed complete overlap.
+Calcium-activated tissue transglutaminase autoantibody ELISA is highly accurate in detecting untreated celiac disease.
+Tissue transglutaminase seems to be the target self-antigen for endomysial antibodies.

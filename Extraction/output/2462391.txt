@@ -1,0 +1,22 @@
+Title 
+Annals of internal medicine
+
+Article Title 
+Urinary tract infections in men. Epidemiology, pathophysiology, diagnosis, and treatment.
+Abstract Text 
+To review the epidemiology, pathophysiology, diagnosis, and treatment of urinary tract infections in men, especially insofar as they differ from those in women.
+Studies published between 1954 and 1988 were identified using MEDLINE (1981-1988) and Index Medicus (1981-1988), and through extensive manual searching of textbooks, symposia, monographs, and bibliographies of identified articles.
+More than 200 studies were reviewed; those studies most pertinent to the topics reviewed were cited.
+Unpublished data from the author's studies were also cited.
+Study quality and descriptive information about prevalence, evaluations, interventions, and outcomes were assessed.
+Quantitative synthesis was not done.
+Most men with urinary tract infection have a functional or anatomic abnormality of the genitourinary tract.
+Prostatic hypertrophy and genitourinary instrumentation are the major predispositions to infection in men.
+Signs and symptoms of bacteriuria in men are similar to those in women.
+Diagnosis rests on a properly collected specimen yielding 10(3) or more colony-forming units/mL of a single or predominant species.
+Eschericia coli is the most frequent uropathogen, but other gram-negative and gram-positive species cause up to one half of cases.
+Treatment of men with single-dose therapy is inadequate; men with recurrent infections require at least 6 weeks of appropriate treatment.
+Asymptomatic bacteriuria is common in elderly men, but does not usually necessitate treatment.
+Although genitourinary abnormalities are frequent in bacteriuric male patients, a diagnostic evaluation is probably indicated only in young boys and in men with recurrent or complicated infections.
+Several important aspects of the epidemiology, pathophysiology, diagnosis, and treatment of urinary tract infections differ in male populations from those in the much better studied female populations.
+Knowledge of recently available data will help clinicians develop a rational approach to caring for bacteriuric men.

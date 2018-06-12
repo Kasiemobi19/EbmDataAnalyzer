@@ -1,0 +1,19 @@
+Title 
+The Journal of clinical psychiatry
+
+Article Title 
+Efficacy of fluvoxamine in the treatment of major depression with comorbid anxiety disorders.
+Abstract Text 
+Major depression with comorbid anxiety disorder is associated with poor antidepressant outcome compared with major depression without comorbid anxiety disorder.
+The purpose of our study was to assess changes in depressive symptoms and anxiety levels in outpatients with major depression with comorbid anxiety disorder following 12 weeks of open treatment with fluvoxamine.
+We enrolled 30 outpatients (mean +/- SD age = 39.4 +/- 11.3 years; 16 women and 14 men) with DSM-IV major depressive disorder accompanied by one or more current comorbid DSM-IV anxiety disorders in our study.
+Patients were treated openly with fluvoxamine initiated at 50 mg/day, with an upward titration to a maximum of 200 mg/day (mean +/- SD dose = 143 +/- 45 mg/day).
+Efficacy assessments included the 17-item Hamilton Rating Scale for Depression (HAM-D-17) and Clinical Global Impressions-Severity of Illness (CGI-S) and Improvement (CGI-I) scales for both depression and anxiety.
+Intent-to-treat analysis was used to assess outcome.
+The mean +/- SD number of comorbid anxiety disorders per patient was 2.1 +/- 1.1.
+Following fluvoxamine treatment, the mean +/- SD HAM-D-17 score dropped from 20.2 +/- 3.3 to 1 1.0 +/- 7.0 (p < .0001).
+The mean +/- SD depression CGI-S score dropped from 4.0 +/- 0.6 to 2.4 +/- 1.1 (p < .0001),
+and the mean +/- SD anxiety CGI-S score decreased from 4.1 +/- 0.8 to 2.5 +/- 1.2 (p < .0001).
+Eighteen (60%) of the 30 patients had CGI-I scores < or = 2 for both anxiety and depression at endpoint, with 53% showing a > or = 50% reduction in HAM-D-17 scores at endpoint.
+Although preliminary, our findings suggest that fluvoxamine is effective in treating outpatients with major depression with comorbid anxiety disorder, having a significant effect on both depression and anxiety symptoms.
+Further double-blind, placebo-controlled trials are needed, in a larger sample, to confirm our findings.

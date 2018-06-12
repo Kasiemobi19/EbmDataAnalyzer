@@ -1,0 +1,17 @@
+Title 
+European heart journal
+
+Article Title 
+Short-term benefit of smoking cessation in patients with coronary heart disease: estimates based on self-reported smoking data and serum cotinine measurements.
+Abstract Text 
+To assess the short-term impact of smoking and smoking cessation measured by self-report and by serum cotinine on the risk of secondary cardiovascular disease events (CVD events).
+Cohort study among participants of an in-patient 3-week rehabilitation programme following an acute coronary syndrome or coronary artery revascularization.
+Smoking status at baseline was assessed by self-report (beginning of the rehabilitation programme, rehab) and serum cotinine (end of rehab).
+Active follow-up was conducted one year later.
+Subsequent CVD events were observed in 139 of the 967 patients.
+Both self-reported smoking status (odds ratio (OR) compared to continued smokers: recent quitters 0.96, former smokers 0.83, never smokers 0.54, p for trend 0.04) and serum cotinine (OR 0.59 (95% confidence interval (CI) 0.36-0.97)
+for cotinine-negative compared to cotinine-positive subjects) were associated with the occurrence of a secondary CVD event.
+After reclassification of all cotinine-positive subjects to continued smokers and cotinine-negative self-reported smokers to recent quitters, this association became even stronger.
+The OR now reached 0.71 (95% CI interval 0.38-1.33)
+for recent quitters, 0.64 (0.36-1.11) for former smokers and 0.44 (0.24-0.81) for never smokers (p-value for trend=0.009).
+The benefits of non-smoking and smoking cessation in cardiac patients are beyond controversy and might even be larger than suggested by previous studies which exclusively relied on self-reported smoking status.

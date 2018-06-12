@@ -1,0 +1,22 @@
+Title 
+Diseases of the colon and rectum
+
+Article Title 
+Systematic review on the procedure for prolapse and hemorrhoids (stapled hemorrhoidopexy).
+Abstract Text 
+The procedure for prolapse and hemorrhoids (stapled hemorrhoidopexy) has been introduced as an alternative to conventional hemorrhoidectomy.
+This is a systematic review on stapled hemorrhoidopexy of all randomized, controlled trials that have been published until August 2006.
+All published, randomized, controlled trials comparing stapled hemorrhoidopexy to conventional hemorrhoidectomy were identified from Ovid MEDLINE, EMBASE, CINAHL, and all Evidence-Based Medicine Reviews (Cochrane Central Register of Controlled Trial, Cochrane Database of Systemic Review, and Database of Abstracts of Reviews of Effects) between January 1991 and August 2006.
+Meta-analysis was performed by using the Forest plot review if feasible.
+A total of 25 randomized, controlled trials with 1,918 procedures were reviewed.
+The follow-up duration was from 1 to 62 months.
+Stapled hemorrhoidopexy was associated with less operating time (weighted mean difference, -11.35 minutes; P = 0.006), earlier return of bowel function (weighted mean difference -9.91 hours; P < 0.00001), and shorter hospital stay (weighted mean difference, -1.07 days; P = 0.0004).
+There was less pain after stapled hemorrhoidopexy, as evidenced by lower pain scores at rest and on defecation and 37.6 percent reduction in analgesic requirement.
+The stapled hemorrhoidopexy allowed a faster functional recovery with shorter time off work (weighted mean difference, -8.45 days; P < 0.00001), earlier return to normal activities (weighted mean difference, -15.85 days; P = 0.03), and better wound healing (odds ratio, 0.1; P = 0.0006).
+The patients' satisfaction was significantly higher with stapled hemorrhoidopexy than conventional hemorrhoidectomy (odds ratio, 2.33; P = 0.003).
+Although there was increase in the recurrence of hemorrhoids at one year or more after stapled procedure (5.7 vs. 1 percent; odds ratio, 3.48; P = 0.02), the overall incidence of recurrent hemorrhoidal symptoms--early (fewer than 6 months; stapled vs. conventional: 24.8 vs. 31.7 percent; P = 0.08) or late (1 year or more) recurrence rate (stapled vs. conventional: 25.3 vs. 18.7 percent; P = 0.07)--was similar.
+The overall complication rate did not differ significantly from that of conventional procedure (stapled vs. conventional: 20.2 vs. 25.2 percent; P = 0.06).
+Compared with conventional surgery, stapled hemorrhoidopexy has less postoperative bleeding (odds ratio, 0.52; P = 0.001), wound complication (odds ratio, 0.05; P = 0.005), constipation (odds ratio, 0.45; P = 0.02), and pruritus (odds ratio, 0.19; P = 0.02).
+The overall need of surgical (odds ratio, 1.27; P = 0.4) and nonsurgical (odds ratio, 1.07; P = 0.82) reintervention after the two procedures was similar.
+The Procedure for Prolapse and Hemorrhoid (stapled hemorrhoidopexy) is safe with many short-term benefits.
+The long-term results are similar to conventional procedure.

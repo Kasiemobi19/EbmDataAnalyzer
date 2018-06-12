@@ -1,0 +1,16 @@
+Title 
+Journal of thrombosis and thrombolysis
+
+Article Title 
+Statin reduces the platelet P-selectin expression in atherosclerotic ischemic stroke.
+Abstract Text 
+Recently, it has been demonstrated that 3-hydroxy-3-methylglutaryl coenzyme A (HMG Co-A) reductase inhibitor or statin can regulate the thrombogenesis beyond its lipid lowering effect.
+In this study, we investigated the beneficial effect of statin to reduce the platelet P-selectin expression in atherosclerotic ischemic stroke.
+Thirty-two (28 men, 4 women; mean age 59.8 +/- 9.6 years) patients with atherosclerotic ischemic stroke were assigned to receive simvastatin 20 mg per day for 12 weeks and discontinued for another 12 weeks.
+Then, administration of simvastatin was discontinued for the following 12 weeks.
+Using whole blood flow cytometry, we evaluated the change of platelet P-selectin expression of all the patients after the 12-weeks use and the 12-weeks discontinuance of simvastatin.
+The platelet P-selectin expression was significant reduced after treatment of simvastatin 20 mg for 12 weeks (p < 0.001).
+However, the effect of statin to reduce platelet P-selectin expression disappeared after 12 weeks of cessation of statin.
+In addition, the P-selectin changes induced by statin were independent of the changes of the LDL cholesterol (r = -0.311,
+p = 0.386).
+This study demonstrated that the use of statin might be a helpful add-on therapy to regulate the platelet related thrombogenesis in atherosclerotic ischemic stroke.

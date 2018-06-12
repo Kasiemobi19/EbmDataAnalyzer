@@ -1,0 +1,15 @@
+Title 
+The American review of respiratory disease
+
+Article Title 
+Chronic cough. The spectrum and frequency of causes, key components of the diagnostic evaluation, and outcome of specific therapy.
+Abstract Text 
+A successful, systematic, anatomic, diagnostic protocol for evaluating patients with chronic cough was presented in 1981.
+To determine whether it was still valid, we prospectively evaluated, over a 22-month interval, 102 consecutive and unselected immunocompetent patients complaining of cough an average of 53 +/- 97 months (range, 3 wk to 50 yr).
+Utilizing the anatomic, diagnostic protocol modified to include prolonged esophageal pH monitoring (EPM), the causes of cough were determined in 101 of 102 (99%) patients, leading to specific therapy that was successful in 98%.
+Cough was due to one condition in 73%, two in 23%, and three in 3%.
+Postnasal drip syndrome was a cause 41% of the time, asthma 24%, gastroesophageal reflux (GER) 21%, chronic bronchitis 5%, bronchiectasis 4%, and miscellaneous conditions 5%.
+Cough was the sole presenting manifestation of asthma and GER 28 and 43% of the time, respectively.
+While history, physical examination, methacholine inhalational challenge (MIC), and EPM yielded the most frequent true positive results, MIC was falsely positive 22% of the time in predicting that asthma was the cause of cough.
+Laboratory testing was particularly useful in ruling out suspected possibilities.
+We conclude that the anatomic diagnostic protocol is still valid and that it has well-defined strengths and limitations.

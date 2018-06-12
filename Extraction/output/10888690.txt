@@ -1,0 +1,14 @@
+Title 
+Pediatrics
+
+Article Title 
+A systematic review of treatments for infant colic.
+Abstract Text 
+To conduct a systematic review of rigorously evaluated treatments for infant colic.
+Online bibliographic databases were searched for the term "colic" in articles classified as clinical trials or randomized controlled trials and conducted in infants.
+Reference lists from review articles, meta-analyses, and the selected articles were also reviewed for potential studies.
+The abstracts or full-text articles of 57 relevant studies were examined, of which 22 met the selection criteria.
+The methodology and findings of all retrieved articles were critically evaluated.
+Data were extracted from each article regarding study methods, intervention studied, outcomes measured, and results.
+Four of the interventions studied had data of adequate quality and statistically significant numbers needed to treat (NNT): hypoallergenic diet (NNT = 6), soy formula (NNT = 2), reduced stimulation (NNT = 2), and herbal tea (NNT = 3).
+There are some effective therapies for infant colic, but additional rigorous studies of existing and alternative therapies are needed.

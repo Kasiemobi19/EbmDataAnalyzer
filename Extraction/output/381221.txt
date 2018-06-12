@@ -1,0 +1,14 @@
+Title 
+International journal of clinical pharmacology and biopharmacy
+
+Article Title 
+Effects of tolmetin, paracetamol, and of two combinations of tolmetin and paracetamol as compared to placebo on experimentally induced pain. A double blind study.
+Abstract Text 
+Previous studies in animals suggested that a coadministration of the anti-rheumatic/anti-inflammatory agent tolmetin (Tolectin) and of paracetamol potentiates the effects of these two drugs.
+The present study was carried out to assess whether or not the dosis of tolmetin necessary to obtain an analgesic effect can be reduced when paracetamol is coadministered in a model with experimentally induced pain in healthy human subjects.
+The effects of tolmetin 200 mg (T 200), paracetamol 400 mg (P 400), tolmetin 150 mg plus paracetamol 300 mg (T 150 + P 300), and of tolmetin 100 mg plus paracetamol 400 mg (T 100 + P 400) on pain threshold to electrical and thermal stimuli and on pain tolerance to electrical stimuli were compared to the effects of placebo under double blind conditions.
+Each of 20 healthy volunteers received all of the 5 treatments randomised according to four 5 X 5 Latin squares.
+The results showed that the combination T 100 + P 400 had better analgesic effects than the double dose of tolmetin, T 200, alone, while the effects of P 400 could not be discrminated from placebo.
+In a sequential t-test the effects of T 100 + P 400 could be discriminated from placebo already after 14 Ss.
+The effects of T 200, T 150 + P 300, and T 100 + P 400 respectively could not be differentiated, indicating that the dose of tolmetin can be reduced markedly by simultaneous administration of paracetamol without a loss in analgesic potency.
+Coadministration of tolmetin and paracetamol permits a marked reduction of the dose of tolmetin without any loss of analgesic potency as measured in a model with experimentally induced pain in healthy subjects.

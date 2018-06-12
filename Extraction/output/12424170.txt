@@ -1,0 +1,21 @@
+Title 
+BMJ (Clinical research ed.)
+
+Article Title 
+Systematic review of mental health interventions for patients with common somatic symptoms: can research evidence from secondary care be extrapolated to primary care?
+Abstract Text 
+To determine the strength of evidence for the effectiveness of mental health interventions for patients with three common somatic conditions (chronic fatigue syndrome, irritable bowel syndrome, and chronic back pain).
+To assess whether results obtained in secondary care can be extrapolated to primary care and suggest how future trials should be designed to provide more rigorous evidence.
+Systematic review.
+Five electronic databases, key texts, references in the articles identified, and citations from expert clinicians.
+Randomised controlled trials including participants with one of the three conditions for which no physical cause could be found.
+Two reviewers screened sources and independently extracted data and assessed quality.
+Sixty one studies were identified; 20 were classified as primary care and 41 as secondary care.
+For some interventions, such as brief psychodynamic interpersonal therapy, little research was identified.
+However, results of meta-analyses and of randomised controlled trials suggest that cognitive behaviour therapy and behaviour therapy are effective for chronic back pain and chronic fatigue syndrome and that antidepressants are effective for irritable bowel syndrome.
+Cognitive behaviour therapy and behaviour therapy were effective in both primary and secondary care in patients with back pain, although the evidence is more consistent and the effect size larger for secondary care.
+Antidepressants seem effective in irritable bowel syndrome in both settings but ineffective in chronic fatigue syndrome.
+Treatment seems to be more effective in patients in secondary care than in primary care.
+This may be because secondary care patients have more severe disease, they receive a different treatment regimen, or the intervention is more closely supervised.
+However, conclusions of effectiveness should be considered in the light of the methodological weaknesses of the studies.
+Large pragmatic trials are needed of interventions delivered in primary care by appropriately trained primary care staff.

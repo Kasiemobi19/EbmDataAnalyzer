@@ -1,0 +1,13 @@
+Title 
+Psychological assessment
+
+Article Title 
+The reliability and validity of the panic disorder self-report: a new diagnostic screening measure of panic disorder.
+Abstract Text 
+This study examined the Panic Disorder Self-Report (PDSR), a new self-report diagnostic measure of panic disorder based on the 4th edition of the Diagnostic and Statistical Manual of Mental Disorders (American Psychiatric Association, 1994).
+PDSR diagnoses were compared with structured interview diagnoses of individuals with generalized anxiety disorder, social phobia, and panic disorder and nonanxious controls.
+Receiver operating characteristic analyses revealed that the PDSR showed 100% specificity and 89% sensitivity.
+The PDSR also demonstrated retest reliability, convergent and discriminant validity, and kappa agreement of .93 with a structured interview.
+Finally, the PDSR demonstrated clinical validity.
+Students who were identified as having panic disorder using the PDSR did not have significantly different scores on the Panic Disorder Severity Scale--Self-Report form (P. R. Houck, D. A. Speigel, M. K. Shear, & P. Rucci, 2002) than a panic disordered community sample.
+However, both groups had significantly higher scores than students identified as not meeting criteria for panic disorder.

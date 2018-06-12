@@ -1,0 +1,19 @@
+Title 
+Journal of alternative and complementary medicine (New York, N.Y.)
+
+Article Title 
+The significance of "nonsignificance" in randomized controlled studies: a discussion inspired by a double-blinded study on St. John's wort (Hypericum perforatum L.) for premenstrual symptoms.
+Abstract Text 
+This study aimed to investigate the efficacy of St. John's wort extract (SJW) as a treatment for premenstrual symptoms.
+The study was a randomized, double-blinded, placebo-controlled trial, with two parallel treatment groups.
+After a no-treatment baseline cycle, volunteers were randomized to either SJW or placebo for a further two menstrual cycles.
+A postal trial conducted from The University of Reading, Berkshire, England.
+One hundred and sixty-nine (169) normally menstruating women who experienced recurrent premenstrual symptoms were recruited onto the study.
+One hundred and twenty-five (125) completed the protocol and were included in the analysis.
+Six hundred milligrams (600) mg of SJW (standardized to contain 1800 microg of hypericin) or placebo (containing lactose and cellulose).
+A menstrual diary was used to assess changes in premenstrual symptoms.
+The anxiety-related subgroup of symptoms of this instrument was used as the primary outcome measure.
+After averaging the effects of treatment over both treatment cycles it was found that there was a trend for SJW to be superior to placebo.
+However, this finding was not statistically significant.
+The possibility that this nonsignificant finding resulted from insufficient statistical power in the study, rather than a lack of efficacy of SJW, is discussed.
+Following this discussion the recommendation is made that, in future, similar studies should be powered to detect a minimum clinically relevant difference between treatments.

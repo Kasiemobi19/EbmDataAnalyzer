@@ -1,0 +1,16 @@
+Title 
+International clinical psychopharmacology
+
+Article Title 
+Aripiprazole as an augmentor of selective serotonin reuptake inhibitors in depression and anxiety disorder patients.
+Abstract Text 
+More than half of anxiety and depression patients treated with an adequate course of antidepressants fail to fully improve.
+We retrospectively examined whether treatment-resistant depression and anxiety disorder patients responded to and tolerated augmentation with the atypical antipsychotic, aripiprazole.
+We report on patients with depression and anxiety disorders, including panic disorder, generalized anxiety disorder, social anxiety and post-traumatic stress disorder, who had an incomplete response to a variety of selective serotonin reuptake inhibitors (SSRIs) and who received augmentation with aripiprazole.
+The primary outcome measure was the Clinical Global Impression of Improvement (CGI-I).
+In the intent-to-treat analysis, the mean+/-SD CGI-S was 3.8+/-1.3
+at endpoint.
+Fifty-nine percent of subjects received CGI-I ratings of 1 or 2, 'much improved' or 'very much improved,' in terms of their depression and anxiety symptoms at the end of 12 weeks.
+Several patients showed an early (weeks 1-5), as well as sustained, response to augmentation with doses of aripiprazole between 15 and 30 mg/day.
+The results suggest that aripiprazole may be effective as an augmentation for patients with persistent depressive and anxiety disorders despite initial SSRI treatment.
+Because this is a retrospective case review, further prospective studies are required to confirm these findings.

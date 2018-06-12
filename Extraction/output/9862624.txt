@@ -1,0 +1,18 @@
+Title 
+Journal of the National Cancer Institute
+
+Article Title 
+Sunscreen use, wearing clothes, and number of nevi in 6- to 7-year-old European children. European Organization for Research and Treatment of Cancer Melanoma Cooperative Group.
+Abstract Text 
+Previous epidemiologic studies have suggested that sunscreen use is associated with an increased risk of melanoma skin cancer.
+Because high nevi (mole) count in adults is a strong predictor of melanoma, we conducted a study examining the number of nevi in 6- to 7-year-old European children, according to their sunscreen use.
+Whole-body and site-specific counts of nevi 2 mm or larger were performed in 631 children in their first year of primary school in four European cities. Independently, parents were interviewed regarding sun exposure, sunscreen use, and physical sun protection of their child.
+After adjustment for sun exposure and host characteristics (e.g., skin phototype, eye color), the relative risk for high nevus count on the trunk was 1.68 (95% confidence interval [CI] = 1.09-2.59)
+for the highest level of sunscreen use and 0.59 (95% CI = 0.36-0.97)
+for the highest level of wearing of clothes while in the sun.
+The sun protection factor had no effect on nevus counts despite a high median value of 17.4.
+Sunburn number was not associated with nevus count.
+The highest risk associated with sunscreen use was found among children who had never experienced sunburn.
+In white, European children, sunscreen use appears to be associated with development of nevi, probably because it allows longer sun exposures.
+Wearing clothes may be an effective way to prevent proliferation of nevi.
+Since a high nevus count is a strong predictor of melanoma, sunscreen use may be involved in melanoma occurrence because it may encourage recreational sun exposure.

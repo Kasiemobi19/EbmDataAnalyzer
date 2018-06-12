@@ -1,0 +1,18 @@
+Title 
+Annals of allergy
+
+Article Title 
+Treatment of persistent eustachian tube dysfunction in children with aerosolized nasal dexamethasone phosphate versus placebo.
+Abstract Text 
+Forty-five children aged two to 10 years with persistent eustachian tube dysfunction received a three-week course of aerosolized nasal dexamethasone phosphate or placebo.
+Patients were randomly assigned to the drug or placebo group and received one spray in each nostril three times a day for three weeks.
+Middle ear pressure and gradient were assessed with tympanometry.
+Tympanic membrane mobility, position and presence of middle ear fluid were assessed by the investigators initially and at weekly intervals during the study.
+Fasting morning plasma cortisol levels were obtained prior to starting the study and at its conclusion.
+The dexamethasone-treated group showed a significant increase in patients with normal middle ear pressure compared to placebo after one week and a significant increase in the number of patients with normal middle ear gradient at the second week.
+By the conclusion of the study there were no significant differences between the groups.
+Within the dexamethasone group, however, there were statistically significant increases in patients achieving normal middle ear pressure, tympanic membrane mobility and position in one or both ears.
+Plasma cortisol levels fluctuated widely from one determination to another and did not show an over-all declining trend for the dexamethasone group.
+However, two dexamethasone patients had a transient fall in cortisol level to below the normal range.
+These results support some therapeutic efficacy for nasal aerosolized dexamethasone but also point out the therapeutic value of time alone.
+The observation that most improvement occurred in the first two weeks and that some worrisome cortisol changes occurred suggests that dexamethasone therapy should be limited to two weeks and be undertaken with caution.

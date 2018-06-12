@@ -1,0 +1,16 @@
+Title 
+Hypertension
+
+Article Title 
+Prognostic value of ambulatory blood pressure : current evidence and clinical implications.
+Abstract Text 
+This article is a critical review of the available evidence on the prognostic value of ambulatory blood pressure (ABP).
+Several event-based cohort studies have shown that ABP improves cardiovascular risk stratification over and beyond traditional risk factors, including office BP.
+Most of these studies have been conducted in subjects with essential hypertension who were untreated at the time of execution of ABP monitoring; other studies have been conducted in subjects who were poorly controlled with treatment or in the general population.
+In these studies, ABP was examined as a continuous variable or with operational risk categories.
+Cardiovascular risk showed a direct and independent association with the observed ABP (systolic, diastolic, and pulse) and an inverse association with the degree of BP reduction from day to night.
+Cardiovascular risk was also directly associated with the difference between the observed value of ABP and that predicted from the office BP.
+White-coat hypertension versus ambulatory hypertension and dippers versus nondippers are 2 classifications based on arbitrary operational risk categories.
+A blunted or absent BP reduction from day to night, defined with ABP as a continuous variable or with operational thresholds, was also associated with a worse outcome regardless of the average value of ABP during the 24 hours.
+Overall, these studies indicate that ABP monitoring is particularly valuable to refine cardiovascular risk stratification in untreated subjects with office hypertension and in those with resistant hypertension.
+Intervention studies targeted at ABP are now needed.

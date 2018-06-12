@@ -1,0 +1,17 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Management of fibromyalgia syndrome.
+Abstract Text 
+The optimal management of fibromyalgia syndrome (FMS) is unclear and comprehensive evidence-based guidelines have not been reported.
+To provide up-to-date evidence-based guidelines for the optimal treatment of FMS.
+DATA SOURCES, SELECTION, AND EXTRACTION: A search of all human trials (randomized controlled trials and meta-analyses of randomized controlled trials) of FMS was made using Cochrane Collaboration Reviews (1993-2004), MEDLINE (1966-2004), CINAHL (1982-2004), EMBASE (1988-2004), PubMed (1966-2004), Healthstar (1975-2000), Current Contents (2000-2004), Web of Science (1980-2004), PsychInfo (1887-2004), and Science Citation Indexes (1996-2004).
+The literature review was performed by an interdisciplinary panel, composed of 13 experts in various pain management disciplines, selected by the American Pain Society (APS), and supplemented by selected literature reviews by APS staff members and the Utah Drug Information Service.
+A total of 505 articles were reviewed.
+There are major limitations to the FMS literature, with many treatment trials compromised by short duration and lack of masking.
+There are no medical therapies that have been specifically approved by the US Food and Drug Administration for management of FMS.
+Nonetheless, current evidence suggests efficacy of low-dose tricyclic antidepressants, cardiovascular exercise, cognitive behavioral therapy, and patient education.
+A number of other commonly used FMS therapies, such as trigger point injections, have not been adequately evaluated.
+Despite the chronicity and complexity of FMS, there are pharmacological and nonpharmacological interventions available that have clinical benefit.
+Based on current evidence, a stepwise program emphasizing education, certain medications, exercise, cognitive therapy, or all 4 should be recommended.

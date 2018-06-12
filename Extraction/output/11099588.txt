@@ -1,0 +1,16 @@
+Title 
+Pediatrics
+
+Article Title 
+Infantile colic: crying time reduction with a whey hydrolysate: A double-blind, randomized, placebo-controlled trial.
+Abstract Text 
+To determine the effectiveness of whey hydrolysate formula in the treatment of infantile colic in a primary care setting in the Netherlands.
+Randomized, double-blind, parallel trial with a 1-week qualification period and a 1-week intervention period.
+Participants.
+Forty-three healthy, thriving, formula-fed infants, <6 months old, crying >3 hours per day on at least 3 days per week.
+Infants were randomized to whey hydrolysate formula (n = 23) or standard formula (n = 20).
+Difference in duration of crying (minutes per day) between qualification week and intervention week.
+Analysis according to the intention to treat principle showed a difference in the decrease of crying duration of 63 minutes per day [95% confidence interval: 1-127 minutes per day] in favor of the whey hydrolysate formula.
+Five infants did not complete the trial.
+The scope of the study was not sufficient to expect significant differences in the subgroup analyses.
+An extensively hydrolyzed whey formula is effective in reducing the duration of crying in a primary care setting.

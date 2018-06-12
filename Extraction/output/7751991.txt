@@ -1,0 +1,13 @@
+Title 
+The Journal of pediatrics
+
+Article Title 
+Differences in morbidity between breast-fed and formula-fed infants.
+Abstract Text 
+To determine whether breast-feeding is protective against infection in relatively affluent populations, morbidity data were collected by weekly monitoring during the first 2 years of life from matched cohorts of infants who were either breast fed (BF) (N = 46) or formula fed (FF) (N = 41) until at least 12 months of age.
+Cohorts were matched for characteristics such as birth weight and parental socioeconomic status, and we controlled for use of day care in data analysis.
+Mean maternal educational level was high (16 years) in both groups.
+In the first year of life the incidence of diarrheal illness among BF infants was half that of FF infants; the percentage with any otitis media was 19% lower and with prolonged episodes (> 10 days) was 80% lower in BF compared with FF infants.
+There were no significant differences in rates of respiratory illness; nearly all cases were mild upper respiratory infections.
+Morbidity rates did not differ significantly between groups in the second year of life, but the mean duration of episodes of otitis media was longer in FF than BF infants (8.8 +/- 5.3 vs 5.9 +/- 3.5 days, respectively; p = 0.01).
+These results indicate that the reduction in morbidity associated with breast-feeding is of sufficient magnitude to be of public health significance.

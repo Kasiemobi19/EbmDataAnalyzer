@@ -1,0 +1,14 @@
+Title 
+Public health reports (Washington, D.C. : 1974)
+
+Article Title 
+Type 2 diabetes mellitus among Florida children and adolescents, 1994 through 1998.
+Abstract Text 
+This study was undertaken to examine the trends in the diagnosis of Type 2 diabetes mellitus among children and adolescents with new-onset diabetes seen from 1994 through 1998 at the three university-based diabetes centers in Florida.
+Data were abstracted from medical records and patients were categorized as having Type 1 or Type 2 diabetes.
+There were 569 patients classified with Type 1 diabetes and 92 with Type 2 diabetes.
+The proportion of patients diagnosed with Type 2 diabetes increased over the five years from 9.4% in 1994 to 20.0% in 1998 (chi-square test for trend = 8.2; p=0.004).
+There was not an associated net increase in the total number of new diabetes patients referred over time (chi-square test for trend = 0.6, p=0.4).
+Those with Type 2 diabetes were more likely to have a body mass index in the 85th-94th percentile [odds ratio (OR) = 8.5; 95% confidence interval (CI) 2.5, 28.8], have a body mass index >or=95th percentile (OR = 6.8; 95% CI 2.6, 17.7), Hispanic ethnicity (OR = 6.2; 95% CI 2.2, 17.9), black race (OR = 2.8; 95% CI 1.3, 6.2), female gender (OR = 2.2; 95% CI 1.2, 4.3), and older age (OR = 1.4 for each one-year increment in age; 95% CI 1.3, 1.6), compared with those having Type 1 diabetes.
+From 1994 through 1998, there was a significant overall increase in the percentage of children referred with new-onset diabetes who were considered to have Type 2 diabetes.
+Factors associated with the diagnosis of Type 2 diabetes relative to Type 1 diabetes include body mass index >/=85th percentile, Hispanic ethnicity, black race, female gender, and older age.

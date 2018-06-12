@@ -1,0 +1,20 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Traumatic brain injury in high school athletes.
+Abstract Text 
+The potential seriousness of mild traumatic brain injury (MTBI) is increasingly recognized; however, information on the frequency of MTBI among high school athletes is limited.
+To identify the type, frequency, and severity of MTBI in selected high school sports activities.
+Observational cohort study.
+Two hundred forty-six certified athletic trainers recorded injury and exposure data for high school varsity athletes participating in boys' football, wrestling, baseball and field hockey, girls' volleyball and softball, boys' and girls' basketball, and boys' and girls' soccer at 235 US high schools during 1 or more of the 1995-1997 academic years.
+Rates of reported MTBI, defined as a head-injured player who was removed from participation and evaluated by an athletic trainer or physician prior to returning to participation.
+National incidence figures for MTBI also were estimated.
+Of 23566 reported injuries in the 10 sports during the 3-year study period, 1219 (5.5%) were MTBIs.
+Of the MTBIs, football accounted for 773 (63.4%) of cases; wrestling, 128 (10.5%); girls' soccer, 76 (6.2%); boys' soccer, 69 (5.7%); girls' basketball, 63 (5.2%); boys' basketball, 51 (4.2%); softball, 25 (2.1%); baseball, 15 (1.2%); field hockey, 13 (1.1%); and volleyball, 6 (0.5%).
+The injury rates per 100 player-seasons were 3.66 for football, 1.58 for wrestling, 1.14 for girls' soccer, 1.04 for girls' basketball, 0.92 for boys' soccer, 0.75 for boys' basketball, 0.46 for softball, 0.46 for field hockey, 0.23 for baseball, and 0.14 for volleyball.
+The median time lost from participation for all MTBIs was 3 days.
+There were 6 cases of subdural hematoma and intracranial injury reported in football.
+Based on these data, an estimated 62816 cases of MTBI occur annually among high school varsity athletes participating in these sports, with football accounting for about 63% of cases.
+Rates of MTBI vary among sports and none of the 10 popular high school sports we studied is without the occurrence of an MTBI.
+Continued involvement of high school sports sponsors, researchers, medical professionals, coaches, and sports participants is essential to help minimize the risk of MTBI.

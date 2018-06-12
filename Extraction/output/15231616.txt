@@ -1,0 +1,18 @@
+Title 
+BMJ (Clinical research ed.)
+
+Article Title 
+Systematic review of the incidence and consequences of uterine rupture in women with previous caesarean section.
+Abstract Text 
+To evaluate the incidence and consequences of uterine rupture in women who have had a delivery by caesarean section.
+Systematic review.
+Medline, HealthSTAR, Cochrane Database of Systematic Reviews, Cochrane Controlled Trials Register, National Centre for Reviews and Dissemination, reference lists, and national experts.
+Studies in all languages were eligible if published in full.
+Methodological quality was evaluated for each study by using criteria from the United States Preventive Services Task Force and the National Health Service Centre for Reviews and Dissemination.
+Uterine rupture was categorised as asymptomatic or symptomatic.
+We reviewed 568 full text articles to identify 71 potentially eligible studies, 21 of which were rated at least fair in quality.
+Compared with elective repeat caesarean delivery, trial of labour increased the risk of uterine rupture by 2.7 (95% confidence interval 0.73 to 4.73) per 1000 cases.
+No maternal deaths were related to rupture.
+For women attempting vaginal delivery, the additional risk of perinatal death from rupture of a uterine scar was 1.4 (0 to 9.8) per 10,000 and the additional risk of hysterectomy was 3.4 (0 to 12.6) per 10 000.
+The rates of asymptomatic uterine rupture in trial of labour and elective repeat caesarean did not differ significantly.
+Although the literature on uterine rupture is imprecise and inconsistent, existing studies indicate that 370 (213 to 1370) elective caesarean deliveries would need to be performed to prevent one symptomatic uterine rupture.

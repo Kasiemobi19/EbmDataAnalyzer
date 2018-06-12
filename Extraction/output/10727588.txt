@@ -1,0 +1,15 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+Reactivation of genital herpes simplex virus type 2 infection in asymptomatic seropositive persons.
+Abstract Text 
+Most persons who have serologic evidence of infection with herpes simplex virus (HSV) type 2 (HSV-2) are asymptomatic.
+Historically, it has been assumed that these persons have less frequent viral reactivation than those with symptomatic infection.
+We conducted a prospective study to investigate genital shedding of HSV among 53 subjects who had antibodies to HSV-2 but who reported having no history of genital herpes, and we compared their patterns of viral shedding with those in a similar cohort of 90 subjects with symptomatic HSV-2 infection.
+Genital secretions of the subjects in both groups were sampled daily and cultured for HSV for a median of 94 days.
+HSV was isolated from the genital mucosa in 38 of the 53 HSV-2-seropositive subjects (72 percent) who reported no history of genital herpes, and HSV DNA was detected by the polymerase-chain-reaction assay in cultures prepared from genital mucosal swabs in 6 additional subjects.
+The rate of subclinical shedding of HSV in the subjects with no reported history of genital herpes was similar to that in the subjects with such a history (3.0 percent vs. 2.7 percent).
+Of the 53 subjects who had no reported history of genital herpes, 33 (62 percent) subsequently reported having typical herpetic lesions; the duration of their recurrences in these subjects was shorter (median, three days vs. five days; P<0.001) and the frequency lower (median, 3.0 per year vs. 8.2 per year; P<0.001) than in the 90 subjects with previously diagnosed symptomatic infection.
+Only 1 of these 53 subjects had no clinical or virologic evidence of HSV infection.
+Seropositivity for HSV-2 is associated with viral shedding in the genital tract, even in subjects with no reported history of genital herpes.

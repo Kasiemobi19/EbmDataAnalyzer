@@ -1,0 +1,15 @@
+Title 
+Journal of child and adolescent psychopharmacology
+
+Article Title 
+Efficacy of modafinil compared to dextroamphetamine for the treatment of attention deficit hyperactivity disorder in adults.
+Abstract Text 
+Our objective was to compare the efficacy of the new wake-promoting drug modafinil to that of dextroamphetamine for the treatment of attention deficit hyperactivity disorder (ADHD) in adults.
+Twenty-two adults who met DSM-IV criteria for ADHD participated in a randomized, double-blind, placebo-controlled, three-phase crossover study comparing placebo, modafinil, and dextroamphetamine for the treatment of ADHD.
+The twice-daily study medications were titrated to doses of optimum efficacy over 4-7 days and then held constant during the rest of each 2-week treatment phase.
+Measures of improvement included the DSM-IV ADHD Behavior Checklist for Adults, the Controlled Oral Word Association Test (COWAT, using the letters C, F, and L version), Stroop, and Digit Span (Wechsler Adult Intelligence Scale version).
+For the 21 (96%) completers, the mean (+/- SD) optimum doses of modafinil and dextroamphetamine were 206.8 mg/day +/- 84.9 and 21.8 mg/day +/- 8.9, respectively.
+Scores on the DSM-IV ADHD Checklist (p < 0.001) were significantly improved over the placebo condition following treatment with both active medications.
+Performance on the COWAT (p < 0.05) reached trend levels of significance.
+Both medications were generally well tolerated.
+This preliminary study suggests that modafinil may be a viable alternative to conventional stimulants for the treatment of adults with ADHD.

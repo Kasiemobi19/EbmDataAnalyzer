@@ -1,0 +1,17 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Splinting vs surgery in the treatment of carpal tunnel syndrome: a randomized controlled trial.
+Abstract Text 
+Carpal tunnel syndrome (CTS) can be treated with nonsurgical or surgical options.
+However, there is no consensus on the most effective method of treatment.
+To compare the short-term and long-term efficacy of splinting and surgery for relieving the symptoms of CTS.
+A randomized controlled trial conducted from October 1998 to April 2000 at 13 neurological outpatient clinics in the Netherlands.
+A total of 176 patients with clinically and electrophysiologically confirmed idiopathic CTS were assigned to wrist splinting during the night for at least 6 weeks (89 patients) or open carpal tunnel release (87 patients); 147 patients (84%) completed the final follow-up assessment 18 months after randomization.
+General improvement, number of nights waking up due to symptoms, and severity of symptoms.
+In the intention-to-treat analyses, surgery was more effective than splinting on all outcome measures.
+The success rates (based on general improvement) after 3 months were 80% for the surgery group (62/78 patients) vs 54% for the splinting group (46/86 patients), which is a difference of 26% (95% confidence interval [CI], 12%-40%; P<.001).
+After 18 months, the success rates increased to 90% for the surgery group (61/68 patients) vs 75% for the splinting group (59/79 patients), which is a difference of 15% (95% CI, 3%-27%; P =.02).
+However, by that time 41% of patients (32/79) in the splint group had also received the surgery treatment.
+Treatment with open carpal tunnel release surgery resulted in better outcomes than treatment with wrist splinting for patients with CTS.

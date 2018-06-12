@@ -1,0 +1,20 @@
+Title 
+Pain
+
+Article Title 
+Development and validation of the Current Opioid Misuse Measure.
+Abstract Text 
+Clinicians recognize the importance of monitoring aberrant medication-related behaviors of chronic pain patients while being prescribed opioid therapy.
+The purpose of this study was to develop and validate the Current Opioid Misuse Measure (COMM) for those pain patients already on long-term opioid therapy.
+An initial pool of 177 items was developed with input from 26 pain management and addiction specialists.
+Concept mapping identified six primary concepts underlying medication misuse, which were used to develop an initial item pool.
+Twenty-two pain and addiction specialists rated the items on importance and relevance, resulting in selection of a 40-item alpha COMM.
+Final item selection was based on empirical evaluation of items with patients taking opioids for chronic, noncancer pain (N=227).
+One-week test-retest reliability was examined with 55 participants.
+All participants were administered the alpha version of the COMM, the Prescription Drug Use Questionnaire (PDUQ) interview, and submitted a urine sample for toxicology screening.
+Physician ratings of patient aberrant behaviors were also obtained.
+Of the 40 items, 17 items appeared to adequately measure aberrant behavior, demonstrating excellent internal consistency and test-retest reliability.
+Cutoff scores were examined using ROC curve analysis and reasonable sensitivity and specificity were established.
+To evaluate the COMM's ability to capture change in patient status, it was tested on a subset of patients (N=86) that were followed and reassessed three months later.
+The COMM was found to have promise as a brief, self-report measure of current aberrant drug-related behavior.
+Further cross-validation and replication of these preliminary results is pending.

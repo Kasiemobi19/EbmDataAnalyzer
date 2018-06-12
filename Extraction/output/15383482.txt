@@ -1,0 +1,23 @@
+Title 
+Chest
+
+Article Title 
+Antithrombotic and thrombolytic therapy for ischemic stroke: the Seventh ACCP Conference on Antithrombotic and Thrombolytic Therapy.
+Abstract Text 
+This chapter about treatment and prevention of stroke is part of the 7th ACCP Conference on Antithrombotic and Thrombolytic Therapy: Evidence Based Guidelines.
+Grade 1 recommendations are strong and indicate that the benefits do, or do not, outweigh risks, burden, and costs.
+Grade 2 suggests that individual patients' values may lead to different choices (for a full understanding of the grading see Guyatt et al).
+Among the key recommendations in this chapter are the following: For patients with acute ischemic stroke (AIS), we recommend administration of i.v.
+tissue plasminogen activator (tPA), if treatment is initiated within 3 h of clearly defined symptom onset (Grade 1A).
+For patients with extensive and clearly identifiable hypodensity on CT, we recommend against thrombolytic therapy (Grade 1B).
+For unselected patients with AIS of > 3 h but < 6 h, we suggest clinicians not use i.v.
+tPA (Grade 2A).
+For patients with AIS, we recommend against streptokinase (Grade 1A) and suggest clinicians not use full-dose anticoagulation with i.v. or subcutaneous heparins or heparinoids (Grade 2B).
+For patients with AIS who are not receiving thrombolysis, we recommend early aspirin therapy, 160 to 325 mg qd (Grade 1A).
+For AIS patients with restricted mobility, we recommend prophylactic low-dose subcutaneous heparin or low molecular weight heparins or heparinoids (Grade 1A); and for patients who have contraindications to anticoagulants, we recommend use of intermittent pneumatic compression devices or elastic stockings (Grade 1C).
+In patients with acute intracerebral hematoma, we recommend the initial use of intermittent pneumatic compression (Grade 1C+).
+In patients with noncardioembolic stroke or transient ischemic attack (TIA) [ie, atherothrombotic, lacunar or cryptogenic], we recommend treatment with an antiplatelet agent (Grade 1A) including aspirin, 50 to 325 mg qd; the combination of aspirin and extended-release dipyridamole, 25 mg/200 mg bid; or clopidogrel, 75 mg qd.
+In these patients, we suggest use of the combination of aspirin and extended-release dipyridamole, 25/200 mg bid, over aspirin (Grade 2A) and clopidogrel over aspirin (Grade 2B).
+For patients who are allergic to aspirin, we recommend clopidogrel (Grade 1C+).
+In patients with atrial fibrillation and a recent stroke or TIA, we recommend long-term oral anticoagulation (target international normalized ratio, 2.5; range, 2.0 to 3.0) [Grade 1A].
+In patients with venous sinus thrombosis, we recommend unfractionated heparin (Grade 1B) or low molecular weight heparin (Grade 1B) over no anticoagulant therapy during the acute phase.

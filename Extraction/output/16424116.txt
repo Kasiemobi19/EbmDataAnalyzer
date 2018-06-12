@@ -1,0 +1,23 @@
+Title 
+The Journal of nutrition
+
+Article Title 
+Carbohydrate restriction alters lipoprotein metabolism by modifying VLDL, LDL, and HDL subfraction distribution and size in overweight men.
+Abstract Text 
+To determine the effects of carbohydrate restriction (CR) with and without soluble fiber on lipoprotein metabolism, 29 men participated in a 12-wk weight loss intervention.
+Subjects were matched by age and BMI and randomly assigned to consume 3 g/d of either a soluble fiber supplement (n=14) or placebo (n=15) with a macronutrient energy distribution of approximately 10% carbohydrate, approximately 65% fat, and approximately 25% protein.
+Because the groups did not differ in any of the variables measured, all data were pooled and comparisons were made between baseline and 12 wk.
+After 12 wk, subjects had a mean weight loss of 7.5 kg (P<0.001), and abdominal fat was reduced by 20% (P<0.001).
+Plasma LDL cholesterol and triglycerides (TG) were significantly reduced by 8.9 and 38.6%, respectively.
+Similarly, apolipoproteins C-I (-13.8%),
+C-III (-21.2%) and E (-12.5%) were significantly lower after the intervention.
+In contrast plasma HDL-cholesterol concentrations were increased by 12% (P<0.05).
+Changes in plasma TG were positively correlated with reductions in large (r=0.615,
+P<0.01) and medium VLDL particles (r=0.432,
+P<0.05) and negatively correlated with LDL diameter (r=-0.489,
+P<0.01).
+Changes in trunk fat were positively correlated with medium VLDL (r=0.474,
+P<0.0) and small LDL (r=0.405,
+P<0.05) and negatively correlated with large HDL (r=-0.556,
+P<0.01).
+We conclude that weight loss induced by CR favorably alters the secretion and processing of plasma lipoproteins, rendering VLDL, LDL, and HDL particles associated with decreased risk for atherosclerosis and coronary heart disease.

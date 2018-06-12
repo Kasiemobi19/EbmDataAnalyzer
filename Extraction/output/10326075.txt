@@ -1,0 +1,21 @@
+Title 
+QJM : monthly journal of the Association of Physicians
+
+Article Title 
+Management of renovascular disease: a review of renal artery stenting in ten studies.
+Abstract Text 
+To evaluate the efficacy and safety of renal artery stents in renovascular disease, we identified 10 descriptive studies containing sufficient information for systematic evaluation.
+No randomized comparisons of stenting with angioplasty or with surgery were found.
+Overall, stents were placed in 416 renal arteries in 379 patients, mean age 64 years (range 27-84), 56% male.
+Of the stenoses, 97% were atheromatous (inter-study range 71-100%), 80% ostial (22-100%) and 31% bilateral (12-87%).
+The clinical indication for stenting was usually hypertension with or without mild renal impairment.
+Radiological indications for stenting were: narrowing of > or = 50% (in 9/10 studies) as a result of elastic recoil (58%) or dissection (2%) at the time of angioplasty; restenosis some time after angioplasty (15%); or as a primary procedure (25%).
+Technical success was reported in 96-100% of procedures.
+Restenosis (> or = 50% narrowing), evaluated in 312/416 (75%) arteries, generally between 6 and 12 months, was 16% overall.
+Hypertension was cured by stenting (DBP < or = 90 mmHg on no treatment) in 34/379 (9%) overall and in 34/207 (16%) of those whose renal function was normal initially.
+Six of 379 (1.6%) patients died within 30 days of stenting, but in only two (0.5%) was death judged to be procedure-related.
+Complications, other than those which led to dialysis, occurred in 42/379 (13%) patients, one third requiring intervention, ranging from blood transfusion to a surgical bypass procedure.
+Renal function as judged by serum creatinine concentration (SCC) improved in 26%, stabilized in 48% and deteriorated in 26% of patients whose renal function was impaired initially (SCC > 133 mumol/l).
+In one study, with average baseline SCC > 200 mumol/l, successful stenting slowed the rate of progression of renal failure when renal function was deteriorating beforehand.
+Nine of 379 (2.4%) patients, including 7/14 (50%) whose SCC was > or = 400 mumol/l initially, required dialysis after stenting.
+Stenting should be offered by specialist centres as a secondary procedure for unsuccessful angioplasty, or restenosis following angioplasty, to patients with renovascular disease and uncontrolled hypertension, advancing renal failure or pulmonary oedema.

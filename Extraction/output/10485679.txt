@@ -1,0 +1,20 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Adenoidectomy and adenotonsillectomy for recurrent acute otitis media: parallel randomized clinical trials in children not previously treated with tympanostomy tubes.
+Abstract Text 
+Adenoidectomy and adenotonsillectomy are commonly performed in US children to reduce the occurrence of persistent or recurrent otitis media, but evidence supporting the efficacy of the operations is limited.
+To test the efficacy of adenoidectomy and adenotonsillectomy in children with persistent or recurrent otitis media who had not previously undergone tube placement and to compare the relative efficacy of adenoidectomy alone vs adenotonsillectomy in such children.
+Two parallel randomized clinical trials.
+A total of 461 children aged 3 to 15 years were enrolled at Children's Hospital of Pittsburgh, Pa, between April 1980 and April 1994.
+Four hundred ten children were observed for up to 3 years.
+Children without recurrent throat infection or tonsillar hypertrophy (304 enrolled; 266 followed up) were randomized to either an adenoidectomy, adenotonsillectomy, or control group; children who had such conditions (157 enrolled; 144 followed up) were randomized to an adenotonsillectomy or control group.
+Occurrence rate of episodes of acute otitis media by treatment group and estimated proportion of time with otitis media.
+In both trials, most subjects were eligible because of recurrent acute otitis media, with or without persistent otitis media with effusion.
+A total of 47 children assigned to surgical treatment groups had no surgery.
+The efficacy of surgery in both trials was modest and limited mainly to the first follow-up year.
+The largest differences in that year were found in the 3-way trial between the adenotonsillectomy group and the control group: mean annual rate of episodes of acute otitis media, 1.4 vs 2.1 (P<.001); and mean estimated percentage of time with otitis media, 18.6% vs 29.9% (difference, 11.3%; 95% confidence interval, 4.4%-18.2%;
+P=.002).
+Perioperative and postoperative complications or other adverse events occurred not infrequently, especially among subjects undergoing adenotonsillectomy (14.6%).
+Our study showed limited and short-term efficacy of both adenoidectomy and adenotonsillectomy; given the risks, morbidity, and costs of these procedures, these data suggest that neither operation should ordinarily be considered as a first surgical intervention in children whose only indication is recurrent acute otitis media.

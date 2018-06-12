@@ -1,0 +1,17 @@
+Title 
+Archives of neurology
+
+Article Title 
+Predictors of intracranial pathologic findings in patients who seek emergency care because of headache.
+Abstract Text 
+Clinical criteria to select patients with headache in whom structural diagnostic studies (computed tomography) have a high yield disclosing intracranial pathologic findings, independent of abnormal findings on neurologic examination, have not been defined.
+To determine which clinical characteristics predict the presence of intracranial pathologic findings, independently of neurologic examination, in patients with headache.
+Case-control, consecutive sample.
+Major metropolitan trauma center emergency department.
+Hospital records of 139 hospitalized and 329 randomly selected patients from 1720 nonhospitalized adult patients, consecutively evaluated for headache in the emergency department, were reviewed.
+Demographic data, clinical characteristics of the headache, results of neurologic and physical examinations, and diagnostic radiologic and laboratory results were correlated with final diagnosis and outcome at 6 months after emergency department visit.
+Nonparametric statistical analysis.
+Intracranial pathologic findings were found in 18 (3.8%) of 468 patients.
+Acute onset and occipitonuchal location of headache, presence of associated symptoms, and patient age of 55 years or older were significantly associated with the finding of intracranial pathology, independently of the findings from neurologic examination.
+Abnormal findings on neurologic examination alone, whether focal or nonfocal, had a highly significant association and a positive predictive value for intracranial pathology of 39%.
+Abnormal results from neurologic examination are the best clinical parameters to predict structural intracranial pathology; however, in patients 55 years or older with headache of acute onset located in the occipitonuchal region that has associated symptoms, computed tomographic scan of the head is justified as part of their clinical evaluation independently of the findings of the neurologic examination.

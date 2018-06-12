@@ -1,0 +1,16 @@
+Title 
+Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology
+
+Article Title 
+Dipstick urinalysis screening, asymptomatic microhematuria, and subsequent urological cancers in a population-based sample.
+Abstract Text 
+Screening urine for microhematuria as an indicator of serious disease is controversial because of the low positive predictive value of such screening and the costs and risks of the associated evaluation.
+To further evaluate test properties, we retrospectively examined the outcomes of 20,571 men aged > or = 35 years and women aged > or = 55 years who voluntarily had a Personal Health Appraisal in 1980 as members of a large prepaid health plan.
+Hematuria was detected by dipstick in 876 cases (4.3%); 278 were excluded because of evidence of previous urological disease which could cause hematuria.
+Review of the medical records of 598 patients with asymptomatic microhematuria as shown by a positive dipstick result indicated that 99% had a follow-up evaluation within 3 months of positive test results for hematuria and had various levels of urological evaluation thereafter.
+However, urological cancers (2 prostate, 1 bladder) developed in only 3 patients within the next 3 years.
+On the basis of San Francisco-Oakland Surveillance, Epidemiology, and End Results program data, rates of urological cancer were evaluated among patients whose test results were negative for hematuria, and these cancer rates were found to be almost the same as the rate among patients with asymptomatic microhematuria.
+Sensitivity of a single dipstick urinalysis result using microhematuria to indicate urological cancer within 3 years was 2.9%; specificity was 96.7%; and positive predictive value was 0.5%.
+Multivariate analysis which adjusted for age, gender, and race showed that the relative risk of 2.1 (95% confidence interval, 0.7-6.6)
+for urological cancer was not significantly elevated among patients with asymptomatic microhematuria compared with patients who had negative test results.
+These findings based on a single test are consistent with the current lack of recommendations for screening for microhematuria among asymptomatic adults.

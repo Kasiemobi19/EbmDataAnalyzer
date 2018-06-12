@@ -1,0 +1,16 @@
+Title 
+Kidney international
+
+Article Title 
+Development and progression of nephropathy in type 2 diabetes: the United Kingdom Prospective Diabetes Study (UKPDS 64).
+Abstract Text 
+The progression of nephropathy from diagnosis of type 2 diabetes has not been well described from a single population.
+This study sought to describe the development and progression through the stages of microalbuminuria, macroalbuminuria, persistently elevated plasma creatinine or renal replacement therapy (RRT), and death.
+Using observed and modeled data from 5097 subjects in the UK Prospective Diabetes Study, we measured the annual probability of transition from stage to stage (incidence), prevalence, cumulative incidence, ten-year survival, median duration per stage, and risk of death from all-causes or cardiovascular disease.
+From diagnosis of diabetes, progression to microalbuminuria occurred at 2.0% per year, from microalbuminuria to macroalbuminuria at 2.8% per year, and from macroalbuminuria to elevated plasma creatinine (>or=175 micromol/L) or renal replacement therapy at 2.3% per year.
+Ten years following diagnosis of diabetes, the prevalence of microalbuminuria was 24.9%, of macroalbuminuria was 5.3%, and of elevated plasma creatinine or RRT was 0.8%.
+Patients with elevated plasma creatinine or RRT had an annual death rate of 19.2% (95% confidence interval, CI, 14.0 to 24.4%).
+There was a trend for increasing risk of cardiovascular death with increasing nephropathy (P < 0.0001), with an annual rate of 0.7% for subjects in the stage of no nephropathy, 2.0% for those with microalbuminuria, 3.5% for those with macroalbuminuria, and 12.1% with elevated plasma creatinine or RRT.
+Individuals with macroalbuminuria were more likely to die in any year than to develop renal failure.
+The proportion of patients with type 2 diabetes who develop microalbuminuria is substantial with one quarter affected by 10 years from diagnosis.
+Relatively fewer patients develop macroalbuminuria, but in those who do, the death rate exceeds the rate of progression to worse nephropathy.

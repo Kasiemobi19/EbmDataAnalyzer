@@ -1,0 +1,23 @@
+Title 
+Pediatrics
+
+Article Title 
+Nocturnal pulse oximetry as an abbreviated testing modality for pediatric obstructive sleep apnea.
+Abstract Text 
+To determine the utility of pulse oximetry for diagnosis of obstructive sleep apnea (OSA) in children.
+We performed a cross-sectional study of 349 patients referred to a pediatric sleep laboratory for possible OSA.
+A mixed/obstructive apnea/hypopnea index (MOAHI) greater than or equal to 1 on nocturnal polysomnography (PSG) defined OSA.
+A sleep laboratory physician read nocturnal oximetry trend and event graphs, blinded to clinical and polysomnographic results.
+Likelihood ratios were used to determine the change in probability of having OSA before and after oximetry results were known.
+Of 349 patients, 210 (60%) had OSA as defined polysomnographically. Oximetry trend graphs were classified as positive for OSA in 93 and negative or inconclusive in 256 patients.
+Of the 93 oximetry results read as positive, PSG confirmed OSA in 90 patients.
+A positive oximetry trend graph had a likelihood ratio of 19.4,
+increasing the probability of having OSA from 60% to 97%.
+The median MOAHI of children with a positive oximetry result was 16.4 (7.5, 30.2).
+The 3 false-positive oximetry results were all in the subgroup of 92 children who had diagnoses other than adenotonsillar hypertrophy that might have affected breathing during sleep.
+A negative or inconclusive oximetry result had a likelihood ratio of.58,
+decreasing the probability of having OSA from 60% to 47%.
+Interobserver reliability for oximetry readings was very good to excellent (kappa =.80).
+In the setting of a child suspected of having OSA, a positive nocturnal oximetry trend graph has at least a 97% positive predictive value.
+Oximetry could: 1) be the definitive diagnostic test for straightforward OSA attributable to adenotonsillar hypertrophy in children older than 12 months of age, or 2) quickly and inexpensively identify children with a history suggesting sleep-disordered breathing who would require PSG to elucidate the type and severity.
+A negative oximetry result cannot be used to rule out OSA.

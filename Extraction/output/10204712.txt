@@ -1,0 +1,16 @@
+Title 
+Pain
+
+Article Title 
+Systematic review and meta-analysis of randomized controlled trials of cognitive behaviour therapy and behaviour therapy for chronic pain in adults, excluding headache.
+Abstract Text 
+A computer and a hand search of the literature recovered 33 papers from which 25 trials suitable for meta-analysis were identified.
+We compared the effectiveness of cognitive-behavioural treatments with the waiting list control and alternative treatment control conditions.
+There was a great diversity of measurements which we grouped into domains representing major facets of pain.
+Effect sizes, corrected for measurement unreliability, were estimated for each domain.
+When compared with the waiting list control conditions cognitive-behavioural treatments were associated with significant effect sizes on all domains of measurement (median effect size across domains = 0.5).
+Comparison with alternative active treatments revealed that cognitive-behavioural treatments produced significantly greater changes for the domains of pain experience, cognitive coping and appraisal (positive coping measures), and reduced behavioural expression of pain.
+Differences on the following domains were not significant; mood/affect (depression and other, non-depression, measures), cognitive coping and appraisal (negative, e.g.
+catastrophization), and social role functioning.
+We conclude that active psychological treatments based on the principle of cognitive behavioural therapy are effective.
+We discuss the results with reference to the complexity and quality of the trials.

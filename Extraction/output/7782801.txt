@@ -1,0 +1,17 @@
+Title 
+Journal of clinical epidemiology
+
+Article Title 
+Associations of serum and dietary magnesium with cardiovascular disease, hypertension, diabetes, insulin, and carotid arterial wall thickness: the ARIC study. Atherosclerosis Risk in Communities Study.
+Abstract Text 
+The objective of this study was to examine the relationships of serum and dietary magnesium (Mg) with prevalent cardiovascular disease (CVD), hypertension, diabetes mellitus, fasting insulin, and average carotid intimal-medial wall thickness measured by B-mode ultrasound.
+A cross-sectional design was used.
+The setting was the Atherosclerosis Risk in Communities (ARIC) Study in four US communities.
+A total of 15,248 participants took part, male and female, black and white, aged 45-64 years.
+Fasting serum Mg, lipids, fasting glucose and insulin were measured; as was usual dietary intake by food frequency questionnaire and carotid intima-media thickness by standardized B-mode ultrasound methods.
+The results showed that serum Mg levels and dietary Mg intake were both lower in blacks than whites.
+Mean serum Mg levels were significantly lower in participants with prevalent CVD, hypertension, and diabetes than in those free of these diseases.
+In participants without CVD, serum Mg levels were also inversely associated with fasting serum insulin, glucose, systolic blood pressure and smoking.
+Dietary Mg intake was inversely associated with fasting serum insulin, plasma high density lipoprotein-cholesterol, systolic and diastolic blood pressure.
+Adjusted for age, race, body mass index, smoking, hypertension, Low density lipoprotein-cholesterol, and field center, mean carotid wall thickness increased in women by 0.0118 mm (p = 0.006) in diuretic users and 0.0048 mm (p = 0.017) in nonusers for each 0.1 mmol/l decrease in serum Mg level; the multivariate association in men was not significant.
+In conclusion, low serum and dietary Mg may be related to the etiologies of CVD, hypertension, diabetes, and atherosclerosis.

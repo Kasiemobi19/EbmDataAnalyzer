@@ -1,0 +1,23 @@
+Title 
+Spine
+
+Article Title 
+A randomized controlled trial of exercise and manipulative therapy for cervicogenic headache.
+Abstract Text 
+A multicenter, randomized controlled trial with unblinded treatment and blinded outcome assessment was conducted.
+The treatment period was 6 weeks with follow-up assessment after treatment, then at 3, 6, and 12 months.
+To determine the effectiveness of manipulative therapy and a low-load exercise program for cervicogenic headache when used alone and in combination, as compared with a control group.
+Headaches arising from cervical musculoskeletal disorders are common.
+Conservative therapies are recommended as the first treatment of choice.
+Evidence for the effectiveness of manipulative therapy is inconclusive and available only for the short term.
+There is no evidence for exercise, and no study has investigated the effect of combined therapies for cervicogenic headache.
+In this study, 200 participants who met the diagnostic criteria for cervicogenic headache were randomized into four groups: manipulative therapy group, exercise therapy group, combined therapy group, and a control group.
+The primary outcome was a change in headache frequency.
+Other outcomes included changes in headache intensity and duration, the Northwick Park Neck Pain Index, medication intake, and patient satisfaction.
+Physical outcomes included pain on neck movement, upper cervical joint tenderness, a craniocervical flexion muscle test, and a photographic measure of posture.
+There were no differences in headache-related and demographic characteristics between the groups at baseline.
+The loss to follow-up evaluation was 3.5%.
+At the 12-month follow-up assessment, both manipulative therapy and specific exercise had significantly reduced headache frequency and intensity, and the neck pain and effects were maintained (P < 0.05 for all).
+The combined therapies was not significantly superior to either therapy alone, but 10% more patients gained relief with the combination.
+Effect sizes were at least moderate and clinically relevant.
+Manipulative therapy and exercise can reduce the symptoms of cervicogenic headache, and the effects are maintained.

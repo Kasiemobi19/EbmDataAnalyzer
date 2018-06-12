@@ -1,0 +1,16 @@
+Title 
+Annals of the rheumatic diseases
+
+Article Title 
+Background for studies on the treatment of male osteoporosis: state of the art.
+Abstract Text 
+Male osteoporosis represents an important, although long underestimated, public health problem.
+Both in men and in women aging is accompanied by continuous bone loss and by an exponential increase in the incidence of osteoporotic fracture, with a female to male incidence ratio of about 2 to 3 to 1 in the elderly for hip and vertebral fractures.
+Morbidity after osteoporotic fractures appears to be more serious and mortality more common in men than in women.
+To date, no single treatment has been proved to be effective and safe in published prospective studies.
+The present report, based on a systematic search of the literature on male osteoporosis, summarises the state of the art on the clinical consequences of male osteoporosis and its risk factors, in relation to the present state of knowledge about female osteoporosis.
+This constitutes the background for the design of rational clinical development strategies for therapeutic interventions in male osteoporosis.
+From this review of the literature it is apparent that notwithstanding the existing sex differences in pathophysiology of osteoporosis and the difference in age-specific incidence of osteoporotic fractures, there are also important similarities between osteoporosis in women and men.
+The higher incidence of fracture in women than in men results from quantitative differences in risk factors rather than from different risk factors.
+Even though there are sex differences in bone geometry, incidence of fracture seems to be similar in men and women for a same absolute areal bone mineral density.
+However, the lack of data on the changes in fracture rates in men resulting from pharmacological intervention, leading to changes in bone mineral density or bone turnover, remains the main limitation for extrapolation of established treatment outcomes from women to men.

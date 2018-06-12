@@ -1,0 +1,20 @@
+Title 
+Annals of internal medicine
+
+Article Title 
+The efficacy of influenza vaccine in elderly persons. A meta-analysis and review of the literature.
+Abstract Text 
+To quantify the protective efficacy of influenza vaccine in elderly persons.
+A MEDLINE search was done using the index terms influenza vaccine, vaccine efficacy, elderly, mortality, hospitalized, and pneumonia.
+Appropriate references in the initially selected articles were also reviewed.
+Only cohort observational studies with mortality assessment were included in the meta-analysis.
+In addition, 3 recent case-control studies, 2 cost-effectiveness studies, and 1 randomized, double-blind, placebo-controlled trial were reviewed.
+Vaccine and epidemic virus strains, age and sex of patients, severity of illness, patient status, and study design were recorded.
+Upper respiratory illness, hospitalization, pneumonia, and mortality were used as outcome measures.
+In a meta-analysis of 20 cohort studies, the pooled estimates of vaccine efficacy (1-odds ratio) were 56% (95% Cl, 39% to 68%) for preventing respiratory illness, 53% (Cl, 35% to 66%) for preventing pneumonia, 50% (Cl, 28% to 65%) for preventing hospitalization, and 68% (Cl, 56% to 76%) for preventing death.
+Vaccine efficacy in the case-control studies ranged from 32% to 45% for preventing hospitalization for pneumonia, from 31% to 65% for preventing hospital deaths from pneumonia and influenza, from 43% to 50% for preventing hospital deaths from all respiratory conditions, and from 27% to 30% for preventing deaths from all causes.
+The randomized, double-blind, placebo-controlled trial showed a 50% or greater reduction in influenza-related illness.
+Recent cost-effectiveness studies confirm the efficacy of influenza vaccine in reducing influenza-related morbidity and mortality and show that vaccine provides important cost savings per year per vaccinated person.
+Despite the paucity of randomized trials, many studies confirm that influenza vaccine reduces the risks for pneumonia, hospitalization, and death in elderly persons during an influenza epidemic if the vaccine strain is identical or similar to the epidemic strain.
+Influenza immunization is an indispensable part of the care of persons 65 years of age and older.
+Annual vaccine administration requires the attention of all physicians and public health organizations.

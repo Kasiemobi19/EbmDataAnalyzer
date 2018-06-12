@@ -1,0 +1,16 @@
+Title 
+The American journal of medicine
+
+Article Title 
+A preliminary investigation of the management of alcohol dependence with naltrexone by primary care providers.
+Abstract Text 
+To describe a preliminary investigation of a model of naltrexone therapy and counselling for use by primary care providers and evaluate its impact on drinking behaviors in a cohort of alcohol-dependent subjects.
+The subjects enrolled in this study were 29 alcohol-dependent individuals.
+They were managed within a primary care treatment model located at a university-affiliated substance research program in New Haven, Connecticut.
+Subjects were assigned to a primary care provider for treatment of their alcohol dependence and were placed on naltrexone at a dose of 50 mg per day.
+They were seen for an initial "new patient" visit and 7 "brief" follow-up visits during the 10-week study.
+The primary outcomes for this study were completion of treatment, change in drinking behaviors from baseline, change in liver enzymes from baseline, provider ratings of improvement, and patient ratings of improvement and satisfaction with treatment.
+Of the 29 subjects: 21 (72%) completed treatment, and 10 (35%) relapsed to heavy drinking.
+All drinking behaviors improved significantly from baseline: percent of days abstinent increased from 36.6% to 88.8% (P < 0.0001), percent days abstinent from heavy drinking increased from 48.7% to 97.3% (P < 0.0001), and mean number of drinks per occasion decreased from 9.5 to 2.5 (P < 0.0001).
+The mean serum gamma glutamyl transferase (GGT) for the group decreased from 67.1 U/L to 45.3 U/L (P < 0.0001).
+In this preliminary investigation, treatment of alcohol dependence with our model of naltrexone and counselling by primary care providers appeared to be both feasible and effective.

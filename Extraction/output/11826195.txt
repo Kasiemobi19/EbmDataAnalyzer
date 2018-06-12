@@ -1,0 +1,16 @@
+Title 
+Pediatrics
+
+Article Title 
+Infant weight gain and childhood overweight status in a multicenter, cohort study.
+Abstract Text 
+To determine whether a rapid rate of weight gain in early infancy is associated with overweight status in childhood.
+Prospective, cohort study from birth to age 7 years.
+Twelve sites across the United States.
+Twenty-seven thousand, eight hundred ninety-nine (27 899) eligible participants born at full term between 1959 and 1965.
+Overweight status at age 7 years, defined by a body mass index above the 95th percentile of the Centers for Disease Control and Prevention reference data.
+In the 19 397 participants with complete data (69.6%), the prevalence of overweight status at age 7 years was 5.4%.
+The rate of weight gain during the first 4 months of life (as 100 g/month) was associated with being overweight at age 7 years, after adjustment for several confounding factors: odds ratio: 1.38; 95% confidence interval: 1.32-1.44.
+This association was present in each birth weight quintile, and remained significant after adjustment for the weight attained at age 1 year (odds ratio: 1.17; 95% confidence interval: 1.11-1.24).
+A pattern of rapid weight gain during the first 4 months of life was associated with an increased risk of overweight status at age 7 years, independent of birth weight and weight attained at age 1 year.
+These findings may lead to new hypotheses regarding the cause of childhood obesity, which may contribute to our understanding of this increasing public health problem in the United States.

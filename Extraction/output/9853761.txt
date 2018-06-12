@@ -1,0 +1,17 @@
+Title 
+British journal of obstetrics and gynaecology
+
+Article Title 
+The performance of screening tests for ovarian cancer: results of a systematic review.
+Abstract Text 
+To estimate the performance of currently available tests in detecting ovarian cancer in asymptomatic women.
+Systematic review of prospective screening studies.
+Twenty-five studies were identified: sixteen studied women at average risk and nine studied women at higher risk.
+Most studies evaluated only one screening method, were small, detecting few cancers, and gave few follow up details.
+Sensitivity estimates are therefore imprecise.
+In a typical larger study, reported sensitivity of ultrasound screening at one year was around 100% (95% CI 54%-100%), while the sensitivity of CA125 measurement followed by ultrasound (multimodal screening) was about 80% (95% CI 49%-95%).
+False positive rates ranged between 1.2% and 2.5% for grey scale ultrasound, between 0.3% and 0.7% for ultrasound with colour Doppler and between 0.1% and 0.6% for multimodal screening.
+This implies that, in annual screening of a population with an incidence of 40 per 100,000, and if no cancers were missed, between 2.5 and 60 women would undergo surgery for every primary ovarian cancer detected.
+Ultrasound and multimodal screening can detect ovarian cancer in asymptomatic women, but there is currently no evidence on whether screening improves outcome for women in any risk group.
+On-going randomised controlled trials should establish the magnitude of any benefit of screening.
+The low prevalence of ovarian cancer in the population, and its rate of progression, may limit the potential cost-effectiveness of screening.

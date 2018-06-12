@@ -1,0 +1,18 @@
+Title 
+The Journal of nervous and mental disease
+
+Article Title 
+Follow-up on the treatment of panic disorder with or without agoraphobia: a quantitative review.
+Abstract Text 
+We conducted a meta-analysis to update the knowledge of long-term efficacy of different treatments in panic disorder with or without agoraphobia.
+Included were 68 studies pertaining to 106 treatment conditions and 1346 patients.
+Effect sizes Cohen's d were calculated within the treatment conditions at posttest and at follow-up for panic and agoraphobia.
+A comparison was made between six treatments: high-potency benzodiazepines, antidepressants, psychological panic management, exposure in vivo, antidepressants combined with exposure, and psychological panic management combined with exposure in vivo.
+The mean (+/- SD) duration of the follow-up period was 62 +/- 89 weeks.
+In the majority of the studies (84%), follow-up had a naturalistic character.
+The lack of information about treatments received between posttest and follow-up limits the interpretation of the results.
+For all conditions, the treatment gains at posttest were maintained during the follow-up period.
+The mean (+/- SD) d for panic was 1.11 +/- 0.70 at posttest and 1.28 +/- 0.61 at follow-up; for agoraphobia, the mean d at posttest was 1.36 +/- 1.10 and at follow-up it was 1.41 +/- 0.82.
+Significant differences were found in efficacy on agoraphobic measures at follow-up between the combination of antidepressants and exposure in vivo versus psychological panic management, exposure in vivo, and the combination of psychological panic management and exposure.
+Overall, the data suggest that different treatment options for panic disorder with or without agoraphobia are effective at both posttest and follow-up.
+Research on long-term treatment, discontinuation of therapies, and interventions between posttest and follow-up need more attention, for pharmacotherapy as well as psychotherapy.

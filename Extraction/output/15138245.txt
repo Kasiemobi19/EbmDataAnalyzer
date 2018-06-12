@@ -1,0 +1,31 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Prevalence of chlamydial and gonococcal infections among young adults in the United States.
+Abstract Text 
+Chlamydial and gonococcal infections are important causes of pelvic inflammatory disease, ectopic pregnancy, and infertility.
+Although screening for Chlamydia trachomatis is widely recommended among young adult women, little information is available regarding the prevalence of chlamydial and gonococcal infections in the general young adult population.
+To determine the prevalence of chlamydial and gonococcal infections in a nationally representative sample of young adults living in the United States.
+Cross-sectional analyses of a prospective cohort study of a nationally representative sample of 14,322 young adults aged 18 to 26 years.
+In-home interviews were conducted across the United States for Wave III of The National Longitudinal Study of Adolescent Health (Add Health) from April 2, 2001, to May 9, 2002.
+This study sample represented 66.3% of the original 18,924 participants in Wave I of Add Health.
+First-void urine specimens using ligase chain reaction assay were available for 12,548 (87.6%) of the Wave III participants.
+Prevalences of chlamydial and gonococcal infections in the general young adult population, and by age, self-reported race/ethnicity, and geographic region of current residence.
+Overall prevalence of chlamydial infection was 4.19% (95% confidence interval [CI], 3.48%-4.90%).
+Women (4.74%; 95% CI, 3.93%-5.71%)
+were more likely to be infected than men (3.67%; 95% CI, 2.93%-4.58%;
+prevalence ratio, 1.29; 95% CI, 1.03-1.63).
+The prevalence of chlamydial infection was highest among black women (13.95%; 95% CI, 11.25%-17.18%)
+and black men (11.12%; 95% CI, 8.51%-14.42%);
+lowest prevalences were among Asian men (1.14%; 95% CI, 0.40%-3.21%),
+white men (1.38%; 95% CI, 0.93%-2.03%),
+and white women (2.52%; 95% CI, 1.90%-3.34%).
+Prevalence of chlamydial infection was highest in the south (5.39%; 95% CI, 4.24%-6.83%)
+and lowest in the northeast (2.39%; 95% CI, 1.56%-3.65%).
+Overall prevalence of gonorrhea was 0.43% (95% CI, 0.29%-0.63%).
+Among black men and women, the prevalence was 2.13% (95% CI, 1.46%-3.10%)
+and among white young adults, 0.10% (95% CI, 0.03%-0.27%).
+Prevalence of coinfection with both chlamydial and gonococcal infections was 0.030% (95% CI, 0.18%-0.49%).
+The prevalence of chlamydial infection is high among young adults in the United States.
+Substantial racial/ethnic disparities are present in the prevalence of both chlamydial and gonococcal infections.

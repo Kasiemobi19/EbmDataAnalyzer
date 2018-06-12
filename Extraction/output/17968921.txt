@@ -1,0 +1,20 @@
+Title 
+Arthritis and rheumatism
+
+Article Title 
+Efficacy and safety of intraarticular hylan or hyaluronic acids for osteoarthritis of the knee: a randomized controlled trial.
+Abstract Text 
+To compare the efficacy and safety of intraarticular hylan and 2 hyaluronic acids (HAs) in osteoarthritis (OA) of the knee.
+This was a multicenter, patient-blind, randomized controlled trial in 660 patients with symptomatic knee OA.
+Patients were randomly assigned to receive 1 cycle of 3 intraarticular injections per knee of 1 of 3 preparations: a high molecular weight cross-linked hylan, a non-cross-linked medium molecular weight HA of avian origin, or a non-cross-linked low molecular weight HA of bacterial origin.
+The primary outcome measure was the change in the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) pain score at 6 months.
+Secondary outcome measures included local adverse events (effusions or flares) in injected knees.
+During months 7-12, patients were offered a second cycle of viscosupplementation.
+     
+      Pain relief was similar in all 3 groups.
+The difference in changes between baseline and 6 months between hylan and the combined HAs was 0.1 on the WOMAC pain score (95% confidence interval [95% CI] -0.2, 0.3).
+No relevant differences were observed in any of the secondary efficacy outcomes, and stratified analyses provided no evidence for differences in effects across different patient groups.
+There was a trend toward more local adverse events in the hylan group than in the HA groups during the first cycle (difference 2.2% [95% CI -2.4,
+6.7]), and this trend became more pronounced during the second cycle (difference 6.4% [95% CI 0.6, 12.2]).
+We found no evidence for a difference in efficacy between hylan and HAs.
+In view of its higher costs and potential for more local adverse events, we see no rationale for the continued use of hylan in patients with knee OA.

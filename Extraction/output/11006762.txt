@@ -1,0 +1,24 @@
+Title 
+CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne
+
+Article Title 
+Evaluating the benefits of antimicrobial prophylaxis to prevent urinary tract infections in children: a systematic review.
+Abstract Text 
+The recurrence rate for urinary tract infections in children is estimated at between 30% and 40%.
+The use of low doses of antibiotics as prophylaxis for recurrent urinary tract infections is common clinical practice.
+However, prolonged antimicrobial therapy has the potential to contribute to problems of bacterial resistance and antimicrobial side effects.
+The aim of this review was to systematically examine the available evidence for the effectiveness of this intervention.
+We conducted a literature search of 3 electronic databases for the period 1966 to 1999.
+We also searched bibliographies from conference proceedings and contacted content experts to ensure completeness of our database.
+Each trial was evaluated on the basis of the following inclusion criteria: target population (children), intervention (antibiotic v. no antibiotic), outcome (number of urinary tract infections) and study design (randomized controlled trial).
+Quality was assessed for the studies that met these criteria.
+Most of the studies identified were case series and cohort studies.
+Only 6 randomized trials fulfilled the inclusion criteria.
+All were of low quality (median 2, range 0 to 2 [maximum quality score 5]).
+Three trials dealt with children who had anatomically normal urinary tracts, and three included children with neurogenic bladder.
+The rate of infections for patients with normal urinary tracts ranged from 0 to 4.0 per 10 patient-years for the treatment groups and from 4.0 to 16.7 for the control groups.
+The recurrence rates for patients with neurogenic bladders in 2 trials were 2.9 and 17.1 per 10 patient-years for the treatment groups and 1.5 and 33.0 for the control groups.
+The available evidence for using antimicrobial prophylaxis to prevent urinary tract infection in children with normal urinary tracts or neurogenic bladder is of low quality.
+This suggests that the magnitude of any benefit should at best be questioned.
+The surprising lack of data for children with reflux is of concern.
+Well-designed trials are needed to optimize the use of antimicrobials in children with recurrent urinary tract infection.

@@ -1,0 +1,19 @@
+Title 
+Diabetes care
+
+Article Title 
+Effects of diet and exercise in preventing NIDDM in people with impaired glucose tolerance. The Da Qing IGT and Diabetes Study.
+Abstract Text 
+Individuals with impaired glucose tolerance (IGT) have a high risk of developing NIDDM.
+The purpose of this study was to determine whether diet and exercise interventions in those with IGT may delay the development of NIDDM, i.e., reduce the incidence of NIDDM, and thereby reduce the overall incidence of diabetic complications, such as cardiovascular, renal, and retinal disease, and the excess mortality attributable to these complications.
+In 1986, 110,660 men and women from 33 health care clinics in the city of Da Qing, China, were screened for IGT and NIDDM.
+Of these individuals, 577 were classified (using World Health Organization criteria) as having IGT.
+Subjects were randomized by clinic into a clinical trial, either to a control group or to one of three active treatment groups: diet only, exercise only, or diet plus exercise.
+Follow-up evaluation examinations were conducted at 2-year intervals over a 6-year period to identify subjects who developed NIDDM.
+Cox's proportional hazard analysis was used to determine if the incidence of NIDDM varied by treatment assignment.
+The cumulative incidence of diabetes at 6 years was 67.7% (95% CI, 59.8-75.2) in the control group compared with 43.8% (95% CI, 35.5-52.3) in the diet group, 41.1% (95% CI, 33.4-49.4) in the exercise group, and 46.0%
+(95% CI, 37.3-54.7) in the diet-plus-exercise group (P < 0.05).
+When analyzed by clinic, each of the active intervention groups differed significantly from the control clinics (P < 0.05).
+The relative decrease in rate of development of diabetes in the active treatment groups was similar when subjects were stratified as lean or overweight (BMI < or > or = 25 kg/m2).
+In a proportional hazards analysis adjusted for differences in baseline BMI and fasting glucose, the diet, exercise, and diet-plus-exercise interventions were associated with 31% (P < 0.03), 46% (P < 0.0005), and 42% (P < 0.005) reductions in risk of developing diabetes, respectively.
+Diet and/or exercise interventions led to a significant decrease in the incidence of diabetes over a 6-year period among those with IGT.

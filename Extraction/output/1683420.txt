@@ -1,0 +1,14 @@
+Title 
+Lancet
+
+Article Title 
+Prevention of ultraviolet-light-induced herpes labialis by sunscreen.
+Abstract Text 
+Sunlight exposure is reported by some patients to precede onset of recurrent herpes labialis.
+Ultraviolet (UV) B light is known to be a stimulus for the reactivation of herpes simplex virus (HSV) infections.
+We assessed the effect of a sunblocking agent on UV-light-induced reactivation of recurrent herpes labialis in a double-blind, placebo-controlled crossover trial.
+38 patients were exposed on two separate occasions to four minimum erythema doses of UV light at an area of previous labial herpes recurrence.
+A solution containing sunscreen was applied to the lips before one exposure and a matched placebo before the other.
+After placebo and UV exposure, herpes labialis developed in 27 (71%) of the 38 patients, with a mean time to recurrence of 2.9 (SEM 0.2) days.
+In contrast, when sunscreen was applied before UV exposure, no lesions developed, but 1 of the 35 patients shed virus at the exposure site.
+We conclude that UV light is a potent stimulus for inducing reactivation of herpes labialis, and that application of sunscreen may be effective in the prevention of sunlight-induced recurrent infection.

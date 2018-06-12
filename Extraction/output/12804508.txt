@@ -1,0 +1,25 @@
+Title 
+Cochrane database of systematic reviews (Online)
+
+Article Title 
+Acetaminophen for osteoarthritis.
+Abstract Text 
+Osteoarthritis (OA) is the most common form of arthritis.
+Published guidelines and expert opinion are divided over the relative role of acetaminophen (also called paracetamol or Tylenol) and non-steroidal anti-inflammatory drugs (NSAIDs) as first-line pharmacologic therapy.
+The comparative safety of acetaminophen and NSAIDs is important to consider as NSAIDs have the potential for serious gastrointestinal, renal, and cardiovascular toxicities, and acetaminophen in high dosages (greater than or equal to 2 grams per day), may also have the potential for serious upper gastrointestinal toxicity.
+To assess the efficacy and safety of acetaminophen versus placebo and versus NSAIDs (ibuprofen, arthrotec, celecoxib,naproxen, rofecoxib) for treating OA.
+We searched the Cochrane Controlled Trials Register (Issue 3, 2002), MEDLINE (up to July 2002), and Current Contents (up to March 2002).
+Reference lists of identified RCTs and pertinent review articles were also hand searched.
+Published randomized controlled trials (RCTs) evaluating the efficacy and safety of acetaminophen alone in OA were considered for inclusion.
+Pain, physical function and global assessment outcomes were reported.
+Results for continuous outcome measures were expressed as standardized mean differences.
+Dichotomous outcome measures were pooled using relative risk and the number needed to treat was calculated.
+Six RCTs and 1689 participants were included in the review.
+One study compared acetaminophen to placebo, and five compared acetaminophen to NSAIDs.
+In the placebo-controlled RCT, acetaminophen was shown to be clearly superior to placebo with a similar safety profile.
+The number needed to treat to achieve an improvement in pain was three.
+In the comparator-controlled RCTs, acetaminophen was less effective overall than NSAIDs in terms of pain reduction and global assessments but both drugs had similar efficacy in terms of improvements in functional status.
+No significant difference was found between the safety of acetaminophen and NSAIDs, although patients taking NSAIDS were more likely to withdraw due to GI events.
+The evidence to date suggests that NSAIDs are superior to acetaminophen for improving knee and hip pain in people with OA but have not been shown to be superior in improving function.
+The size of the treatment effect was modest, and the mean trial duration was only six weeks, therefore, additional considerations need to be factored in when making the decision between using acetaminophen or NSAIDs.
+In OA subjects with moderate-to-severe levels of pain, NSAIDs appear to be more effective than acetaminophen.

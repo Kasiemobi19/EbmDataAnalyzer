@@ -1,0 +1,18 @@
+Title 
+British journal of cancer
+
+Article Title 
+Dietary fat and breast cancer risk revisited: a meta-analysis of the published literature.
+Abstract Text 
+Animal experiments and human ecological studies suggest that dietary fat intake is associated with a risk of breast cancer, but individual-based studies have given contradictory results.
+We have carried out a meta-analysis of this association to include all papers published up to July 2003.
+Case-control and cohort studies that examined the association of dietary fat, or fat-containing foods, with risk of breast cancer were identified.
+A total of 45 risk estimates for total fat intake were obtained.
+Descriptive data from each study were extracted with an estimate of relative risk and its associated 95% confidence interval (CI), and were analysed using the random effects model of DerSimonian and Laird.
+The summary relative risk, comparing the highest and lowest levels of intake of total fat, was 1.13 (95% CI: 1.03-1.25).
+Cohort studies (N=14) had a summary relative risk of 1.11 (95% CI: 0.99-1.25)
+and case-control studies (N=31) had a relative risk of 1.14 (95% CI 0.99-1.32).
+Significant summary relative risks were also found for saturated fat (RR, 1.19; 95% CI: 1.06-1.35)
+and meat intake (RR, 1.17; 95% CI 1.06-1.29).
+Combined estimates of risk for total and saturated fat intake, and for meat intake, all indicate an association between higher intakes and an increased risk of breast cancer.
+Case-control and cohort studies gave similar results.

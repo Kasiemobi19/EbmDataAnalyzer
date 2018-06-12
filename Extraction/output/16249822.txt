@@ -1,0 +1,14 @@
+Title 
+Journal of behavioral medicine
+
+Article Title 
+An efficient method of identifying major depression and panic disorder in primary care.
+Abstract Text 
+The research literature is replete with evidence of and concerns about the prevalence and undertreatment of mental disorders in primary care.
+Although screening, on its own, may not directly affect clinical outcomes, it is still the most efficient and effective way to identify psychologically distressed patients for either research purposes or to provide patients with or refer patients to appropriate care.
+The current study sought to establish the utility of the MHI-5 for the detection of patients suffering from major depression or panic disorder, two of the most common psychiatric conditions seen in primary care settings.
+This study was conducted in a family medicine clinic and 246 adult outpatients participated.
+Patients completed the Mental Health Index-5 (MHI-5) as the screening measure and the PRIME-MD Patient Health Questionnaire (PHQ) as the diagnostic instrument.
+ROC analyses indicated that a cut-off score of 23 on the MHI-5 yielded a sensitivity of 91% and a specificity of 58% for predicting provisional diagnoses of major depression or panic disorder from the PHQ.
+Using a single item to screen for a PHQ diagnosis of major depression yielded a sensitivity of 88% and a specificity of 62% and a second question had a sensitivity of 100% and specificity of 63% for PHQ diagnosis of panic disorder.
+These results indicate that it is possible to use a small number of items to efficiently and effectively screen for mental disorders affecting a significant portion of primary care patients.

@@ -1,0 +1,13 @@
+Title 
+Lancet
+
+Article Title 
+Long-term malaria prophylaxis with weekly mefloquine.
+Abstract Text 
+The spread of chloroquine-resistant Plasmodium falciparum malaria has led to increased use of mefloquine prophylaxis by US Peace Corps volunteers in sub-Saharan Africa.
+We compared long-term mefloquine with other drug regimens for effectiveness and tolerance.
+The incidence of Plasmodium falciparum infections and of adverse reactions was compared in Peace Corps volunteers who took chloroquine weekly, mefloquine weekly, mefloquine every other week, or weekly chloroquine plus daily proguanil.
+Weekly mefloquine was 94% more effective than chloroquine (95% CI 86% to 97%), 86% more effective than chloroquine plus proguanil (95% CI 67% to 94%), and 82% more effective than prophylaxis with mefloquine when taken every other week (95% CI 68% to 90%).
+No serious adverse reactions were observed.
+Mild adverse events were equally frequent in mefloquine users and chloroquine users, and the frequency of these events declined with increasing duration of prophylaxis.
+Mefloquine is an effective and well-tolerated drug for prophylaxis of malaria by short-term and long-term travellers.

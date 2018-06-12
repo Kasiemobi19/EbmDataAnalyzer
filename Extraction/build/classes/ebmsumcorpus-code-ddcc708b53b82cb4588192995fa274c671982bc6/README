@@ -1,0 +1,43 @@
+EBMSummariserCorpus - A forpus for evidence-based medicine query-based
+summarisation
+
+This corpus has been sourced from the Clinical Inquiries section of
+the Journal of Family Practice (http://www.jfponline.com/) with kind
+permission of the publishers to distribute to the research community.
+
+Contents of this folder:
+
+ClinicalInquiries.xml - The annotated information in XML. Each XML
+record contains:
+ * url: URL of the source document
+ * question: the question
+ * Answer: Each answer has one or more answer components (snip)
+   Each snip has:
+       - sniptext: The answer text
+       - sor: The evidence grade according to SORT
+       - long: one or more text justifications
+         Each long has:
+            . longtext: The text justification
+            . ref: one or more references
+
+Abstracts - the PubMed XML abstracts of the references
+
+ALTA2011.pdf - A paper describing the corpus. To cite it:
+   Molla, D and Santiago-Martinez, M.E. (2011). Development of a
+   Corpus for Evidence Based Medicine Summarisation. Proceedings of
+   Australasian Language Technology Workshop, 86-94.
+
+--------------------------------------------------------------------------
+Copyright (C) 2011  Diego Molla
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.

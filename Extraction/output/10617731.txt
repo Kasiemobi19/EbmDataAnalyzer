@@ -1,0 +1,17 @@
+Title 
+Pediatrics
+
+Article Title 
+A trade-off analysis of routine newborn circumcision.
+Abstract Text 
+The risks associated with newborn circumcision have not been as extensively evaluated as the benefits.
+The goals of this study were threefold: 1) to derive a population-based complication rate for newborn circumcision; 2) to calculate the number needed to harm for newborn circumcision based on this rate; and 3) to establish trade-offs based on our complication rates and published estimates of the benefits of circumcision including the prevention of urinary tract infections and penile cancer.
+Using the Comprehensive Hospital Abstract Reporting System for Washington State, we retrospectively examined routine newborn circumcisions performed over 9 years (1987-1996).
+We used International Classification of Diseases, Ninth Revision codes to identify both circumcisions and complications and limited our analyses to children without other surgical procedures performed during their initial birth hospitalization.
+Of 354, 297 male infants born during the study period, 130,475 (37%) were circumcised during their newborn stay.
+Overall 287 (.2%) of circumcised children and 33 (.01%) of uncircumcised children had complications potentially associated with circumcision coded as a discharge diagnosis.
+Based on our findings, a complication can be expected in 1 out every 476 circumcisions.
+Six urinary tract infections can be prevented for every complication endured and almost 2 complications can be expected for every case of penile cancer prevented.
+Circumcision remains a relatively safe procedure.
+However, for some parents, the risks we report may outweigh the potential benefits.
+This information may help parents seeking guidance to make an informed decision.

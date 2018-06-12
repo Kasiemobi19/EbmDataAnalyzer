@@ -1,0 +1,23 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Ability of exercise testing to predict cardiovascular and all-cause death in asymptomatic women: a 20-year follow-up of the lipid research clinics prevalence study.
+Abstract Text 
+The value of exercise testing in women has been questioned.
+To determine the prognostic value of exercise testing in a population-based cohort of asymptomatic women followed up for 20 years.
+Near-maximal Bruce-protocol treadmill test data from the Lipid Research Clinics Prevalence Study (1972-1976) with follow-up through 1995.
+A total of 2994 asymptomatic North American women, aged 30 to 80 years, without known cardiovascular disease.
+Cardiovascular and all-cause mortality.
+There were 427 (14%) deaths during 20 years of follow-up, of which 147 were due to cardiovascular causes.
+Low exercise capacity, low heart rate recovery (HRR), and not achieving target heart rate were independently associated with increased all-cause and cardiovascular mortality.
+There was no increased cardiovascular death risk for exercise-induced ST-segment depression (age-adjusted hazard ratio, 1.02; 95% confidence interval [CI], 0.57-1.80;
+P =.96).
+The age-adjusted hazard ratio for cardiovascular death for every metabolic equivalent (MET) decrement in exercise capacity was 1.20 (95% CI, 1.18-1.30;
+P<.001); for every 10 beats per minute decrement in HRR, the hazard ratio was 1.36 (95% CI, 1.19-1.55;
+P<.001).
+After adjusting for multiple other risk factors, women who were below the median for both exercise capacity and HRR had a 3.5-fold increased risk of cardiovascular death (95% CI, 1.57-7.86;
+P =.002) compared with those above the median for both variables.
+Among women with low risk Framingham scores, those with below median levels of both exercise capacity and HRR had significantly increased risk compared with women who had above median levels of these 2 exercise variables, 44.5 and 3.5 cardiovascular deaths per 10 000 person-years, respectively (hazard ratio for cardiovascular death, 12.93; 95% CI, 5.62-29.73;
+P<.001).
+The prognostic value of exercise testing in asymptomatic women derives not from electrocardiographic ischemia but from fitness-related variables.

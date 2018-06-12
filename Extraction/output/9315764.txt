@@ -1,0 +1,21 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Antihypertensive treatment based on conventional or ambulatory blood pressure measurement. A randomized controlled trial. Ambulatory Blood Pressure Monitoring and Treatment of Hypertension Investigators.
+Abstract Text 
+Ambulatory blood pressure (ABP) monitoring is used increasingly in clinical practice, but how it affects treatment of blood pressure has not been determined.
+To compare conventional blood pressure (CBP) measurement and ABP measurement in the management of hypertensive patients.
+Multicenter, randomized, parallel-group trial.
+Family practices and outpatient clinics at regional and university hospitals.
+A total of 419 patients (> or =18 years), whose untreated diastolic blood pressure (DBP) on CBP measurement averaged 95 mm Hg or higher, randomized to CBP or ABP arms.
+Antihypertensive drug treatment was adjusted in a stepwise fashion based on either the average daytime (from 10 AM to 8 PM) ambulatory DBP (n=213) or the average of 3 sitting DBP readings (n=206).
+If the DBP guiding treatment was above (>89 mm Hg), at (80-89 mm Hg), or below (<80 mm Hg) target, 1 physician blinded to the patients' randomization intensified antihypertensive treatment, left it unchanged, or reduced it, respectively.
+The CBP and ABP levels, intensity of drug treatment, electrocardiographic and echocardiographic left ventricular mass, symptoms reported by questionnaire, and cost.
+At the end of the study (median follow-up, 182 days; 5th to 95th percentile interval, 85-258 days), more ABP than CBP patients had stopped antihypertensive drug treatment (26.3% vs 7.3%; P<.001), and fewer ABP patients had progressed to sustained multiple-drug treatment (27.2% vs 42.7%; P<.001).
+The final CBP and 24-hour ABP averaged 144.1/89.9
+mm Hg and 129.4/79.5 mm Hg in the ABP group and 140.3/89.6
+mm Hg and 128.0/79.1 mm Hg in the CBP group.
+Left ventricular mass and reported symptoms were similar in the 2 groups.
+The potential savings in the ABP group in terms of less intensive drug treatment and fewer physician visits were offset by the costs of ABP monitoring.
+Adjustment of antihypertensive treatment based on ABP monitoring instead of CBP measurement led to less intensive drug treatment with preservation of blood pressure control, general well-being, and inhibition of left ventricular enlargement but did not reduce the overall costs of antihypertensive treatment.

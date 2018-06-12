@@ -1,0 +1,15 @@
+Title 
+Journal of public health medicine
+
+Article Title 
+UK guidelines for use of erythromycin chemoprophylaxis in persons exposed to pertussis.
+Abstract Text 
+Pertussis is well controlled in the UK as a result of an effective vaccination programme.
+Nevertheless, the disease has not been eliminated, and cases still occur in the most vulnerable group of young infants.
+Erythromycin chemoprophylaxis has been advocated for use in contacts to prevent secondary cases but the evidence for its use is weak.
+These guidelines are based on a review of the evidence and aim to help clinicians make more rational decisions on the use of erythromycin chemoprophylaxis for pertussis.
+Erythromycin has well-established side effects and so its use should be limited to situations where it is likely to be of greatest benefit.
+If a clinically suspected or confirmed case of pertussis is identified who is also in household contact with someone at greatest risk from pertussis--young infants, especially neonates--then erythromycin chemoprophylaxis should be considered.
+The aim is to protect those at greatest risk from pertussis by offering chemoprophylaxis to them, to all their household contacts who are unimmunized and to contacts who are 5 years or older if they did not receive a pre-school pertussis booster (not given to those born before 1996 in the United Kingdom).
+There is no evidence of any benefit from chemoprophylaxis given more than 21 days from the date of onset of the primary case.
+Unimmunized or partially immunized cases and contacts should complete their course of vaccine.

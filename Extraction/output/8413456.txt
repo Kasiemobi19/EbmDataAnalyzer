@@ -1,0 +1,18 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+The effect of angiotensin-converting-enzyme inhibition on diabetic nephropathy. The Collaborative Study Group.
+Abstract Text 
+Renal function declines progressively in patients who have diabetic nephropathy, and the decline may be slowed by antihypertensive drugs.
+The purpose of this study was to determine whether captopril has kidney-protecting properties independent of its effect on blood pressure in diabetic nephropathy.
+We performed a randomized, controlled trial comparing captopril with placebo in patients with insulin-dependent diabetes mellitus in whom urinary protein excretion was > or = 500 mg per day and the serum creatinine concentration was < or = 2.5 mg per deciliter (221 mumol per liter).
+Blood-pressure goals were defined to achieve control during a median follow-up of three years.
+The primary end point was a doubling of the base-line serum creatinine concentration.
+Two hundred seven patients received captopril, and 202 placebo.
+Serum creatinine concentrations doubled in 25 patients in the captopril group, as compared with 43 patients in the placebo group (P = 0.007).
+The associated reductions in risk of a doubling of the serum creatinine concentration were 48 percent in the captopril group as a whole, 76 percent in the subgroup with a baseline serum creatinine concentration of 2.0 mg per deciliter (177 mumol per liter), 55 percent in the subgroup with a concentration of 1.5 mg per deciliter (133 mumol per liter), and 17 percent in the subgroup with a concentration of 1.0 mg per deciliter (88.4 mumol per liter).
+The mean (+/- SD) rate of decline in creatinine clearance was 11 +/- 21 percent per year in the captopril group and 17 +/- 20 percent per year in the placebo group (P = 0.03).
+Among the patients whose base-line serum creatinine concentration was > or = 1.5 mg per deciliter, creatinine clearance declined at a rate of 23 +/- 25 percent per year in the captopril group and at a rate of 37 +/- 25 percent per year in the placebo group (P = 0.01).
+Captopril treatment was associated with a 50 percent reduction in the risk of the combined end points of death, dialysis, and transplantation that was independent of the small disparity in blood pressure between the groups.
+Captopril protects against deterioration in renal function in insulin-dependent diabetic nephropathy and is significantly more effective than blood-pressure control alone.

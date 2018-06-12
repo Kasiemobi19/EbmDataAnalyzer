@@ -1,0 +1,20 @@
+Title 
+Annals of internal medicine
+
+Article Title 
+Breast cancer screening for elderly women with and without comorbid conditions. A decision analysis model.
+Abstract Text 
+To determine whether breast cancer screening extends life for women aged 65 years or more with and without comorbid medical conditions.
+A provider-patient encounter.
+A decision analysis of the utility of screening for breast cancer.
+Clinical examination and mammography among four groups of women aged 65 to 85 or more years: average health, mild hypertension, congestive heart failure, and average-health black women.
+The effects of screening were estimated using the best quality data available.
+Screening saved life at all ages among patients studied.
+Savings were highest for black women and decreased with increasing age and comorbidity.
+Screening all average-health women aged 65 or more saved 67,912 years of life.
+For women who had cancer, screening extended life by 617 days for average-health women between 65 and 69 years of age and 178 days for those aged 85 years or more.
+Perioperative mortality and test characteristics had little effect on the results.
+The risks equaled the benefits of screening only when operative mortality was between 27% and 62%.
+The marginal costs of screening during a routine office visit were $138 and increased with advancing age and decreasing test specificity.
+Benefits persisted after adjustment for changes in long-term quality of life; however, for women aged 85 years and older (with and without comorbidities), the short-term morbidity of anxiety or discomfort associated with screening may have outweighed the benefits.
+No inherent reason exists to impose an upper-age limit for breast cancer screening; however, more data are needed on women's preferences for screening strategies.

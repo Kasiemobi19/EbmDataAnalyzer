@@ -1,0 +1,20 @@
+Title 
+Journal of hypertension
+
+Article Title 
+Independent predictors of isolated clinic ('white-coat') hypertension.
+Abstract Text 
+Hypertension guidelines recommend 24 h ambulatory blood pressure (ABP) monitoring in hypertensive subjects with suspected isolated clinic hypertension (ICH).
+However, the pre-test probability of ICH based on the distribution of its independent predictors has not yet been estimated in hypertensive subjects with mildly elevated blood pressure.
+To ascertain the independent predictors of ICH in mildly hypertensive subjects.
+In the setting of the HARVEST-PIUMA collaboration, we studied 1564 subjects with hypertension stage I.
+At entry, all subjects were untreated and all underwent ABP monitoring and echocardiography.
+Diabetes, hypertension grade > I, renal failure or previous cardiovascular morbid events were exclusion criteria.
+Clinic BP was 143/92 mmHg (SD 9/5) and 24 h ABP was 128/81 mmHg (SD 10/8).
+Prevalence of ICH (daytime ABP < 130 mmHg systolic and 80 mmHg diastolic) was 10.4%.
+In a multivariate logistic regression analysis, sex (P = 0.002), smoking (P = 0.038) and clinic diastolic BP (P = 0.0002) were the sole independent predictors of ICH according to the following equation: Y = 2.6438 + 0.5128 x sex (0 = men; 1 = women) + 0.4543 x current smoking (0 = yes; 1 = no) - 0.0531 x clinic diastolic BP (mmHg) and P (probability of ICH) = exp(Y)/[1 + (exp(Y)].
+Left ventricular (LV) mass at echocardiography was a further independent predictor (P = 0.002) of ICH according to the following equation: Y= 3.4343 + 0.4603 x sex + 0.5989 x current smoking - 0.0482 x clinic diastolic BP - 0.0312 x LV mass [g/height (m)2.7].
+LV mass was greater (P < 0.01) in the group with ambulatory hypertension [42.3 g/height (m)2.7]
+than in that with ICH [39.2 g/height (m)2.7] and not dissimilar between the ICH group and a control group of 370 healthy normotensive subjects [38.1 g/height (m)2.7].
+In untreated subjects with stage I hypertension, ICH is most frequent among women, nonsmokers and subjects with low clinic BP and smaller LV mass.
+These findings allow identification of subjects with indication to ABP monitoring because of suspected ICH.

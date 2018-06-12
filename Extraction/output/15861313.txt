@@ -1,0 +1,14 @@
+Title 
+Seminars in vascular medicine
+
+Article Title 
+The spectrum of statin therapy in hyperlipidemic children.
+Abstract Text 
+The recommended therapy of hypercholesterolemia in children consists of dietary modification and bile acid-binding resins.
+Unfortunately, the lipid-lowering efficacy of bile acid-binding resins is modest, and moreover, long-term compliance is poor because of side effects.
+In contrast, hydroxymethylglutaryl coenzyme A reductase inhibitors (statins) are widely used in adults and are considered to be the first choice in the treatment of hypercholesterolemia in that age category.
+In the last few years, several randomized trials have been conducted to evaluate the efficacy, safety, and tolerability of statin therapy in both children and adolescents.
+In this article, we review statin therapy in hypercholesterolemic children in terms of efficacy, safety, pharmacokinetics, and psychosocial functioning.
+Statins are not only effective in reducing low-density lipoprotein cholesterol levels in children with familial hypercholesterolemia but also improve endothelial function and reduce the progressive thickening of the intima media complex of the carotid arteries.
+Statins seem safe at the longer term in children in terms of plasma levels of liver enzymes and liver function, creatine kinase levels, and muscle function, as well as growth and sexual development.
+Long-term follow-up studies are needed to assess whether statin treatment started early in children with familial hypercholesterolemia can prevent future cardiovascular events.

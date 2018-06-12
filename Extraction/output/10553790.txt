@@ -1,0 +1,18 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Evaluation of prognostic criteria for determining hospice eligibility in patients with advanced lung, heart, or liver disease. SUPPORT Investigators. Study to Understand Prognoses and Preferences for Outcomes and Risks of Treatments.
+Abstract Text 
+Many individuals involved with care of the dying advocate expanding access to hospice care for persons with advanced lung, heart, or liver disease.
+However, to be eligible, these patients generally must have a prognosis for survival of less than 6 months.
+To test the ability of currently available criteria to identify a population with a survival prognosis of 6 months or less among seriously ill hospitalized patients with 1 of 3 commonly fatal chronic diseases.
+Validation study using data from the Study to Understand Prognoses and Preferences for Outcomes and Risks of Treatments (SUPPORT) phase 1 (June 1989-June 1991) and phase 2 (January 1992-January 1994), with a 6-month follow-up.
+Consecutive sample of 2607 seriously ill patients from 5 US medical centers who were hospitalized with chronic obstructive pulmonary disease, congestive heart failure, or end-stage liver disease, and who survived to hospital discharge.
+Descriptive and operating characteristics of 5 general and 2 disease-specific clinical criteria for identifying patients with a survival prognosis of 6 months or less, and 3 sets of combination criteria (broad, intermediate, and narrow inclusion) aimed at providing low, medium, and high thresholds for hospice eligibility based on National Hospice Organization guidelines.
+Seventy-five percent of the sample survived more than 6 months after hospital discharge; 44% expressed a preference for palliative care.
+Broad inclusion criteria identified 923 patients eligible for hospice care, of whom 70% survived longer than 6 months.
+Intermediate inclusion criteria identified 300 patients, of whom 65% survived longer than 6 months.
+Narrow inclusion criteria identified 19 patients, of whom 53% survived longer than 6 months.
+Sensitivities and specificities of the combination criteria were 41.7% and 66.7% (broad inclusion), 16.2% and 90.1 % (intermediate inclusion), and 1.4% and 99.5% (narrow inclusion), respectively.
+These data indicate that for seriously ill hospitalized patients with advanced chronic obstructive pulmonary disease, congestive heart failure, or end-stage liver disease, recommended clinical prediction criteria are not effective in identifying a population with a survival prognosis of 6 months or less.

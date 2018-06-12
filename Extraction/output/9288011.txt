@@ -1,0 +1,23 @@
+Title 
+Journal of the American Geriatrics Society
+
+Article Title 
+Criteria for enrolling dementia patients in hospice.
+Abstract Text 
+Because survival time varies greatly, it is difficult for dementia patients to meet a key criterion for eligibility for the Medicare hospice benefit: a 6-month survival time.
+We have developed criteria for the Medicare hospice benefit that include the characteristics of advanced dementia and related medical complications.
+The purpose of the study was to determine survival time among dementia patients who met these criteria.
+Additionally, because the National Hospice Organization (NHO) developed its own guidelines while the study was in progress, we retrospectively examined the application of these guidelines to our sample.
+Two cohorts of hospice patients were studied longitudinally, each for 2 years.
+Nine Midwestern hospice programs.
+Forty-seven patients were enrolled in home hospice and institutional hospice settings.
+Survival time consisted of the number of days between enrollment in the hospice program and death or the end of the study.
+Other measures included Activities of Daily Living, ratings of Appetite, Nourishment, and Mobility, Functional Assessment Staging (FAST), a Medical Complications Checklist, and a care plan concerning the use of medications for acute illness.
+Our hospice enrollment criteria predicted a median survival time of 4 months and a mean survival time of 6.9 months; 38% of patients survived for more than 6 months.
+FAST scores and Mobility ratings were significantly related to survival time.
+However, 41% could not be scored on the FAST as their disease progression was not ordinal.
+Among patients who could be scored on the FAST and who had reached Stage Seven C, their mean survival time was 3.2 months compared with 18 months among those who could be scored and had not reached this stage and 8.6 months among patients whose disease progression was not ordinal, P < .001.
+When the palliative care plans were examined, less aggressive care plans resulted in shorter survival times, P < .01.
+Our hospice enrollment criteria identified a group with a median survival time of 4 months and a mean survival time of 6.9 months.
+Using NHO criteria relying on the FAST allows the identification of a subgroup with very high mortality and a short time until death.
+Although the FAST can identify a subgroup of appropriate candidates for hospice, sole reliance on this measure might decrease access to hospice care for many dementia patients.

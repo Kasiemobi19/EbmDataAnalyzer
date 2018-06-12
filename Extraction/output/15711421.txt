@@ -1,0 +1,16 @@
+Title 
+The American journal of the medical sciences
+
+Article Title 
+Patients with elevated baseline liver enzymes do not have higher frequency of hepatotoxicity from lovastatin than those with normal baseline liver enzymes.
+Abstract Text 
+It is recommended that lovastatin be avoided in patients with unexplained elevation in transaminase levels.
+However, there are no studies that evaluated the risk of lovastatin hepatotoxicity in subjects with elevated liver enzymes.
+Our study tested the hypothesis that patients with elevated liver enzymes are not at higher risk for hepatotoxicity from lovastatin.
+Our study consisted of the following three cohorts of patients seen between December 1987 and December 1998: cohort 1: 135 patients with elevated baseline enzymes (aspartate transaminase [AST] >40 IU/L or alanine transaminase [ALT] >35 IU/L) who received lovastatin; cohort 2: 620 patients without elevated liver enzymes who received lovastatin; and cohort 3: 2644 patients with elevated liver enzymes but not prescribed lovastatin.
+Elevations in liver biochemistries over a 12-month period after lovastatin was prescribed were categorized into mild-moderate or severe elevations and into "Hy's Rule" based on published criteria.
+The incidence of mild-moderate elevations and severe elevations in liver biochemistries in cohort 1 were 6.6% and 0%, respectively.
+Compared with cohort 2, individuals in cohort 1 had higher incidence of mild-moderate elevations (6.6% versus 3%; P = 0.03) but not severe elevations (0% versus 0.3%; P = 0.9).
+Compared with cohort 3, patients in cohort 1 had similar mild-moderate elevations (6.6% versus 11%; P = 0.2) but lower severe elevations (0% versus 5.5%; P < 0.01).
+No one in cohorts 1 or 2 developed elevations meeting Hy's Rule, whereas 3.5% of the patients in cohort 3 exhibited such elevations (P < 0.05 versus cohort 1 or cohort 2).
+Significant hepatotoxicity from lovastatin was very infrequent in this study, and individuals with elevated baseline liver enzyme levels did not have higher frequency of lovastatin hepatotoxicity than those with normal liver enzyme levels.

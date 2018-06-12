@@ -1,0 +1,26 @@
+Title 
+Lancet
+
+Article Title 
+Effect of prophylactic amiodarone on mortality after acute myocardial infarction and in congestive heart failure: meta-analysis of individual data from 6500 patients in randomised trials. Amiodarone Trials Meta-Analysis Investigators.
+Abstract Text 
+There have been 13 randomised controlled trials of prophylactic amiodarone in patients with recent myocardial infarction (MI) or congestive heart failure (CHF).
+None of these was powered to detect a mortality reduction of about 20%.
+We undertook a meta-analysis, based on data from individual patients, to provide a more sensitive and accurate assessment of the benefits and risks of prophylactic amiodarone.
+Individual data from the studies were abstracted according to a predefined protocol.
+The summary odds ratios were calculated according to standard methods.
+There were eight post-MI and five CHF trials; nine trials were double-blind and placebo-controlled, and four compared amiodarone with usual care.
+6553 patients were randomly assigned treatment, of which 78% were in post-MI trials and 22% in CHF trials.
+89% had had previous MI.
+The mean left-ventricular ejection fraction was 31%, and median frequency of ventricular premature depolarisation 18 per h.
+Total mortality was reduced by 13% (odds ratio 0.87 [95% CI 0.78-0.99],
+p = 0.030) based on classic fixed-effects meta-analysis and by 15% (0.85 [0.71-1.02],
+p = 0.081) with the more conservative random-effects approach.
+Arrhythmic/sudden death was reduced by 29% (0.71 [0.59-0.85],
+p = 0.0003).
+There was no effect on non-arrhythmic deaths (1.02 [0.87-1.19],
+p = 0.84).
+There was no difference in treatment effect between post-MI and CHF studies.
+The risk of arrhythmic/sudden death in control-group patients was higher in CHF than in post-MI studies (10.7 vs 4.1%), and the best single predictor of risk of arrhythmic/sudden death among all patients was symptomatic CHF.
+The excess (amiodarone minus control) risk of pulmonary toxicity was 1% per year.
+Prophylactic amiodarone reduces the rate of arrhythmic/sudden death in high-risk patients with recent MI or CHF and this effect results in an overall reduction of 13% in total mortality.

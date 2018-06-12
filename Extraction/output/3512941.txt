@@ -1,0 +1,15 @@
+Title 
+The Laryngoscope
+
+Article Title 
+Chronic cough in infants and children.
+Abstract Text 
+Chronic cough is an important, sometimes frustrating problem, often encountered by the otolaryngologist-head and neck surgeon.
+Thirty-eight infants and children under age 16 with a normal chest roentgenogram were evaluated for chronic cough persisting for longer than 4 weeks.
+Specific therapy (rather than symptomatic treatment) of chronic cough lead to a resolution or control of the cough in 33 (87%).
+Cough-variant asthma was by far the most common cause of chronic cough, followed by sinusitis, aberrant innominate artery, psychogenic cough, and subglottic stenosis.
+In addition to a detailed history, physical examination, and chest roentgenogram, endoscopy, paranasal sinus roentgenograms, and pulmonary function studies with methacholine challenge testing were particularly effective for establishing a precise diagnosis.
+Chronic cough is best managed by determining the precise cause of the cough, then specifically treating the underlying disorder.
+Children with persistent cough and a normal chest roentgenogram should be referred promptly for evaluation by an otolaryngologist when the primary physician's initial efforts at diagnosis and treatment are unsuccessful.
+Endoscopy is under-utilized in practice and its importance is understated in the literature.
+It is particularly helpful in establishing a precise diagnosis in infants under 18 months of age.

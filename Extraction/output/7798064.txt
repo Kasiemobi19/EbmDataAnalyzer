@@ -1,0 +1,16 @@
+Title 
+The Journal of family practice
+
+Article Title 
+Prostate cancer screening: a decision analysis.
+Abstract Text 
+The issue of whether to screen men for prostate cancer is controversial.
+No randomized clinical trials have been completed to confirm the efficacy of screening for prostate cancer.
+We created a mathematical model of the clinical risks and benefits of screening for prostate cancer.
+A Markov decision-analytic model evaluated the outcomes of annually screening asymptomatic men for prostate cancer beginning at age 50 years.
+The screening and testing algorithm included the digital rectal examination, transrectal ultrasound, and prostate-specific antigen test.
+A sample of 10 male patients with no history of prostate disease were interviewed to assess their utilities (preferences) regarding the various adverse outcomes of prostate cancer treatment.
+The model indicated that no screening was preferred to screening when patients' utilities were considered (24.14 vs 23.47 quality-adjusted life years expected).
+The optimal decision was sensitive to the utilities of impotence and urethral stricture, the most common adverse outcomes for patients under the age of 65 years.
+When adverse outcomes of treatment were ignored, screening was favored (24.86 vs 24.22 years of life expectancy.
+When quality-of-life preferences of men are considered, the annual screening of asymptomatic patients for prostate cancer is not recommended.

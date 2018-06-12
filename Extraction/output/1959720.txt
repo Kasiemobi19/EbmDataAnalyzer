@@ -1,0 +1,13 @@
+Title 
+Family practice
+
+Article Title 
+Symptomatic effect of inhaled fenoterol in acute bronchitis: a placebo-controlled double-blind study.
+Abstract Text 
+The symptomatic effect of inhaled fenoterol, a beta 2-agonist, 0.2 mg 4 times daily for 7 days, was evaluated in 80 patients with acute bronchitis examined at the Chest Clinic, Department of Medicine, University Hospital of Tromsø.
+Seventy-three patients completed the trial.
+End-point FEV1 (% predicted) showed a mean increase of 5.1% in the fenoterol group and 0.5% in the placebo group (p = 0.006).
+The corresponding decrease in total symptom score after one week was 67% and 51%, respectively (p = 0.06).
+In a subgroup of 35 patients with either bronchial hyper-responsiveness, wheezes on auscultation or FEV1 less than 80% of predicted at entry, a statistically significant difference in reduction of total symptom score in favour of fenoterol was demonstrated on the second day of the trial.
+No difference was found in the 38 patients with normal lung findings.
+Fenoterol was useful when objective signs of bronchial involvement was present and may be applicable to the treatment of acute bronchitis.

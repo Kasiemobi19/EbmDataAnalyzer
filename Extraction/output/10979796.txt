@@ -1,0 +1,23 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+Alendronate for the treatment of osteoporosis in men.
+Abstract Text 
+Despite its association with disability, death, and increased medical costs, osteoporosis in men has been relatively neglected as a subject of study.
+There have been no large, controlled trials of treatment in men.
+In a two-year double-blind trial, we studied the effect of 10 mg of alendronate or placebo, given daily, on bone mineral density in 241 men (age, 31 to 87 years; mean, 63) with osteoporosis.
+Approximately one third had low serum free testosterone concentrations at base line; the rest had normal concentrations.
+Men with other secondary causes of osteoporosis were excluded.
+All the men received calcium and vitamin D supplements.
+The main outcome measures were the percent changes in lumbar-spine, hip, and total-body bone mineral density.
+The men who received alendronate had a mean (+/-SE) increase in bone mineral density of 7.1+/-0.3
+percent at the lumbar spine, 2.5+/-0.4
+percent at the femoral neck, and 2.0+/-0.2
+percent for the total body (P<0.001 for all comparisons with base line).
+In contrast, men who received placebo had an increase in lumbar-spine bone mineral density of 1.8+/-0.5 percent (P<0.001 for the comparison with base line) and no significant changes in femoral-neck or total-body bone mineral density.
+The increase in bone mineral density in the alendronate group was greater than that in the placebo group at all measurement sites (P<0.001).
+The incidence of vertebral fractures was lower in the alendronate group than in the placebo group (0.8 percent vs. 7.1 percent, P=0.02).
+Men in the placebo group had a 2.4-mm decrease in height, as compared with a decrease of 0.6 mm in the alendronate group (P=0.02).
+Alendronate was generally well tolerated.
+In men with osteoporosis, alendronate significantly increases spine, hip, and total-body bone mineral density and helps prevent vertebral fractures and decreases in height.

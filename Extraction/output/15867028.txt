@@ -1,0 +1,21 @@
+Title 
+Pediatrics
+
+Article Title 
+Cost-effectiveness of conjugate meningococcal vaccination strategies in the United States.
+Abstract Text 
+The US Food and Drug Administration approved a meningococcal conjugate A/C/Y/W-135 vaccine (MCV-4) for use in persons aged 11 to 55 years in January, 2005; licensure for use in younger age groups is expected in 2 to 4 years.
+To evaluate and compare the projected health and economic impact of MCV-4 vaccination of US adolescents, toddlers, and infants.
+Cost-effectiveness analysis from a societal perspective based on data from Active Bacterial Core Surveillance (ABCs) and other published and unpublished sources.
+Sensitivity analyses in which key input measures were varied over plausible ranges were performed.
+A hypothetical 2003 US population cohort of children 11 years of age and a 2003 US birth cohort.
+Hypothetical routine vaccination of adolescents (1 dose at 11 years of age), toddlers (1 dose at 1 year of age), and infants (3 doses at 2, 4, and 6 months of age).
+Each vaccination scenario was compared with a "no-vaccination" scenario.
+Meningococcal cases and deaths prevented, cost per case prevented, cost per life-year saved, and cost per quality-adjusted life-year saved.
+Routine MCV-4 vaccination of US adolescents (11 years of age) would prevent 270 meningococcal cases and 36 deaths in the vaccinated cohort over 22 years, a decrease of 46% in the expected burden of disease.
+Before program costs are counted, adolescent vaccination would reduce direct disease costs by $18 million and decrease productivity losses by $50 million.
+At a cost per vaccination (average public-private price per dose plus administration fees) of $82.50, adolescent vaccination would cost society $633000 per meningococcal case prevented and $121000 per life-year saved.
+Key variables influencing results were disease incidence, case-fatality ratio, and cost per vaccination.
+The cost-effectiveness of toddler vaccination is essentially equivalent to adolescent vaccination, whereas infant vaccination would be much less cost-effective.
+Routine MCV-4 vaccination of US children would reduce the burden of disease in vaccinated cohorts but at a relatively high net societal cost.
+The projected cost-effectiveness of adolescent vaccination approaches that of recently adopted childhood vaccines under conditions of above-average meningococcal disease incidence or at a lower cost per vaccination.

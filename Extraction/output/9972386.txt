@@ -1,0 +1,17 @@
+Title 
+The Annals of pharmacotherapy
+
+Article Title 
+Medication-induced headache: overview and systematic review of therapeutic approaches.
+Abstract Text 
+To review medication-induced headache (MIH) through a systematic evaluation of the literature regarding the pharmacologic management of this condition.
+To identify and evaluate all pharmacologic interventions for MIH, we conducted a qualitative systematic review of the English-language literature from 1966 to June 1998 using MEDLINE.
+The following search terms were used: chronic daily headache, transformed migraine, analgesic withdrawal headache, analgesic rebound headache, drug-associated headache, medication-induced headache, detoxification, and dihydroergotamine.
+In addition, a review of the references from relevant literature was also conducted to collect reports not identified in the MEDLINE search.
+Numerous therapies for acute management of MIH have been evaluated, although no rigorously conducted clinical trials were identified.
+Therapies evaluated include abrupt withdrawal of analgesics, initiation of dihydroergotamine, nonsteroidal antiinflammatory agents, methylergonovine, dihydroergotamine, sumatriptan, amitriptyline, dexamethasone, piracetam, prothipendyl, and valproate.
+Epidemiology, diagnosis, clinical features, pathophysiology, and long-term prognosis of therapy are discussed and therapeutic guidelines are offered.
+MIH is an underrecognized and difficult condition affecting headache-prone patients.
+The published literature concerning treatment of patients with MIH is scant and of poor quality, making it difficult for clinicians to decide on appropriate therapy.
+Recognition and treatment of MIH may lead to a long-term improvement in headache relief for many patients.
+It appears that complete withdrawal of the medications being overused is required for favorable long-term results.

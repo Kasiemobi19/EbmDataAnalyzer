@@ -1,0 +1,19 @@
+Title 
+Arthritis and rheumatism
+
+Article Title 
+Safety and efficacy of long-term intraarticular steroid injections in osteoarthritis of the knee: a randomized, double-blind, placebo-controlled trial.
+Abstract Text 
+To evaluate the safety and efficacy of long-term intraarticular (IA) steroid injections for knee pain related to osteoarthritis (OA).
+In a randomized, double-blind trial, 68 patients with OA of the knee received IA injections of triamcinolone acetonide 40 mg (34 patients) or saline (34 patients) into the study knee every 3 months for up to 2 years.
+The primary outcome variable was radiologic progression of joint space narrowing of the injected knee after 2 years.
+Measurements of minimum joint space width were performed by an automated computerized method on standardized fluoroscopically guided radiographs taken with the patient standing and with the knee in a semiflexed position.
+The clinical efficacy measure of primary interest was the pain subscale from the Western Ontario and McMaster Universities OA Index (WOMAC).
+Efficacy measures of secondary interest were the total score on the WOMAC, physician's global assessment, patient's global assessment, patient's assessment of pain, range of motion (ROM) of the affected knee, and 50-foot walking time.
+Clinical symptoms were assessed just before each injection.
+At the 1-year and 2-year followup evaluations, no difference was noted between the two treatment groups with respect to loss of joint space over time.
+The steroid-injected knees showed a trend toward greater symptom improvement, especially at 1 year, for the WOMAC pain subscale, night pain, and ROM values (P = 0.05) compared with the saline-injected knees.
+Using area under the curve analyses, knee pain and stiffness were significantly improved throughout the 2-year study by repeated injections of triamcinolone acetonide, but not saline (P < 0.05).
+Our findings support the long-term safety of IA steroid injections for patients with symptomatic knee OA.
+No deleterious effects of the long-term administration of IA steroids on the anatomical structure of the knee were noted.
+Moreover, long-term treatment of knee OA with repeated steroid injections appears to be clinically effective for the relief of symptoms of the disease.

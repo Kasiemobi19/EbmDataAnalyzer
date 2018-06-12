@@ -1,0 +1,20 @@
+Title 
+European journal of clinical pharmacology
+
+Article Title 
+Comparative efficacy of hamamelis distillate and hydrocortisone cream in atopic eczema.
+Abstract Text 
+In a double-blind, randomized, paired trial lasting 14 days in 72 patients with moderately severe atopic eczema, hamamelis distillate cream (5.35 g hamamelis distillate with 0.64 mg ketone/100 g) was compared with the corresponding drug-free vehicle and 0.5% hydrocortisone cream, and reductions of the basic criteria of severe atopic eczema (delta values of the sum scores), i.e. itching, erythema and scaling, were evaluated.
+Thirty-six patients in each group were treated, which allowed the detection of a 10% difference between verum and control (confirmatory study).
+Effects were compared using Wilcoxon's test.
+The mean sum scores of the basic criteria of the test areas were 5.3-5.5.
+All treatment regimens significantly reduced itching, erythema and scaling after 1 week.
+Hydrocortisone proved superior to hamamelis distillate.
+The basic criteria scores decreased by 2.7 and 1.6, respectively.
+The delta values of the minor criteria and the global rating of efficacy were also used to indicate the difference between these preparations.
+Hamamelis distillate cream, however, did not differ from the vehicle.
+Mean delta values of basic criteria were 1.8 and 2.0, respectively.
+All preparations were well tolerated.
+Unwanted cutaneous reactions occurred in six patients, although due to their inflammatory nature and their confinement to vehicle-treated patients, they may not represent true adverse effects but rather a lack of efficacy.
+The results prove the superiority of low-dose hydrocortisone cream over hamamelis distillate cream, and the therapeutic outcome following this preparation was no better than following the base preparation.
+The mild, yet unmistakable anti-inflammatory effect of hamamelis cream in experimental models of inflammatory skin disease was thus not reflected by an efficacy in patients with atopic eczema greater than that obtained from the base preparation.

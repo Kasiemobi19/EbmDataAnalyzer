@@ -1,0 +1,20 @@
+Title 
+The Annals of pharmacotherapy
+
+Article Title 
+Cetirizine versus hydroxyzine and placebo in chronic idiopathic urticaria.
+Abstract Text 
+To compare the safety and efficacy of cetirizine with that of hydroxyzine and placebo in the treatment of chronic idiopathic urticaria.
+A 4-week multicenter, randomized, double-blind, double-dummy, placebo-controlled safety and efficacy study.
+Patients were treated in a variety of allergy practice settings.
+The study population consisted of 188 patients who were at least 12 years of age, with symptomatic chronic idiopathic urticaria that had occurred episodically for at least 6 weeks.
+Patients were given either cetirizine 10 mg once daily, hydroxyzine 25 mg tid, or placebo for 4 weeks.
+Patients and investigators used a 4-point scale to evaluate symptoms of urticaria and adverse effects of treatment.
+Ratings were compared among those taking cetirizine, hydroxyzine, or placebo.
+After 1 day of treatment, patients randomized to receive cetirizine 10 mg/d exhibited a reduction in the number of episodes of urticaria (and a reduction in pruritus) compared with patients who received hydroxyzine 25 mg tid and patients who received placebo (p = 0.002).
+The number of urticarial episodes in patients treated with hydroxyzine did not reach significance until day 2 (p = 0.001).
+Compared with patients who received placebo, patients who received cetirizine and those who received hydroxyzine showed reductions during weeks 1, 2, and 3 and at end-point analysis in the number and size of lesions and in the severity of pruritus (p < 0.04).
+Patient and physician evaluations at the end of week 4 revealed an improvement in urticarial symptoms for the hydroxyzine and cetirizine groups compared with the placebo group (p < 0.001).
+Four patients in the hydroxyzine group, 1 patient in the cetirizine group, and 1 patient in the placebo group discontinued the study because of sedation.
+No patient withdrew because of lack of efficacy.
+Cetirizine 10 mg once daily was equivalent to hydroxyzine 25 mg tid in controlling the symptoms of patients with chronic urticaria, as assessed by patient and investigator evaluations.

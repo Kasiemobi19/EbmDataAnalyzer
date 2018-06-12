@@ -1,0 +1,25 @@
+Title 
+International journal of obesity (2005)
+
+Article Title 
+Early determinants of overweight at 4.5 years in a population-based longitudinal study.
+Abstract Text 
+The roots of the obesity epidemic need to be traced back as early in life as possible in order to develop effective means for preventing obesity and its health consequences in the future.
+The aim of this paper is to examine a broad range of factors that may simultaneously contribute to childhood overweight in a population-based cohort of children followed from birth to 4.5 years, to determine which factors exert the most influence in early life.
+The analyses were performed using data from the Quebec Longitudinal Study of Child Development 1998-2002 (QLSCD).
+The study follows a representative sample (n=2103) of children born in 1998 in the Canadian province of Quebec.
+Measured height and weight were available for 1550 children aged 4.5 years.
+At 4.5 years, BMI was analyzed using the US CDC sex- and age-specific growth charts.
+In order to study children at their highest weights at various ages, odds ratios were presented for high birth weight, weight-for-stature at or above the 95th percentile at 5 months, and BMI at or above the 95th percentile at 4.5 years.
+Monthly weight gain between birth and five months has been analyzed.
+Children were also evaluated by the Z-score obtained from the standardized weight divided by height.
+Factors potentially related to children's weight include sex, gestational age and birth rank, breastfeeding, mothers' smoking status during pregnancy, family type at child's birth, and family income before pregnancy and when the children were 5 months and 4.5 years old.
+Other parental factors such as height and overweight/obesity (based on BMI) and other maternal factors (age, education, immigrant status) were also part of the analysis.
+Being in the highest quintiles of weight gain between birth and 5 months, as well as maternal smoking during pregnancy, almost double the odds of being overweight at 4.5 years.
+Parental overweight or obesity also increased the odds of being overweight at this age, as well as being raised in middle-income or in poor families.
+A greater proportion of children born to nonsmoking mothers with higher weights (more than 4000 g) were overweight at 4.5 years, the percentage being greatest for those in the highest weight-gain categories from birth to 5 months.
+The pattern was different for children born to smoking mothers.
+The greatest proportion of 4.5-year-old overweight children was seen for children born in the normal weight-range category (3000-4000 g) who were in the highest quintiles of weight gain from birth to 5 months, and for children with high birth weights (more than 4000 g) who were in the lowest quintiles of birth-to-5-months weight gain.
+Children who were overweight at 4.5 years and who had been born to smoking mothers started life with a birth weight around that for the population means, but they gained more weight in the first 5 months of life than did the children of nonsmoking mothers.
+This study indicates that behavioral and social factors exert critical influences on the onset of childhood overweight in preschool years.
+From a population-health perspective, interventions aimed at preventing childhood obesity would do well to target smoking pregnant women, as well as nonsmoking pregnant women at risk for giving birth to high-birth-weight children, paying particular attention to rapid weight gain in the first months of life.

@@ -1,0 +1,23 @@
+Title 
+Cochrane database of systematic reviews (Online)
+
+Article Title 
+Beta2-agonists for acute bronchitis.
+Abstract Text 
+The optimal treatment for acute bronchitis is not clear.
+Because many patients with acute bronchitis have airflow limitation as well as cough, beta2-agonists may be useful.
+To determine whether beta2-agonists improve the symptoms of acute bronchitis in patients who do not have underlying pulmonary disease.
+The Cochrane Library (through August 2000), MEDLINE (1966 to 2000), EMBASE (1974 to 2000), and Conference Proceedings using "bronchodilator (exp)", "adrenergic beta-agonist (exp)", or "sympathomimetics (exp)" and "bronchitis" or "cough"; Science Citation Index for referenced publications; and letters to manufacturers of beta2-agonists.
+An updated search of the Cochrane Central Register of Controlled Trials (CENTRAL) (issue 3, 2003); MEDLINE (January 2000 to July 2003); EMBASE (January 2000 to July 2003) was run in July 2003.
+Trials in which patients (adults or children over two years of age) without known pulmonary disease who were diagnosed with acute bronchitis or acute cough without other cause were randomized to beta2-agonist versus placebo, no treatment, or alternative treatment.
+Three reviewers independently first selected outcomes and evaluated trial quality while blinded to study results, and then extracted data.
+Trials in children and in adults were analyzed separately.
+Two trials in children (n = 109) with acute cough and no evidence of airway obstruction did not find any benefits from beta2-agonists.
+Combined data did not show a significant difference in daily cough scores between patients given oral beta2-agonists and those in the control groups.
+Five trials in adults (n = 418) with acute cough or acute bronchitis had mixed results, but overall summary statistics did not reveal any significant benefits from oral (three trials) nor inhaled (two trials) beta2-agonists.
+There were no significant differences in daily cough scores nor in the number of patients still coughing after seven days (control rate 73%; RR = 0.77, 95% CI 0.54-1.09).
+Subgroups of patients with evidence of airflow limitation had lower symptom scores if given beta2-agonists in one trial; and the trials that did note quicker resolution of cough in patients given beta2-agonists were those that had a higher proportion of patients with wheezing at baseline.
+Patients given beta2-agonists were more likely to report tremor, shakiness, or nervousness than patients in the control groups (for trials in children control rate 0%; RR 6.76, 95% CI 0.86 to 53.12, NNH 9, 95% CI 5 to 100; for trials in adults, control rate 11%; RR 7.94, 95% CI 1.17 to 53.94, NNH 2.3, 95% CI 2 to 3).
+There is no evidence to support using beta2-agonists in children with acute cough who do not have evidence of airflow obstruction.
+There is also little evidence that the routine use of beta2-agonists for adults with acute cough is helpful.
+These agents may reduce symptoms, including cough, in patients with evidence of airflow obstruction; but this potential benefit is not well-supported by the available data and must be weighed against the adverse effects associated with beta2-agonists.

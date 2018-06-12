@@ -1,0 +1,16 @@
+Title 
+The Western journal of medicine
+
+Article Title 
+Fatal isoniazid-induced hepatitis. Its risk during chemoprophylaxis.
+Abstract Text 
+Isoniazid chemoprophylaxis has long been known to be a highly effective means of preventing silent tuberculous infections from spreading to active disease.
+There has been much controversy, however, about the risk it carries for fatal hepatotoxicity.
+In this article I review the rate of fatal isoniazid-induced hepatitis during chemoprophylaxis that is done according to current monitoring guidelines.
+Information was obtained from a MEDLINE literature search and a survey of tuberculosis control officers in large metropolitan areas throughout the country.
+Data were included of patients who were monitored according to the American Thoracic Society's guidelines or who were treated after 1983 when the guidelines were published.
+The pooled results of the published studies showed no hepatotoxic deaths in 20,212 patients in whom prophylaxis was started.
+The unpublished data showed 2 deaths in 182,285 patients, for a combined rate of 0.001% (2 of 202,497).
+The death rate for those older than 35 years was estimated to be 0.002% (1 of 43,334).
+This rate is significantly lower than was previously estimated and should be used to reevaluate the benefit of preventive therapy for tuberculin-reactive patients older than 35.
+The risk of fatal isoniazid-induced hepatitis is negligible for all ages when patients are routinely monitored for liver toxicity.

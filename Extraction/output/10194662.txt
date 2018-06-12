@@ -1,0 +1,17 @@
+Title 
+Journal of cardiac failure
+
+Article Title 
+Heart failure disease management: a critical review.
+Abstract Text 
+Despite major advances in the pharmacotherapy of heart failure, hospitalization rates remain high, owing in large part to a multitude of psychosocial, behavioral, and financial factors that serve as barriers to effective compliance with prescribed treatment.
+To deal with these issues, many centers have adopted a multidisciplinary approach to heart failure disease management.
+A systematic review of the literature was conducted using the Medline database supplemented by reference lists from published articles.
+From 1983 to 1998, 16 studies describing multidisciplinary heart failure disease management programs were published in the English language literature.
+Of these, 10 were nonrandomized, observational studies and 6 were randomized clinical trials.
+All studies reported significant benefits in terms of reducing hospital utilization, and several studies reported improved quality of life, functional capacity, patient satisfaction, and compliance with diet and medications.
+In all studies in which a cost analysis was performed, heart failure disease management programs were found to be cost-effective.
+The limitations of the current data include concerns about the generalizability of published findings to the large and heterogenous population of patients with heart failure in the community, the feasibility of translating specific disease management programs into diverse practice environments, uncertainty about how to design and implement a maximally cost-effective heart failure disease management strategy, and how to best tailor the treatment program to the needs of each individual patient.
+The impact of heart failure disease management programs on survival is also unknown.
+Based on currently available data, heart failure disease management programs appear to be a cost-effective approach to reducing morbidity and enhancing quality of life in selected patients with heart failure.
+However, additional study is needed involving larger and more diverse populations to define the optimal approach to heart failure disease management.

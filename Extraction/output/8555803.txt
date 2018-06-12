@@ -1,0 +1,19 @@
+Title 
+BMJ (Clinical research ed.)
+
+Article Title 
+Comparison of therapeutic effects and mortality data of levodopa and levodopa combined with selegiline in patients with early, mild Parkinson's disease. Parkinson's Disease Research Group of the United Kingdom.
+Abstract Text 
+To compare effectiveness of levodopa and levodopa combined with selegiline in treating early, mild Parkinson's disease.
+Open, long term, prospective randomised trial.
+93 hospitals throughout United Kingdom.
+520 patients with early Parkinson's disease who were not receiving dopaminergic treatment.
+Treatment with levodopa and dopa decarboxylase inhibitor (arm 1) or levodopa and decarboxylase inhibitor in combination with selegiline (arm 2).
+Assessments of serial disability, frequency and severity of adverse events, and deaths from all causes.
+After average of 5-6 years' follow up, mortality ratio in arm 2 compared with arm 1 was 1.57 (95% confidence interval 1.09 to 2.30), and difference in survival between the two arms was significant (log rank test, P = 0.015).
+Hazard ratio adjusted for age and sex was 1.49 (1.02 to 2.16), and after adjustment for other baseline factors it increased to 1.57 (1.07 to 2.31).
+Patients in arm 1 had slightly worse disability scores than those in arm 2, but differences were not significant.
+Functionally disabling peak dose dyskinesias and on/off fluctuations were more frequent in arm 2 than arm 1.
+During the trial the dose of levodopa required to produce optimum motor control steadily increased in arm 1 (median daily dose 375 mg at 1 year and 625 mg at 4 years), but median dose in arm 2 did not change (375 mg).
+Levodopa in combination with selegiline seemed to confer no clinical benefit over levodopa alone in treating early, mild Parkinson's disease.
+Moreover mortality was significantly higher with combination treatment, casting doubts on its chronic use in Parkinson's disease.

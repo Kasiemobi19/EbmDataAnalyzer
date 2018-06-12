@@ -1,0 +1,25 @@
+Title 
+Cochrane database of systematic reviews (Online)
+
+Article Title 
+Holding chambers versus nebulisers for beta-agonist treatment of acute asthma.
+Abstract Text 
+In acute asthma inhaled beta-agonists are often administered to relieve bronchospasm by wet nebulisation, but some have argued that metered-dose inhalers with a holding chamber (spacer) can be equally effective.
+In the community setting nebulisers are more expensive, require a power source and need regular maintenance.
+There is controversy as to whether wet nebulisers are better than metered dose inhalers with holding chambers to deliver beta2-agonist medications for acute asthma.
+Comparisons of hospital and home use are also of interest.
+The objective of this review was to assess the effects of holding chambers compared to nebulisers for the delivery of beta2-agonists for acute asthma.
+We searched the Cochrane Airways Group trials register and the Cochrane Controlled Trials Register.
+Randomised trials in adults and children (from two years of age) with asthma, where holding chamber beta2-agonist delivery was compared with wet nebulisation.
+Two reviewers independently applied study inclusion criteria (one reviewer for the first version of the review), extracted the data and assessed trial quality.
+Missing data were obtained from the authors or estimated.
+This review has been updated in 2001 to include 4 new trials and has now analysed 880 children and 444 adults included in 21 trials.
+Method of delivery of beta2-agonist did not appear to affect hospital admission rates.
+In adults, the relative risk of admission for holding chamber versus nebuliser was 0.88 (95% confidence interval 0.56 to 1.38).
+The relative risk for children was 0.65 (95% confidence interval 0.4 to 1.06).
+One study in children found a significantly shorter length of stay in the emergency department when the holding chamber was used, with a weighted mean difference of -0.62 hours, 95% confidence interval -0.84 to -0.40 hours.
+Adults' length of stay in the emergency department was similar for the two delivery methods.
+Peak flow and forced expiratory volume were also similar for the two delivery methods.
+Pulse rate was lower for holding chamber in children, weighted mean difference -7.8% baseline (95% confidence interval -10.2 to -5.3).
+Metered-dose inhalers with holding chamber produced outcomes that were at least equivalent to nebuliser delivery.
+Holding chambers may have some advantages compared to nebulisers for children with acute asthma.

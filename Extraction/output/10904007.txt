@@ -1,0 +1,17 @@
+Title 
+Hypertension
+
+Article Title 
+Differentiated long-term effects of intentional weight loss on diabetes and hypertension.
+Abstract Text 
+The beneficial effects of weight loss in the obese have been widely accepted.
+Still, there is a lack of controlled studies displaying large maintained weight losses over long periods (>4 years).
+We wanted to examine the results of long-standing intentional weight loss on the development of diabetes and hypertension in severely obese individuals over an 8-year period.
+In the ongoing prospective Swedish Obese Subjects (SOS) study, 346 patients awaiting gastric surgery were matched with 346 obese control subjects on 18 variables by a computerized matching program.
+The controls were drawn from a registry consisting of 1508 obese potential controls examined at primary health care centers in Sweden.
+Of the 692 selected patients (body mass index 41.2+/-4.7 kg/m(2) [mean+/-SD]), 483 (70%) were followed for 8 years.
+No significant weight changes occurred in the obese control group over 8 years.
+Gastric surgery resulted in a maximum weight loss of -31.1+/-13.6 kg after 1 year.
+After 8 years, the maintained weight loss was still 20.1+/-15.7 kg (16.3+/-12.3%).
+Whereas this weight reduction had a dramatic effect on the 8-year incidence of diabetes (odds ratio 0.16, 95% CI 0.07 to 0.36), it had no effect on the 8-year incidence of hypertension (odds ratio 1.01, 95% CI 0.61 to 1.67).
+A differentiated risk factor response was identified: a maintained weight reduction of 16% strongly counteracted the development of diabetes over 8 years but showed no long-term effect on the incidence of hypertension.

@@ -1,0 +1,27 @@
+Title 
+PLoS medicine
+
+Article Title 
+Analgesic therapy in postherpetic neuralgia: a quantitative systematic review.
+Abstract Text 
+Postherpetic neuralgia (PHN) is a complication of acute herpes zoster, which is emerging as a preferred clinical trial model for chronic neuropathic pain.
+Although there are published meta-analyses of analgesic therapy in PHN, and neuropathic pain in general, the evidence base has been substantially enhanced by the recent publication of several major trials.
+Therefore, we have conducted a systematic review and meta-analysis for both efficacy and adverse events of analgesic therapy for PHN.
+We systematically searched databases (MEDLINE 1966-2004, EMBASE 1988-2004, CINAHL 1982-2002, and PubMed [29 October 2004]) for trials of PHN.
+We also searched references of retrieved studies and review articles for further trials.
+We included trials that examined adult patients with PHN of greater duration than 3 mo, that were blinded, randomised, and had at least one measure of pain outcome.
+Dichotomous pain outcome data were extracted for 50% decrease in baseline pain using a hierarchy of pain/pain-relief measurement tools.
+Where available, dichotomous data were also collected for adverse events.
+Calculated estimates of efficacy included relative benefit and number needed to treat.
+Of 62 studies identified, 35 were randomised controlled trials.
+Of these, 31 were placebo controlled and suitable for meta-analysis, from which it was possible to extract dichotomous efficacy outcome data from 25.
+This meta-analysis revealed that there is evidence to support the use of the following orally administered therapies: tricyclic antidepressants, "strong" opioids, gabapentin, tramadol, and pregabalin.
+Topical therapies associated with efficacy were lidocaine 5% patch and capsaicin.
+Finally, a single study of spinal intrathecal administration of lidocaine and methyl prednisolone demonstrated efficacy, although this has yet to be replicated.
+Data suggest that the following therapies are not associated with efficacy in PHN: certain NMDA receptor antagonists (e.g., oral memantine, oral dextromethorphan, intravenous ketamine), codeine, ibuprofen, lorazepam, certain 5HT1 receptor agonists, and acyclovir.
+Topical administration of benzydamine, diclofenac/diethyl ether, and vincristine (iontophoresis) are similarly not associated with efficacy, nor are intrathecal administration of lidocaine alone or epidural administration of lidocaine and methylprednisolone, intravenous therapy with lidocaine, subcutaneous injection of Cronassial, or acupuncture.
+However, many of the trials that demonstrated a lack of efficacy represented comparatively low numbers of patient episodes or were single-dose studies, so it may be appropriate to regard such interventions as "not yet adequately tested" rather than demonstrating "no evidence of efficacy."
+Topical aspirin/diethyl ether has not been adequately tested.
+The evidence base supports the oral use of tricyclic antidepressants, certain opioids, and gabapentinoids in PHN.
+Topical therapy with lidocaine patches and capsaicin is similarly supported.
+Intrathecal administration of methylprednisolone appears to be associated with high efficacy, but its safety requires further evaluation.

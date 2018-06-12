@@ -1,0 +1,16 @@
+Title 
+BMJ (Clinical research ed.)
+
+Article Title 
+Physiotherapy exercises and back pain: a blinded review.
+Abstract Text 
+To determine the quality of randomised controlled trials of exercise therapy for back pain.
+Computer aided search of published papers and blinded assessment of the methods of studies.
+23 randomised controlled trials, of which 16 studied exercise therapy given by physiotherapists to individual patients with back pain.
+Other conservative treatments could be included.
+Score for quality of methods (based on four main categories: study population, interventions, measurement of effect, and data presentation and analysis) and main conclusion of author(s) with regard to exercise therapy.
+Only four studies scored more than 50 points (maximum 100), indicating that most were of poor quality.
+Six studies found that exercise was better than reference treatments and 10 reported it to be no better or worse than the reference treatment.
+Those reporting positive results tended to have higher methods scores (4/6 positive v 4/10 negative scored greater than or equal to 42).
+No conclusion can be drawn about whether exercise therapy is better than other conservative treatments for back pain or whether a specific type of exercise is more effective.
+Further trials are needed in which greater attention is paid to methods of study.

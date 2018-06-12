@@ -1,0 +1,20 @@
+Title 
+Journal of the American Society of Nephrology : JASN
+
+Article Title 
+Treatment of high-risk patients with diabetes: motivation and teaching intervention: a randomized, prospective 8-year follow-up study.
+Abstract Text 
+The aim of this study was to examine whether motivating patients to gain expertise and closely follow their risk parameters will attenuate the course of microvascular and cardiovascular sequelae of diabetes.
+A randomized, prospective study was conducted of 165 patients who had type 2 diabetes, hypertension, and hyperlipidemia and were referred for consultation to a diabetes clinic in an academic hospital.
+Patients were randomly allocated to standard consultation (SC) or to a patient participation (PP) program.
+Both groups were followed by their primary care physicians.
+The mean follow-up was 7.7 yr.
+The SC group attended eight annual consultations.
+The PP patients initiated on average one additional consultation per year.
+There were 80 cardiovascular events (eight deaths) in the SC group versus 47 events (five deaths) in the PP group (P = 0.001).
+The relative risk (RR) over 8 yr for a cardiovascular event in the intervention (PP) versus the control (SC) group was 0.65 (95% confidence interval, 0.89 to 0.41).
+There were 17 and eight cases of stroke in the SC and PP groups, respectively (P = 0.05).
+RR for stroke was 0.47 (95% confidence interval, 0.85 to 0.32).
+In the SC group, 14 patients developed overt nephropathy (four ESRD) versus seven (one ESRD) in the PP group (P = 0.05).
+Throughout the study period, BP, LDL cholesterol, and hemoglobin A1c were significantly lower in the PP than in the SC patients.
+Well informed and motivated patients were more successful in obtaining and maintaining good control of their risk factors, resulting in reduced cardiovascular risk and slower progression of microvascular disease.

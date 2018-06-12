@@ -1,0 +1,13 @@
+Title 
+Vaccine
+
+Article Title 
+Surgical prevention of otitis media.
+Abstract Text 
+Increasing concerns over drug-resistant bacteria mandate that alternative methods of treatment and prevention, including surgery, be considered to reduce antibiotic usage for acute otitis media (AOM).
+Meta-analysis of five randomized trials of tubes versus no surgery showed a mean absolute decrease in AOM incidence of 1.0 episode per child-year (95% CI, 0.4-1.6), with a relative decrease of 56%.
+Similarly, the prevalence of middle-ear effusion decreased by 115 days per child-year (95% CI, 11-220).
+Within several weeks of tube placement 79% of children had improved quality of life, 17% had trivial change, and 4% were worse.
+Systematic review of 134 articles revealed transient post-operative otorrhea in 16% of patients with tubes, and later in 26%; recurrent otorrhea occurred in 7.4% of patients and chronic otorrhea in 3.8% Adenoidectomy reduced AOM incidence by 0.32 episodes per child-year (95% CI, 0.03-0.61)
+for a 3-year period in one study (26% relative decrease), but the effect was only significant for children with prior tubes.
+Surgical therapy of otitis media offers significant benefits and is an effective prevention strategy in selected children.

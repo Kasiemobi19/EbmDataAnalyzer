@@ -1,0 +1,30 @@
+Title 
+Cochrane database of systematic reviews (Online)
+
+Article Title 
+Nicotine replacement therapy for smoking cessation.
+Abstract Text 
+The aim of nicotine replacement therapy (NRT) is to replace nicotine from cigarettes.
+This reduces withdrawal symptoms associated with smoking cessation thus helping resist the urge to smoke cigarettes.
+The aims of this review were:to determine the effectiveness of the different forms of NRT (chewing gum, transdermal patches, nasal spray, inhalers and tablets) in achieving abstinence from cigarettes, or a sustained reduction in amount smoked; to determine whether the effect is influenced by the clinical setting in which the smoker is recruited and treated, the dosage and form of the NRT used, or the intensity of additional advice and support offered to the smoker; to determine whether combinations of NRT are more effective than one type alone; to determine its effectiveness compared to other pharmacotherapies.
+We searched the Cochrane Tobacco Addiction Group trials register in March 2004.
+Randomized trials in which NRT was compared to placebo or to no treatment, or where different doses of NRT were compared.
+We excluded trials which did not report cessation rates, and those with follow up of less than six months.
+We extracted data in duplicate on the type of participants, the dose, duration and form of nicotine therapy, the outcome measures, method of randomization, and completeness of follow up.
+The main outcome measure was abstinence from smoking after at least six months of follow up.
+We used the most rigorous definition of abstinence for each trial, and biochemically validated rates if available.
+For each study we calculated summary odds ratios.
+Where appropriate, we performed meta-analysis using a Mantel-Haenszel fixed effect model.
+We identified 123 trials; 103 contributing to the primary comparison between NRT and a placebo or non-NRT control group.
+The odds ratio (OR) for abstinence with NRT compared to control was 1.77 (95% confidence intervals (CI): 1.66 to 1.88).
+The ORs for the different forms of NRT were 1.66 (95% CI: 1.52 to 1.81) for gum, 1.81 (95% CI: 1.63 to 2.02) for patches, 2.35 (95% CI: 1.63 to 3.38) for nasal spray, 2.14 (95% CI: 1.44 to 3.18) for inhaled nicotine and 2.05 (95% CI: 1.62 to 2.59) for nicotine sublingual tablet/lozenge.
+These odds were largely independent of the duration of therapy, the intensity of additional support provided or the setting in which the NRT was offered.
+In highly dependent smokers there was a significant benefit of 4 mg gum compared with 2 mg gum (OR 2.20, 95% CI: 1.85 to 3.25).
+There was weak evidence that combinations of forms of NRT are more effective.
+Higher doses of nicotine patch may produce small increases in quit rates.
+Only one study directly compared NRT to another pharmacotherapy.
+In this study quit rates with bupropion were higher than with nicotine patch or placebo.
+All of the commercially available forms of NRT (gum, transdermal patch, nasal spray, inhaler and sublingual tablets/lozenges) are effective as part of a strategy to promote smoking cessation.
+They increase the odds of quitting approximately 1.5 to 2 fold regardless of setting.
+The effectiveness of NRT appears to be largely independent of the intensity of additional support provided to the smoker.
+Provision of more intense levels of support, although beneficial in facilitating the likelihood of quitting, is not essential to the success of NRT.

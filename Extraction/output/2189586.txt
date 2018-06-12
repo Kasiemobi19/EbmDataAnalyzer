@@ -1,0 +1,14 @@
+Title 
+Bulletin of the World Health Organization
+
+Article Title 
+Mefloquine therapy for Plasmodium falciparum malaria in children under 5 years of age in Malawi: in vivo/in vitro efficacy and correlation of drug concentration with parasitological outcome.
+Abstract Text 
+The in vivo and in vitro response of Plasmodium falciparum to a single oral dose of mefloquine (25 mg/kg body weight (M25) or 15 mg/kg (M15] was studied in children under 5 years of age in Malawi.
+Of the children who received mefloquine, 35% vomited at least once, and 10% did not tolerate the drug because of vomiting.
+The therapy failure rates for the M25 group on day 7, 14, and 28 were 15%, 18%, and 42%, respectively, and these did not differ significantly from those for the M15 group (4%, 18%, and 59%).
+In contrast, 34 in vitro microtests (17 per group) showed schizont inhibition at less than or equal to 32 pmol mefloquine per test well.
+On day 7, the concentration of mefloquine in samples of blood was significantly lower in both the M25 and M15 groups for children who were parasitaemic on day 7 than in samples from those who were aparasitaemic.
+A positive blood smear on day 7 was strongly associated with a mefloquine concentration of less than 500 ng/ml blood on day 2 or day 7 (P less than 0.0003).
+Vomiting was associated with a low mefloquine concentration on day 2 but not day 7.
+These results suggest that mefloquine is effective against P. falciparum in Malawi but that for young children the therapy appears to be complicated by frequent vomiting.

@@ -1,0 +1,20 @@
+Title 
+Gut
+
+Article Title 
+Helicobacter pylori test and eradicate versus prompt endoscopy for management of dyspeptic patients: 6.7 year follow up of a randomised trial.
+Abstract Text 
+Dyspepsia is a chronic disease with significant impact on the use of health care resources.
+A management strategy based on Helicobacter pylori testing has been recommended but the long term effect is unknown.
+To investigate the long term effect of a test and treat strategy compared with prompt endoscopy for management of dyspeptic patients in primary care.
+A total of 500 patients presenting in primary care with dyspepsia were randomised to management by H pylori testing plus eradication therapy (n = 250) or by endoscopy (n = 250).
+Results of 12 month follow up have previously been presented.
+Symptoms, quality of life, and patient satisfaction were recorded during a three month period, a median 6.7 years after randomisation (range 6.1-7.3 years).
+Number of endoscopies, antisecretory medication, H pylori treatments, and hospital visits were recorded from health care databases for the entire follow up period.
+Median age was 45 years; 28% were H pylori infected.
+Use of resources was registered in all 500 patients (3084 person years) of whom 312 completed diaries.
+We found no difference in symptoms between the two groups.
+Median proportion of days without symptoms was 0.52 (interquartile range 0.10-0.88) in the test and eradicate group versus 0.64 (0.14-0.90) in the prompt endoscopy group (p = 0.27) (mean difference 0.05 (95% confidence interval (CI) -0.03 to 0.14)).
+Compared with the prompt endoscopy group, the test and eradicate group underwent fewer endoscopies (mean difference 0.62 endoscopies/person (95% CI 0.38-0.86))
+and used less antisecretory medication (mean difference 102 defined daily doses/person (95% CI -1 to 205)).
+On a long term basis, a H pylori test and eradicate strategy is as efficient as prompt endoscopy for management of dyspeptic patients in primary care and reduces the use of endoscopy and antisecretory medication.

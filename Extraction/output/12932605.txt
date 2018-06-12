@@ -1,0 +1,15 @@
+Title 
+Journal of the American College of Cardiology
+
+Article Title 
+Diuretic use, progressive heart failure, and death in patients in the Studies Of Left Ventricular Dysfunction (SOLVD).
+Abstract Text 
+We sought to determine whether non-potassium-sparing diuretics (PSDs) in the absence of a PSD may result in progressive heart failure (HF).
+Angiotensin-converting enzyme (ACE) inhibitors incompletely suppress ACE activity in HF patients.
+Furthermore, non-PSDs are activators of aldosterone secretion.
+We reasoned that non-PSDs, in the absence of a PSD, might result in progressive HF.
+In the 6,797 patients in the Studies Of Left Ventricular Dysfunction (SOLVD), we compared the risk of hospitalization for, or death from, HF between those taking a PSD and those who were not, adjusting for known covariates.
+The risk of hospitalization from worsening HF in those taking a PSD relative to those taking only a non-PSD was 0.74 (95% confidence interval [CI] 0.55 to 0.99; p = 0.047).
+The relative risk for cardiovascular death was 0.74 (95% CI 0.59 to 0.93; p = 0.011), for death from all causes 0.73 (95% CI 0.59 to 0.90; p = 0.004), and for hospitalization for, or death from, HF 0.75 (95% CI 0.58 to 0.97; p = 0.030).
+Compared with patients not taking any diuretic, the risk of hospitalization or death due to worsening HF in patients taking non-PSDs alone was significantly increased (risk ratio [RR] = 1.31, 95% CI 1.09 to 1.57; p = 0.0004); this was not observed in patients taking PSDs with or without a non-PSD (RR = 0.99, 95% CI 0.76 to 1.30; p = 0.95).
+The use of PSDs in HF patients is associated with a reduced risk of death from, or hospitalization for, progressive HF or all-cause or cardiovascular death, compared with patients taking only a non-PSD.

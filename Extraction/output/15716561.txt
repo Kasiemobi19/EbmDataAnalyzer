@@ -1,0 +1,15 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+Effect of expedited treatment of sex partners on recurrent or persistent gonorrhea or chlamydial infection.
+Abstract Text 
+Many sex partners of persons with gonorrhea or chlamydial infections are not treated, which leads to frequent reinfections and further transmission.
+We randomly assigned women and heterosexual men with gonorrhea or chlamydial infection to have their partners receive expedited treatment or standard referral.
+Patients in the expedited-treatment group were offered medication to give to their sex partners, or if they preferred, study staff members contacted partners and provided them with medication without a clinical examination.
+Patients assigned to standard partner referral were advised to refer their partners for treatment and were offered assistance notifying partners.
+The primary outcome was persistent or recurrent gonorrhea or chlamydial infection in patients 3 to 19 weeks after treatment.
+Persistent or recurrent gonorrhea or chlamydial infection occurred in 121 of 931 patients (13 percent) assigned to standard partner referral and 92 of 929 (10 percent) assigned to expedited treatment of sexual partners (relative risk, 0.76; 95 percent confidence interval, 0.59 to 0.98).
+Expedited treatment was more effective than standard referral of partners in reducing persistent or recurrent infection among patients with gonorrhea (3 percent vs. 11 percent, P=0.01) than in those with chlamydial infection (11 percent vs. 13 percent, P=0.17) (P=0.05 for the comparison of treatment effects) and remained independently associated with a reduced risk of persistent or recurrent infection after adjustment for other predictors of infection at follow-up (relative risk, 0.75; 95 percent confidence interval, 0.57 to 0.97).
+Patients assigned to expedited treatment of sexual partners were significantly more likely than those assigned to standard referral of partners to report that all of their partners were treated and significantly less likely to report having sex with an untreated partner.
+Expedited treatment of sex partners reduces the rates of persistent or recurrent gonorrhea or chlamydial infection.

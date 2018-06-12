@@ -1,0 +1,12 @@
+Title 
+Pediatrics
+
+Article Title 
+Hyperbilirubinemia in the breast-fed newborn: a controlled trial of four interventions.
+Abstract Text 
+A controlled clinical trial was conducted to compare the effect of four different interventions on hyperbilirubinemia in 125 full-term breast-fed infants.
+Of 1685 term infants who met the inclusion criteria, 126 (7.4%) had a serum bilirubin concentration > or = 291 mumol/L (17 mg/dL).
+When the bilirubin reached this level, babies were assigned at random to one of four interventions: (1) continue breast-feeding and observe; (2) discontinue breast-feeding, substitute formula; (3) discontinue breast-feeding, substitute formula and administer phototherapy; (4) continue breast-feeding, administer phototherapy.
+The serum bilirubin concentration reached 342 mumol/L (20 mg/dL) in 24% of infants in group 1, 19% in group 2, 3% in group 3, and 14% in group 4. When phototherapy was used, the decline in serum bilirubin was significantly larger and more rapid (compared with no phototherapy).
+In the majority of breast-fed infants whose serum bilirubin levels reach 291 mumol/L (17 mg/dL) the bilirubin will decline spontaneously and will not reach 342 mumol/L (20 mg/dL).
+If the infant is significantly jaundiced and a decision is made to intervene, parents can be given a number of options and can make an informed decision regarding which, if any, intervention they prefer.

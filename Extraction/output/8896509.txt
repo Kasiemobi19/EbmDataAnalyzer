@@ -1,0 +1,14 @@
+Title 
+The Journal of infectious diseases
+
+Article Title 
+Hydrogen peroxide-producing lactobacilli and acquisition of vaginal infections.
+Abstract Text 
+This cohort study of 182 women attending a sexually transmitted disease clinic evaluated the hypothesis that women colonized by lactobacilli have decreased acquisition of vaginal infections.
+During a 2-year follow-up, 50 women acquired bacterial vaginosis (BV), 25 acquired symptomatic vulvovaginal candidiasis (VVC), and 7 acquired vaginal trichomoniasis.
+By multivariate analysis, utilizing Cox proportional hazards modeling with time-dependent covariates, acquisition of BV was independently associated with lack of vaginal H2O2-producing lactobacilli (hazard ratio [HR] = 4.0, P < .001) or presence of only non-H2O2-producing lactobacilli (HR = 2.2, P = .02).
+Acquisition of BV was associated with having a new sex partner (HR = 2.5, P = .004)
+and with douching for hygiene (HR = 2.1, P = .05).
+Absence of lactobacilli did not increase acquisition of VVC.
+Trichomoniasis was associated only with having a new sex partner (HR = 4.7, P = .05).
+These results support the hypothesis that H2O2-producing vaginal lactobacilli protect against acquisition of BV but do not protect against VVC or vaginal trichomoniasis.

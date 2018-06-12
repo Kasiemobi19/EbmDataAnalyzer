@@ -1,0 +1,17 @@
+Title 
+Journal of the American Academy of Dermatology
+
+Article Title 
+Cimetidine therapy for warts: a placebo-controlled, double-blind study.
+Abstract Text 
+Cimetidine, an H2-receptor antagonist, has been used successfully to treat patients with mucocutaneous candidiasis, common variable immunodeficiency, herpes simplex, and herpes zoster because of its immunomodulatory effects.
+Recently, some trials have suggested that cimetidine may also be useful for the treatment of warts.
+The aim of the present study was to determine whether cimetidine is effective in the treatment of warts.
+Seventy patients with multiple warts were included in a placebo-controlled, double-blind study.
+Patients were randomly allocated to treatment groups equally.
+The groups received cimetidine, 25 to 40 mg/kg daily, or placebo for 3 months.
+Patients were examined at monthly intervals.
+At the end of the therapy, 28 cimetidine-treated and 26 placebo-treated patients were examined to determine the efficacy of treatment.
+Cure rates obtained were 32% (9 of 28) in the cimetidine-treated group and 30.7% (8 of 26) in the placebo-treated group.
+No significant difference was found between cimetidine and placebo in effectiveness (p = 0.85).
+Our results show that cimetidine is no more effective than placebo in the treatment of patients with common warts.

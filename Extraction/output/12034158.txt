@@ -1,0 +1,14 @@
+Title 
+European journal of heart failure : journal of the Working Group on Heart Failure of the European Society of Cardiology
+
+Article Title 
+Rationale and design of the carvedilol or metoprolol European trial in patients with chronic heart failure: COMET.
+Abstract Text 
+In large clinical trials both carvedilol and metoprolol have been shown to reduce mortality and morbidity in patients with chronic heart failure.
+Carvedilol is an adrenoceptor antagonist, which inhibits beta(1)-, beta(2)-, and alpha(1)-adrenergic receptors.
+Carvedilol has additional metabolic and antioxidant properties.
+Metoprolol is a selective antagonist of beta(1)-adrenergic receptors.
+The carvedilol or metoprolol European trial (COMET) is the first study to investigate whether beta-blocking agents with differing pharmacological profiles exert different effects on morbidity and mortality in patients with chronic heart failure.
+3029 patients from 15 different European countries were enrolled into COMET and will be followed until 1020 fatal events have been observed, unless the data and safety monitoring committee (DSMC) recommends early termination.
+The target dose for carvedilol is 25 mg bid and for metoprolol tartrate 50 mg bid.
+This manuscript outlines the rationale, design and possible outcomes of COMET.

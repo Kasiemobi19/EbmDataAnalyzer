@@ -1,0 +1,16 @@
+Title 
+Journal of clinical virology : the official publication of the Pan American Society for Clinical Virology
+
+Article Title 
+Detection of herpes simplex virus type 1, herpes simplex virus type 2 and varicella-zoster virus in skin lesions. Comparison of real-time PCR, nested PCR and virus isolation.
+Abstract Text 
+Herpes simplex virus type 1 (HSV-1), herpes simplex virus type 2 (HSV-2) and varicella-zoster virus (VZV) cause a wide range of signs and symptoms, varying from trivial mucocutaneous lesions to life-threatening infections, especially in immuno-suppressed patients.
+Since antiviral drugs are available, rapid and sensitive laboratory diagnosis of these virus infections is important.
+To set up and evaluate HSV-1, HSV-2 and VZV qualitative real-time PCR on the Lightcycler system and to compare the results with those of the 'in-house' nested PCR and virus isolation.
+110 consecutive samples from dermal or genital lesions from patients suspected of having HSV infections and another 110 samples from patients with suspected VZV infections were tested with real-time PCR, nested PCR and virus isolation.
+24 samples (22%) were positive for HSV-1 by virus isolation and nested PCR, whereas 26 (24%) were positive by real-time PCR.
+HSV-2 was detected in 28 samples (25%) by virus isolation, in 41 (37%) by nested PCR and in 40 (36%) by real-time PCR.
+VZV was isolated in 15 samples (14%) and VZV DNA was detected in 51 samples (46%) by nested PCR as well as by real-time PCR.
+Nucleic acid amplification increased the detection rate of HSV-2 and VZV DNA in particular compared to virus isolation.
+No significant difference in sensitivity was found between real-time PCR and nested PCR.
+Real-time PCR has the advantage of rapid amplification, a reduced risk for contamination and it is a suitable method for diagnosis of VZV and HSV in specimens from skin lesions.

@@ -1,0 +1,17 @@
+Title 
+Arthritis and rheumatism
+
+Article Title 
+Efficacy and safety of infliximab in patients with ankylosing spondylitis: results of a randomized, placebo-controlled trial (ASSERT).
+Abstract Text 
+The signs and symptoms of ankylosing spondylitis (AS) respond inadequately to nonsteroidal antiinflammatory drugs, corticosteroids, and disease-modifying antirheumatic drugs in quite a number of patients.
+Tumor necrosis factor inhibitors have demonstrated success in reducing AS disease activity in a limited number of clinical trials.
+The objective of this multicenter, randomized, placebo-controlled study was to evaluate the efficacy and safety of infliximab in patients with AS.
+Patients were randomly assigned to receive infusions of placebo or 5 mg/kg infliximab at weeks 0, 2, 6, 12, and 18. Efficacy was assessed using the ASsessment in Ankylosing Spondylitis (ASAS) International Working Group criteria, the Bath Ankylosing Spondylitis Disease Activity Index (BASDAI), night pain, patient's global assessment, the Bath Ankylosing Spondylitis Functional Index (BASFI), the Bath Ankylosing Spondylitis Metrology Index (BASMI), chest expansion, the Mander enthesis index, the total swollen joint index, the C-reactive protein level, and the Short Form 36 (SF-36) health survey questionnaire.
+The primary end point in this study was the proportion of patients with a 20% improvement response according to the ASAS International Working Group criteria (ASAS20 responders) at week 24.
+Of the 357 patients screened, 201 were assigned to receive 5 mg/kg infliximab and 78 were assigned to receive placebo.
+After 24 weeks, 61.2% of patients in the infliximab group were ASAS20 responders compared with 19.2% of patients in the placebo group (P < 0.001).
+Clinical benefit was observed in patients receiving infliximab as early as week 2 and was maintained over the 24-week study period.
+Patients receiving infliximab also showed significant improvements in the BASDAI, BASFI, BASMI, chest expansion, and physical component summary score of the SF-36.
+Adverse events were reported by 82.2% of patients receiving infliximab and by 72.0% of patients receiving placebo; however, most adverse events in both treatment groups were mild or moderate in severity.
+Infliximab was well tolerated and effective in a large cohort of patients with AS during a 24-week study period.

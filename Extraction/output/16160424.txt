@@ -1,0 +1,19 @@
+Title 
+Neurosurgery
+
+Article Title 
+Development of guidelines for idiopathic normal-pressure hydrocephalus: introduction.
+Abstract Text 
+There are no currently accepted evidence-based guidelines for the diagnosis and management of the normal-pressure hydrocephalus (NPH) patient.
+As a result, an independent study group was assembled to address this issue and determine the feasibility of developing standardized guidelines, which would be acceptable in the United States and abroad and would be based on the available scientific evidence.
+The guidelines were to encompass value of clinical presentation, value of supplementary diagnostic tests, surgical management, and outcome assessment.
+Initially, a series of 10 questions were formulated in the areas of pathophysiology, diagnosis, and treatment to obtain a consensus by panels of experts (see Acknowledgments) assembled in San Antonio, TX, in September 2000.
+This workshop provided significant insight into the difficulties in developing NPH guidelines, and a consensus was reached as to those questions involving expert opinion.
+Subsequently, evidentiary tables were developed on the basis of the available evidence.
+Only those studies with 20 or more idiopathic NPH (INPH) patients were included.
+Sensitivity, specificity, and positive and negative predictive values for INPH diagnostic criteria were assessed, and guidelines were developed on the basis of the available evidence.
+Recommendations for classification of INPH and additional studies were documented.
+The development of the guidelines was made difficult because systematic studies of INPH and patient numbers were few.
+It was decided to maintain the classification of NPH into two major categories, INPH and those of known cause (secondary NPH).
+Many studies "mixed" these classifications, and as a result, they could not be used in the evidentiary tables.
+Despite these problems, evidence-based guidelines were developed, and it is hoped that they will be useful in guiding clinical management of the INPH patient.

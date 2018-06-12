@@ -1,0 +1,22 @@
+Title 
+British journal of obstetrics and gynaecology
+
+Article Title 
+Randomized trial of amniotomy in labour versus the intention to leave membranes intact until the second stage.
+Abstract Text 
+To compare by randomized prospective clinical trial the outcome of labours which are managed with the intention to leave the membranes intact, compared with the practice of elective artificial rupture of the membranes (ARM) in early established labour.
+Prospective randomized controlled trial of low risk women admitted in spontaneous labour, with intact membranes.
+The labour ward of St. James's University Hospital, Leeds, UK.
+     
+      362 women in spontaneous labour with intact membranes and no evidence of fetal distress, between 37 and 42 weeks gestation.
+During the course of the trial it was found that some randomization cards could not be accounted for and a system of daily checks was instituted.
+The results were analysed for all recorded women (n = 362) and after institution of the more rigorous system (n = 120).
+The duration of each phase of labour, epidural rate, prevalence of an abnormal cardiotocograph (CTG) (assessed blind), method of delivery and neonatal outcome.
+178 of the 183 women (97%) in the ARM group had their membranes ruptured in early labour, and 83 (46%) of the 179 women allocated to non-intervention had ARM performed at some stage.
+A significant decrease in the duration of labour (mean 8.3, SD 4.1 h vs mean 9.7, SD 4.8 h, n = 156; P = 0.05) was found amongst primigravidae allocated to ARM when compared with non intervention.
+The duration of the second stage of labour was unaffected.
+In the ARM group the epidural rate was higher and labour was more often complicated by CTG abnormalities.
+There were no differences in the method of delivery, fetal condition at birth (cord blood lactate, Apgar score) or postpartum pyrexia between the ARM and non-intervention groups.
+The same trends were observed when analysis was confined to women entered into the trial after the system of rigour was instituted.
+Routine ARM results in labour that is slightly shorter than if the membranes are allowed to rupture spontaneously but more epidurals are used suggesting that labour is more painful.
+There are fewer fetal heart rate abnormalities if the membranes are left intact but amniotomy has no effect on fetal condition at birth.

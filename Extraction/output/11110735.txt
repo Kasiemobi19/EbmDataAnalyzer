@@ -1,0 +1,19 @@
+Title 
+BMJ (Clinical research ed.)
+
+Article Title 
+Randomised controlled trial of dual blockade of renin-angiotensin system in patients with hypertension, microalbuminuria, and non-insulin dependent diabetes: the candesartan and lisinopril microalbuminuria (CALM) study.
+Abstract Text 
+To assess and compare the effects of candesartan or lisinopril, or both, on blood pressure and urinary albumin excretion in patients with microalbuminuria, hypertension, and type 2 diabetes.
+Prospective, randomised, parallel group, double blind study with four week placebo run in period and 12 weeks' monotherapy with candesartan or lisinopril followed by 12 weeks' monotherapy or combination treatment.
+Tertiary hospitals and primary care centres in four countries (37 centres).
+199 patients aged 30-75 years.
+Candesartan 16 mg once daily, lisinopril 20 mg once daily.
+Blood pressure and urinary albumin:creatinine ratio.
+At 12 weeks mean (95% confidence interval) reductions in diastolic blood pressure were 9.5 mm Hg (7.7 mm Hg to 11.2 mm Hg, P<0.001) and 9.7 mm Hg (7.9 mm Hg to 11.5 mm Hg, P<0.001), respectively, and in urinary albumin:creatinine ratio were 30% (15% to 42%, P<0.001) and 46% (35% to 56%, P<0.001) for candesartan and lisinopril, respectively.
+At 24 weeks the mean reduction in diastolic blood pressure with combination treatment (16.3 mm Hg, 13.6 mm Hg to 18.9 mm Hg, P<0.
+001) was significantly greater than that with candesartan (10.4 mm Hg, 7.7 mm Hg to 13.1 mm Hg, P<0.001) or lisinopril (mean 10.7 mm Hg, 8.0 mm Hg to 13.5 mm Hg, P<0.001).
+Furthermore, the reduction in urinary albumin:creatinine ratio with combination treatment (50%, 36% to 61%, P<0.001) was greater than with candesartan (24%, 0% to 43%, P=0.05) and lisinopril (39%, 20% to 54%, P<0.001).
+All treatments were generally well tolerated.
+Candesartan 16 mg once daily is as effective as lisinopril 20 mg once daily in reducing blood pressure and microalbuminuria in hypertensive patients with type 2 diabetes.
+Combination treatment is well tolerated and more effective in reducing blood pressure.

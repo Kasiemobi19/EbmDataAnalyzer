@@ -1,0 +1,24 @@
+Title 
+Regional anesthesia and pain medicine
+
+Article Title 
+Gabapentin in postamputation phantom limb pain: a randomized, double-blind, placebo-controlled, cross-over study.
+Abstract Text 
+Severe phantom limb pain after surgical amputation affects 50% to 67% of patients and is difficult to treat.
+Gabapentin is effective in several syndromes of neuropathic pain.
+Therefore, we evaluated its analgesic efficacy in phantom limb pain.
+Patients attending a multidisciplinary pain clinic with phantom limb pain were enrolled into this randomized, double-blind, placebo-controlled, cross-over study.
+Other anticonvulsant therapy was discontinued.
+Each treatment was 6 weeks separated by a 1-week washout period.
+Codeine/paracetamol was allowed as rescue analgesia.
+The daily dose of gabapentin was titrated in increments of 300 mg to 2400 mg or the maximum tolerated dose.
+Patients were assessed at weekly intervals.
+The primary outcome measure was visual analog scale (VAS) pain intensity difference (PID) compared with baseline at the end of each treatment.
+Secondary measures were indices of sleep interference, depression (Hospital Anxiety and Depression [HAD] scale), and activities of daily living (Bartel Index).
+Nineteen eligible patients (mean age, 56 years; range, 24 to 68 years; 16 men) were randomized, of whom 14 completed both arms of the study.
+Both placebo and gabapentin treatments resulted in reduced VAS scores compared with baseline.
+PID was significantly greater than placebo for gabapentin therapy at the end of the treatment (3.2 +/- 2.1 v 1.6 +/- 0.7, P =.03).
+There were no significant differences between placebo and gabapentin therapy in terms of the number of tablets of rescue medication required, sleep interference, HAD scale, or Bartel Index.
+The medication was well tolerated with few reports of adverse effects.
+After 6 weeks, gabapentin monotherapy was better than placebo in relieving postamputation phantom limb pain.
+There were no significant differences in mood, sleep interference, or activities of daily living, but a type II error cannot be excluded for these variables.

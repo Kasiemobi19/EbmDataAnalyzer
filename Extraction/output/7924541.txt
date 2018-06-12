@@ -1,0 +1,29 @@
+Title 
+Chest
+
+Article Title 
+Nonpharmacologic therapy improves functional and emotional status in congestive heart failure.
+Abstract Text 
+To compare the effects of a multimodal nonpharmacologic intervention to digoxin and to placebo in patients with congestive heart failure receiving background therapy with angiotensin-converting enzyme inhibitors.
+Randomized, parallel assignment to three treatment groups of 20 patients with congestive heart failure (New York Heart Association Class II and III).
+Nonpharmacologic treatment program included the following: (1) graduated exercise training, three to five times per week; (2) structured cognitive therapy and stress management; and (3) dietary intervention aimed at salt reduction and weight reduction in the overweight.
+Digoxin was titrated to achieve a blood level between 0.8 and 2.0 ng/ml.
+Placebo and digoxin were administered in a randomized, double-blind fashion.
+Echocardiographic ejection fraction improved (p < 0.05) in the digitalis group (change = +4.4
++/- 6.5) compared with both placebo (change = -3.2
++/- 3.9) and nonpharmacologic therapy (change = -3.2
++/- 3.9).
+The nonpharmacologic treatment program was well tolerated by all patients and resulted in significant improvement (p < 0.05) in exercise tolerance (digoxin = +51 +/- 50 s, placebo = +91 +/- 76, nonpharmacologic therapy = +182 +/- 139), as well as Beck Depression Inventory score (digoxin = +1.2
++/- 4.4, placebo = +2.0
++/- 4.2, nonpharmacologic therapy = -5.0
++/- 4.2), Hamilton Scale scores of anxiety (digoxin = +3.0
++/- 6.8, placebo = +6.0
++/- 2.6, nondrug therapy = -5.2
++/- 5.4), and depression (digoxin = +1.0
++/- 4.9, placebo = +5.0
++/- 5.0, nonpharmacologic therapy = -6.6 +/- 10.1).
+In addition, weight loss was significantly greater with nonpharmacologic therapy (digoxin = +0.32
++/- 1.76 kg; placebo = -1.35
++/- 1.44 kg; nonpharmacologic therapy = -4.37 +/- 4.50 kg) compared with both digoxin and placebo.
+Nonpharmacologic therapy improved functional capacity, body weight, and mood state in patients with congestive heart failure.
+In contrast, digoxin improved ejection fraction without corresponding changes in exercise tolerance or quality of life.

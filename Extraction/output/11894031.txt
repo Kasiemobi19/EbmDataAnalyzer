@@ -1,0 +1,19 @@
+Title 
+Surgery
+
+Article Title 
+Closure of lacerations and incisions with octylcyanoacrylate: a multicenter randomized controlled trial.
+Abstract Text 
+Most lacerations and surgical incisions are closed with sutures or staples.
+Octylcyanoacrylate tissue adhesive (OCA) was recently approved for use in the United States.
+We compared the cosmetic appearance of lacerations and incisions repaired with OCA versus standard wound closure methods (SWC).
+A multicenter randomized clinical trial including patients with simple lacerations or surgical incisions was conducted at 10 clinical sites.
+Patients were randomly assigned to treatment with OCA or SWC.
+Follow-up was performed at 1 week and at 3 months to determine infection rates and cosmetic outcome.
+Eight hundred fourteen patients with 924 wounds (383 traumatic lacerations, 235 excisions of skin lesions or scar revisions, 208 minimally invasive surgeries, and 98 general surgical procedures) were enrolled.
+Groups were similar in baseline characteristics.
+Wound closure with OCA was faster than with SWC (2.9 vs 5.2 minutes, P <.001).
+At 1 week infection rates were similar (OCA, 2.1% vs SWC, 0.7%; P =.09) and fewer OCA wounds were erythematous (18% vs 36%, P <.001).
+There were no differences in wound dehiscence rates (OCA, 1.6% vs SWC, 0.9%; P =.35).
+At 3 months there was no difference in the percent of wounds with optimal appearance (OCA, 82% vs SWC, 83%; P =.67).
+Repair of traumatic lacerations and surgical incisions with OCA is faster than with SWC, and cosmetic outcome is similar at 3 months.

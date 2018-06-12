@@ -1,0 +1,15 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+Hypovitaminosis D in medical inpatients.
+Abstract Text 
+Vitamin D deficiency is a major risk factor for bone loss and fracture.
+Although hypovitaminosis D has been detected frequently in elderly and housebound people, the prevalence of vitamin D deficiency among patients hospitalized on a general medical service is unknown.
+We assessed vitamin D intake, ultraviolet-light exposure, and risk factors for hypovitaminosis D and measured serum 25-hydroxyvitamin D, parathyroid hormone, and ionized calcium in 290 consecutive patients on a general medical ward.
+A total of 164 patients (57 percent) were considered vitamin D-deficient (serum concentration of 25-hydroxyvitamin D, < or = 15 ng per milliliter), of whom 65 (22 percent) were considered severely vitamin D-deficient (serum concentration of 25-hydroxyvitamin D, <8 ng per milliliter).
+Serum 25-hydroxyvitamin D concentrations were related inversely to parathyroid hormone concentrations.
+Lower vitamin D intake, less exposure to ultraviolet light, anticonvulsant-drug therapy, renal dialysis, nephrotic syndrome, hypertension, diabetes mellitus, winter season, higher serum concentrations of parathyroid hormone and alkaline phosphatase, and lower serum concentrations of ionized calcium and albumin were significant univariate predictors of hypovitaminosis D. Sixty-nine percent of the patients who consumed less than the recommended daily allowance of vitamin D and 43 percent of the patients with vitamin D intakes above the recommended daily allowance were vitamin D-deficient.
+Inadequate vitamin D intake, winter season, and housebound status were independent predictors of hypovitaminosis D in a multivariate model.
+In a subgroup of 77 patients less than 65 years of age without known risk factors for hypovitaminosis D, the prevalence of vitamin D deficiency was 42 percent.
+Hypovitaminosis D is common in general medical inpatients, including those with vitamin D intakes exceeding the recommended daily allowance and those without apparent risk factors for vitamin D deficiency.

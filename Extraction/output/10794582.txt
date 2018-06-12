@@ -1,0 +1,13 @@
+Title 
+American family physician
+
+Article Title 
+Acute otitis media: part II. Treatment in an era of increasing antibiotic resistance.
+Abstract Text 
+Antibiotic resistance is increasing among the pathogens that commonly cause acute otitis media.
+This development may merit changes in the traditional antibiotic treatment of acute otitis media.
+Risk factors for resistant pathogens include recent antibiotic treatment of acute otitis media, children in day care facilities, wintertime infections and acute otitis media in children less than two years of age.
+Amoxicillin remains the antibiotic of first choice, although a higher dosage (80 mg per kg per day) may be indicated to ensure eradication of resistant Streptococcus pneumoniae.
+Oral cefuroxime or amoxicillin-clavulanate and intramuscular ceftriaxone are suggested second-line choices for treatment failure.
+Compliance with antibiotic regimens is enhanced by selecting agents that require less frequent dosing (such as one or two times a day) and by prescribing shorter (five days or less) treatment courses.
+Selective use of tympanocentesis if the patient does not respond to empiric therapy can help confirm the diagnosis and guide effective therapy.

@@ -1,0 +1,21 @@
+Title 
+Archives of neurology
+
+Article Title 
+Aspirin for the primary prevention of stroke and other major vascular events: meta-analysis and hypotheses.
+Abstract Text 
+Aspirin therapy reduces stroke by about 25% for persons with atherosclerotic vascular disease, but the effect in those without clinically apparent vascular disease is distinctly different.
+To define the effect of aspirin use on stroke and other major vascular events when given for primary prevention to persons without clinically recognized vascular disease.
+Systematic review of randomized clinical trials and large prospective observational cohort studies examining the relation between aspirin use and stroke in persons at low intrinsic risk.
+Studies were identified by a computerized search of the English-language literature.
+Five randomized trials of primary prevention included 52 251 participants randomized to aspirin doses ranging from 75 to 650 mg/d; the mean overall stroke rate was 0.3% per year during an average follow-up of 4.6 years.
+Meta-analysis revealed no significant effect on stroke (relative risk = 1.08; 95% confidence interval, 0.95-1.24)
+contrasting with a decrease in myocardial infarction (relative risk = 0.74; 95% confidence interval, 0.68-0.82).
+The lack of reduction of stroke by aspirin for primary prevention was incompatible with its protective effect against stroke in patients with manifest vascular disease (P = .001).
+Intracranial hemorrhage was increased by the regular use of aspirin (relative risk = 1.35;
+P = .03),
+similarly for both primary and secondary prevention.
+In 4 large observational studies, self-selected use of aspirin was consistently associated with higher rates of stroke.
+The effect of aspirin therapy on stroke differs between individuals based on the presence or absence of overt vascular disease, in contrast with the consistent reduction in myocardial infarction by aspirin therapy observed in all populations.
+We hypothesize that the effect of aspirin therapy on stroke for persons with major risk factors for vascular disease may be intermediate between a substantial decrease for those with manifest vascular disease and a possible small increase for healthy persons due to accentuated intracranial hemorrhage.
+When aspirin is given for primary prevention of vascular events, available data support using 75 to 81 mg/d.

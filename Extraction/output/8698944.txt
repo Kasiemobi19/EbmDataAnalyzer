@@ -1,0 +1,11 @@
+Title 
+Journal of consulting and clinical psychology
+
+Article Title 
+Hypnosis as an adjunct to cognitive-behavioral psychotherapy for obesity: a meta-analytic reappraisal.
+Abstract Text 
+I. Kirsch, G. Montgomery, and G. Sapirstein (1995) meta-analyzed 6 weight-loss studies comparing the efficacy of cognitive-behavior therapy (CBT) alone to CBT plus hypnotherapy and concluded that "the addition of hypnosis substantially enhanced treatment outcome" (p.214).
+Kirsch reported a mean effect size (expressed as d) of 1.96.
+After correcting several transcription and computational inaccuracies in the original meta-analysis, these 6 studies yield a smaller mean effect size (.26).
+Moreover, if 1 questionable study is removed from the analysis, the effect sizes become more homogeneous and the mean (.21) is no longer statistically significant.
+It is concluded that the addition of hypnosis to CBT for weight loss results in, at most, a small enhancement of treatment outcome.

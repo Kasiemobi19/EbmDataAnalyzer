@@ -1,0 +1,13 @@
+Title 
+Irish journal of medical science
+
+Article Title 
+The relationship of blood glucose and haemoglobin A1 levels in diabetic subjects.
+Abstract Text 
+Recommendations exist that fasting plasma glucose (FPG) levels can be substituted for glycosylated haemoglobin A1 (HbA1) in Type II diabetic subjects (DM II), which have potential important financial implications.
+The present study was designed to expand this examination and to include Type I DM (DMI) patients and random blood glucose (RBG) values.
+Data were obtained from 234 DM II and 104 DM I patients, over 3 years.
+Correlation of HbA1 with FPG levels in DM II yielded an r value of 0.61.
+Correlation of HbA1 with RBG and 2 h post prandial glucose measurements yielded r values of 0.59 and 0.51 respectively, p < 0.001.
+In DM I, similar correlations gave r values ranging between 0.27 and 0.38, p < 0.01-0.001.
+Thus while significant correlations exist between HbA1 and FPG and RBG measurements in both DM I and DM II, clinically applicable information on long-term diabetic control can only be achieved from glucose measurements in DM II but the correlation is not sufficiently tight to recommend substitution of plasma glucose for HbA1 determinations, despite the cost advantages.

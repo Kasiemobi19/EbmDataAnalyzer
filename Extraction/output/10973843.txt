@@ -1,0 +1,17 @@
+Title 
+Circulation
+
+Article Title 
+Response to antihypertensive therapy in older patients with sustained and nonsustained systolic hypertension. Systolic Hypertension in Europe (Syst-Eur) Trial Investigators.
+Abstract Text 
+The goal of the present study was to assess the effect of antihypertensive therapy on clinic (CBP) and ambulatory (ABP) blood pressures, on ECG voltages, and on the incidence of stroke and cardiovascular events in older patients with sustained and nonsustained systolic hypertension.
+Patients who were >/=60 years old, with systolic CBP of 160 to 219 mm Hg and diastolic CBP of <95 mm Hg, were randomized into the double-blind placebo-controlled Systolic Hypertension in Europe (Syst-Eur) Trial.
+Treatment consisted of nitrendipine, with the possible addition of enalapril, hydrochlorothiazide, or both.
+Patients enrolled in the Ambulatory Blood Pressure Monitoring Side Project were classified according to daytime systolic ABP into 1 of 3 subgroups: nonsustained hypertension (<140 mm Hg), mild sustained hypertension (140 to 159 mm Hg), and moderate sustained hypertension (>/=160 mm Hg).
+At baseline, patients with nonsustained hypertension had smaller ECG voltages (P<0.001)
+and, during follow-up, a lower incidence of stroke (P<0.05) and of cardiovascular complications (P=0.01)
+than other groups.
+Active treatment reduced ABP and CBP in patients with sustained hypertension but only CBP in patients with nonsustained hypertension (P<0.001).
+The influence of active treatment on ECG voltages (P<0.05) and on the incidence of stroke (P<0.05) and cardiovascular events (P=0.06) was more favorable than that of placebo only in patients with moderate sustained hypertension.
+Patients with sustained hypertension had higher ECG voltages and rates of cardiovascular complications than did patients with nonsustained hypertension.
+The favorable effects of active treatment on these outcomes were only statistically significant in patients with moderate sustained hypertension.

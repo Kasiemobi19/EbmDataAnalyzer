@@ -1,0 +1,25 @@
+Title 
+Cochrane database of systematic reviews (Online)
+
+Article Title 
+Psychosocial and psychological interventions for preventing postpartum depression.
+Abstract Text 
+The cause of postpartum depression remains unclear, with extensive research suggesting a multi-factorial aetiology.
+However, epidemiological studies and meta-analyses of predictive studies have consistently demonstrated the importance of psychosocial and psychological variables.
+While interventions based on these variables may be effective treatment strategies, theoretically they may also be used in pregnancy and the early postpartum period to prevent postpartum depression.
+Primary: to assess the effect of diverse psychosocial and psychological interventions compared with usual antepartum, intrapartum, or postpartum care to reduce the risk of developing postpartum depression.
+Secondary: to examine (1) the effectiveness of specific types of psychosocial and psychological interventions, (2) the effectiveness of individual versus group-based interventions, (3) the effects of intervention onset and duration, and (4) whether interventions are more effective in women selected with specific risk factors.
+We searched the Cochrane Pregnancy and Childbirth Group trials register (January 27 2004), the Cochrane Depression, Anxiety and Neurosis Group trials register (October 2003), the Cochrane Central Register of Controlled Trials (October 2003), MEDLINE (1966 to 2004), EMBASE (1980 to 2004) and CINAHL (1982 to 2004).
+We scanned secondary references and contacted experts in the field.
+All published and unpublished randomised controlled trials of acceptable quality comparing a psychosocial or psychological intervention with usual antenatal, intrapartum, or postpartum care.
+Both reviewers participated in the evaluation of methodological quality and data extraction.
+Additional information was sought from several trial researchers.
+Results are presented using relative risk for categorical data and weighted mean difference for continuous data.
+Fifteen trials, involving over 7600 women, were included.
+Overall, women who received a psychosocial intervention were equally likely to develop postpartum depression as those receiving standard care (relative risk (RR) 0.81, 95% confidence interval (CI) 0.65 to 1.02).
+One promising intervention appears to be the provision of intensive postpartum support provided by public health nurses or midwives (RR 0.68, 95% CI 0.55 to 0.84).
+Identifying mothers 'at-risk' assisted the prevention of postpartum depression (RR 0.67, 95% CI 0.51 to 0.89).
+Interventions with only a postnatal component appeared to be more beneficial (RR 0.76, 95% CI 0.58 to 0.98) than interventions that also incorporated an antenatal component.
+While individually-based interventions may be more effective (RR 0.76, 95% CI 0.59 to 1.00) than those that are group-based, women who received multiple-contact intervention were just as likely to experience postpartum depression as those who received a single-contact intervention.
+Overall psychosocial interventions do not reduce the numbers of women who develop postpartum depression.
+However, a promising intervention is the provision of intensive, professionally-based postpartum support.

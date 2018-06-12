@@ -1,0 +1,18 @@
+Title 
+Lancet
+
+Article Title 
+Adjusted-dose warfarin versus low-intensity, fixed-dose warfarin plus aspirin for high-risk patients with atrial fibrillation: Stroke Prevention in Atrial Fibrillation III randomised clinical trial.
+Abstract Text 
+Adjusted-dose warfarin is highly efficacious for prevention of ischaemic stroke in patients with atrial fibrillation (AF).
+However, this treatment carries a risk of bleeding and the need for frequent medical monitoring.
+We sought an alternative that would be safer and easier to administer to patients with AF who are at high-risk of thromboembolism.
+1044 patients with AF and with at least one thromboembolic risk factor (congestive heart failure or left ventricular fractional shortening < or = 25%, previous thromboembolism, systolic blood pressure of more than 160 mm Hg at study enrollment, or being a woman aged over 75 years) were randomly assigned either a combination of low-intensity, fixed-dose warfarin (international normalised ratio [INR] 1.2-1.5 for initial dose adjustment) and aspirin (325 mg/day) or adjusted-dose warfarin (INR 2.0-3.0).
+Drugs were given open-labelled.
+The mean INR during follow-up of patients taking combination therapy (n = 521) was 1.3, compared with 2.4 for those taking adjusted-dose warfarin (n = 523).
+During follow-up, 54% of INRs in patients taking combination therapy were 1.2-1.5 and 34% were less than 1.2.
+The trial was stopped after a mean, follow-up of 1.1 years when the rate of ischaemic stroke and systemic embolism (primary events) in patients given combination therapy (7.9% per year) was significantly higher than in those given adjusted-dose warfarin (1.9% per year) at an interim analysis (p < 0.0001), an absolute reduction of 6.0% per year (95% Cl 3.4, 8.6) by adjusted-dose warfarin.
+The annual rates of disabling stroke (5.6% vs 1.7%, p = 0.0007) and of primary event or vascular death (11.8% vs 6.4%, p = 0.002), were also higher with combination therapy.
+The rates of major bleeding were similar in both treatment groups.
+Low-intensity, fixed-dose warfarin plus aspirin in this regimen is insufficient for stroke prevention in patients with non-valvular AF at high-risk for thromboembolism; adjusted-dose warfarin (target INR 2.0-3.0)
+importantly reduces stroke for high-risk patients.

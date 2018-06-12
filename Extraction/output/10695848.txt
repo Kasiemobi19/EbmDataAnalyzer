@@ -1,0 +1,20 @@
+Title 
+Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine
+
+Article Title 
+The efficacy of magnetic resonance imaging in acute knee injuries.
+Abstract Text 
+To evaluate the clinical efficacy of magnetic resonance imaging (MRI) of the knee in acute injuries with indeterminate clinical findings, using arthroscopy as a gold standard.
+A prospective double-blind study was performed.
+All patients underwent MRI on a 1.5 T magnet using dual spin echo pulse sequences.
+This was followed by arthroscopy.
+Tertiary care referral center.
+Twenty-three patients with an average age of 26 years satisfied the study criteria.
+Patients had to have been seen by one of two orthopaedic surgeons within 6 weeks of sudden trauma to the knee complicated by a hemarthrosis, clinical assessment of which was equivocal.
+The respective sensitivity and specificity for MRI of the knee were 90% (18/20) and 67% (2/3) for detecting any anterior cruciate ligament injury, 50% (1/2) and 86% (18/21) for detecting medial meniscal tears, and 88% (7/8) and 73% (11/15) for detecting lateral meniscal tears.
+MRI also identified injuries that could not be assessed on arthroscopy, including 14 bone bruises, five posterior cruciate ligament tears, nine medial collateral ligament tears, and one lateral collateral ligament tear.
+The detection of composite injury requiring surgical intervention yielded a sensitivity of 100% (16/16) and a specificity of 71% (5/7).
+Prospective use of MRI evaluation of the knee could have prevented 22% (5/23) of diagnostic arthroscopic procedures.
+Equivocal clinical findings in patients with acute knee injury should lead to use of MRI in an appropriate clinical setting.
+To our knowledge a prospective study of the efficacy of MRI of the knee in this patient population has not been reported.
+In the presence of such inclusion criteria, the results of our study support the use of early MRI to guide further surgical management.

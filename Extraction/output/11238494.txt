@@ -1,0 +1,18 @@
+Title 
+The Journal of clinical endocrinology and metabolism
+
+Article Title 
+Effect of levothyroxine on cardiac function and structure in subclinical hypothyroidism: a double blind, placebo-controlled study.
+Abstract Text 
+Subclinical hypothyroidism (sHT) affects 5-15% of the general population; however, the need of lifelong L-T(4) therapy is still controversial.
+As myocardium is a main target of thyroid hormone action, we investigated whether sHT induces cardiovascular alterations.
+Twenty sHT patients were randomly assigned to receive placebo or L-T(4) therapy and were followed for 1 yr.
+Twenty sex- and age-matched normal subjects served as controls.
+Doppler echocardiography and videodensitometric analysis were performed in all subjects.
+Myocardium textural parameters were obtained as mean gray levels, which were then used to calculate the cyclic variation index (CVI; percent systolic/diastolic change in mean gray levels).
+Patients had a significantly higher isovolumic relaxation time (3.1 +/- 0.5 vs. 2.6 +/- 0.6; P < 0.03), peak A (0.77 +/- 0.16 vs. 0.56 +/- 0.13 m/s; P < 0.01), and preejection/ejection time (PEP/ET) ratio (0.72 +/- 0.05 vs. 0.57 +/- 0.06; P < 0.03) and a lower CVI (P < 0.0001) than controls.
+CVI was inversely related to TSH level (P < 0.0001) and PEP/ET ratio (P < 0.01).
+L-T(4)-treated patients showed a significant reduction of the PEP/ET ratio (P < 0.05), peak A (P < 0.05), and isovolumic relaxation time (P < 0.05) along with a normalization of CVI.
+Conversely, no changes were observed in the placebo-treated group.
+In conclusion, sHT affects both myocardial structure and contractility.
+These alterations may be reversed by L-T(4) therapy.

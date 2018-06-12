@@ -1,0 +1,20 @@
+Title 
+Academic radiology
+
+Article Title 
+Solitary pulmonary nodule diagnosis on CT: results of an observer study.
+Abstract Text 
+To investigate the performance of observers with different levels of experience in distinguishing between benign and malignant solitary pulmonary nodules (SPN) on CT, and to determine the effects on interpretation of three different conditions: image data alone, the addition of clinical data, and the addition of output from a computer-aided diagnosis (CAD) system.
+28 thin-section CT datasets of SPNs with proven diagnoses (15 malignant and 13 benign) were used to measure observer performance.
+Readers were categorized according to their experience and read the cases in random order.
+For each case readers were asked to assign a level of confidence on a scale from 0.0-1.0
+(0.0 benign, 1.0 malignant) for the diagnosis of the nodule.
+Each reader scored the cases based on review of image data alone (phase 1), then with limited clinical data (phase 2), and finally with CAD output (phase 3).
+To assess performance, multiple reader multiple case (MRMC) receiver operating characteristic (ROC) analysis was used.
+     
+      2 thoracic radiologists, 1 thoracic radiology fellow, 2 nonthoracic radiologists, and 3 radiology residents read the cases.
+The average area under the ROC curve for all readers (A(z)) at each stage was 0.68, 0.75, and 0.81, for image data alone, with clinical data, and with CAD output respectively.
+The difference in performance between phases (2 and 3) and (1 and 3) was significantly different (P = 0.018 and P = 0.020).
+However, the difference between phases (1 and 2) was not significantly different (P = 0.155).
+Diagnostic performance increased significantly with the addition of CAD output.
+With further validation CAD output may play a significant role in SPN management.

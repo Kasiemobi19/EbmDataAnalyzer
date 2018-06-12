@@ -1,0 +1,15 @@
+Title 
+Journal of the American College of Surgeons
+
+Article Title 
+The timing of elective colectomy in diverticulitis: a decision analysis.
+Abstract Text 
+Determining the optimal strategy for elective colectomy in patients with diverticular disease involves a balance of the morbidity, mortality, costs, and quality of life associated with both elective and expectant management.
+We used decision and cost analysis to simulate the clinical and economic outcomes after recovery from an episode of nonsurgically treated diverticulitis to determine the preferable management strategy.
+A Markov model was constructed to evaluate lifetime risks of death and colostomy, care costs, and quality of life associated with elective colectomy after subsequent episodes of diverticulitis.
+The analysis was from the payer's perspective, using hypothetical cohorts of 35- and 50-year-old patients who recovered from a nonsurgically treated diverticulitis episode.
+Probabilities of clinical events and costs for the base-case analysis were derived from a large cohort using a statewide administrative database and published estimates.
+Performing colectomy after the fourth rather than the second episode in patients older than 50 years resulted in 0.5% fewer deaths, 0.7% fewer colostomies, and saved US 1,035 dollars per patient.
+In younger patients, performing colectomy after the fourth episode compared with the first episode resulted in 0.1% fewer deaths, 2% fewer colostomies, and saved US 5,429 dollars per patient.
+Expectant management through three recurrent episodes with elective colectomy after the fourth episode was the dominant strategy across the full range of the variables tested in the sensitivity analysis compared with earlier intervention.
+This study suggests that expectant management is associated with lower rates of death and colostomy and is cost-saving for both younger and older patients.

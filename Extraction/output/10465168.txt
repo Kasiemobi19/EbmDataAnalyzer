@@ -1,0 +1,17 @@
+Title 
+Lancet
+
+Article Title 
+Dietary supplementation with n-3 polyunsaturated fatty acids and vitamin E after myocardial infarction: results of the GISSI-Prevenzione trial. Gruppo Italiano per lo Studio della Sopravvivenza nell'Infarto miocardico.
+Abstract Text 
+There is conflicting evidence on the benefits of foods rich in vitamin E (alpha-tocopherol), n-3 polyunsaturated fatty acids (PUFA), and their pharmacological substitutes.
+We investigated the effects of these substances as supplements in patients who had myocardial infarction.
+From October, 1993, to September, 1995, 11,324 patients surviving recent (< or = 3 months) myocardial infarction were randomly assigned supplements of n-3 PUFA (1 g daily, n=2836), vitamin E (300 mg daily, n=2830), both (n=2830), or none (control, n=2828) for 3.5 years.
+The primary combined efficacy endpoint was death, non-fatal myocardial infarction, and stroke.
+Intention-to-treat analyses were done according to a factorial design (two-way) and by treatment group (four-way).
+Treatment with n-3 PUFA, but not vitamin E, significantly lowered the risk of the primary endpoint (relative-risk decrease 10% [95% CI 1-18] by two-way analysis, 15% [2-26] by four-way analysis).
+Benefit was attributable to a decrease in the risk of death (14% [3-24] two-way, 20% [6-33] four-way) and cardiovascular death (17% [3-29] two-way, 30% [13-44] four-way).
+The effect of the combined treatment was similar to that for n-3 PUFA for the primary endpoint (14% [1-26]) and for fatal events (20% [5-33]).
+Dietary supplementation with n-3 PUFA led to a clinically important and statistically significant benefit.
+Vitamin E had no benefit.
+Its effects on fatal cardiovascular events require further exploration.

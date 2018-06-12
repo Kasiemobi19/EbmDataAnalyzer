@@ -1,0 +1,23 @@
+Title 
+Mayo Clinic proceedings. Mayo Clinic
+
+Article Title 
+Potential effects of fluticasone propionate on bone mineral density in patients with asthma: a 2-year randomized, double-blind, placebo-controlled trial.
+Abstract Text 
+To evaluate the effects of treatment with fluticasone propionate vs placebo on bone, hypothalamic-pituitary-adrenal (HPA) axis function, and the eyes in patients with asthma.
+This randomized, double-blind, placebo-controlled study of 160 patients with asthma who had minimal previous exposure to corticosteroids was conducted from July 1994 through June 1997.
+Patients received fluticasone at 88 microg twice daily, fluticasone at 440 microg twice daily, or placebo twice daily for 2 years.
+Bone mineral density (BMD) was evaluated every 6 months by lumbar spine, proximal femur, and total body scans.
+Measurements of HPA axis function and ophthalmic evaluations were conducted at similar intervals.
+Among the 3 groups, no significant differences were observed in BMD at week 104 (at any anatomical site).
+Mean percent change from baseline in the lumbar spine was less than 1% for all 3 groups.
+At all time points, HPA axis function was similar in the 88-microg fluticasone group compared with the placebo group.
+For mean change from baseline in corticotropin-stimulated peak cortisol (P = .003
+and P = .02
+at weeks 24 and 52, respectively) and area under the stimulated plasma cortisol vs time curve (P = .002
+and P = .02
+at weeks 24 and 52, respectively), statistically significant reductions from baseline were observed in the 440-microg fluticasone group compared with the placebo group.
+These reductions of 10% to 13% from baseline were not accompanied by other signs of systemic effect and did not persist with continued treatment (at weeks 76 and 104).
+No important ocular changes were observed.
+Long-term treatment with 88 microg of fluticasone twice daily was comparable to placebo in all skeletal, ophthalmic, and HPA axis function assessments.
+Treatment with fluticasone at 440 microg twice daily resulted in no significant effects on BMD and a statistically significant but not clinically important temporary reduction in cortisol production.

@@ -1,0 +1,15 @@
+Title 
+Annals of the rheumatic diseases
+
+Article Title 
+Aerobic walking or strengthening exercise for osteoarthritis of the knee? A systematic review.
+Abstract Text 
+To compare the efficacy of aerobic walking and home based quadriceps strengthening exercises in patients with knee osteoarthritis.
+The Medline, Pubmed, EMBASE, CINAHL, and PEDro databases and the Cochrane controlled trials register were searched for randomised controlled trials (RCTs) of subjects with knee osteoarthritis comparing aerobic walking or home based quadriceps strengthening exercise with a non-exercise control group.
+Methodological quality of retrieved RCTs was assessed.
+Outcome data were abstracted for pain and self reported disability and the effect size calculated for each outcome.
+RCTs were grouped according to exercise mode and the data pooled using both fixed and random effects models.
+35 RCTs were identified, 13 of which met inclusion criteria and provided data suitable for further analysis.
+Pooled effect sizes for pain were 0.52 for aerobic walking and 0.39 for quadriceps strengthening.
+For self reported disability, pooled effect sizes were 0.46 for aerobic walking and 0.32 for quadriceps strengthening.
+Both aerobic walking and home based quadriceps strengthening exercise reduce pain and disability from knee osteoarthritis but no difference between them was found on indirect comparison.

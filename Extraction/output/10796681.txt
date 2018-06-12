@@ -1,0 +1,19 @@
+Title 
+Cochrane database of systematic reviews (Online)
+
+Article Title 
+Antipyretic measures for treating fever in malaria.
+Abstract Text 
+Fever control measures are commonly used in treating malaria.
+Some researchers have suggested that fever reduction may prolong malaria illness.
+We aim to assess whether antipyretic measures in malaria influences outcome, measured by length of illness, parasitaemia, and occurrence of convulsions.
+We searched the Cochrane infectious Diseases Group Trial Register, the Cochrane Controlled Trial Register, and other electronic bibliographies, and contacted researchers and organizations working in this field.
+Randomised or pseudo-randomised trials which compared antipyretic drugs with mechanical or no antipyretic measures in patients with slide-confirmed malaria.
+Inclusion criteria were independently applied by two reviewers.
+We extracted data from selected trials using a standard form.
+Weighted mean difference with 95% confidence interval was calculated for continuous data.
+Three randomised trials with pooled 128 adults and children with falciparum malaria; all unblinded; allocation concealment unclear in two.
+Inconsistent pattern of fever clearance between trials, but malaria cure rate reported to be similar between intervention and control in all trials.
+Mean parasite clearance time reported to be similar in one trial but longer in paracetamol group in two trials: sample size in one trial was too small to conclude anything (n=7), while the other trial was difficult to evaluate.
+There is no statistically significant data to draw any conclusions.
+The clinical significance of preliminary report suggesting that antipyretic drugs prolong malaria parasitaemia was not confirmed.

@@ -1,0 +1,23 @@
+Title 
+Archives of general psychiatry
+
+Article Title 
+Relationship between antidepressant medication treatment and suicide in adolescents.
+Abstract Text 
+A decade of increasing antidepressant medication treatment for adolescents and corresponding declines in suicide rates raise the possibility that antidepressants have helped prevent youth suicide.
+To evaluate the relationship between regional changes in antidepressant medication treatment and suicide in adolescents from 1990 to 2000.
+Analysis of prescription data from the nation's largest pharmacy benefit management organization, national suicide mortality files, regional sociodemographic data from the 1990 and 2000 US Census, and regional data on physicians per capita.
+Youth aged 10 to 19 years who filled a prescription for antidepressant medication and same-aged completed suicides from 588 three-digit ZIP code regions in the United States.
+The relationship between regional change in antidepressant medication treatment and suicide rate stratified by sex, age group, regional median income, and regional racial composition.
+There was a significant adjusted negative relationship between regional change in antidepressant medication treatment and suicide during the study period.
+A 1% increase in adolescent use of antidepressants was associated with a decrease of 0.23 suicide per 100 000 adolescents per year (beta = -.023,
+t = -5.14,
+P<.001).
+In stratified adjusted analyses, significant inverse relationships were present among males (beta = -.032,
+t = -3.81,
+P<.001), youth aged 15 to 19 years (beta = -.029,
+t = -3.43,
+P<.001), and regions with lower family median incomes (beta = -.023,
+t = -3.73,
+P<.001).
+An inverse relationship between regional change in use of antidepressants and suicide raises the possibility of a role for using antidepressant treatment in youth suicide prevention efforts, especially for males, older adolescents, and adolescents who reside in lower-income regions.

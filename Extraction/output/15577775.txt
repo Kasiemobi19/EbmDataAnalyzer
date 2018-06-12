@@ -1,0 +1,17 @@
+Title 
+Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery
+
+Article Title 
+Can history and physical examination reliably diagnose pediatric obstructive sleep apnea/hypopnea syndrome? A systematic review of the literature.
+Abstract Text 
+Using an evidence-based technique, systematically review the literature to evaluate the accuracy of routine clinical history and physical examination in the diagnosis of obstructive sleep apnea/hypopnea syndrome (OSAHS) in the pediatric patient.
+The biomedical literature was systematically reviewed.
+Articles comparing the results of clinical evaluation to polysomnography (PSG) were selected.
+The level of evidence was assessed using established evidence-based medicine (EBM) guidelines.
+Twelve articles were identified using the search criteria.
+Eleven of 12 articles concluded that clinical evaluation is inaccurate in the diagnosis of OSAHS.
+The level of evidence was good to very good (Grade B/B+).
+Clinical history and physical examination are not reliable for diagnosing OSAHS compared with overnight PSG.
+Complicating the interpretation of this work is the lack of a validated PSG threshold of clinically significant disease.
+There is an urgent need for the development of adequate screening tests with validated clinical outcomes.
+B-3.

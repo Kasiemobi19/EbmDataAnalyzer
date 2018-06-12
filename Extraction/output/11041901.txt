@@ -1,0 +1,22 @@
+Title 
+Archives of internal medicine
+
+Article Title 
+New transient ischemic attack and stroke: outpatient management by primary care physicians.
+Abstract Text 
+Patients with transient ischemic attack (TIA) or stroke frequently first contact their primary care physician rather than seeking care at a hospital emergency department.
+The purpose of the present study was to identify a group of patients seen by primary care physicians in an office setting for a first-ever TIA or stroke and characterize their evaluation and management.
+Practice audit based on retrospective, structured medical record abstraction from 27 primary care medical practices in 2 geographically separate communities in the eastern United States.
+Ninety-five patients with a first-ever TIA and 81 with stroke were identified.
+Seventy-nine percent of those with TIA vs 88% with stroke were evaluated on the day their symptoms occurred (P =.12).
+Only 6% were admitted to a hospital for evaluation and treatment on the day of the index visit (2% TIA; 10% stroke; P =.03);
+only an additional 3% were admitted during the subsequent 30 days.
+Specialists were consulted for 45% of patients.
+A brain imaging study (computed tomography or magnetic resonance imaging) was ordered on the day of the index visit in 30% (23% TIA, 37% stroke; P =.04), regardless of whether the patient was referred to a specialist.
+Carotid ultrasound studies were obtained in 28% (40% TIA, 14% stroke; P<.001), electrocardiograms in 19% (18% TIA, 21% stroke; P =.60), and echocardiograms in 16% (19% TIA, 14% stroke; P =.34).
+Fewer than half of patients with a prior history of atrial fibrillation (n = 24) underwent anticoagulation when evaluated at the index visit.
+Thirty-two percent of patients (31% TIA, 33% stroke; P =.70) were not hospitalized and had no evaluations performed during the first month after presenting to a primary care physician with a first TIA or stroke.
+Of these patients, 59% had a change in antiplatelet therapy on the day of the index visit.
+Further primary care physician education regarding the importance of promptly and fully evaluating patients with TIA or stroke may be warranted, and barriers to implementation of established secondary stroke prevention strategies need to be carefully explored.
+Arch Intern Med.
+2000;160:2941-2946

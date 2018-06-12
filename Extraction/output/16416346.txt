@@ -1,0 +1,17 @@
+Title 
+Wiener klinische Wochenschrift
+
+Article Title 
+TSH may not be a good marker for adequate thyroid hormone replacement therapy.
+Abstract Text 
+The objective of this study was to evaluate parameters of thyroid function and indices of peripheral thyroid hormone action (such as SHBG) in patients whose hypothyroidism was considered well controlled under current criteria.
+Eighty-five patients with T4-treated hypothyroidism, 28 of whom had athyria, were compared with 114 normal individuals with the same TSH levels.
+T3 levels were significantly lower in hypothyroidism although mean T4 and fT4 levels were significantly higher.
+Furthermore, mean SHBG levels were significantly lower in hypothyroidism independently of age.
+The difference remained when stricter criteria for adequate treatment were applied (TSH < 2.5 microgU/ml).
+Significant negative correlations were found between logTSH and T3.
+The slopes of the regression lines of T3 to TSH were significantly different in the control group and the hypothyroid group: thus, for the same TSH levels, T3 levels were lower in the hypothyroid group.
+We conclude that patients with T4-treated hypothyroidism have lower T3 levels, lower T3/T4 ratio and lower SHBG than normal individuals with the same TSH, perhaps indicating relative tissue hypothyroidism in the liver.
+TSH levels used to monitor substitution, mostly regulated by intracellular T3 in the pituitary, may not be such a good indicator of adequate thyroid hormone action in all tissues.
+The co-administration of T3 may prove more effective in this respect, provided novel suitable preparations are developed.
+Until this is accomplished, substitution in hypothyroidism should aim at low normal TSH, to ensure normal T3 levels.

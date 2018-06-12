@@ -1,0 +1,11 @@
+Title 
+British medical journal
+
+Article Title 
+Haemoglobin AIc concentrations after initial insulin treatment for newly discovered diabetes.
+Abstract Text 
+Glycosylated haemoglobins AIa+Ib and AIc were measured serially in 10 consecutive cases of newly discovered non-acidotic diabetes before and after diet and insulin treatment.
+The average concentration of Hb AIc was 11.4% in untreated diabetics as compared with 4.3% in healthy controls.
+With prolonged optimal regulation of blood glucose Hb AIc slowly decreased to a mean concentration of 5.5%.
+The concentration of Hb AIc was significantly correlated with the fasting blood sugar value.
+The findings suggest that determining Hb AIc may give valuable information on the regulation of carbohydrate metabolism in the preceding one to two months and thus become an important aid to management.

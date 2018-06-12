@@ -1,0 +1,13 @@
+Title 
+The American journal of clinical nutrition
+
+Article Title 
+A prospective study of diet and the risk of symptomatic diverticular disease in men.
+Abstract Text 
+To examine the association between dietary fiber, sources of fiber, other nutrients, and the diagnosis of symptomatic diverticular disease, we analyzed data from a prospective cohort of 47,888 US men.
+During 4 y of follow-up we documented 385 new cases of symptomatic diverticular disease.
+Total dietary fiber intake was inversely associated with the risk of diverticular disease after adjustment for age, energy-adjusted total fat intake, and physical activity [relative risk (RR) 0.58; 95% CI 0.41, 0.83; P for trend = 0.01 for men in the highest as compared with the lowest quintile of dietary fiber].
+This inverse association was primarily due to fruit and vegetable fiber.
+For men on a high-total-fat, low-fiber diet, the RR was 2.35 (95% CI 1.38, 3.98) compared with those on a low-total-fat, high-fiber diet, and for men on a high-red-meat, low-fiber diet the RR was 3.32 (95% CI 1.46, 7.53) compared with those on a low-red-meat, high-fiber diet.
+These prospective data support the hypothesis that a diet low in total dietary fiber increases the incidence of symptomatic diverticular disease.
+They also provide evidence that the combination of high intake of total fat or red meat and a diet low in total dietary fiber particularly augments the risk.

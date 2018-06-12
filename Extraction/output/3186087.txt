@@ -1,0 +1,14 @@
+Title 
+Obstetrics and gynecology
+
+Article Title 
+A randomized trial of intrapartum versus immediate postpartum treatment of women with intra-amniotic infection.
+Abstract Text 
+A randomized trial of intrapartum versus postpartum antibiotic treatment of women with intra-amniotic infection was conducted.
+Intra-amniotic infection was treated with ampicillin and gentamicin during labor (at the time of diagnosis) in 26 women and immediately after umbilical cord clamping in 19 women.
+Intrapartum treatment led to a lower incidence of neonatal sepsis (0 versus 21%; P = .03)
+and a shorter neonatal hospital stay (3.8 versus 5.7 days; P = .02)
+when compared with postpartum treatment.
+There were no significant differences in the microbiologic results, the gestational age, or the birth weight between the groups.
+Intrapartum-treated mothers had a shorter mean postpartum stay, a lower mean number of febrile days, and a lower mean peak postpartum temperature than did postpartum-treated mothers; these differences were all statistically significant (P = .05).
+The treatment of clinical intra-amniotic infection during labor results in improved outcome.

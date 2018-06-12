@@ -1,0 +1,16 @@
+Title 
+Neurology
+
+Article Title 
+Selegiline as initial treatment in de novo parkinsonian patients.
+Abstract Text 
+To investigate the efficacy and safety of selegiline in the early phase of Parkinson's disease (PD), we carried out a placebo-controlled, double-blind, parallel trial.
+De novo PD patients were randomized to receive either selegiline (10 mg/d) or matching placebo.
+We continued selegiline or placebo until levodopa therapy became necessary and assessed the disability using three different rating scales at baseline, after 3 weeks, at 2, 4, 8, and 12 months, and at every 4 months thereafter.
+Fifty-two patients were eligible for the analysis, 27 in the selegiline group and 25 in the placebo group.
+The median duration of time before levodopa had to be initiated was 545 +/- 90 days with selegiline and 372 +/- 28 days with placebo (p = 0.03).
+Disability was significantly less in the selegiline group than in the placebo group up to 12 months.
+The period of time during which the mean total Columbia University Rating Scale score stayed below the baseline was used to express the initial symptomatic effect of the treatments.
+The difference in this initial improvement time between the two groups was about 3 months and did not alone explain the difference in the delay of the need to start levodopa therapy.
+Selegiline was well tolerated and there were no severe side effects.
+We conclude that selegiline delays the need to start levodopa in de novo PD patients, has symptomatic efficacy, and possibly retards the progression of the disease.

@@ -1,0 +1,17 @@
+Title 
+Journal of medical screening
+
+Article Title 
+Failure to thrive and the risk of child abuse: a prospective population survey.
+Abstract Text 
+To identify the relative importance of failure to thrive during infancy as a risk factor for later abuse or neglect.
+Whole population birth cohort (1 January to 31 December 1986) studied prospectively over a four year period.
+An inner city health district in London, England.
+2609 births, of whom 47 were identified as having non-organic failure to thrive by first birthday.
+Registration on Child Protection Register, or subject to investigation of suspected abuse or neglect without registration.
+2.5% (64) of birth cohort had been placed on the Child Protection Register during the period 1986-1990, and a further 1.2% (32) had been a cause for concern.
+The relative risk attributable to non-organic failure to thrive was 4.3 (95% CI 1.65 to 11.94) and exceeded other measured risk factors, including birth weight < 2500 g, 1.96 (95% CI 1.01 to 3.82); gestation < 35 weeks, 3.26 (95% CI 1.32 to 3.75); ordinal position > or = 4, 1.53 (95% CI 0.72 to 3.23).
+A multiple logistic regression confirmed the independent contribution of non-organic failure to thrive to subsequent poor parenting warranting professional intervention.
+Early postnatal non-organic failure to thrive is a risk factor for later serious parenting deficiencies, but previous research has overstated its importance.
+Within the community studied the nature of subsequent risk was (non-nutritional) neglect, rather than non-accidental injury.
+More than eight out of 10 cases do not give further cause for concern.

@@ -1,0 +1,18 @@
+Title 
+The Journal of allergy and clinical immunology
+
+Article Title 
+Efficacy and safety of tacrolimus ointment compared with that of hydrocortisone acetate ointment in children with atopic dermatitis.
+Abstract Text 
+Vehicle-controlled studies have demonstrated the efficacy and safety of tacrolimus ointment in the treatment of patients with atopic dermatitis (AD).
+This study was undertaken to compare 0.03% and 0.1% tacrolimus ointment with 1% hydrocortisone acetate ointment in children 2 to 15 years of age with moderate-to-severe AD.
+Treatment was twice daily to affected areas for 3 weeks in this multicenter, randomized, double-blind, parallel-group study.
+The primary endpoint was the modified eczema area and severity index (mEASI) mean area under the curve (mAUC) as a percentage of baseline.
+Five hundred sixty patients were randomized and received at least one application of ointment.
+Discontinuations included 21 of 189 patients from the 0.03% tacrolimus group, 13 of 186 patients from the 0.1% tacrolimus group, and 20 of 185 patients from the hydrocortisone acetate group.
+The median mEASI mAUC as a percentage of baseline showed 0.03% and 0.1% tacrolimus to be significantly more effective than 1% hydrocortisone acetate (P <.001) and 0.1% tacrolimus to be more effective than 0.03% tacrolimus (P =.006).
+The mEASI mAUC as a percentage of baseline was 44.8%, 39.8%, and 64.0% for patients who received 0.03% tacrolimus, 0.1% tacrolimus, and 1% hydrocortisone acetate, respectively.
+Transient skin burning was the only adverse event to show a higher incidence in the tacrolimus treatment groups than in the hydrocortisone acetate group (P <.05).
+Laboratory parameters showed no treatment differences and no marked changes over time.
+Tacrolimus, 0.03% and 0.1%, was significantly more effective than 1% hydrocortisone acetate and 0.1% tacrolimus was more effective than 0.03% tacrolimus in the treatment of moderate-to-severe AD in children.
+No safety concerns were identified.

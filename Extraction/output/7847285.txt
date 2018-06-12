@@ -1,0 +1,12 @@
+Title 
+The American journal of gastroenterology
+
+Article Title 
+Is hepatitis A more severe in patients with chronic hepatitis B and other chronic liver diseases?
+Abstract Text 
+There are several published case series of acute hepatitis A, with coverage ranging from epidemics to case reports, that provide information regarding the clinical course and outcome of hepatitis A in patients with underlying chronic hepatitis B virus (HBV) infection (1-12).
+Only a few reports have addressed the outcome of hepatitis A in patients with other chronic liver diseases (2, 13).
+Some, but not all, of these reports suggest that hepatitis A superimposed on chronic hepatitis B or other chronic liver diseases is associated with higher peak laboratory abnormalities, more severe disease, including fulminant hepatic failure, and a higher case fatality rate.
+In addition, analysis of HBsAg titer and serum markers of HBV replication, including HBeAg, HBV DNA, and DNA polymerase, reveals suppression of HBV replication.
+With the availability of hepatitis A virus (HAV) vaccine in many countries and its imminent approval for use in the United States, the issue of whether or not patients with chronic liver diseases, including chronic HBV infection, should be a target group for vaccination to prevent hepatitis A warrants consideration.
+The purpose of this review is to analyze the published literature addressing the clinical course and outcome of acute hepatitis A in patients with chronic HBV infection and other chronic liver diseases to determine if hepatitis A is more severe in these patients.

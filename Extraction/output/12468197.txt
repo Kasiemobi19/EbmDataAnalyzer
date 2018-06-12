@@ -1,0 +1,14 @@
+Title 
+Obstetrics and gynecology
+
+Article Title 
+ACOG Committee Opinion: number 280, December 2002. The role of the generalist obstetrician-gynecologist in the early detection of ovarian cancer.
+Abstract Text 
+The purpose of this Committee Opinion is to define the role of the generalist obstetrician-gynecologist in the early detection of ovarian cancer.
+Currently, it appears that the best way to detect early ovarian cancer is for both the patient and her clinician to have a high index of suspicion of the diagnosis in the symptomatic woman.
+In evaluating symptoms, physicians should perform a physical examination, including a pelvic examination.
+In premenopausal women with symptoms, a CA 125 measurement has not been shown to be useful in most circumstances.
+In postmenopausal women with a pelvic mass, a CA 125 measurement may be helpful in predicting a higher likelihood of a malignant tumor than a benign tumor, which may be useful in making consultation or referral decisions or both.
+A woman with a suspicious or persistent complex adnexal mass requires surgical evaluation by a physician trained to appropriately stage and debulk ovarian cancer.
+Data suggest that currently available screening tests do not appear to be beneficial for screening low-risk, asymptomatic women.
+An annual gynecologic examination with an annual pelvic examination is recommended for preventive health care.

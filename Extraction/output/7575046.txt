@@ -1,0 +1,19 @@
+Title 
+Archives of internal medicine
+
+Article Title 
+An analysis of the effectiveness of interventions intended to help people stop smoking.
+Abstract Text 
+In a systematic review of the efficacy of interventions intended to help people stop smoking, data have been analyzed from 188 randomized controlled trials.
+Following personal advice and encouragement to stop smoking given by physicians during a single routine consultation, an estimated 2% (95% confidence limits, 1%, 3%; P < .001) of all smokers stopped smoking and did not relapse up to 1 year as a direct consequence of the advice.
+The effect is modest but cost-effective: the cost of saving a life is about $1500.
+Supplementary interventions (follow-up letters or visits, demonstration of spirometry, etc) have an additional effect--variable in extent.
+Advice and encouragement are particularly effective for smokers at special risk--pregnant women (efficacy; 8%) and patients with ischemic heart disease.
+Behavior modification techniques (relaxation, rewards and punishment, avoiding "trigger" situations, etc), in group or individual sessions led by a psychologist, have an effect that is statistically significant (P = .05)
+but no greater than simple advice by a physician (2%); yet, these techniques are several times more expensive.
+The effect of hypnosis is unproved (no trials have used biochemical markers).
+Nicotine replacement therapy is effective in an estimated 13% of smokers who seek help in cessation; the effect is greater in those who are nicotine-dependent.
+Other pharmacological treatments are not of proven efficacy, and acupuncture is ineffective.
+Sudden cessation or gradual reduction in smoking are similar in their efficacy on average.
+Physicians should take time to advise all their patients who smoke to quit.
+Smokers who are intent on stopping should be given additional support and encouraged to use nicotine replacement therapy.

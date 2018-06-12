@@ -1,0 +1,23 @@
+Title 
+Chest
+
+Article Title 
+Performance characteristics of different modalities for diagnosis of suspected lung cancer: summary of published evidence.
+Abstract Text 
+To determine the test performance characteristics of various modalities for the diagnosis of suspected lung cancer.
+A systematic search of MEDLINE, HealthStar, and Cochrane Library databases to July 2001 and print bibliographies was performed to identify studies comparing the results of sputum cytology, bronchoscopy, transthoracic needle aspirate (TTNA), or biopsy with histologic reference standard diagnoses among at least 50 patients with suspected lung cancer.
+For sputum cytology, the pooled specificity was 0.99 and the pooled sensitivity was 0.66, but sensitivity was higher for central lesions than for peripheral lesions (0.71 vs 0.49, respectively).
+Studies on bronchoscopic procedures provided data only on diagnostic yield (sensitivity).
+The diagnosis of endobronchial disease by bronchoscopy in 30 studies showed the highest sensitivity for endobronchial biopsy (0.74), followed by cytobrushing (0.59) and washing (0.48).
+The sensitivity for all modalities combined was 0.88.
+Thirty studies reported on peripheral lesions.
+Cytobrushing demonstrated the highest sensitivity (0.52), followed by transbronchial biopsy (0.46) and BAL/washing (0.43).
+The overall sensitivity for all modalities was 0.69.
+Peripheral lesions < 2 cm or > 2 cm in diameter showed sensitivities of 0.33 and 0.62, respectively.
+Updating a previous meta-analysis with 19 studies revealed a pooled sensitivity of 0.90 for TTNA.
+A trend toward lower sensitivity was noted for lesions that were < 2 cm in diameter.
+The accuracy in differentiating between small cell and non-small cell cytology for the various diagnostic modalities was 0.98, with individual studies ranging from 0.94 to 1.0.
+The average false-positive and false-negative rates were 0.09 and 0.02, respectively.
+The sensitivity of bronchoscopy is high for endobronchial disease and poor for peripheral lesions that are < 2 cm in diameter.
+The sensitivity of TTNA is excellent for malignant disease.
+The distinction between small cell lung cancer and non-small cell lung cancer by cytology appears to be accurate.

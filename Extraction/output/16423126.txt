@@ -1,0 +1,13 @@
+Title 
+Journal of general internal medicine
+
+Article Title 
+Brief report: Utility of a short screening scale for DSM-IV PTSD in primary care.
+Abstract Text 
+To evaluate Breslau's 7-item screen for posttraumatic stress disorder (PTSD) for use in primary care.
+One hundred and thirty-four patients were recruited from primary care clinics at a large medical center.
+Participants completed the self-administered 7-item PTSD screen.
+Later, psychologists blinded to the results of the screen-interviewed patients using the Clinician Administered PTSD Scale (CAPS).
+Sensitivity, specificity, and likelihood ratios (LR) were calculated using the CAPS as the criterion for PTSD.
+The screen appears to have test-retest reliability (r=.84), and LRs range from 0.04 to 13.4.
+Screening for PTSD in primary care is time efficient and has the potential to increase the detection of previously unrecognized PTSD.

@@ -1,0 +1,16 @@
+Title 
+Annals of internal medicine
+
+Article Title 
+Antibiotic therapy in exacerbations of chronic obstructive pulmonary disease.
+Abstract Text 
+The effects of broad-spectrum antibiotic and placebo therapy in patients with chronic obstructive pulmonary disease in exacerbation were compared in a randomized, double-blinded, crossover trial.
+Exacerbations were defined in terms of increased dyspnea, sputum production, and sputum purulence.
+Exacerbations were followed at 3-day intervals by home visits, and those that resolved in 21 days were designated treatment successes.
+Treatment failures included exacerbations in which symptoms did not resolve but no intervention was necessary, and those in which the patient's condition deteriorated so that intervention was necessary.
+Over 3.5 years in 173 patients, 362 exacerbations were treated, 180 with placebo and 182 with antibiotic.
+The success rate with placebo was 55% and with antibiotic 68%.
+The rate of failure with deterioration was 19% with placebo and 10% with antibiotic.
+There was a significant benefit associated with antibiotic.
+Peak flow recovered more rapidly with antibiotic treatment than with placebo.
+Side effects were uncommon and did not differ between antibiotic and placebo.

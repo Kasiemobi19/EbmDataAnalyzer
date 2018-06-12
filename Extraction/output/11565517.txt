@@ -1,0 +1,20 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+Renoprotective effect of the angiotensin-receptor antagonist irbesartan in patients with nephropathy due to type 2 diabetes.
+Abstract Text 
+It is unknown whether either the angiotensin-II-receptor blocker irbesartan or the calcium-channel blocker amlodipine slows the progression of nephropathy in patients with type 2 diabetes independently of its capacity to lower the systemic blood pressure.
+We randomly assigned 1715 hypertensive patients with nephropathy due to type 2 diabetes to treatment with irbesartan (300 mg daily), amlodipine (10 mg daily), or placebo.
+The target blood pressure was 135/85 mm Hg or less in all groups.
+We compared the groups with regard to the time to the primary composite end point of a doubling of the base-line serum creatinine concentration, the development of end-stage renal disease, or death from any cause.
+We also compared them with regard to the time to a secondary, cardiovascular composite end point.
+The mean duration of follow-up was 2.6 years.
+Treatment with irbesartan was associated with a risk of the primary composite end point that was 20 percent lower than that in the placebo group (P=0.02) and 23 percent lower than that in the amlodipine group (P=0.006).
+The risk of a doubling of the serum creatinine concentration was 33 percent lower in the irbesartan group than in the placebo group (P=0.003) and 37 percent lower in the irbesartan group than in the amlodipine group (P<0.001).
+Treatment with irbesartan was associated with a relative risk of end-stage renal disease that was 23 percent lower than that in both other groups (P=0.07 for both comparisons).
+These differences were not explained by differences in the blood pressures that were achieved.
+The serum creatinine concentration increased 24 percent more slowly in the irbesartan group than in the placebo group (P=0.008) and 21 percent more slowly than in the amlodipine group (P=0.02).
+There were no significant differences in the rates of death from any cause or in the cardiovascular composite end point.
+The angiotensin-II-receptor blocker irbesartan is effective in protecting against the progression of nephropathy due to type 2 diabetes.
+This protection is independent of the reduction in blood pressure it causes.

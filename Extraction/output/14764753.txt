@@ -1,0 +1,23 @@
+Title 
+The Journal of clinical endocrinology and metabolism
+
+Article Title 
+Exogenous testosterone or testosterone with finasteride increases bone mineral density in older men with low serum testosterone.
+Abstract Text 
+Older men, particularly those with low serum testosterone (T) levels, might benefit from T therapy to improve bone mineral density (BMD) and reduce fracture risk.
+Concerns exist, however, about the impact of T therapy on the prostate in older men.
+We hypothesized that the combination of T and finasteride (F), a 5 alpha-reductase inhibitor, might increase BMD in older men without adverse effects on the prostate.
+Seventy men aged 65 yr or older, with a serum T less than 12.1 nmol/liter on two occasions, were randomly assigned to receive one of three regimens for 36 months: T enanthate, 200 mg im every 2 wk with placebo pills daily (T-only); T enanthate, 200 mg every 2 wk with 5 mg F daily (T+F); or placebo injections and pills (placebo).
+Low BMD was not an inclusion criterion.
+We obtained serial measurements of BMD of the lumbar spine and hip by dual x-ray absorptiometry.
+Prostate-specific antigen (PSA) and prostate size were measured at baseline and during treatment to assess the impact of therapy on the prostate.
+Fifty men completed the 36-month protocol.
+By an intent-to-treat analysis including all men for as long as they contributed data, T therapy for 36 months increased BMD in these men at the lumbar spine [10.2 +/- 1.4% (mean percentage increase from baseline +/- SEM; T-only) and 9.3 +/- 1.4% (T+F) vs. 1.3 +/- 1.4% for placebo (P < 0.001)] and in the hip [2.7 +/- 0.7% (T-only) and 2.2 +/- 0.7% (T+F) vs. -0.2
++/- 0.7% for placebo, (P < or = 0.02)].
+Significant increases in BMD were seen also in the intertrochanteric and trochanteric regions of the hip.
+After 6 months of therapy, urinary deoxypyridinoline (a bone-resorption marker) decreased significantly compared with baseline in both the T-only and T+F groups (P < 0.001) but was not significantly reduced compared with the placebo group.
+Over 36 months, PSA increased significantly from baseline in the T-only group (P < 0.001).
+Prostate volume increased in all groups during the 36-month treatment period, but this increase was significantly less in the T+F group compared with both the T-only and placebo groups (P = 0.02).
+These results demonstrate that T therapy in older men with low serum T increases vertebral and hip BMD over 36 months, both when administered alone and when combined with F. This finding suggests that dihydrotestosterone is not essential for the beneficial effects of T on BMD in men.
+In addition, the concomitant administration of F with T appears to attenuate the impact of T therapy on prostate size and PSA and might reduce the chance of benign prostatic hypertrophy or other prostate-related complications in older men on T therapy.
+These findings have important implications for the prevention and treatment of osteoporosis in older men with low T levels.

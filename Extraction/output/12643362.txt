@@ -1,0 +1,12 @@
+Title 
+American family physician
+
+Article Title 
+Diagnosing night sweats.
+Abstract Text 
+Night sweats are a common outpatient complaint, yet literature on the subject is scarce.
+Tuberculosis and lymphoma are diseases in which night sweats are a dominant symptom, but these are infrequently found to be the cause of night sweats in modern practice.
+While these diseases remain important diagnostic considerations in patients with night sweats, other diagnoses to consider include human immunodeficiency virus, gastroesophageal reflux disease, obstructive sleep apnea, hyperthyroidism, hypoglycemia, and several less common diseases.
+Antihypertensives, antipyretics, other medications, and drugs of abuse such as alcohol and heroin may cause night sweats.
+Serious causes of night sweats can be excluded with a thorough history, physical examination, and directed laboratory and radiographic studies.
+If a history and physical do not reveal a possible diagnosis, physicians should consider a purified protein derivative, complete blood count, human immunodeficiency virus test, thyroid-stimulating hormone test, erythrocyte sedimentation rate evaluation, chest radiograph, and possibly chest and abdominal computed tomographic scans and bone marrow biopsy.

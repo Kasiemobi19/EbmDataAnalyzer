@@ -1,0 +1,10 @@
+Title 
+The American journal of psychiatry
+
+Article Title 
+Sustained-release bupropion for selective serotonin reuptake inhibitor-induced sexual dysfunction: a randomized, double-blind, placebo-controlled, parallel-group study.
+Abstract Text 
+The authors compared low-dose sustained-release bupropion with placebo for sexual dysfunction induced by selective serotonin reuptake inhibitors (SSRIs).
+Thirty adults who had received SSRIs for at least 6 weeks, who were euthymic, and who had sexual dysfunction as determined by a total score greater than 19 out of a possible 30 on the Arizona Sexual Experience Scale were randomly assigned to receive either 150 mg/day of sustained-release bupropion or placebo at 6:00 p.m. for 3 weeks.
+There were no significant differences between the sustained-release bupropion and placebo groups as measured by change in Arizona Sexual Experiences Scale or Hamilton Depression Rating Scale scores or side effects.
+Future studies should compare higher doses of bupropion for treating sexual dysfunction and should include a greater number of subjects.

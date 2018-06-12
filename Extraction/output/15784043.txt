@@ -1,0 +1,20 @@
+Title 
+The American journal of gastroenterology
+
+Article Title 
+Efficacy and safety of traditional medical therapies for chronic constipation: systematic review.
+Abstract Text 
+Constipation is common, and its treatment is unsatisfactory.
+Although many agents have been tried, there are limited data to support their use.
+Our aim was to undertake a systematic review of the efficacy and safety of traditional medical therapies for chronic constipation and to make evidence-based recommendations.
+We searched the English literature for drug trials evaluating treatment of constipation by using MEDLINE and PUBMED databases from 1966 to 2003.
+Only studies that were randomized, conducted on adult subjects, and published as full manuscripts were included.
+Studies were assigned a quality score based on published methodology.
+Standard forms were used to abstract data regarding study design, duration, outcome measures, and adverse events.
+By using the cumulative evidence of published data for each agent, recommendations were made regarding their use following the United States Preventive Services Task Force guidelines.
+Good evidence (Grade A) was found to support the use of polyethylene glycol (PEG) and tegaserod.
+Moderate evidence (Grade B) was found to support the use of psyllium, and lactulose.
+There was a paucity of quality data regarding many commonly used agents including milk of magnesia, senna, bisacodyl, and stool softeners.
+There is good evidence to support the use of PEG, tegaserod, lactulose, and psyllium.
+Surprisingly, there is a paucity of trials for many commonly used agents.
+These aspects should be considered when designing trials comparing new agents with traditional therapies because their use may not be well validated.

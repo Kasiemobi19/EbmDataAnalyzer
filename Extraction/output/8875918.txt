@@ -1,0 +1,15 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+Clinical outcome of mitral regurgitation due to flail leaflet.
+Abstract Text 
+Mitral regurgitation due to flail leaflet is difficult to manage, because it is frequently asymptomatic yet carries a high risk of left ventricular dysfunction and because the natural history of the condition is poorly defined.
+We obtained clinical follow-up data through 1994-1995 in 229 patients with isolated mitral regurgitation due to flail leaflet; this condition was first diagnosed by echocardiography between 1980 and 1989.
+The 86 patients who were treated medically had a mortality rate significantly higher than expected (6.3 percent yearly, P=0.016 for the comparison with the expected rate in the U.S. population according to the 1990 census).
+Independent determinants of mortality were an older age, the presence of symptoms, and a lower ejection fraction.
+Patients who were even transiently in New York Heart Association functional class III or IV had a high mortality rate (34 percent yearly), but the rate was also notable (4.1 percent yearly) among those in class I or II.
+At 10 years, the mean (+/- SE) rates of heart failure, atrial fibrillation, and death or surgery were 63 +/- 8, 30 +/- 12, and 90 +/- 3 percent, respectively.
+In a multivariate analysis, surgical correction of mitral regurgitation (performed in 143 patients) was associated with a reduced mortality rate (hazard ratio, 0.29; 95 percent confidence interval, 0.15 to 0.56; P<0.001).
+When treated medically, mitral regurgitation due to flail leaflet is associated with excess mortality and high morbidity.
+Surgery is almost unavoidable within 10 years after the diagnosis and appears to be associated with an improved prognosis; this finding suggests that surgery should be considered early in the course of the disease.

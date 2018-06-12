@@ -1,0 +1,13 @@
+Title 
+Nephron
+
+Article Title 
+Calcium homeostasis and imbalance.
+Abstract Text 
+The human body is equipped with an efficient protection system against hypocalcemia.
+This system is composed of parathyroid glands, bone, kidney, and intestine.
+By appropriate actions of parathyroid hormone (PTH) and active vitamin D (1,25-dihydroxyvitamin D), a small fall of extracellular calcium ion concentration is instantly corrected.
+Thus, a defect of any step in this system results in the development of hypocalcemia.
+Overloaded calcium either from bone or intestine is efficiently excreted into the urine.
+Thus, hypercalcemia develops almost exclusively when a greater amount of calcium than the kidney can excrete is loaded.
+In chronic dialysis patients, either hypocalcemia or hypercalcemia may develop because of defects in these two defense systems against calcium imbalance.

@@ -1,0 +1,21 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Effects of rofecoxib or naproxen vs placebo on Alzheimer disease progression: a randomized controlled trial.
+Abstract Text 
+Laboratory evidence that inflammatory mechanisms contribute to neuronal injury in Alzheimer disease (AD), along with epidemiological evidence, suggests that nonsteroidal anti-inflammatory drugs (NSAIDs) may favorably influence the course of the disease.
+To determine whether treatment with a selective cyclooxygenase (COX) -2 inhibitor (rofecoxib) or a traditional nonselective NSAID (naproxen) slows cognitive decline in patients with mild-to-moderate AD.
+Multicenter, randomized, double-blind, placebo-controlled, parallel group trial, with 1-year exposure to study medications.
+Forty ambulatory treatment centers affiliated with the Alzheimer's Disease Cooperative Study consortium.
+Participants with mild-to-moderate AD (Mini-Mental State Examination score of 13-26) were recruited from December 1999 to November 2000 using clinic populations, referrals from community physicians, and local advertising.
+Stable use of cholinesterase inhibitors, estrogen, low-dose aspirin, and vitamin E was allowed.
+Participants with inflammatory diseases that might respond to the study medications were excluded.
+Of 474 participants screened, 351 were enrolled.
+Once-daily rofecoxib, 25 mg, or twice-daily naproxen sodium, 220 mg, or placebo.
+The primary outcome measure was the 1-year change in the Alzheimer Disease Assessment Scale-Cognitive (ADAS-Cog) subscale score.
+Secondary outcome measures included the Clinical Dementia Rating scale sum-of-boxes, the Neuropsychiatric Inventory, the Quality of Life-AD, and the time to attainment of significant end points (4-point decline from baseline ADAS-Cog score, 1-step worsening on the global Clinical Dementia Rating scale, 15-point decline on the ADCS activities of daily living inventory, institutionalization, or death).
+The 1-year mean (SD) change in ADAS-Cog scores in participants treated with naproxen (5.8 [8.0]) or rofecoxib (7.6 [7.7]) was not significantly different from the change in participants treated with placebo (5.7 [8.2]).
+Results of secondary analyses showed no consistent benefit of either treatment.
+Fatigue, dizziness, and hypertension were more commonly reported in the active drug groups, and more serious adverse events were found in the active treatment group than in the placebo group.
+The results of this study indicate that rofecoxib or low-dose naproxen does not slow cognitive decline in patients with mild-to-moderate AD.

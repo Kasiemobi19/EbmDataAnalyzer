@@ -1,0 +1,19 @@
+Title 
+Brazilian journal of medical and biological research = Revista brasileira de pesquisas médicas e biológicas / Sociedade Brasileira de Biofísica ... [et al.]
+
+Article Title 
+Use of erythromycin for the treatment of severe chronic constipation in children.
+Abstract Text 
+The efficacy of erythromycin was assessed in the treatment of 14 children aged 4 to 13 years with refractory chronic constipation, and presenting megarectum and fecal impaction.
+A double-blind, placebo- controlled, crossover study was conducted at the Pediatric Gastroenterology Outpatient Clinic of the University Hospital.
+The patients were randomized to receive placebo for 4 weeks followed by erythromycin estolate, 20 mg kg-1 day-1, divided into four oral doses for another 4 weeks, or vice versa.
+Patient outcome was assessed according to a clinical score from 12 (most severe clinical condition) to 0 (complete recovery).
+At enrollment in the study and on the occasion of follow-up medical visits at two-week intervals, patient score and laxative requirements were recorded.
+During the first 30 days, the mean SD clinical score for the erythromycin group (N = 6) decreased from 8.2+/-2.3 to 2.2+/-1.0
+while the score for the placebo group (N = 8) decreased from 7.8+/-2.1 to 2.9+/-2.8.
+During the second crossover phase, the score for patients on erythromycin ranged from 2.9+/-2.8 to 2.4+/-2.1 and the score for the patients on placebo worsened from 2.2+/-1.0 to 4.3+/-2.3.
+There was a significant improvement in score when patients were on erythromycin (P < 0.01).
+Mean laxative requirement was lower when patients ingested erythromycin (P < 0.05).
+No erythromycin-related side effects occurred.
+Erythromycin was useful in this group of severely constipated children.
+A larger trial is needed to fully ascertain the prokinetic efficacy of this drug as an adjunct in the treatment of severe constipation in children.

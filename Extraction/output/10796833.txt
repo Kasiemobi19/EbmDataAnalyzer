@@ -1,0 +1,27 @@
+Title 
+Cochrane database of systematic reviews (Online)
+
+Article Title 
+Progestogens versus oestrogens and progestogens for irregular uterine bleeding associated with anovulation.
+Abstract Text 
+Dysfunctional uterine bleeding (DUB) is "excessively heavy, prolonged or frequent bleeding of uterine origin which is not due to pregnancy or to recognizable pelvic or systemic disease".
+Anovulation may be inferred from a number of observations but in the normal clinical situation, anovulation is often assumed when a woman presents with heavy, prolonged or frequent bleeding, particularly in those at the extremes of reproductive life and in women known to have the polycystic ovarian syndrome.
+Menstrual bleeding that is irregular or excessive is usually poorly tolerated by the majority of women.
+Changes in the length of the menstrual cycle generally imply disturbances of the hypothalamo-pituitary-ovarian (HPO) axis.
+In anovulatory DUB with acyclic (irregular) oestrogen production there will be no progesterone withdrawal from oestrogen primed endometrium and so cycles are irregular.
+Prolonged oestrogen stimulation may cause a build up of endometrium with erratic bleeding as it breaks down and is expelled.
+This is the rationale for using cyclical progestogens during the second half of the menstrual cycle in order to provoke a regular withdrawal bleed.
+Continuous progestogen is intended to induce endometrial atrophy and hence to prevent oestrogen-stimulated endometrial proliferation.
+Progestogens, and oestrogens and progestogens in combination are already widely used in the management of irregular or excessive bleeding due to DUB, but the regime, dose and type of progestogen used varies widely with little consensus about the optimum treatment approach.
+To determine the effectiveness and acceptability of progestogens alone, and oestrogens and progestogens in combination in the management of irregular bleeding associated with anovulation.
+The search strategy of the Menstrual Disorders Group was used to identify all randomised trials of progestogens alone or in combination with oestrogens in the management of irregular menstrual bleeding associated with anovulation.
+In addition a search of the Cochrane Controlled Trials Register was undertaken.
+All randomised controlled trials of progestogens (via any route) alone or in combination with oestrogens in the treatment of irregular bleeding associated with anovulation.
+Study quality assessment and data extraction were carried out independently by two reviewers.
+Both reviewers were experts in the content matter.
+No randomised trials were identified which compared progestogens with oestrogens and progestogens in the management of irregular bleeding associated with anovulation.
+Only one small, non-randomised study compared two progestogen regimes in the management of heavy and irregular bleeding in subjects with confirmed anovulation.
+One randomised study compared the effects of two progestogens on endometrial histology in subjects with a variety of menstrual symptoms, half of whom had cystic glandular hyperplasia.
+No studies were found which compared progestogens with oestrogens and progestogens in combination or with placebo in the management of irregular bleeding associated with anovulation.
+There is a paucity of randomised studies relating to the use of progestogens and of oestrogens and progestogens in combination in the treatment of irregular bleeding associated with anovulation.
+Further research is needed to establish the role of these treatments in the management of this common gynaecological problem.

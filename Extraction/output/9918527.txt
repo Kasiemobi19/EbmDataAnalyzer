@@ -1,0 +1,14 @@
+Title 
+Circulation
+
+Article Title 
+Impact of preoperative symptoms on survival after surgical correction of organic mitral regurgitation: rationale for optimizing surgical indications.
+Abstract Text 
+Surgical correction of mitral regurgitation in patients with no or mild symptoms remains controversial, particularly because the impact of preoperative symptoms on postoperative outcome is unknown.
+The long-term outcome of 478 patients with organic mitral regurgitation (199 in NYHA functional class I/II and 279 in class III/IV before surgery) operated on between 1984 and 1991 was analyzed.
+In patients in NYHA class I/II before surgery compared with those in class III/IV, postoperative long-term survival was higher (at 10 years, 76+/-5% versus 48+/-4%, P<0.0001), with lower operative mortality (0.5% versus 5.4%, P=0.003) and better late survival (P<0.0001).
+Comparison of observed and expected survival showed identical curves in patients in class I/II before surgery (P=0.18),
+whereas excess mortality was observed in patients in class III/IV before surgery (P<0.0001).
+Excess mortality associated with severe symptoms was also confirmed in all subgroups (all P<0.003) and in multivariate analysis (P=0.0036; adjusted hazard ratio [95% CI], 1.81 [1.21 to 2.70]).
+In patients with organic mitral regurgitation, preoperative functional class III/IV symptoms are associated with excess short- and long-term postoperative mortality independently of all baseline characteristics.
+These data should lead to consideration of surgical correction of severe organic mitral regurgitation when no or minimal symptoms are present in patients at low operative risk, especially if repair is feasible.

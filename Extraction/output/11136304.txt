@@ -1,0 +1,17 @@
+Title 
+The British journal of surgery
+
+Article Title 
+Systematic review of antimicrobial agents used for chronic wounds.
+Abstract Text 
+This paper is one of a series of eight systematic reviews that aim to identify effective interventions for chronic wounds.
+Here, antimicrobial agents are evaluated.
+Electronic databases and other relevant sources were accessed to identify published and unpublished material.
+Studies were eligible for inclusion if they used concurrent controls, recruited participants with chronic wounds, evaluated an intervention designed to prevent or treat chronic wounds, and incorporated an objective assessment of wound healing.
+All included studies were assessed against a comprehensive checklist for methodological quality.
+A narrative overview was conducted.
+Thirty trials were included, 25 of randomized design.
+Small sample size and other methodological problems meant that findings were often difficult to interpret.
+Results do not support the routine use of systemic antibiotics for leg ulcers or diabetic foot ulcers without acute infection, but they may be useful as an adjunct to surgery for pilonidal sinuses.
+Several topical preparations may be helpful, including dimethyl sulphoxide, silver sulphadiazine, benzoyl peroxide, oxyquinoline and gentamicin.
+Most of this research requires replication in larger, well designed studies to establish both clinical and cost effectiveness.

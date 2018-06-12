@@ -1,0 +1,20 @@
+Title 
+Archives of pediatrics & adolescent medicine
+
+Article Title 
+Systematic review of the relationship between early introduction of solid foods to infants and the development of allergic disease.
+Abstract Text 
+To assess the evidence that early solid feeding (before age 4 months) increases the risk of allergic disease.
+MEDLINE, the Cochrane Library, and the Drugs and Pharmacology section of EMBASE with key words "infant," "food," and "allergy."
+We found 2719 article citations and reviewed references of relevant articles.
+We critically evaluated the methods and results of articles that met inclusion criteria.
+We identified 13 studies that met inclusion criteria.
+There was only 1 controlled trial.
+Allergic disease.
+Five studies found a positive association between early solid feeding and eczema, with a persistence of the association for 10 years in 1 study.
+Four studies found no association.
+One study found an association between early solid feeding and pollen allergy.
+We found no strong evidence to support the association between early solid feeding and the development of persistent asthma, persistent food allergy, allergic rhinitis, or animal dander allergy.
+Systematic review of available evidence suggests that early solid feeding may increase the risk of eczema.
+However, there are little data supporting an association between early solid feeding and other allergic conditions.
+Since many studies had problematic methods, additional controlled trials are needed to help guide physicians as they advise parents about the allergic risks of early introduction of solids.

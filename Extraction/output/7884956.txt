@@ -1,0 +1,16 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Antibiotics in chronic obstructive pulmonary disease exacerbations. A meta-analysis.
+Abstract Text 
+A meta-analysis of randomized trials was performed to estimate the effectiveness of antibiotics in treating exacerbations of chronic obstructive pulmonary disease (COPD).
+English-language studies published from 1955 through 1994 were retrieved using MEDLINE, Index Medicus, bibliographies, and consultation with experts.
+MEDLINE search terms included "COPD," "chronic bronchitis," and "antibiotic(s)."
+Only randomized trials that enrolled patients having an exacerbation of COPD, used an antibiotic in the treatment group and placebo in the control group, and provided sufficient data to calculate an effect size were included in the meta-analysis.
+Descriptive and outcome data from each study were independently in the meta-analysis.
+Overall summary effect size of the nine trials satisfying all inclusion criteria was 0.22 (95% confidence interval [CI], 0.10 to 0.34), indicating a small benefit in the antibiotic-treated group.
+Similar analysis of the six studies that provided data on peak expiratory flow rate changes revealed a summary effect size of 0.19 (95% CI, 0.03 to 0.35) and a summary change in peak expiratory flow rate of 10.75 L/min (95% CI, 4.96 to 16.54 L/min) in favor of the antibiotic-treated group.
+Sensitivity analyses did not significantly affect these results.
+These analyses suggest a small but statistically significant improvement due to antibiotic therapy in patients with exacerbations of COPD.
+This antibiotic-associated improvement may be clinically significant, especially in patients with low baseline flow rates.

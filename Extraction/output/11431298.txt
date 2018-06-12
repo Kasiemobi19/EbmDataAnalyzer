@@ -1,0 +1,16 @@
+Title 
+BMJ (Clinical research ed.)
+
+Article Title 
+Randomised trial of cranberry-lingonberry juice and Lactobacillus GG drink for the prevention of urinary tract infections in women.
+Abstract Text 
+To determine whether recurrences of urinary tract infection can be prevented with cranberry-lingonberry juice or with Lactobacillus GG drink.
+Design: Open, randomised controlled 12 month follow up trial.
+Health centres for university students and staff of university hospital.
+150 women with urinary tract infection caused by Escherichia coli randomly allocated into three groups.
+Interventions: 50 ml of cranberry-lingonberry juice concentrate daily for six months or 100 ml of lactobacillus drink five days a week for one year, or no intervention.
+Main outcome measure: First recurrence of symptomatic urinary tract infection, defined as bacterial growth >/=10(5 )colony forming units/ml in a clean voided midstream urine specimen.
+The cumulative rate of first recurrence of urinary tract infection during the 12 month follow up differed significantly between the groups (P=0.048).
+At six months, eight (16%) women in the cranberry group, 19 (39%) in the lactobacillus group, and 18 (36%) in the control group had had at least one recurrence.
+This is a 20% reduction in absolute risk in the cranberry group compared with the control group (95% confidence interval 3% to 36%, P=0.023, number needed to treat=5, 95% confidence interval 3 to 34).
+Regular drinking of cranberry juice but not lactobacillus seems to reduce the recurrence of urinary tract infection.

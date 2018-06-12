@@ -1,0 +1,13 @@
+Title 
+Early human development
+
+Article Title 
+Factors predicting peri- and neonatal outcome in diabetic pregnancy.
+Abstract Text 
+A population-based birth cohort including 296 consecutive type 1 diabetic births in a geographically defined catchment area was used to evaluate factors predicting poor perinatal and neonatal outcome.
+Though perinatal mortality has decreased (17.1/1000 births at 28 or more weeks of gestation), the neonatal morbidity rate still remains high despite improved maternal metabolic control and developed antepartum surveillance.
+Poor glycemic control during the first weeks of pregnancy was the most important risk factor (relative risk (RR) 2.91; 95% confidence interval (CI) 1.29-6.55)
+predicting adverse neonatal events such as long (>10 days) stay in the neonatal unit, malformation or perinatal death.
+The risk was further increased in cases of severe diabetes (White class F-R; RR 2.75; 95% CI 1.59-4.76)
+and primiparity (RR 1.64; 95% CI 1.02-2.65).
+By evaluating these risk factors at the first antenatal visit, a subgroup with a particular need of counselling and intensive feto-maternal monitoring can be identified.

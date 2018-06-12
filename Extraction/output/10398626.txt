@@ -1,0 +1,20 @@
+Title 
+BMJ (Clinical research ed.)
+
+Article Title 
+Systematic review of topical treatments for fungal infections of the skin and nails of the feet.
+Abstract Text 
+To identify and synthesise the evidence for efficacy and cost effectiveness of topical treatments for superficial fungal infections of the skin and nails of the feet.
+Systematic review.
+Topical treatments for superficial fungal infections.
+Cure confirmed by culture and microscopy for skin and by culture for nails in patients with clinically diagnosed fungal infections.
+Of 126 trials identified in 121 papers, 72 (57.1%) met the inclusion criteria.
+Placebo controlled trials yielded pooled relative risks of failure to cure skin infections: allylamines (0.30, 95% confidence interval 0.24 to 0.38); azoles (0.54, 0.42 to 0.68); undecenoic acid (0.28, 0. 11 to 0.74); and tolnaftate (0.46, 0.17 to 1.22).
+Although meta-analysis of 11 trials comparing allylamines and azoles showed a relative risk of failure to cure of 0.88 (0.78 to 0.99) in favour of allylamines, there was evidence of language bias.
+Seven reports in English favoured allylamines (0.79, 0.69 to 0.91), but four reports in foreign languages showed no difference between the two drugs (1.
+01, 0.90 to 1.13).
+Neither trial of nail infections showed significant differences between alternative topical treatments.
+Allylamines, azoles, and undecenoic acid were efficacious in placebo controlled trials.
+There are sufficient comparative trials to judge relative efficacy only between allylamines and azoles.
+Allylamines cure slightly more infections than azoles but are much more expensive than azoles.
+The most cost effective strategy is first to treat with azoles or undecenoic acid and to use allylamines only if that fails.

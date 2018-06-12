@@ -1,0 +1,21 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Cumulative effects associated with recurrent concussion in collegiate football players: the NCAA Concussion Study.
+Abstract Text 
+Approximately 300 000 sport-related concussions occur annually in the United States, and the likelihood of serious sequelae may increase with repeated head injury.
+To estimate the incidence of concussion and time to recovery after concussion in collegiate football players.
+Prospective cohort study of 2905 football players from 25 US colleges were tested at preseason baseline in 1999, 2000, and 2001 on a variety of measures and followed up prospectively to ascertain concussion occurrence.
+Players injured with a concussion were monitored until their concussion symptoms resolved and were followed up for repeat concussions until completion of their collegiate football career or until the end of the 2001 football season.
+Incidence of concussion and repeat concussion; type and duration of symptoms and course of recovery among players who were injured with a concussion during the seasons.
+During follow-up of 4251 player-seasons, 184 players (6.3%) had a concussion, and 12 (6.5%) of these players had a repeat concussion within the same season.
+There was an association between reported number of previous concussions and likelihood of incident concussion.
+Players reporting a history of 3 or more previous concussions were 3.0 (95% confidence interval, 1.6-5.6)
+times more likely to have an incident concussion than players with no concussion history.
+Headache was the most commonly reported symptom at the time of injury (85.2%), and mean overall symptom duration was 82 hours.
+Slowed recovery was associated with a history of multiple previous concussions (30.0% of those with > or =3 previous concussions had symptoms lasting >1 week compared with 14.6% of those with 1 previous concussion).
+Of the 12 incident within-season repeat concussions, 11 (91.7%)
+occurred within 10 days of the first injury, and 9 (75.0%)
+occurred within 7 days of the first injury.
+Our study suggests that players with a history of previous concussions are more likely to have future concussive injuries than those with no history; 1 in 15 players with a concussion may have additional concussions in the same playing season; and previous concussions may be associated with slower recovery of neurological function.

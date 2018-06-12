@@ -1,0 +1,16 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+Three months versus one year of oral anticoagulant therapy for idiopathic deep venous thrombosis. Warfarin Optimal Duration Italian Trial Investigators.
+Abstract Text 
+In patients with idiopathic deep venous thrombosis, continuing anticoagulant therapy beyond three months is associated with a reduced incidence of recurrent thrombosis during the period of therapy.
+Whether this benefit persists after anticoagulant therapy is discontinued is controversial.
+Patients with a first episode of idiopathic proximal deep venous thrombosis who had completed three months of oral anticoagulant therapy (with warfarin, in 97 percent of the cases and acenocoumarol in 3 percent) were randomly assigned to the discontinuation of oral anticoagulants or to their continuation for nine additional months.
+The primary study outcome was recurrence of symptomatic, objectively confirmed venous thromboembolism during at least two years of follow-up.
+The primary intention-to-treat analysis showed that of 134 patients assigned to continued oral anticoagulant therapy, 21 had a recurrence of venous thromboembolism (15.7 percent; average follow-up, 37.8 months), as compared with 21 of 133 patients assigned to the discontinuation of oral anticoagulant therapy (15.8 percent; average follow-up, 37.2 months), resulting in a relative risk of 0.99 (95 percent confidence interval, 0.57 to 1.73).
+During the initial nine months after randomization (after all patients received three months of therapy), 1 patient had a recurrence while receiving oral anticoagulant therapy (0.7 percent), as compared with 11 of the patients assigned to the discontinuation of oral anticoagulant therapy (8.3 percent; P=0.003).
+The incidence of recurrence after the discontinuation of treatment was 5.1 percent per patient-year in patients in whom oral anticoagulant therapy was discontinued after 3 months (95 percent confidence interval, 3.2 to 7.5 percent; average interval since discontinuation, 37.2 months) and 5.0 percent per patient-year in patients who received an additional 9 months of oral anticoagulant therapy (95 percent confidence interval, 3.1 to 7.8 percent; average interval since discontinuation, 29.4 months).
+None of the recurrences were fatal.
+Four patients had non-fatal major bleeding during the extended period of anticoagulant therapy (3.0 percent).
+In patients with idiopathic deep venous thrombosis, the clinical benefit associated with extending the duration of anticoagulant therapy to one year is not maintained after the therapy is discontinued.

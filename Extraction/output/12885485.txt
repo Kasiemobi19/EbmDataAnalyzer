@@ -1,0 +1,14 @@
+Title 
+Lancet
+
+Article Title 
+Are imprecise methods obscuring a relation between fat and breast cancer?
+Abstract Text 
+Pooled analyses of cohort studies show no relation between fat intake and breast-cancer risk.
+However, food-frequency questionnaire (FFQ) methods used in these studies are prone to measurement error.
+We assessed diet with an FFQ and a detailed 7-day food diary in 13070 women between 1993 and 1997.
+We compared 168 breast-cancer cases incident by 2000 with four matched controls.
+Risk of breast cancer was associated with saturated-fat intake measured with the food diary (hazard ratio 1.22 [95% CI 1.06-1.40],
+p=0.005, per quintile increase in energy-adjusted fat intake), but not with saturated fat measured with the FFQ (1.10 [0.94-1.29],
+p=0.23).
+Dietary measurement error might explain the absence of a significant association between dietary fat and breast-cancer risk in cohort studies.

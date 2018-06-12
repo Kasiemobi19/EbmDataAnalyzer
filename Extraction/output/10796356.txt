@@ -1,0 +1,23 @@
+Title 
+Cochrane database of systematic reviews (Online)
+
+Article Title 
+Non-steroidal anti-inflammatory drugs for low back pain.
+Abstract Text 
+Non-steroidal anti-inflammatory drugs (NSAIDs) are the most frequently prescribed medications worldwide and are widely used for patients with low back pain.
+The objective of this systematic review was to assess the effects of NSAIDs in the treatment of non-specific low back pain and to assess which type of NSAID is most effective.
+We searched the Medline and Embase databases and the Cochrane Controlled Trials Register (CCTR) up to and including September 1998 if reported in English, Dutch or German.
+We also screened references given in relevant reviews and identified trials.
+Randomised trials and double-blind controlled trials of NSAIDs in non-specific low back pain with or without radiation were included.
+Two reviewers blinded with respect to authors, institution and journal independently extracted data and assessed methodological quality.
+A methodological quality score was applied, and studies meeting at least six of 11 specified criteria were considered high quality studies.
+If data were considered clinically homogeneous, a meta-analysis was performed using a fixed effects model for statistically homogeneous subgroups and a random effects model for statistically heterogeneous subgroups.
+If data were considered clinically heterogeneous, a qualitative analysis was performed using a rating system with four levels of evidence (strong, moderate, limited, no).
+A total of 51 trials (total number of patients = 6057) were included in this review, of which 46 were published in English and five in German.
+Sixteen trials (31%) were of high quality.
+The pooled Relative Risk for global improvement after one week was 1.24 (95% CI 1.10, 1.41) and for additional analgesic use 1.29 (95% CI 1.05, 1.57), indicating a statistically significant effect in favour of NSAIDs compared to placebo.
+The results of the qualitative analysis showed that there is conflicting evidence (level 3) that NSAIDs are more effective than paracetamol for acute low back pain, and that there is moderate evidence (level 2) that NSAIDs are not more effective than other drugs for acute low back pain.
+There is strong evidence (level 1) that various types of NSAIDs are equally effective for acute low back pain.
+In conclusion, the evidence from the 51 trials included in this review suggests that NSAIDs are effective for short-term symptomatic relief in patients with acute low back pain.
+Furthermore, there does not seem to be a specific type of NSAID which is clearly more effective than others.
+Sufficient evidence on chronic low back pain is still lacking.

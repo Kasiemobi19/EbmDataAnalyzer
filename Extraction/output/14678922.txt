@@ -1,0 +1,19 @@
+Title 
+Annals of internal medicine
+
+Article Title 
+Management of atrial fibrillation: review of the evidence for the role of pharmacologic therapy, electrical cardioversion, and echocardiography.
+Abstract Text 
+This review summarizes the available evidence regarding the efficacy of medications used for ventricular rate control, stroke prevention, acute conversion, and maintenance of sinus rhythm, as well as the efficacy of electrical cardioversion and the use of echocardiography in patients with atrial fibrillation.
+The Cochrane Collaboration's database of controlled clinical trials and MEDLINE.
+Primarily randomized, controlled trials of medications.
+Paired reviewers obtained data on efficacy and safety.
+Strength of evidence was assessed.
+Recent clinical trial results showed that most patients with atrial fibrillation have similar outcomes with strategies for controlling ventricular rate compared with strategies for restoring sinus rhythm.
+For efficacy of primary stroke prevention, compared with placebo, evidence was strong for warfarin and suggestive for aspirin.
+The evidence for an increased risk for major bleeding was suggestive for warfarin and inconclusive for aspirin.
+For ventricular rate control, verapamil, diltiazem, atenolol, and metoprolol were qualitatively superior to digoxin and placebo, particularly during exercise.
+For efficacy of acute conversion, compared with placebo, evidence was strong for ibutilide, flecainide, dofetilide, propafenone, amiodarone, and quinidine.
+For efficacy of maintenance of sinus rhythm after conversion from atrial fibrillation, evidence was strong for amiodarone, propafenone, disopyramide, and sotalol.
+Echocardiography was found to be useful in estimating risk for thromboembolism and potentially useful in estimating likelihood of successful cardioversion and maintenance.
+For several key questions in the pharmacologic management of atrial fibrillation, strong evidence exists to support 1 or more treatment options.

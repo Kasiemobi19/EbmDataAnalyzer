@@ -1,0 +1,34 @@
+Title 
+Cochrane database of systematic reviews (Online)
+
+Article Title 
+Tissue adhesives for traumatic lacerations in children and adults.
+Abstract Text 
+Tissue adhesives have been used for many years to close simple lacerations as an alternative to standard wound closure (sutures, staples, adhesive strips).
+They offer many potential advantages over standard wound closure, including ease of use, decrease in pain and time to apply, as well as not requiring a follow-up visit for removal.
+Many studies have compared tissue adhesives and standard wound closure to determine the cosmetic outcome as well as these other secondary outcomes in their respective study populations.
+However, due to the wide variation in study parameters, there are no generalisable, definitive answers about the effectiveness of tissue adhesives.
+No study has been adequately powered to assess differences in complications, which are rare.
+To summarize the best available evidence for the effect of tissue adhesives in the management of traumatic lacerations in children and adults.
+We searched the Cochrane Controlled Trials Register (CD ROM 2001 Issue 4), the Cochrane Wounds Group Specialized Trials Register (Nov 2001), MEDLINE (1966 to Oct 1, 2001), and EMBASE (1988 to Sept 1, 2001) for relevant randomised controlled trials (RCTs).
+We also searched the citations of selected studies, and we contacted relevant authors and manufacturers of tissue adhesives to inquire about other published and unpublished trials.
+We included RCTs comparing tissue adhesives versus standard wound closure or tissue adhesive versus tissue adhesive for acute, linear, low tension, traumatic lacerations in an emergency or primary care setting.
+Trials evaluating tissue adhesives for surgical incisions or other types of wounds were not considered.
+Data from eligible studies were extracted by one reviewer and checked for accuracy by a second reviewer.
+Two reviewers independently assessed masked copies for quality.
+Outcomes of cosmesis (subgroups of age, wound location and need for deep sutures), pain, procedure time, ease of use and complications were analysed separately for two comparisons: 1) tissue adhesive versus standard wound care; and 2) tissue adhesive versus tissue adhesive.
+Eight studies compared a tissue adhesive with standard wound care.
+No significant difference was found for cosmesis at any of the time points examined, using either Cosmetic Visual Analogue Scale (CVAS) or Wound Evaluation Score (WES).
+Data were only available for subgroup analysis for age; no significant differences were found.
+Pain scores (Parent VAS WMD -15.7 mm; 95% CI -21.9, -9.5) and procedure time (WMD -5.6 minutes; 95% CI -8.2, -3.1) significantly favoured tissue adhesives.
+No studies reported on ease of use.
+Small but statistically significant risk differences were found for dehiscence (favouring standard wound care NNH 25 95% CI 14, 100) and erythema (favouring tissue adhesive NNH 8 95% CI 4, 100).
+Other complications were not significantly different between treatment groups.
+Only one study was identified that compared two tissue adhesives (butylcyanoacrylate (Histoacryl TM) versus octylcyanoacrylate (Dermabond TM)) for pediatric facial lacerations.
+No significant difference was found for cosmesis using CVAS at 1-3 months, or using WES at 5-14 days and 1-3 months.
+Similarly, no significant difference was found in pain, procedure time or complications.
+Results for ease of use were incomplete as reported.
+Tissue adhesives are an acceptable alternative to standard wound closure for repairing simple traumatic lacerations.
+There is no significant difference in cosmetic outcome between tissue adhesives and standard wound closure, or between different tissue adhesives.
+They offer the benefit of decreased procedure time and less pain, compared to standard wound closure.
+A small but statistically significant increased rate of dehiscence with tissue adhesives must be considered when choosing the closure method (NNH 25).

@@ -1,0 +1,16 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+C-reactive protein levels and outcomes after statin therapy.
+Abstract Text 
+Statins lower the levels of low-density lipoprotein (LDL) cholesterol and C-reactive protein (CRP).
+Whether this latter property affects clinical outcomes is unknown.
+We evaluated relationships between the LDL cholesterol and CRP levels achieved after treatment with 80 mg of atorvastatin or 40 mg of pravastatin per day and the risk of recurrent myocardial infarction or death from coronary causes among 3745 patients with acute coronary syndromes.
+Patients in whom statin therapy resulted in LDL cholesterol levels of less than 70 mg per deciliter (1.8 mmol per liter) had lower event rates than those with higher levels (2.7 vs. 4.0 events per 100 person-years, P=0.008).
+However, a virtually identical difference was observed between those who had CRP levels of less than 2 mg per liter after statin therapy and those who had higher levels (2.8 vs. 3.9 events per 100 person-years, P=0.006), an effect present at all levels of LDL cholesterol achieved.
+For patients with post-treatment LDL cholesterol levels of more than 70 mg per deciliter, the rates of recurrent events were 4.6 per 100 person-years among those with CRP levels of more than 2 mg per liter and 3.2 events per 100 person-years among those with CRP levels of less than 2 mg per liter; the respective rates among those with LDL cholesterol levels of less than 70 mg per deciliter were 3.1 and 2.4 events per 100 person-years (P<0.001).
+Although atorvastatin was more likely than pravastatin to result in low levels of LDL cholesterol and CRP, meeting these targets was more important in determining the outcomes than was the specific choice of therapy.
+Patients who had LDL cholesterol levels of less than 70 mg per deciliter and CRP levels of less than 1 mg per liter after statin therapy had the lowest rate of recurrent events (1.9 per 100 person-years).
+Patients who have low CRP levels after statin therapy have better clinical outcomes than those with higher CRP levels, regardless of the resultant level of LDL cholesterol.
+Strategies to lower cardiovascular risk with statins should include monitoring CRP as well as cholesterol.

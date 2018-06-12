@@ -1,0 +1,16 @@
+Title 
+The Journal of clinical psychiatry
+
+Article Title 
+Long-term treatment outcomes of depression with associated anxiety: efficacy of continuation treatment with fluoxetine.
+Abstract Text 
+Severity of anxiety does not appear to influence the antidepressant response to fluoxetine during acute treatment of major depressive disorder (MDD).
+We report a retrospective pooled analysis of 2 studies to assess the effect of associated anxiety on the efficacy of fluoxetine in the continuation treatment phase of MDD.
+Patients whose MDD remitted (study 1) or responded (study 2) after approximately 12 to 13 weeks of open-label treatment with fluoxetine 20 mg daily were randomly assigned in double-blind fashion to placebo, continued treatment with fluoxetine 20 mg daily, or, in study 2 only, treatment with enteric-coated fluoxetine 90 mg once weekly, for at least 25 weeks.
+Both studies included male and female outpatients who met criteria for MDD as assessed by DSM-III-R (study 1) or DSM-IV (study 2).
+Patients were categorized into high anxiety (> or = 7) or low anxiety (< 7) subgroups based on baseline Hamilton Rating Scale for Depression (HAM-D) anxiety/somatization subfactor scores.
+Subgroups were compared by therapy for time from randomization to relapse and change in efficacy scores.
+No significant differences in time to relapse were observed between anxiety subgroups in either active treatment group.
+However, in patients switched to placebo for continuation treatment, the high anxiety subgroup had a significantly higher risk of relapse than those with low anxiety (risk ratio = 1.63, p =.013).
+Significant differences between anxiety groups were seen in change in HAM-D anxiety/somatization subfactor scores in the fluoxetine 20 mg and placebo treatment groups, and in change in HAM-D-17 scores in the placebo treatment group (p <.05).
+Although high baseline anxiety does not appear to impact the benefit of continuation therapy with fluoxetine, it does appear to predict increased risk of relapse in individuals who do not remain on antidepressant therapy for the duration of continuation treatment.

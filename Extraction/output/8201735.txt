@@ -1,0 +1,22 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+A randomized placebo-controlled trial of Saccharomyces boulardii in combination with standard antibiotics for Clostridium difficile disease.
+Abstract Text 
+OBJECTIVE--To determine the safety and efficacy of a new combination treatment for patients with Clostridium difficile-associated disease (CDD).
+The treatment combines the yeast Saccharomyces boulardii with an antibiotic (vancomycin hydrochloride or metronidazole).
+DESIGN--A double-blind, randomized, placebo-controlled, parallel-group intervention study in patients with active CDD.
+Patients received standard antibiotics and S boulardii or placebo for 4 weeks, and were followed up for an additional 4 weeks after therapy.
+Effectiveness was determined by comparing the recurrence of CDD in the two groups using multivariate analysis to control for other risk factors for CDD.
+SETTING--National referral study of ambulatory or hospitalized patients from three main study coordinating centers.
+PATIENTS--A total of 124 eligible consenting adult patients, including 64 who were enrolled with an initial episode of CDD, and 60 who had a history of at least one prior CDD episode.
+Patients who were immunosuppressed due to acquired immunodeficiency syndrome or cancer chemotherapy within 3 months were not eligible.
+INTERVENTION--Treatment with oral S boulardii (1 g/d for 4 weeks) or placebo in combination with a standard antibiotic.
+MAIN OUTCOME MEASURE--Recurrence of active CDD.
+RESULTS--A history of CDD episodes dramatically increased the likelihood of further recurrences.
+Multivariate analysis revealed that patients treated with S boulardii and standard antibiotics had a significantly lower relative risk (RR) of CDD recurrence (RR, 0.43; 95% confidence interval, 0.20 to 0.97) compared with placebo and standard antibiotics.
+The efficacy of S boulardii was significant (recurrence rate 34.6%, compared with 64.7% on placebo; P = .04)
+in patients with recurrent CDD, but not in patients with initial CDD (recurrence rate 19.3% compared with 24.2% on placebo; P = .86).
+There were no serious adverse reactions associated with S boulardii.
+CONCLUSIONS--The combination of standard antibiotics and S boulardii was shown to be an effective and safe therapy for these patients with recurrent CDD; no benefit of S boulardii was demonstrated for those with an initial episode of CDD.

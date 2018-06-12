@@ -1,0 +1,20 @@
+Title 
+Spine
+
+Article Title 
+Systematic review of antidepressants in the treatment of chronic low back pain.
+Abstract Text 
+Three previous reviews have reached conflicting conclusions regarding the efficacy of antidepressants for patients with back pain.
+To systematically review the efficacy of antidepressants for the treatment of patients with back pain and to determine whether there is evidence that outcomes vary between classes of antidepressants.
+Best evidence synthesis of randomized, placebo-controlled trials of oral antidepressive agents in patients with back pain.
+Studies were identified by searching MEDLINE, PsycINFO, and the Cochrane Controlled Trials Registry.
+Two independent reviewers performed data extraction and assessed included studies with a 22-point methodologic quality assessment scale.
+Effect sizes were calculated if sufficient data were available.
+Twenty-two trials of antidepressants for the treatment of back pain were identified, of which seven studies of chronic low back pain met inclusion criteria.
+Among studies using antidepressants that inhibit norepinephrine reuptake (tricyclic or tetracyclic antidepressants), four of five found significant improvement in at least one relevant outcome measure.
+Assessment of these agents' impact on functional measures produced mixed results.
+No benefit in pain relief or functional status was found in three studies of antidepressants that do not inhibit norepinephrine reuptake.
+Based on a small number of studies, tricyclic and tetracyclic antidepressants appear to produce moderate symptom reductions for patients with chronic low back pain.
+This benefit appears to be independent of depression status.
+SSRIs do not appear to be beneficial for patients with chronic low back pain.
+There is conflicting evidence whether antidepressants improve functional status of patients with chronic low back pain.

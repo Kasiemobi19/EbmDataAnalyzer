@@ -1,0 +1,25 @@
+Title 
+International journal of obesity and related metabolic disorders : journal of the International Association for the Study of Obesity
+
+Article Title 
+Early determinants of childhood overweight and adiposity in a birth cohort study: role of breast-feeding.
+Abstract Text 
+The prevalence of adiposity in childhood is increasing.
+Is breast-feeding protective as suggested by cross-sectional studies?
+In a longitudinal birth cohort study, we tested whether breast-feeding for more than 2 months has preventive effects against overweight and adiposity at 6 y.
+Of 1314 children representing the catchment areas of six delivery units, 918 could be followed up to the age of 6 y.
+Height, weight, and skin-fold thickness were measured at regular visits.
+As the criteria of overweight, obesity, and adiposity in the children, the 90th and the 97th percentiles of BMI and skin-fold values were used.
+Parents with a BMI at or above the 90th percentile, which was 27 kg/m(2) or more, were considered overweight.
+Infants bottle-fed from birth or breast-fed for less than 3 months were classified as 'bottle-fed' (BO), and those breast-fed for 3 months and more as 'breast-fed' (BR).
+Univariate comparisons and logistic regression analysis were performed applying SAS 6.12.
+The final logistic model consisted of the 480 cases for whom complete data for all variables were available.
+The potential effect of loss to follow-up was analysed by the Cochran-Mantel-Haenzel test: the outcomes were not significantly influenced by loss to follow-up.
+At birth BMIs were nearly identical in both groups.
+By 3 months, BO had significantly higher BMIs and thicker skin folds than BR.
+From 6 months on, compared to BR, a consistently higher proportion of BO children exceeded the 90th and the 97th percentile of BMI and skin-fold thickness reference values.
+From the age of 4 y to 5 and 6 y, in BO the prevalence of obesity nearly doubled and tripled, respectively.
+With only minor changes of obesity prevalence in BR, the difference of BMI and skin-fold thickness between groups became statistically significant.
+Logistic regression analysis revealed that overweight of the mother, maternal smoking during pregnancy, bottle feeding, and low social status remained important risk factors for overweight and adiposity at 6 y of age.
+A maternal BMI of > or =27, bottle-feeding, maternal smoking during pregnancy, and low social status are risk factors for overweight and adiposity at 6 y of age.
+Early bottle-feeding brings forward the obesity rebound, predictive of obesity in later life.

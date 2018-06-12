@@ -1,0 +1,18 @@
+Title 
+The Journal of endocrinology
+
+Article Title 
+The effects of intense exercise on the female reproductive system.
+Abstract Text 
+Women have become increasingly physically active in recent decades.
+While exercise provides substantial health benefits, intensive exercise is also associated with a unique set of risks for the female athlete.
+Hypothalamic dysfunction associated with strenuous exercise, and the resulting disturbance of GnRH pulsatility, can result in delayed menarche and disruption of menstrual cyclicity.
+Specific mechanisms triggering reproductive dysfunction may vary across athletic disciplines.
+An energy drain incurred by women whose energy expenditure exceeds dietary energy intake appears to be the primary factor effecting GnRH suppression in athletes engaged in sports emphasizing leanness; nutritional restriction may be an important causal factor in the hypoestrogenism observed in these athletes.
+A distinct hormonal profile characterized by hyperandrogenism rather than hypoestrogenism is associated with athletes engaged in sports emphasizing strength over leanness.
+Complications associated with suppression of GnRH include infertility and compromised bone density.
+Failure to attain peak bone mass and bone loss predispose hypoestrogenic athletes to osteopenia and osteoporosis.
+Metabolic aberrations associated with nutritional insult may be the primary factors effecting low bone density in hypoestrogenic athletes, thus diagnosis should include careful screening for abnormal eating behavior.
+Increasing caloric intake to offset high energy demand may be sufficient to reverse menstrual dysfunction and stimulate bone accretion.
+Treatment with exogenous estrogen may help to curb further bone loss in the hypoestrogenic amenorrheic athlete, but may not be sufficient to stimulate bone growth.
+Treatment aimed at correcting metabolic abnormalities may in fact prove more effective than that aimed at correcting estrogen deficiencies.

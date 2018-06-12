@@ -1,0 +1,14 @@
+Title 
+The Journal of clinical endocrinology and metabolism
+
+Article Title 
+Bromocriptine as primary therapy for prolactin-secreting macroadenomas: results of a prospective multicenter study.
+Abstract Text 
+To assess the effectiveness of bromocriptine in reducing the size of PRL-secreting macroadenomas with extrasellar extension, we conducted a prospective multicenter trial in patients without prior radiotherapy, applying a standard protocol of treatment and tumor size evaluation.
+Basal serum PRL levels [1441 +/- 417 (+/- SEM) ng/ml for women; 3451 +/- 1111 ng/ml for men] fell in all patients and to 11% or less of basal values in all patients but 1. Normal PRL levels were reached in 18 of the 27 patients.
+In 13 patients (46%), tumor size was reduced by greater than 50%, in 5 patients (18%) by about 50%, and in 9 patients (36%) by approximately 10-25%.
+The extent of tumor size reduction did not correlate with basal PRL, nadir PRL, percent fall in PRL, or whether PRL levels reached normal.
+However, a reduction in PRL levels always preceded any detectable change in tumor size.
+In 19 patients, reduction in tumor size was evident by 6 weeks, but in the other 8, such reduction was not noted until the 6 month evaluation.
+In the 4 patients in whom bromocriptine was discontinued at the end of 1 yr, tumor reexpansion occurred in 3. Visual fields improved in 9 of the 10 patients in whom they were abnormal.
+Because of the excellent results found in most of the patients in this series, we suggest that therapy with bromocriptine should be considered as initial management for patients with PRL-secreting macroadenomas.

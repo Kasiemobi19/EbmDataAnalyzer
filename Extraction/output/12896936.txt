@@ -1,0 +1,18 @@
+Title 
+BMJ (Clinical research ed.)
+
+Article Title 
+Effect of strategies to reduce exposure of infants to environmental tobacco smoke in the home: cross sectional survey.
+Abstract Text 
+To examine parents' reported knowledge and use of harm reduction strategies to protect their infants from exposure to tobacco smoke in the home, and the relation between reported use of strategies and urinary cotinine to creatinine ratios in the infants.
+Cross sectional survey.
+Coventry and Birmingham.
+Parents' reported knowledge and use of harm reduction strategies and urinary cotinine to creatinine ratios in their infants.
+314 smoking households with infants.
+86% of parents (264/307) believed that environmental tobacco smoke is harmful, 90% (281/314) believed that infants can be protected from it in the home, and 10% (32/314) were either unaware of measures or reported using none.
+65% of parents (205/314) reported using two or more measures, but only 18% (58/314) reported not allowing smoking in the home.
+No difference was found in mean log e transformed urinary cotinine to creatinine ratio in infants from households that used no measures compared with households that used less strict measures.
+Mean log cotinine to creatinine ratios were significantly different in households banning smoking in the home compared with those using less strict or no measures.
+Banning smoking in the home was independently associated with a significant reduction in urinary cotinine to creatinine ratio by a factor of 2.6 (1.6 to 4.2) after adjustment for average household cigarette consumption, tenure, and overcrowding.
+Less than a fifth of parents in smoking households ban smoking in the home.
+Banning smoking was associated with a small but significant reduction in urinary cotinine to creatinine ratio in infants, whereas less strict measures compared with no measures had no effect on the infants' exposure to environmental tobacco smoke.

@@ -1,0 +1,17 @@
+Title 
+Archives of internal medicine
+
+Article Title 
+Prophylactic antithrombotic therapy for patients with systemic lupus erythematosus with or without antiphospholipid antibodies: do the benefits outweigh the risks? A decision analysis.
+Abstract Text 
+A high incidence of both arterial and venous thromboembolic events has been reported in patients with systemic lupus erythematosus (SLE), but the risks and benefits of primary prophylactic antithrombotic therapy have not been assessed.
+We measured the clinical benefit of 3 antithrombotic regimens in patients with SLE without antiphospholipid antibodies, with anticardiolipin antibodies, or with lupus anticoagulant.
+A Markov decision analysis was used to evaluate prophylactic aspirin therapy, prophylactic oral anticoagulant therapy, and observation.
+Input data were obtained by literature review.
+Clinical practice was simulated in a hypothetical cohort of patients with SLE who had not experienced any previous episode of arterial or venous thromboembolic events.
+For each strategy, we measured numbers of thromboembolic events prevented and major bleeding episodes induced, and quality-adjusted survival years.
+Prophylactic aspirin therapy was the preferred strategy in all settings, the number of prevented thrombotic events exceeding that of induced bleeding episodes.
+In the baseline analysis (40-year-old patients with SLE), the gain in quality-adjusted survival years achieved by prophylactic aspirin compared with observation ranged from 3 months in patients without antiphospholipid antibodies to 11 months in patients with anticardiolipin antibodies or lupus anticoagulant.
+Prophylactic oral anticoagulant therapy provided better results than prophylactic aspirin only in patients with lupus anticoagulant and an estimated bleeding risk of 1% per year or less.
+Prophylactic aspirin should be given to all patients with SLE to prevent both arterial and venous thrombotic manifestations, especially in patients with antiphospholipid antibodies.
+In selected patients with lupus anticoagulant and a low bleeding risk, prophylactic oral anticoagulant therapy may provide a higher utility.

@@ -1,0 +1,12 @@
+Title 
+Vaccine
+
+Article Title 
+Pneumococcal polysaccharide vaccine: a systematic review of clinical effectiveness in adults.
+Abstract Text 
+Pneumococcal polysaccharide vaccine is recommended in western countries for individuals at high risk of pneumococcal illness.
+We undertook a systematic review of randomised controlled trials of pneumococcal vaccine in adults, to determine the effects on clinical outcomes.
+RESULTS: In industrialised populations, no benefit was detected for outcomes other than pneumococcal bacteraemia, and this did not reach statistical significance.
+In non-industrial populations, clear benefit was demonstrated for mortality and all-cause pneumonia.
+CONCLUSION: Benefit from pneumococcal vaccination depends on the baseline risk of infection and characteristics of a given population.
+Evidence from randomised trials for widespread adult vaccination in industrial countries is lacking.

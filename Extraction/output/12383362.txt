@@ -1,0 +1,18 @@
+Title 
+Neurosurgery
+
+Article Title 
+Cumulative effects of concussion in high school athletes.
+Abstract Text 
+A common assumption in sports medicine is that a history of concussion is predictive of a lower threshold for, as well as a worse outcome after, subsequent concussive injury.
+The current study was conducted to investigate the relationship between concussion history in high school athletes and the on-field presentation of symptoms after subsequent concussion.
+One hundred seventy-three athletes who experienced sports-related concussion composed the initial study group.
+Binary groups were subsequently created on the basis of concussion history.
+Sixty athletes with no concussion history were compared with 28 athletes with a history of three or more concussions.
+The groups were compared in terms of the on-field presentation of symptoms after an in-study concussion.
+Dependent variables included the postinjury presence of loss of consciousness, anterograde amnesia, retrograde amnesia, and confusion.
+Athletes with three or more prior concussions were more likely to experience on-field positive loss of consciousness (chi(2) = 8.0, P = 0.005), anterograde amnesia (chi(2) = 5.5, P = 0.019), and confusion (chi(2) = 5.1, P = 0.024) after a subsequent cerebral concussion.
+An odds ratio revealed that athletes with a history of three concussions were 9.3 times more likely than athletes with no history of concussion to demonstrate three to four abnormal on-field markers of concussion severity.
+This study is the first to suggest a cumulative effect of concussion in high school athletes.
+A more severe on-field presentation of concussion markers is evidenced in high school athletes with a pronounced history of concussion.
+This study's findings highlight the need for more long-term outcome studies in high school athletes who sustain sports-related concussions.

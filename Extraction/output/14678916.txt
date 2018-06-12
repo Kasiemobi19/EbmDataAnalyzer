@@ -1,0 +1,21 @@
+Title 
+Annals of internal medicine
+
+Article Title 
+Sunscreen use and the risk for melanoma: a quantitative review.
+Abstract Text 
+Originally developed to protect against sunburn, sunscreen has been assumed to prevent skin cancer.
+However, conflicting reports include claims that sunscreen increases risk for melanoma.
+To examine the strength and consistency of associations between melanoma and sunscreen use in the published literature.
+A comprehensive MEDLINE search of articles published from 1966 to 2003 that reported information on sunscreen use and melanoma in humans.
+Analytic studies reporting data on sunscreen use before diagnosis of melanoma.
+Two independent reviewers extracted data.
+Inconsistencies were rereviewed until agreement was achieved.
+When necessary, a third party resolved discrepancies.
+Odds ratios were pooled across studies by using standard meta-analytic techniques.
+Pooled odds ratios for ever use among 18 heterogeneous studies did not support an association between melanoma and sunscreen use.
+Variation among odds ratios was explained by studies that did not adjust for confounding effects of sun sensitivity.
+The lack of a dose-response effect with frequency of use (never, sometimes, or always) or years of use provided further evidence of a null association.
+No association was seen between melanoma and sunscreen use.
+Failure to control for confounding factors may explain previous reports of positive associations linking melanoma to sunscreen use.
+In addition, it may take decades to detect a protective association between melanoma and use of the newer formulations of sunscreens.

@@ -1,0 +1,13 @@
+Title 
+Public health reports (Washington, D.C. : 1974)
+
+Article Title 
+Is there any connection between a second pneumonia shot and hospitalization among Medicare beneficiaries?
+Abstract Text 
+To learn whether the risk of revaccination in adults should limit its use, the authors investigated whether adverse events requiring hospitalization occurred in a group of Medicare enrollees revaccinated with pneumococcal polysaccharide vaccine.
+A prospective cohort analysis and case study of revaccinated people involved five percent of all elderly Medicare enrollees from 1985 through 1988, consisting of 66,256 people receiving one dose of vaccine and 1,099 receiving two doses.
+Comparison was made of the hospitalization rate within 30 days after revaccination and rates of singly vaccinated persons using discharge diagnosis for all those hospitalized during the 30 days after revaccination.
+No significant difference was found between the hospitalization rate of the revaccinated cohort and comparison group.
+No adverse reactions attributable to pneumococcal polysaccharide vaccine causing hospitalization were identified among 39 revaccinated persons who were hospitalized within 30 days of revaccination.
+Revaccination of elderly Medicare beneficiaries does not cause events serious enough to require hospitalization.
+Vaccination of persons according to the Public Health Service Immunization Practice Advisory Committee guidelines is recommended when the prior immunization status is unknown.

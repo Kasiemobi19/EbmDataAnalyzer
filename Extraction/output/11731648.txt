@@ -1,0 +1,24 @@
+Title 
+Pediatrics
+
+Article Title 
+C-reactive protein in febrile children 1 to 36 months of age with clinically undetectable serious bacterial infection.
+Abstract Text 
+To determine the diagnostic properties of quantitative C-reactive protein (CRP) associated with clinically undetectable serious bacterial infection (SBI) in febrile children 1 to 36 months of age.
+Febrile children presenting to a pediatric emergency department (ED) with ages ranging from 1 to 36 months, temperatures > or =39 degrees C, and clinically undetectable source of fever were enrolled in this prospective cohort study.
+Demographic information, ED temperature, duration of fever, and clinical evaluation using the Yale observation scale were recorded at the time of the initial evaluation.
+The white blood cell count (WBC), band count, absolute neutrophil count (ANC), and CRP concentration were measured at the same time.
+All patients received blood cultures and either a screening urinalysis or urine culture.
+A chest radiograph was obtained at the discretion of the ED physician.
+Patients with history of using antibiotics within 1 week of their presentation to the ED were excluded.
+The main outcome result was the presence of laboratory or radiographically proven SBI (bacteremia, meningitis, urinary tract infection, pneumonia, septic arthritis, and osteomyelitis).
+Seventy-seven patients were enrolled in the study.
+Fourteen (18%) had a SBI (6 urinary tract infection; 4 pneumonia, including 1 patient with Streptococcus pneumoniae bacteremia; and 4 occult S pneumoniae bacteremia), and 63 had no SBI.
+The 2 groups were indistinguishable in age, sex, ED temperature, duration of fever, and Yale observation scale.
+CRP concentration, WBC, and ANC were significantly different between the 2 groups.
+In a multivariate logistic regression analysis, only CRP remained as a predictor of SBI (Beta = 0.76, 95% confidence interval [CI]: 0.64, 0.89).
+Receiver-operating characteristic analysis demonstrated CRP (area under curve [AUC] 0.905, standard error [SE] 0.05, 95% CI: 0.808, 1.002) to be superior to ANC (AUC 0.805, SE 0.051, 95% CI: 0.705, 0.905) and to WBC (AUC 0.761, SE 0.068, 95% CI: 0.628, 0.895).
+A CRP cutoff point of 7 was determined to maximize both sensitivity and specificity (sensitivity 79%, specificity 91%, likelihood ratio 8.3, 95% CI: 3.8, 27.3).
+Multilevel likelihood ratios and posttest probabilities were calculated for a variety of CRP levels.
+A CRP concentration of <5 mg/dL effectively ruled out SBI (likelihood ratio 0.087, 95% CI: 0.02, 0.38, posttest probability of SBI 1.9%).
+Quantitative CRP concentration is a valuable laboratory test in the evaluation of febrile young children who are at risk for occult bacteremia and SBI, with a better predictive value than the WBC or ANC.

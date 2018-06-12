@@ -1,0 +1,14 @@
+Title 
+The Journal of antimicrobial chemotherapy
+
+Article Title 
+Comparison of azithromycin and erythromycin in the treatment of atypical pneumonias.
+Abstract Text 
+An open, randomized, multicentre study compared the efficacy and safety of the prototype, azalide, azithromycin, and erythromycin in the treatment of atypical pneumonias.
+Azithromycin was administered for five days at a dosage of 250 mg bd on day 1 and 250 mg once daily on days 2 to 5. Erythromycin was given for ten days at 500 mg qid.
+Causative pathogens were identified by serological methods.
+Of 57 patients treated with azithromycin, Mycoplasma pneumoniae and Chlamydia psittaci were identified in 31 and eight patients, respectively.
+Of 44 patients treated with erythromycin, M. pneumoniae and C. psittaci were identified in 24 and eight patients, respectively.
+There were no therapeutic failures in either treatment group.
+Side effects were observed in one of 57 patients on azithromycin and in six of 44 patients on erythromycin.
+Azithromycin appears to be as effective as erythromycin in the treatment of atypical pneumonias and better tolerated.

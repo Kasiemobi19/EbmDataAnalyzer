@@ -1,0 +1,26 @@
+Title 
+Pediatrics
+
+Article Title 
+Effects of thickened feeding on gastroesophageal reflux in infants: a placebo-controlled crossover study using intraluminal impedance.
+Abstract Text 
+Thickening of formula feedings is part of the therapeutic approach for gastroesophageal reflux (GER) in infants.
+However, its mechanism of action, especially regarding the occurrence of nonacid (pH >4) GER, has not yet been clearly described.
+The aim of this randomized, placebo-controlled crossover study was to examine the influence of formula thickened with carob (St.
+John's bread) bean gum on acid and nonacid GER.
+Infants with recurrent regurgitation and without other symptoms were fed alternately (A-B-A-B-A-B) with thickened (A) and nonthickened (B) but otherwise identical formula.
+Documentation of GER episodes during the study was performed by simultaneous intraesophageal impedance measurement (intraluminal electrical impedance; IMP) and pH monitoring.
+The IMP technique is able to detect bolus movements inside a luminal organ.
+The use of multiple measuring segments on a single catheter allowed the analysis of direction, height, and duration of the bolus transport.
+Continuous videorecording and visual surveillance of regurgitation frequency and amount resulted in a severity score.
+Fourteen infants (42 +/- 32 days old) were examined during 6 feeding intervals each for a total measuring time of 342 hours.
+A total of 1183 GER episodes and 83 episodes of regurgitation were registered.
+Regurgitation frequency (15 vs 68 episodes) and amount (severity score 0.6 vs 1.8) were significantly lower after feedings with thickened formula.
+The difference regarding the occurrence of GER documented by IMP was also pronounced (536 vs 647 episodes).
+Although not statistically significant, maximal height reached by the refluxate in the esophagus was decreased after thickened feedings.
+Mean GER duration and the frequency of acid (pH <4) GER were not altered.
+Thickened feeding has a significant effect on the reduction of regurgitation frequency and amount in otherwise healthy infants.
+This effect is caused by a reduction in the number of nonacid (pH >4) GER episodes, but also because of a decrease of mean reflux height reached in the esophagus.
+However, the occurrence of acid GER is not reduced.
+The combination of IMP and pH monitoring allows the complete registration and description of these GER episodes.
+Thickening of formula feedings with carob bean gum is an efficient therapy for uncomplicated GER in infants.

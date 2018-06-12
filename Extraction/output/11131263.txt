@@ -1,0 +1,20 @@
+Title 
+Journal of pain and symptom management
+
+Article Title 
+Antidepressants and anticonvulsants for diabetic neuropathy and postherpetic neuralgia: a quantitative systematic review.
+Abstract Text 
+To determine the relative efficacy and adverse effects of antidepressants and anticonvulsants in the treatment of diabetic neuroapathy and postherpetic neuralgia, published reports were identified from a variety of electronic databases, including Medline, EMBASE, the Cochrane Library and the Oxford Pain Relief Database, and from two previously published reviews.
+Additional studies were identified from the reference lists of retrieved reports.
+The relative benefit (RB) and number-needed-to-treat (NNT) for one patient to achieve at least 50 % pain relief was calculated from available dichotomous data, as was the relative risk (RR) and number-needed-to-harm (NH) for minor adverse effects and drug related study withdrawal.
+In diabetic neuropathy, 16 reports compared antidepressants with placebo (491 patient episodes) and three compared anticonvulsants with placebo (321).
+The NNT for at least 50 % pain relief with antidepressants was 3.4 (95 % confidence interval 2.6-4.
+7) and with anticonvulsants 2. 7 (2.
+2-3.
+8).
+In postherpetic neuralgia, three reports compared antidepressants with placebo (145 patient episodes) and one compared anticonvulsants with placebo (225), giving an NNT with antidepressants of 2.1 (1.
+7-3) and with anticonvulsants 3.2 (2.4-5).
+There was little difference in the incidence of minor adverse effects with either antidepressants or anticonvulsants compared with placebo, with 1VH (minor) values of about 3. For drug-related study withdrawal, antidepressants had an NNH (major) of 17 (11-43) compared with placebo, whereas with anticonvulsants there was no significant difference from placebo.
+Antidepressants and anticonvulsants had the same efficacy and incidence of minor adverse effects in these tzoo neuropathic pain conditions.
+There was no evidence that selective serotonin reuptake inhibitors (SSRIs) were better than older antidepressants, and no evidence that gabapentin was better than older anticonvulsants.
+In these trials patients were more likely to stop taking antidepressants than anticonvulsants because of adverse effects.

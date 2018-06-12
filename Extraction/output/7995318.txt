@@ -1,0 +1,18 @@
+Title 
+European journal of clinical pharmacology
+
+Article Title 
+The effectiveness of topically applied capsaicin. A meta-analysis.
+Abstract Text 
+To undertake a quantitative overview of trials of topical capsaicin for the treatment of diabetic neuropathy, osteoarthritis, post-herpetic neuralgia, and psoriasis.
+A systematic search of the literature using both computerized and manual methods for identifying clinical trials of capsaicin.
+The trials identified were abstracted for response data, which then were analysed using established meta-analytic methods for both fixed and random effects modelling.
+The odds ratio of the response rate of subjects receiving topical capsaicin relative to that of subjects on placebo was used as the main outcome measure.
+The difference in the response rate was used as the response variable under the random effects model.
+When dropouts were mentioned and unambiguous assignment could not be made, the analysis was made on the basis of intention to treat.
+Capsaicin cream give more pain relief to patients with diabetic neuropathy than placebo did.
+The odds ratio (OR) and corresponding 95% confidence interval (95% CI) in favour of capsaicin cream were OR = 2.74 (95% CI = 1.73, 4.32).
+Using a random effect model the rate difference (RD) in favour of capsaicin cream was RD = 0.25 (95% CI = 0.15, 0.35).
+Capsaicin cream was also better than placebo in providing pain relief in osteoarthritis: OR = 4.36 (95% CI = 2.77, 6.88) and RD = 0.29 (95% CI = 0.20, 0.37) and in psoriasis: OR = 2.80 (95% CI = 1.69, 4.62) and RD = 0.35 (95% CI = 0.14, 0.56).
+There was, however, evidence of heterogeneity in the individual RDs in psoriasis, and complete binding was difficulty because of the initial discomfort associated with topical capsaicin.(ABSTRACT
+TRUNCATED AT 250 WORDS)

@@ -1,0 +1,20 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+A decision analysis of alternative treatment strategies for clinically localized prostate cancer. Prostate Patient Outcomes Research Team.
+Abstract Text 
+To model the impact of initial therapy on outcomes for men with localized (clinical stage A or B) prostatic carcinoma.
+A decision analysis modeling three strategies: radical prostatectomy, external-beam radiation therapy, and watchful waiting, with delayed hormonal therapy if metastatic disease develops.
+We modeled the main benefit of treatment as a reduction in the chance of death or disutility from metastatic disease.
+These benefits were offset in the model by the risks of treatment-related morbidity and mortality.
+The model was used to analyze expected outcomes by tumor grade (well, moderately, and poorly differentiated) for men 60 to 75 years of age.
+Probabilities and rates for important clinical events, obtained through review of the literature for prostatic carcinoma and analysis of Medicare claims data.
+Several patterns emerged within the range of uncertainty about the risks and benefits of treatment for prostatic carcinoma.
+In patients with well-differentiated tumor grades, based on clinical staging, treatment at best offers limited benefit in terms of quality-adjusted life expectancy and may result in harm to the patient.
+Among patients with moderately or poorly differentiated tumors, if we use the most optimistic assumptions about treatment efficacy, then patients aged 60 to 65 years would benefit from either radical prostatectomy or external-beam radiation therapy, compared with watchful waiting.
+However, in most other cases, treatment offers less than a 1-year improvement in quality-adjusted life expectancy or decreases the quality-adjusted life expectancy compared with watchful waiting.
+Invasive treatment generally appears to be harmful for patients older than 70 years.
+Radical prostatectomy and radiation therapy may benefit selected groups of patients with localized prostate cancer, particularly younger patients with higher-grade tumors.
+However, our model shows that in most cases the potential benefits of therapy are small enough that the choice of therapy is sensitive to the patient's preferences for various outcomes and discounting.
+The choice of watchful waiting is a reasonable alternative to invasive treatment for many men with localized prostatic carcinoma.

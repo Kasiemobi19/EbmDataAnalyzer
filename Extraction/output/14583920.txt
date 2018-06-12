@@ -1,0 +1,29 @@
+Title 
+Cochrane database of systematic reviews (Online)
+
+Article Title 
+Vaccines for preventing pneumococcal infection in adults.
+Abstract Text 
+Diseases caused by Streptococcus pneumoniae (S. pneumoniae) continue to cause substantial morbidity and mortality throughout the world.
+Polysaccharide pneumococcal vaccines have been developed for over 50 years and may have the potential to prevent disease and death.
+To assess the effectiveness of polysaccharide pneumococcal vaccination in preventing disease or death in adults.
+Trials were identified by electronic searches of the Cochrane Central Register of Controlled Trials (CENTRAL) issue 2, 2003 (which includes the Cochrane ARI Group's specialised register); MEDLINE (January 1966 to June 2003); and EMBASE (1974 to June 2003).
+We searched existing literature.
+The bibliographies of all newly revealed studies were read in order to identify further studies.
+The vaccine manufacturers, the lead authors of newly identified studies not included in existing meta-analyses were contacted.
+A) Prospective, randomised or quasi-randomised studies comparing pneumococcal vaccines with placebo, control vaccines or no intervention.B) Case-control studies (including indirect cohort studies) assessing pneumococcal vaccine effectiveness against invasive pneumococcal disease.
+Cohort studies are excluded.
+A) Randomised studies.
+Trial quality assessment was conducted by two reviewers (JH and DT).
+Data extraction was done by three reviewers (JH, DT, KD).
+There were many instances of unclear or incomplete data in the trial reports, and the final dataset was arrived at after much deliberation and discussion, including comparison with the data used in two previous reviews of this question.
+Due to the age of the trials (dating back to 1954 in one case) it was not generally possible to obtain clarification from the authors, though a partial clarification was achieved in one case.B) Non-randomised studies.
+Study quality was assessed by two reviewers (RA and KD).
+The combined results from the randomised studies fail to show that the polysaccharide pneumococcal vaccine is effective in preventing either pneumonia (outcome 6: odds ratio = 0.77, confidence interval 0.58, 1.02, number = 14) or death (outcome 8: odds ratio 0.90, confidence interval 0.76, 1.07, number = 11).
+Despite encouraging data from some very early trials, pooling trials published from 1977 on suggests there is no effect (outcome 6; odds ratio = 0.96, confidence interval 0.80, 1.15, number = 12; outcome 9: odds ratio = 0.98, confidence interval 0.88, 1.09, number = 10).
+The available data cannot distinguish whether this heterogeneity in results is due to improvements in trial methodology and reporting, to differences in trial setting or to real loss of efficacy over time.
+This is because the early, poorly reported trials were conducted in high-risk healthy populations where the expected benefit is greatest.
+The case-control studies show significant efficacy in preventing invasive pneumococcal disease: OR 0.47 (CI 0.37, 0.59) corresponding to an efficacy of 53%.
+While polysaccharide pneumococcal vaccines do not appear to reduce the incidence of pneumonia or death in adults with or without chronic illness, or in the elderly (55 years and above), the evidence from non-randomised studies suggests that the vaccines are effective in the reducing the incidence of the more specific outcome, invasive pneumococcal disease, among adults and the immunocompetent elderly (55 years and above).
+Surveillance data suggest that infection rates vary widely between and also within countries, but a typical figure in developed countries is 0.01%, or 10 per 100,000 per year.
+Efficacy of 50% then corresponds to a number-needed-to-treat (NNT) of 20,000 vaccinations per infection avoided, and perhaps 50,000 per death avoided.

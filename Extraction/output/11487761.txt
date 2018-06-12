@@ -1,0 +1,13 @@
+Title 
+The Journal of pediatrics
+
+Article Title 
+Immunization of HIV-infected children with varicella vaccine.
+Abstract Text 
+To determine the safety and immunogenicity of varicella vaccine in children with human immunodeficiency virus (HIV) infection.
+Children (n = 41) who were mildly affected by HIV (Centers for Disease Control and Prevention stage N1 or A1) and had no history or serum antibody indicative of prior varicella infection were immunized with two doses of live attenuated varicella vaccine.
+A minority of the vaccine recipients had mild local or systemic reactions.
+Vaccination had no effect on the clinical stage of HIV or the HIV RNA plasma load.
+CD4 cell percentage and CD4 cell count were marginally decreased at week 4 after the first vaccination; this effect was no longer present at week 8 after vaccination.
+Two months after the second dose of vaccine, 60% of vaccine recipients had anti-varicella antibody in their serum, and 83% had a positive lymphocyte proliferation assay response to varicella antigen.
+On the basis of its safety and immunogenicity, varicella vaccine should be considered in the childhood vaccines given to mildly affected HIV-infected children.

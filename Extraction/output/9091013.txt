@@ -1,0 +1,21 @@
+Title 
+British journal of obstetrics and gynaecology
+
+Article Title 
+Randomised trial comparing a policy of early with selective amniotomy in uncomplicated labour at term.
+Abstract Text 
+To compare two management policies: rupture of the fetal membranes when women are in normal labour or leave them intact as long as feasible.
+The labour ward of a city university hospital.
+Automated randomised clinical trial.
+1540 women in uncomplicated term labour.
+Data on labour duration, blood loss, oxytocin use and fetal condition were collected from 1132 women.
+Some data from nulliparous women has been presented earlier by the UK Amniotomy Group.
+Duration of labour, Apgar score, fetal morbidity and maternal morbidity including perineal injury, mode of delivery, epidural rates and the total number of vaginal examinations in the first stage of labour after amniotomy.
+Amniotomy at the next vaginal examination or amniotomy only if indicated.
+The median cervical dilatation at membrane rupture was 2 cm greater in the first group.
+A policy of routine amniotomy in labour had no measurable advantage over selective amniotomy for parous women (difference = 4 min) but shortened labour in nulliparous women by 1 h (Mann-Whitney U test: P < 0.05).
+There was a suggestion of a higher caesarean section rate (OR 1.9; 95% CI 0.9-3.5),
+and there were more vaginal examinations after membrane rupture in the group allocated routine amniotomy.
+There were no measurable differences in oxytocin use, fetal condition at birth, retained placenta rates, blood loss, pain or analgesia requirements.
+Routine amniotomy may shorten the first labour but not subsequent ones.
+There is a suggestion that routine surgical interference may be harmful by increasing the risk of caesarean section, and this agrees with data from other trials (common odds ratio 1.2; 95% CI 0.92-1.6).

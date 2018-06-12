@@ -1,0 +1,12 @@
+Title 
+Plastic and reconstructive surgery
+
+Article Title 
+Breast implants and cancer: causation, delayed detection, and survival.
+Abstract Text 
+Concern for many women with breast implants has been focused on three topics: cancer (both breast and other cancers), delayed detection of breast cancer, and increased breast cancer recurrence or decreased length of survival.
+In this study, a qualitative review of the literature on these subjects was conducted, coupled with a meta-analysis of the risk for breast cancer or other cancers (excluding that of the breast).
+Researchers have consistently found no persuasive evidence of a causal association between breast implants and any type of cancer.
+The meta-analysis results obtained by combining the epidemiology studies support the overall conclusion that breast implants do not pose any additional risk for breast cancer (relative risk, 0.72; 95% confidence interval, 0.61 to 0.85) or for other cancers (relative risk, 1.03; 95% confidence interval, 0.87 to 1.24).
+This analysis suggests that breast implants may confer a protective effect against breast cancer.
+Women with implants should be reassured by the consistency of scientific studies which have uniformly determined that, compared with women without implants, they are not at increased risk for cancer, are not diagnosed with later-stage breast malignancies, are not at increased risk for breast cancer recurrence, and do not have a decreased length of survival.

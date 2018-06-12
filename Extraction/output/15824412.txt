@@ -1,0 +1,22 @@
+Title 
+CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne
+
+Article Title 
+Intra-articular hyaluronic acid for the treatment of osteoarthritis of the knee: systematic review and meta-analysis.
+Abstract Text 
+Osteoarthritis of the knee affects up to 10% of the elderly population.
+The condition is frequently treated by intra-articular injection of hyaluronic acid.
+We performed a systematic review and meta-analysis of randomized controlled trials to assess the effectiveness of this treatment.
+We searched MEDLINE, EMBASE, CINAHL, BIOSIS and the Cochrane Controlled Trial Register from inception until April 2004 using a combination of search terms for knee osteoarthritis and hyaluronic acid and a filter for randomized controlled trials.
+We extracted data on pain at rest, pain during or immediately after movement, joint function and adverse events.
+Twenty-two trials that reported usable quantitative information on any of the predefined end points were identified and included in the systematic review.
+Even though pain at rest may be improved by hyaluronic acid, the data available from these studies did not allow an appropriate assessment of this end point.
+Patients who received the intervention experienced a reduction in pain during movement: the mean difference on a 100-mm visual analogue scale was -3.8 mm (95% confidence interval [CI] -9.1 to 1.4 mm) after 2-6 weeks, -4.3 mm (95% CI -7.6 to -0.9 mm) after 10-14 weeks and -7.1 mm (95% CI -11.8 to -2.4 mm) after 22-30 weeks.
+However, this effect was not compatible with a clinically meaningful difference (expected to be about 15 mm on the visual analogue scale).
+Furthermore, the effect was exaggerated by trials not reporting an intention-to-treat analysis.
+No improvement in knee function was observed at any time point.
+Even so, the effect of hyaluronic acid on knee function was more favourable when allocation was not concealed.
+Adverse events occurred slightly more often among patients who received the intervention (relative risk 1.08, 95% CI 1.01 to 1.15).
+Only 4 trials explicitly reported allocation concealment, had blinded outcome assessment and presented intention-to-treat data.
+According to the currently available evidence, intra-articular hyaluronic acid has not been proven clinically effective and may be associated with a greater risk of adverse events.
+Large trials with clinically relevant and uniform end points are necessary to clarify the benefit-risk ratio.

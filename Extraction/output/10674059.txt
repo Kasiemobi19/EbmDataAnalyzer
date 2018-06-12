@@ -1,0 +1,20 @@
+Title 
+CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne
+
+Article Title 
+Meta-analysis of benzodiazepine use in the treatment of insomnia.
+Abstract Text 
+To systematically review the benefits and risks associated with the use of benzodiazepines to treat insomnia in adults.
+MEDLINE and the Cochrane Controlled Trials Registry were searched for English-language articles published from 1966 to December 1998 that described randomized controlled trials of benzodiazepines for the treatment of insomnia.
+Key words included "benzodiazepines" (exploded), "randomized controlled trial" and "insomnia."
+Bibliographies of relevant articles were reviewed for additional studies and manufacturers of benzodiazepines were asked to submit additional randomized controlled trial reports not in the literature.
+Articles were considered for the meta-analysis if they were randomized controlled trials involving patients with insomnia and compared a benzodiazepine with placebo or another active agent.
+Of the 89 trials originally identified, 45 met our criteria, representing a total of 2672 patients.
+Data were extracted regarding the participants, the setting, details of the intervention, the outcomes (including adverse effects) and the methodologic quality of the studies.
+The meta-analyses of sleep records indicated that, when compared with placebo, benzodiazepines decreased sleep latency by 4.2 minutes (non-significant; 95% confidence interval (CI -0.7 to 9.2) and significantly increased total sleep duration by 61.8 minutes (95% CI 37.4 to 86.2).
+Patient-reported outcomes were more optimistic for sleep latency; those randomized to benzodiazepine treatment estimated a sleep latency decrease of 14.3 minutes (95% CI 10.6 to 18.0).
+Although more patients receiving benzodiazepine treatment reported adverse effects, especially daytime drowsiness and dizziness or light-headedness (common odds ratio 1.8, 95% CI 1.4 to 2.4), dropout rates for the benzodiazepine and placebo groups were similar.
+Cognitive function decline including memory impairment was reported in several of the studies.
+Zopiclone was not found to be superior to benzodiazepines on any of the outcome measures examined.
+The use of benzodiazepines in the treatment of insomnia is associated with an increase in sleep duration, but this is countered by a number of adverse effects.
+Additional studies evaluating the efficacy of nonpharmacological interventions would be valuable.

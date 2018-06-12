@@ -1,0 +1,27 @@
+Title 
+Community dental health
+
+Article Title 
+The prevalence and severity of fluorosis and other developmental defects of enamel in children who received free fluoride toothpaste containing either 440 or 1450 ppm F from the age of 12 months.
+Abstract Text 
+To assess the impact of a programme regularly supplying free fluoride toothpaste to children on the prevalence and severity of fluorosis and other developmental defects of enamel.
+Randomised, controlled, parallel three-group clinical trial.
+Two groups received toothpaste containing either 440 or 1450 ppm F; the third group received no intervention.
+Children were supplied with toothpaste and advice on its use from the age of 12 months until they were 5-6 years old.
+The participants were a sub sample of those involved in a study that considered the caries benefits of providing free fluoride toothpaste.
+They were eligible if they completed the main study, lived in four of the nine districts involved and attended schools with 6 or more eligible participants.
+Children from the north west of England consuming drinking water containing less than 0.1 ppm F were examined in primary schools.
+3731 children completed the main study.
+Of the 1833 children in the four selected districts, 927 were from schools with six or more participants.
+Digital images encompassing the upper and lower anterior sextants were taken of each child when they were 8-9 years old.
+Developmental defects of enamel and dental fluorosis (TF index) were recorded on upper central incisors from wet and dry images.
+A total of 703 children were included in the data analysis.
+In the 1450 ppm F (n=218), 440 ppm F (n = 226) and control (n = 259) groups the prevalence of dental fluorosis (TF > 0) was 17%, 15% and 12% for the wet (p > 0.05) and 26%, 24% and 25% for the dry (p > 0.05) photographs respectively.
+The prevalence of TF scores 2 or 3 (highest score) was 5%, 4% and 2% and for the wet (p > 0.05) and 7%, 4% and 5% for the dry (p > 0.05) photographs respectively.
+All subjects identified with TF score 3 were found in the group using the 1450 ppm F toothpaste (3 wet and 4 dry) and there were statistically significant differences between the three groups for both wet (p = 0.03) and dry photographs (p < 0.01).
+However, the pairwise comparisons between the groups failed to attain statistical significance.
+The highest prevalence and severity of demarcated opacities was seen in the control group and for the wet photographs the difference between the three groups attained statistical significance (p = 0.04).
+For both the wet and dry photographs the prevalence of any enamel defects (including fluorosis) and large demarcated or TF score 3 was similar for the three groups (p > 0.05).
+Previously it has been reported that only the provision of 1450 ppm F toothpaste provides anticaries benefits in a programme of this type.
+This benefit is accompanied by a slight increase in prevalence of TF score 3 but not the overall prevalence of developmental defects of enamel.
+Careful targeting and implementation of a programme of this type is required to maximise benefits and minimise risks of fluoride exposure.

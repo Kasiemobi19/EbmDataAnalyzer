@@ -1,0 +1,21 @@
+Title 
+The Journal of clinical endocrinology and metabolism
+
+Article Title 
+Clinical review 115: effect of thyroxine therapy on serum lipoproteins in patients with mild thyroid failure: a quantitative review of the literature.
+Abstract Text 
+The objective of our study was to estimate the expected change in serum lipoprotein concentrations after treatment with T4 in patients with mild thyroid failure (i.e.
+subclinical hypothyroidism).
+Our data sources included MEDLINE, between January 1966 and May 1999, and review of references from relevant articles.
+There were 1,786 published studies identified, 461 abstracts reviewed, 74 articles retrieved, 24 articles evaluated against predetermined entry criteria, and 13 studies systematically reviewed and abstracted.
+All studies reported serum total cholesterol concentration changes during T4 treatment, 12 reported triglyceride changes, 10 reported high-density lipoprotein (HDL) cholesterol changes, and 9 reported low-density lipoprotein (LDL) cholesterol changes.
+There were 247 patients in 13 studies.
+The mean decrease in the serum total cholesterol concentration was -0.20 mmol/L (-7.9 mg/ dL), with a 95% confidence interval of -0.09 to -0.34.
+The decline in serum total cholesterol was directly proportional to its baseline concentration.
+Studies enrolling hypothyroid participants receiving suboptimal T4 doses reported significantly larger decreases in serum total cholesterol after thyroid-stimulating hormone normalization than studies enrolling previously untreated individuals with mild thyroid failure [-0.44 mmol/L (-17 mg/dL) vs. -0.14
+mmol/L (-5.6 mg/dL), P = 0.05].
+The change in serum LDL cholesterol concentration was -0.26 mmol/L (-10 mg/dL), with a 95% confidence interval of -0.12 to -0.41.
+Serum HDL and triglyceride concentrations showed no change.
+These results, although based on fewer than 250 patients, suggest that T4 therapy in individuals with mild thyroid failure lowers mean serum total and LDL cholesterol concentrations.
+The reduction in serum total cholesterol may be larger in individuals with higher pretreatment cholesterol levels and in hypothyroid individuals taking suboptimal T4 doses.
+There do not seem to be significant effects of T4 on serum HDL or triglyceride concentrations.

@@ -1,0 +1,17 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Continuing screening mammography in women aged 70 to 79 years: impact on life expectancy and cost-effectiveness.
+Abstract Text 
+Mammography is recommended and is cost-effective for women aged 50 to 69 years, but the value of continuing screening mammography after age 69 years is not known.
+In particular, older women with low bone mineral density (BMD) have a lower risk of breast cancer and may benefit less from continued screening.
+To compare life expectancy and cost-effectiveness of screening mammography in elderly women based on 3 screening strategies.
+Decision analysis and cost-effectiveness analysis using a Markov model.
+General population of women aged 65 years or older.
+The analysis compared 3 strategies: (1) Undergoing biennial mammography from age 65 to 69 years; (2) undergoing biennial mammography from age 65 to 69 years, measurement of distal radial BMD at age 65 years, discontinuing screening at age 69 years in women in the lowest BMD quartile for age, and continuing biennial mammography to age 79 years in those in the top 3 quartiles of distal radius BMD; and (3) undergoing biennial mammography from age 65 to 79 years.
+Deaths due to breast cancer averted, life expectancy, and incremental cost-effectiveness ratios.
+Compared with discontinuing mammography screening at age 69 years, measuring BMD at age 65 years in 10000 women and continuing mammography to age 79 years only in women with BMD in the top 3 quartiles would prevent 9.4 deaths and add, on average, 2.1 days to life expectancy at an incremental cost of $66773 per year of life saved.
+Continuing mammography to age 79 years in all 10000 elderly women would prevent 1.4 additional breast cancer deaths and add only 7.2 hours to life expectancy at an incremental cost of $117689 per year of life saved compared with only continuing mammography to age 79 years in women with BMD in the top 3 quartiles.
+This analysis suggests that continuing mammography screening after age 69 years results in a small gain in life expectancy and is moderately cost-effective in those with high BMD and more costly in those with low BMD.
+Women's preferences for a small gain in life expectancy and the potential harms of screening mammography should play an important role when elderly women are deciding about screening.

@@ -1,0 +1,26 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Is this woman perimenopausal?
+Abstract Text 
+Perimenopause is a time of transition for women at midlife.
+Women want to know whether they are starting this change and physicians need to know the accuracy of a clinical examination in identifying perimenopausal women.
+These women should be counseled about alleviating climacteric symptoms, using contraception, and preventing diseases such as osteoporosis.
+To systematically review the accuracy of self-assessment, symptoms, signs, and laboratory tests in diagnosing women in perimenopause.
+English-language articles that presented data relevant to diagnosis of perimenopause were identified in a MEDLINE search from 1966 to 2001.
+References of these articles and other publications also were reviewed.
+Cross-sectional or longitudinal studies of women aged 40 years or older that used the definition of perimenopause as 3 to 11 months of amenorrhea or irregular periods, included a premenopausal control group, and reported a clinical examination finding.
+Of 1246 articles identified, 16 studies were included in the analysis.
+Two authors independently reviewed articles for quality (L.A.B. and C.M.S.).
+Discrepancies were resolved by a third author (K.N.).
+The prior probability of perimenopause is directly related to a woman's age.
+After considering age, the following yielded the greatest positive likelihood ratios (LRs+): self assessment of going through the transition (LR+ range, 1.53-2.13),
+symptoms of hot flashes (LR+ range, 2.15-4.06),
+night sweats (LR+ 1.90; 95% confidence interval [CI], 1.63-2.21),
+vaginal dryness (LR+ range, 1.48-3.79),
+high follicle-stimulating hormone levels (LR+ 3.06; 95% CI, 2.06-4.54),
+and low inhibin B levels (LR+ 2.05; 95% CI, 0.96-4.39).
+Self-assessment of perimenopausal status had the smallest negative LR (range, 0.18-0.36).
+No one symptom or test is accurate enough by itself to rule in or rule out perimenopause.
+Clinicians should diagnose perimenopause based on menstrual history and age without relying on laboratory test results.

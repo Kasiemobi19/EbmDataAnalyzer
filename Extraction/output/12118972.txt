@@ -1,0 +1,20 @@
+Title 
+Annals of internal medicine
+
+Article Title 
+Screening for colorectal cancer in adults at average risk: a summary of the evidence for the U.S. Preventive Services Task Force.
+Abstract Text 
+To assess the effectiveness of different colorectal cancer screening tests for adults at average risk.
+Recent systematic reviews; Guide to Clinical Preventive Services, 2nd edition; and focused searches of MEDLINE from 1966 through September 2001.
+The authors also conducted hand searches, reviewed bibliographies, and consulted context experts to ensure completeness.
+When available, the most recent high-quality systematic review was used to identify relevant articles.
+This review was then supplemented with a MEDLINE search for more recent articles.
+One reviewer abstracted information from the final set of studies into evidence tables, and a second reviewer checked the tables for accuracy.
+Discrepancies were resolved by consensus.
+For average-risk adults older than 50 years of age, evidence from multiple well-conducted randomized trials supported the effectiveness of fecal occult blood testing in reducing colorectal cancer incidence and mortality rates compared with no screening.
+Data from well-conducted case-control studies supported the effectiveness of sigmoidoscopy and possibly colonoscopy in reducing colon cancer incidence and mortality rates.
+A nonrandomized, controlled trial examining colorectal cancer mortality rates and randomized trials examining diagnostic yield supported the use of fecal occult blood testing plus sigmoidoscopy.
+The effectiveness of barium enema is unclear.
+Data are insufficient to support a definitive determination of the most effective screening strategy.
+Colorectal cancer screening reduces death from colorectal cancer and can decrease the incidence of disease through removal of adenomatous polyps.
+Several available screening options seem to be effective, but the single best screening approach cannot be determined because data are insufficient.

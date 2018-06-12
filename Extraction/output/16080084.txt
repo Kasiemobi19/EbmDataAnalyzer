@@ -1,0 +1,19 @@
+Title 
+Clinical infectious diseases : an official publication of the Infectious Diseases Society of America
+
+Article Title 
+Patient-delivered partner treatment for male urethritis: a randomized, controlled trial.
+Abstract Text 
+Traditional partner referral for sexually transmitted diseases (STDs) is ineffective at assuring that partners are treated.
+Alternative methods are needed.
+We sought to determine whether patient-delivered partner treatment (PDPT) is better than 2 different methods of partner referral in providing antibiotic treatment to sex partners of men with urethritis and in reducing recurrence of Chlamydia trachomatis and Neisseria gonorrhoeae.
+Men who received a diagnosis of urethritis at a public STD clinic in New Orleans, Louisiana, during the period of December 2001 through March 2004 were randomly assigned according to the month of treatment for either standard partner referral (PR), booklet-enhanced partner referral (BEPR), or PDPT.
+At baseline and after 1 month, men were asked to provide information about each partner and were tested for C. trachomatis and N. gonorrhoeae.
+Most enrolled index men (n = 977) were > 24 years of age (51.6%) and African American (95%) and had > or = 2 partners (68.3%).
+They reported information on 1991 partners, and 78.8% were reinterviewed 4-8 weeks later.
+Men in the PDPT arm were more likely than men in the BEPR and PR arms to report having seen their partners, having talked to their partners about the infection, having given the intervention to their partners, and having been told by their partners that the antibiotic treatment had been taken (55.8%,
+45.6%, and 35.0%, respectively; P < .001).
+Of men who were reinterviewed, 37.5% agreed to follow-up testing for N. gonorrhoeae and C. trachomatis infection.
+Those tested were similar to those not tested with regard to the study variables measured.
+Among those tested, men in the PDPT and BEPR arms were less likely than those in the PR arm to test positive for C. trachomatis and/or N. gonorrhoeae (23.0%, 14.3%, and 42.7%, respectively; P < .001).
+Among heterosexual men with urethritis, PDPT was better than standard partner referral for treatment of partners and prevention of recurrence of C. trachomatis or N. gonorrhoeae infection.

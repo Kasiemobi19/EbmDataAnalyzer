@@ -1,0 +1,24 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+Alendronate for the prevention and treatment of glucocorticoid-induced osteoporosis. Glucocorticoid-Induced Osteoporosis Intervention Study Group.
+Abstract Text 
+Osteoporosis is a common complication of long-term glucocorticoid therapy for which there is no well-proved preventive or restorative treatment.
+We carried out two 48-week, randomized, placebo-controlled studies of two doses of alendronate in 477 men and women, 17 to 83 years of age, who were receiving glucocorticoid therapy.
+The primary end point was the difference in the mean percent change in lumbar-spine bone density from base line to week 48 between the groups.
+Secondary outcomes included changes in bone density of the hip, biochemical markers of bone turnover, and the incidence of new vertebral fractures.
+The mean (+/-SE) bone density of the lumbar spine increased by 2.1+/-0.3
+percent and 2.9+/-0.3
+percent, respectively, in the groups that received 5 and 10 mg of alendronate per day (P<0.001)
+and decreased by 0.4+/-0.3
+percent in the placebo group.
+The femoral-neck bone density increased by 1.2+/-0.4
+percent and 1.0+/-0.4
+percent in the respective alendronate groups (P<0.01) and decreased by 1.2+/-0.4
+percent in the placebo group (P<0.01).
+The bone density of the trochanter and total body also increased significantly in the patients treated with alendronate.
+There were proportionally fewer new vertebral fractures in the alendronate groups (overall incidence, 2.3 percent) than in the placebo group (3.7 percent) (relative risk, 0.6; 95 percent confidence interval, 0.1 to 4.4).
+Markers of bone turnover decreased significantly in the alendronate groups (P<0.001).
+There were no differences in serious adverse effects among the three groups, but there was a small increase in nonserious upper gastrointestinal effects in the group receiving 10 mg of alendronate.
+Alendronate increases bone density in patients receiving glucocorticoid therapy.

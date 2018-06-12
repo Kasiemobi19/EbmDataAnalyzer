@@ -1,0 +1,20 @@
+Title 
+Pediatric emergency care
+
+Article Title 
+Applicability of Ottawa knee rule for knee injury in children.
+Abstract Text 
+Previous studies have shown that the application of the Ottawa knee rule (OKR) reduces the need for radiographs in adults with acute knee injuries.
+Our objectives were to describe the epidemiology and incidence of knee injuries in children with acute knee trauma and to validate the OKR in a pediatric population.
+A prospective, consecutive study.
+Two urban pediatric emergency departments.
+All children 18 years of age and under who presented with acute traumatic knee injury of less than 1 week's duration, excluding patients with a normal knee examination, superficial skin injuries, prior history of knee injury, underlying bone disease, serious injuries involving two or more organ systems, or altered mental status were enrolled.
+Physicians assessed each patient for 22 standardized clinical findings prior to radiography.
+The OKR was applied to each patient by the investigating physician.
+All 234 patients eligible for the study had radiographs of the affected knee.
+The median age was 13 years with a range of 2 to 18 years.
+Using the OKR criteria for obtaining knee radiographs, 12 of 13 patients with fractures were identified (sensitivity 92%; 95% CI= 64-99).
+The missed case was an 8-year-old male who had sustained a nondisplaced fracture of the proximal tibia after a fall.
+If the OKR were applied to the pediatric population, it would have reduced the need for radiography in 46% of children.
+In the pediatric population studied, the OKR did not identify all patients with knee fractures.
+Future studies may consider modifying the OKR to accommodate the differences between pediatric and adult patients to improve the sensitivity of the rule while maintaining its specificity, before it can be applied routinely in clinical practice.

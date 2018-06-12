@@ -1,0 +1,10 @@
+Title 
+MMWR. Morbidity and mortality weekly report
+
+Article Title 
+Outbreak of pneumococcal pneumonia among unvaccinated residents of a nursing home--New Jersey, April 2001.
+Abstract Text 
+On April 24,2001, seven cases of pneumococcal pneumonia with bacteremia among residents of a nursing home were reported to the Hamilton Township Department of Health, New Jersey; all seven diagnoses were confirmed with blood cultures positive for Streptococcus pneumoniae.
+Illness onset among the residents occurred during April 3-24; four residents died.
+The New Jersey Department of Health and Senior Services (NJDHSS) was notified on April 24 and initiated an investigation to identify additional cases and implement control efforts.
+This report summarizes results of the investigation, which underscore the importance of providing pneumococcal polysaccharide vaccine (PPV) to elderly residents of long-term care facilities (LTCFs).

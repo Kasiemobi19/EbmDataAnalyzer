@@ -1,0 +1,28 @@
+Title 
+Cochrane database of systematic reviews (Online)
+
+Article Title 
+Recombinant growth hormone for idiopathic short stature in children and adolescents.
+Abstract Text 
+Idiopathic short stature (ISS) refers to children who are very short compared with their peers for unknown or hereditary reasons.
+Recombinant human growth hormone has been used to increase growth and final height in children with idiopathic short stature.
+To assess the effects of recombinant human growth hormone on short-term growth and final height in children with idiopathic short stature.
+Randomised controlled trials (RCTs) were sought by searching The Cochrane Central Register of Controlled Trials (CENTRAL), Medline, Embase, PubMed, Science Citation Index, BIOSIS and Current Controlled Trials (date of last search 10 December 2002).
+Article reference lists were assessed for trials and experts and pharmaceutical companies were contacted.
+Randomised controlled trials were included if they were carried out in children with ISS with normal growth hormone secretion.
+Growth hormone (GH) had to be administered for a minimum of six months and be compared with placebo or no treatment.
+A growth or height outcome measure had to be assessed.
+Two reviewers assessed studies for inclusion criteria and for methodological quality.
+Data were extracted by one reviewer and checked by a second.
+The primary outcome was final height and secondary outcomes included short term growth, health related quality of life and adverse effects.
+To estimate summary treatment effects, data were pooled, when appropriate using a random effects model.
+Nine randomised controlled trials were included.
+One trial reported near final height in girls and found that girls treated with growth hormone were 7.5 cm taller than untreated controls (GH group, 155.3 cm +/- 6.4; control, 147.8 cm +/- 2.6; p = 0.003).
+The other trials reported short term outcomes.
+Results suggest that short-term height gains can range from none to approximately 0.7 SD over one year.
+One study reported health related quality of life and showed no significant improvement in growth hormone treated children compared with those in the control group.
+No serious adverse effects of treatment have been reported.
+Results suggest that growth hormone therapy can increase short-term growth and improve (near) final height.
+Increases in height are such that treated individuals remain relatively short when compared with peers of normal stature.
+Further research in the form of large, multicentre RCTs are required.
+These should focus on final height, which is the best outcome for assessing the effects of growth hormone, and address quality of life and cost issues.

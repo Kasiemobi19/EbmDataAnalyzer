@@ -1,0 +1,18 @@
+Title 
+CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne
+
+Article Title 
+Efficacy and safety of cholinesterase inhibitors in Alzheimer's disease: a meta-analysis.
+Abstract Text 
+Cholinesterase inhibitors (ChEIs) are the only drugs marketed for the treatment of Alzheimer's disease.
+Despite numerous randomized controlled trials, the efficacy and safety of this group of medications has not been quantified.
+Our objective was to quantitatively summarize data on the efficacy and safety of ChEIs in Alzheimer's disease in a format useful to clinicians.
+We performed a meta-analysis of randomized, double-blind, placebo-controlled, parallel-group trials of currently marketed ChEIs (donepezil, rivastigmine and galantamine), used in therapeutic doses for at least 12 weeks, from which a cognitive outcome was reported.
+Studies were identified through 3 electronic databases searched to May 2002, pharmaceutical companies and journals.
+We extracted the proportions of subjects who responded, experienced adverse events, discontinued treatment for any reason or discontinued treatment because of adverse events.
+In the 16 identified trials that met the inclusion criteria, 5159 patients were treated with a ChEI and 2795 received a placebo.
+The pooled mean proportion of global responders to ChEI treatment in excess of that for placebo treatment was 9% (95% confidence interval [95% CI] 6%-12%).
+The rates of adverse events, dropout for any reason and dropout because of adverse events were also higher among the patients receiving ChEI treatment than among those receiving placebo, the excess proportions being 8% (95% CI 5%-11%), 8% (95% CI 5%-11%) and 7% (95% CI 3%-10%), respectively.
+The numbers needed to treat for 1 additional patient to benefit were 7 (95% CI 6-9) for stabilization or better, 12 (95% CI 9-16) for minimal improvement or better and 42 (95% CI 26-114) for marked improvement; the number needed to treat for 1 additional patient to experience an adverse event was 12 (95% CI 10-18).
+Treatment with ChEIs results in a modest but significant therapeutic effect and modestly but significantly higher rates of adverse events and discontinuation of treatment.
+The numbers needed to treat to benefit 1 additional patient are small.

@@ -1,0 +1,13 @@
+Title 
+Lancet
+
+Article Title 
+Comparison of placebo with L-thyroxine alone or with carbimazole for treatment of sporadic non-toxic goitre.
+Abstract Text 
+The efficacy of treatment with TSH-suppressive doses of L-thyroxine (T4, 2.5 micrograms/kg body weight daily) either alone or combined with carbimazole (CBZ, 40 mg daily) was studied in 78 patients with sporadic non-toxic goitre in a prospective placebo-controlled double-blind randomised clinical trial.
+Treatment was given for 9 months, with 9 months of follow-up.
+A response to treatment as measured by ultrasonography was found in 58% of the T4 group, in 35% of the T4/CBZ group, and in 5% of the placebo group.
+The mean (SEM) decrease of thyroid volume at 9 months in the responders was 25% (2).
+After discontinuation of treatment, thyroid volume increased in the responders and had returned to base-line values after 9 months of follow-up.
+In the placebo group mean thyroid volume had increased by 6% (4) at 4 months, 20% (7) at 9 months, and 27% (8) at 18 months.
+The findings show that untreated sporadic non-toxic goitre continues to increase in size; T4 is effective in the treatment of the disorder; and the addition of CBZ has no therapeutic advantage.

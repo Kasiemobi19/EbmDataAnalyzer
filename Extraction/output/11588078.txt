@@ -1,0 +1,16 @@
+Title 
+BMJ (Clinical research ed.)
+
+Article Title 
+Efficacy of progesterone and progestogens in management of premenstrual syndrome: systematic review.
+Abstract Text 
+To evaluate the efficacy of progesterone and progestogens in the management of premenstrual syndrome.
+Systematic review of published randomised, placebo controlled trials.
+Studies reviewed: 10 trials of progesterone therapy (531 women) and four trials of progestogen therapy (378 women).
+Proportion of women whose symptoms showed improvement with progesterone preparations (suppositories and oral micronised).
+Proportion of women whose symptoms showed improvement with progestogens.
+Secondary analysis of efficacy of progesterone and progestogens in managing physical and behavioural symptoms.
+Overall standardised mean difference for all trials that assessed efficacy of progesterone (by both routes of administration) was -0.028 (95% confidence interval -0.017 to -0.040).
+The odds ratio was 1.05 (1.03 to 1.08) in favour of progesterone, indicating no clinically important difference between progesterone and placebo.
+For progestogens the overall standardised mean was -0.036 (-0.014 to -0.060), which corresponds to an odds ratio of 1.07 (1.03 to 1.11) showing a statistically, but not clinically, significant improvement for women taking progestogens.
+The evidence from these meta-analyses does not support the use of progesterone or progestogens in the management of premenstrual syndrome.

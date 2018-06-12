@@ -1,0 +1,19 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Estimating prognosis for nursing home residents with advanced dementia.
+Abstract Text 
+Survival varies for patients with advanced dementia, and accurate prognostic tools have not been developed.
+A small proportion of patients admitted to hospice have dementia, in part because of the difficulty in predicting survival.
+To identify factors associated with 6-month mortality in newly admitted nursing home residents with advanced dementia and to create a practical risk score to predict 6-month mortality in this population.
+This was a retrospective cohort study of data from the Minimum Data Set (MDS).
+All Medicare or Medicaid licensed nursing homes in New York and Michigan were included.
+Participants had advanced dementia and were admitted to New York nursing homes between June 1, 1994, and December 30, 1998 (derivation cohort, n = 6799), and to Michigan nursing homes from October 1, 1998, through July 30, 2000 (validation cohort, n = 4631).
+MDS factors associated with 6-month mortality were determined in the derivation group, and the resulting mortality risk score was evaluated in the validation cohort.
+Risk score performance was compared with the cut point of 7c on the Functional Assessment Staging (FAST) scale.
+Among residents with advanced dementia, 28.3% (n = 1922) died within 6 months of nursing home admission in the derivation cohort; 35.1% (n = 1626) died in the validation cohort.
+The 6-month mortality rate increased across risk scores (possible range, 0-19): 0 points, 8.9% mortality; 1 to 2, 10.8%; 3 to 5, 23.2%; 6 to 8, 40.4%; 9 to 11, 57.0%; and at least 12, 70.0% in the validation cohort.
+The area under the receiver operating characteristic (AUROC) curve for predicting 6-month mortality was 0.74 and 0.70 in the derivation and validation cohorts, respectively.
+Our risk score demonstrated better discrimination to predict 6-month mortality (AUROC, 0.64 for a cutoff of > or =6 points vs 0.51 for FAST stage 7c).
+A risk score based on 12 variables from the MDS estimates 6-month mortality for nursing home residents with advanced dementia with greater accuracy than existing prognostic guidelines.

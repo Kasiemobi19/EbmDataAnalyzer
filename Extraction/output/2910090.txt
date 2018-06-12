@@ -1,0 +1,17 @@
+Title 
+The American journal of medicine
+
+Article Title 
+Treatment of antibiotic-associated Clostridium difficile colitis with oral vancomycin: comparison of two dosage regimens.
+Abstract Text 
+High-dose (500 mg orally four times daily) vancomycin is considered by many investigators to be the most effective treatment for antibiotic-associated Clostridium difficile colitis.
+However, a lower dosage of 125 or 150 mg given three or four times a day has become popular, has been shown to be effective, and is less expensive than the high-dose regimen.
+We therefore decided to compare two vancomycin dosage regimens in a randomized trial.
+The study involved 46 hospitalized patients with serious underlying diseases complicated by C. difficile diarrhea or colitis.
+Patients were assigned (according to a table of random numbers) to treatment with either 125 or 500 mg of vancomycin orally four times daily for an average of 10 days.
+No significant differences in measurable responses to the two regimens were noted.
+There were no treatment failures.
+The mean duration of diarrhea after initiation of therapy was about four days, and almost all patients had no diarrhea after one week.
+The organism continued to be demonstrated in the stools of about 50 percent of patients for the first few weeks after completion of therapy, and nine (20 percent) patients developed a recurrence of their diarrheal illness.
+Vancomycin was well tolerated by all patients.
+Since the dose of 125 mg appeared to be as effective as the 500-mg dose, which is more expensive, the 125-mg dose is preferred when vancomycin is used in treatment of this disease, unless the patient is critically ill.

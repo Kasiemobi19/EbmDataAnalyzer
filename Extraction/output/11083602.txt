@@ -1,0 +1,21 @@
+Title 
+Sleep
+
+Article Title 
+The use of clinical prediction formulas in the evaluation of obstructive sleep apnea.
+Abstract Text 
+To prospectively study the utility of four clinical prediction models for either predicting the presence of obstructive sleep apnea (OSA, apnea-hypopnea index [AHI] > or = 10/hour), or prioritizing patients for a split-night protocol (AHI(3)20/hour).
+All patients presenting for OSA evaluation completed a research questionnaire that included questions from previously developed clinical prediction models.
+The probability of sleep apnea for each patient for each model was calculated based upon the equation used in the model.
+Based upon two cutoffs of apnea-hypopnea index, 10 and 20, the sensitivity, specificity, and positive predictive value were calculated.
+For the cutoffs AHI > or =10 and > or =20, receiver operating characteristic curves were generated and the areas under the curves calculated.
+Comparisons of demographic information and symptom response were compared between patients with and without OSA, and men vs. women.
+Urban, accredited sleep disorders center.
+All patients referred for evaluation of OSA who underwent polysomnography.
+N/A.
+370 patients (191 men, 179 women) completed the study.
+248 of the 370 (67%) patients had an AHI(3)10; 180 of the 370 (49%) had an AHI> or =20.
+For AHI > or =10, the sensitivities ranged from 76 to 96%, specificities from 13%-54%, positive predictive values from 69%-77% using the probability cutoff of the original investigators; the areas under the curve from 0.669 to 0.736.
+For AHI(3)20, the areas under the ROC curves ranged from 0.700 to 0.757; using cutoffs to maximized specificity, the sensitivities ranged from 33%-39%, specificities from 87%-93%, and positive predictive values from 72%-85%.
+All the models performed better for men.
+The clinical prediction models tested are not be sufficiently accurate to discriminate between patients with or without OSA but could be useful in prioritizing patients for split-night polysomnography.

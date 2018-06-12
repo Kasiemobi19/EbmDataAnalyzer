@@ -1,0 +1,19 @@
+Title 
+Cancer
+
+Article Title 
+Czech Study on Lung Cancer Screening: post-trial follow-up of lung cancer deaths up to year 15 since enrollment.
+Abstract Text 
+The study was launched in the mid-1970s to explore the capability of screening by chest X-ray and sputum cytology to be used as an effective component of the lung cancer control program in the Czech Republic, a Central European country with a high and increasing occurrence of lung cancer in men at that time.
+A complementary objective of this report is to ascertain whether the cumulative numbers of lung cancer deaths would equalize in the two randomized groups during a prolonged follow-up period.
+Six thousand three hundred sixty-four males who were heavy cigarette smokers, aged 40-64 years, were enrolled during a general health survey in 6 districts of the Czech Republic.
+At initial X-ray and sputum examination, 19 prevalent lung carcinoma cases were diagnosed.
+After stratified randomization, the remaining subjects entered a 3-year study: the intervention group (3171 participants) was subjected to semiannual chest X-rays and sputum investigation whereas the controls (3174 participants) had 1 examination only by chest X-rays and sputum investigation, 3 years after entry.
+During a further 3-year follow-up, a chest X-ray was taken at the end of Years 4, 5, and 6 for both the intervention and control groups.
+Subjects in both groups who were suspected to have lung carcinoma or other disease on the basis of screening results or symptoms were subjected to appropriate diagnostic studies and treatment.
+Data on all causes of death in Years 1-6 and on deaths from the lung cancer in Years 7-15 of participants in the intervention and control groups were compared.
+The incidence rate of lung carcinoma from the intervention group was significantly higher than from the controls in the initial 3-year study period (P < 0.05), but not for the initial 6-year period (P = 0.06).
+Lung carcinoma cases detected by screening were identified at an earlier stage, were more often resectable, and had a significantly better survival than interval cases diagnosed mainly because of symptoms.
+There was no significant difference in the lung cancer mortality rate between the 2 groups in the initial 3-year study period or during follow-up prolonged up to Year 15 since enrollment.
+The study gave no evidence that screening for lung cancer by chest X-ray is beneficial in terms of reducing mortality.
+Based on the results of this study, there is no justification to recommend semiannual screening as a component of a comprehensive lung cancer control program.

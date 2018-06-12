@@ -1,0 +1,12 @@
+Title 
+British medical journal
+
+Article Title 
+Hypokalaemia and diuretics: an analysis of publications.
+Abstract Text 
+Published data have been used to define the characteristics of the fall in serum potassium concentration after taking diuretics and the efficacy of the various treatments given to prevent or correct it.
+The average fall is less after the usual doses of frusemide (about 0.3 mmol/l) than after the usual doses of thiazides (about 0.6 mmol/l) and is little influenced by the dose or duration of treatment.
+The fall with a given drug is the same in heart failure and hypertension, but the initial serum potassium concentration is higher in heart failure, so that the final value is lower in hypertension.
+In standard doses potassium supplements are less effective than potassium-retaining diuretics in correcting the hypokalaemia.
+The relation between the average serum potassium value and the frequency of low values (hypokalaemia) is such that very low values after taking diuretics are unusual in patients with hypertension or heart failure.
+Hypokalaemia would almost disappear as an important complication of diuretic treatment if it was defined as a value less than 3.0 mmol/l rather than as a value less than 3.5 mmol/l.

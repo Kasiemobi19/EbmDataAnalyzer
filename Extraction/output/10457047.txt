@@ -1,0 +1,17 @@
+Title 
+Gut
+
+Article Title 
+Childhood functional gastrointestinal disorders.
+Abstract Text 
+This is the first attempt at defining criteria for functional gastrointestinal disorders (FGIDs) in infancy, childhood, and adolescence.
+The decision-making process was as for adults and consisted of arriving at consensus, based on clinical experience.
+This paper is intended to be a quick reference.
+The classification system selected differs from the one used in the adult population in that it is organized according to main complaints instead of being organ-targeted.
+Because the child is still developing, some disorders such as toddler's diarrhea (or functional diarrhea) are linked to certain physiologic stages; others may result from behavioral responses to sphincter function acquisition such as fecal retention; others will only be recognizable after the child is cognitively mature enough to report the symptoms (e.g., dyspepsia).
+Infant regurgitation, rumination, and cyclic vomiting constitute the vomiting disorders.
+Abdominal pain disorders are classified as: functional dyspepsia, irritable bowel syndrome (IBS), functional abdominal pain, abdominal migraine, and aerophagia.
+Disorders of defecation include: infant dyschezia, functional constipation, functional fecal retention, and functional non-retentive fecal soiling.
+Some disorders, such as IBS and dyspepsia and functional abdominal pain, are exact replications of the adult criteria because there are enough data to confirm that they represent specific and similar disorders in pediatrics.
+Other disorders not included in the pediatric classification, such as functional biliary disorders, do occur in children; however, existing data are insufficient to warrant including them at the present time.
+For these disorders, it is suggested that, for the time being, clinicians refer to the criteria established for the adult population.

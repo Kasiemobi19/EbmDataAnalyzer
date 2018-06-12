@@ -1,0 +1,19 @@
+Title 
+Lancet
+
+Article Title 
+Early intervention with budesonide in mild persistent asthma: a randomised, double-blind trial.
+Abstract Text 
+Although inhaled glucocorticosteroids are recommended for persistent asthma, their long-term effect on recent onset, mild, persistent asthma has yet to be established.
+We did a randomised, double-blind clinical trial in 7241 patients in 32 countries to assess the effects of budesonide in patients who had had mild persistent asthma for less than 2 years and who had not had previous regular treatment with glucocorticosteroids. Patients aged 5-66 years received either budesonide or placebo once daily for 3 years in addition to their usual asthma medications.
+The daily budesonide dose was 400 microg, or 200 microg for children younger than 11 years.
+The primary outcome was time to first severe asthma-related event, and analysis was by intention to treat.
+198 of 3568 patients on placebo and 117 of 3597 on budesonide had at least one severe asthma exacerbation; hazard ratio 0.56 (95% CI 0.45-0.71,
+p<0.0001).
+Patients on budesonide had fewer courses of systemic corticosteroids and more symptom-free days than did those on placebo.
+Compared with placebo, budesonide increased postbronchodilator forced expiratory volume in 1 s (FEV1) from baseline by 1.48% (p<0.0001) after 1 year and by 0.88% (p=0.0005) after 3 years (expressed as percent of the predicted value).
+The corresponding increase in prebronchodilator FEV1 was 2.24% after 1 year and 1.71% after 3 years (p<0.0001 at both timepoints).
+The effect of treatment on all outcome variables was independent of the baseline lung function (prebronchodilator or postbronchodilator) or baseline medication.
+In children younger than 11 years, 3-year growth was reduced in the budesonide group by 1.34 cm.
+The reduction was greatest in the first year of treatment (0.58 cm) than years 2 and 3 (0.43 cm and 0.33 cm, respectively).
+Long-term, once-daily treatment with low-dose budesonide decreases the risk of severe exacerbations and improves asthma control in patients with mild persistent asthma of recent onset.

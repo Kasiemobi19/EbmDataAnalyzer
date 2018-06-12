@@ -1,0 +1,23 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+A double-blind trial of oral progesterone, alprazolam, and placebo in treatment of severe premenstrual syndrome.
+Abstract Text 
+To determine the effectiveness of oral micronized progesterone, alprazolam, and placebo in premenstrual syndrome (PMS) treatment and the effect of clinical contact on treatment responses.
+Randomized, double-blind, placebo-controlled 3-month parallel treatment arms with flexible dosage and with the length of clinical contact randomized within each treatment group.
+University hospital PMS medical treatment outpatient program in obstetrics/gynecology department.
+Among volunteers for PMS treatment, 444 were evaluated and 185 meeting defined PMS criteria were randomized to treatment; treatment data are available for 170.
+There were no medical withdrawals for adverse events.
+A double-blinded protocol in which 300 mg of oral micronized progesterone, 0.25 mg of alprazolam, or placebo was administered four times a day from day 18 of the menstrual cycle through day 2 of the next cycle, including taper.
+The mean daily dose at the third treatment was 1760 mg of progesterone or 1.5 mg of alprazolam.
+Subjects were randomized to brief (< 20 minutes) or extended (50 minutes) visits.
+Daily symptom report (DSR) scored for total DSR symptoms, four DSR factors.
+Alprazolam was significantly better than placebo or progesterone for total premenstrual symptoms and DSR factors of mental function, pain, and mood.
+Thirty-seven percent of the alprazolam group experienced a 50% reduction in total DSR scores.
+There were no clinically significant withdrawal symptoms when alprazolam administration was restricted to the luteal phase.
+Oral micronized progesterone therapy was no better than placebo.
+Brief vs extended visits had no effect on treatment outcome.
+Treatment response was associated with severity of premenstrual symptoms at baseline but with no other diagnostic variables.
+Alprazolam has a role in PMS treatment and offers a therapy limited to the luteal phase.
+Oral micronized progesterone is ineffective for PMS.

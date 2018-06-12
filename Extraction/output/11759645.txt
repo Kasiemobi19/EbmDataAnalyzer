@@ -1,0 +1,16 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+A randomized trial of the angiotensin-receptor blocker valsartan in chronic heart failure.
+Abstract Text 
+Actions of angiotensin II may contribute to the progression of heart failure despite treatment with currently recommended drugs.
+We therefore evaluated the long-term effects of the addition of the angiotensin-receptor blocker valsartan to standard therapy for heart failure.
+A total of 5010 patients with heart failure of New York Heart Association (NYHA) class II, III, or IV were randomly assigned to receive 160 mg of valsartan or placebo twice daily.
+The primary outcomes were mortality and the combined end point of mortality and morbidity, defined as the incidence of cardiac arrest with resuscitation, hospitalization for heart failure, or receipt of intravenous inotropic or vasodilator therapy for at least four hours.
+Overall mortality was similar in the two groups.
+The incidence of the combined end point, however, was 13.2 percent lower with valsartan than with placebo (relative risk, 0.87; 97.5 percent confidence interval, 0.77 to 0.97; P=0.009), predominantly because of a lower number of patients hospitalized for heart failure; 455 (18.2 percent) in the placebo group and 346 (13.8 percent) in the valsartan group (P<0.001).
+Treatment with valsartan also resulted in significant improvements in NYHA class, ejection fraction, signs and symptoms of heart failure, and quality of life as compared with placebo (P<0.01).
+In a post hoc analysis of the combined end point and mortality in subgroups defined according to base-line treatment with angiotensin-converting-enzyme (ACE) inhibitors or beta-blockers, valsartan had a favorable effect in patients receiving neither or one of these types of drugs but an adverse effect in patients receiving both types of drugs.
+Valsartan significantly reduces the combined end point of mortality and morbidity and improves clinical signs and symptoms in patients with heart failure, when added to prescribed therapy.
+However, the post hoc observation of an adverse effect on mortality and morbidity in the subgroup receiving valsartan, an ACE inhibitor, and a beta-blocker raises concern about the potential safety of this specific combination.

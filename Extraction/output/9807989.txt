@@ -1,0 +1,20 @@
+Title 
+Lancet
+
+Article Title 
+Randomised trial of interferon alpha2b plus ribavirin for 48 weeks or for 24 weeks versus interferon alpha2b plus placebo for 48 weeks for treatment of chronic infection with hepatitis C virus. International Hepatitis Interventional Therapy Group (IHIT)
+Abstract Text 
+Only 15-20% of patients with chronic hepatitis C achieve a sustained virological response with interferon therapy.
+The aim of this study was to compare the efficacy and safety of interferon alpha2b in combination with oral ribavirin with interferon alone, for treatment of chronic infection with hepatitis C virus (HCV).
+832 patients aged 18 years or more with chronic HCV who had not been treated with interferon or ribavirin, were enrolled and randomly allocated one of three regimens: 3 mega units (MU) interferon alpha2b three times a week plus 1000-1200 mg ribavirin per day for 48 weeks; 3 MU interferon alpha2b three times a week plus 1000-1200 mg ribavirin per day for 24 weeks; or 3 MU interferon alpha2b three times a week and placebo for 48 weeks.
+All patients were assessed for safety, tolerance, and efficacy at the end of weeks 1, 2, 4, 6, and 8, and every 4 weeks during treatment.
+After treatment was completed patients were followed up on weeks 4, 8, 12, and 24.
+The primary endpoint was loss of detectable HCV-RNA (serum HCV-RNA <100 copies/mL) at week 24 after treatment.
+Sustained virological response at 24 weeks after treatment, was found in 119 (43%) of the 277 patients treated for 48 weeks with the combination regimen, 97 (35%) of the 277 patients treated for 24 weeks with the combination regimen (p=O.055), and 53 (19%) of the 278 patients treated for 48 weeks with interferon alone (p<0.001
+vs both combination regimens, intention-to-treat analysis).
+Logistic regression identified five independent factors significantly associated with response: genotype 2 or 3, viral load less than 2 million copies/mL, age 40 years or less, minimal fibrosis stage, and female sex.
+Among patients with fewer than three of these factors the odds ratio of sustained response was 2.6 (95% Cl 1.4-4.8;
+p=0.002) for the 48 week combination regimen compared with 24 weeks of the combination regimen.
+Discontinuation of therapy for adverse events was more frequent with combination (19%) and monotherapy (13%) given for 48 weeks than combination therapy given for 24 weeks (8%).
+An interferon alpha2b plus ribavirin combination is more effective than 48 weeks of interferon alpha2b monotherapy and has an acceptable safety profile.
+Patients with few favourable factors benefit more from extending the duration of combination therapy to 48 weeks.

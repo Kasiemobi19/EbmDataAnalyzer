@@ -1,0 +1,20 @@
+Title 
+The Journal of clinical endocrinology and metabolism
+
+Article Title 
+Cardiac effects of long term thyrotropin-suppressive therapy with levothyroxine.
+Abstract Text 
+To investigate the effects of long term thyroid hormone suppressive therapy on the heart, 20 patients were evaluated by noninvasive techniques.
+Of them, 10 were athyreotic after surgery for differentiated thyroid cancer, and 10 had diffuse or nodular goiter.
+The mean age of the group was 39 +/- 11 yr.
+Twenty age- and sex-matched subjects served as controls.
+The mean dose of levothyroxine was 163 +/- 34 micrograms daily.
+Plasma TSH was undetectable in all patients.
+Mean serum T4, free T4, and sex hormone-binding globulin were significantly higher (P < 0.001), whereas mean serum T3, free T3, and osteocalcin did not differ from control levels.
+Cardiac evaluation consisted of a standard 12-lead electrocardiogram, an ambulatory electrocardiographic monitoring (Holter), and an echocardiographic study.
+Two patients showed abnormal electrocardiograms for left ventricular hypertrophy.
+Holter demonstrated an increase in average heart rate (84 +/- 7 vs. 70 +/- 6 beats/min; P < 0.01).
+Prevalence of atrial premature beats was higher in the patient group than in the control group (100% vs. 60%; P < 0.006).
+The echocardiogram showed an increased left ventricular mass index in the patient group (97 +/- 24 vs. 80 +/- 18 g/m2; P < 0.02).
+Furthermore, left ventricular systolic function was enhanced, with higher values of fractional shortening (38 +/- 7% vs. 34 +/- 4%; P < 0.05) and rate-adjusted velocity of shortening (1.2 +/- 0.13 vs. 1.05 +/- 0.14 circumferences/sec; P < 0.01).
+These findings indicate that long term levothyroxine therapy at suppressive doses markedly affects cardiac function.

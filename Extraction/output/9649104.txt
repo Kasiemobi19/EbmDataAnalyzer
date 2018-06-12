@@ -1,0 +1,24 @@
+Title 
+Obstetrics and gynecology
+
+Article Title 
+Comparison of bimanual examination with ultrasound examination before hysterectomy for uterine leiomyoma.
+Abstract Text 
+To correlate the preoperative bimanual examination with ultrasound examination with regard to estimating the size of enlarged nongravid leiomyomatous uteri.
+We performed a retrospective review of 161 patients who underwent hysterectomy for uterine leiomyoma between January 1994 and December 1994 and between July 1995 and April 1996.
+Uterine size was estimated clinically by bimanual examination.
+Ultrasound reports were reviewed.
+Uterine weights and dimensions in pathology reports were compared with findings on bimanual examination and ultrasonography.
+Body mass index (BMI) was calculated and patients were divided into two groups, one with BMIs of more than 30 and another with BMIs of less than or equal to 30.
+Ultrasound examination was ordered in 111 patients (68.9%) preoperatively.
+There was a strong correlation between the bimanual examination findings and the ultrasound dimensions.
+The equation for this relationship is ultrasound length (cm)=3.68
++ 0.68 x number of weeks (r=.78,
+P < .001).
+Ultrasound length also was related strongly to size given in the pathologic reports; the equation for this relationship is ultrasound length (cm)=2.94
++ 0.75 x pathology length (cm) (r=.73,
+P < .001).
+The correlation between bimanual examination and ultrasound findings was similar in obese and in nonobese patients, when uterine size could be estimated.
+There is a strong correlation between bimanual and ultrasound examinations with regard to determining the size of leiomyomatous uteri.
+Routine ultrasound is not indicated when an experienced examiner can assess uterine size.
+Ultrasonography may be appropriate when physical assessment is difficult, as in the case of obesity.

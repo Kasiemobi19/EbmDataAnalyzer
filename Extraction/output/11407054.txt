@@ -1,0 +1,18 @@
+Title 
+The British journal of general practice : the journal of the Royal College of General Practitioners
+
+Article Title 
+Topical antibiotics for acute bacterial conjunctivitis: a systematic review.
+Abstract Text 
+There has been uncertainty about whether antibiotic therapy confers significant benefit in the treatment of acute bacterial conjunctivitis.
+This study aimed to assess the efficacy of antibiotic therapy in the management of acute bacterial conjunctivitis.
+Using standard Cochrane search methods, we identified double-blind randomised controlled trials in which any form of antibiotic treatment (topical, systemic or combination) had been compared with placebo in the management of acute bacterial conjunctivitis.
+Data extraction and analysis followed a pre-defined protocol.
+Meta-analysis was performed to obtain summary measures of relative risk.
+Six published trials were identified, of which three fulfilled the eligibility criteria for inclusion in this review.
+The trials were heterogeneous in terms of their inclusion and exclusion criteria, the nature of the intervention, and the outcome measures assessed.
+Meta-analysis indicates that acute bacterial conjunctivitis is frequently a self-limiting condition, as clinical remission occurred by days 2 to 5 in 64% (95% confidence interval (CI) = 57-71) of those treated with placebo.
+Treatment with antibiotics was, however, associated with significantly better rates of clinical remission (days 2 to 5: relative risk (RR) = 1.31, 95% CI = 1.11-1.55),
+with a suggestion that this benefit was maintained for late clinical remission (days 6 to 10: RR = 1.27, 95% CI = 1.00-1.61).
+Acute bacterial conjunctivitis is frequently a self-limiting condition but the use of antibiotics is associated with significantly improved rates of early clinical remission, and early and late microbiological remission.
+Since trials to date have been conducted in selected specialist care patient populations, generalisation of these results to a primary care-based population should be undertaken with a degree of caution.

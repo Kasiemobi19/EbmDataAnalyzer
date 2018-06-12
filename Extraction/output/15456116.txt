@@ -1,0 +1,15 @@
+Title 
+American family physician
+
+Article Title 
+Management of normal pressure hydrocephalus.
+Abstract Text 
+Gait instability, urinary incontinence, and dementia are the signs and symptoms typically found in patients who have normal pressure hydrocephalus.
+Estimated to cause no more than 5 percent of cases of dementia, normal pressure hydrocephalus often is treatable, and accurate recognition of the clinical triad coupled with radiographic evidence most commonly identifies likely responders.
+Magnetic resonance imaging or computed tomography typically demonstrates ventricular dilation with preservation of the surrounding brain tissue.
+The abnormality in normal pressure hydrocephalus occurs secondary to an abnormality in fluid removal, leading to an increase in ventricular size and encroachment of enlarged ventricles on adjacent brain tissue.
+The pressure exerted on the cerebral parenchyma by immense fluid-filled cavities deforms white matter tracts, instigating gait abnormalities and incomplete control of the bladder, as well as difficulties in processing incoming stimulation and in producing expeditious responses.
+Signs and symptoms often occur as sequelae to an imbalance between the expected ongoing production of cerebrospinal fluid and continuous efflux.
+Ventriculoperitoneal shunting is used to relieve excess ventricular fluid not absorbed by normal physiologic channels.
+Multiple studies have explored various techniques to identify patients with normal pressure hydrocephalus in an effort to predict likely benefit from shunting.
+However, the effectiveness of cerebrospinal fluid diversion has never been proven in a randomized controlled trial comparing use of a shunt versus no shunt.

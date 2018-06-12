@@ -1,0 +1,17 @@
+Title 
+Lancet
+
+Article Title 
+Selective serotonin reuptake inhibitors in childhood depression: systematic review of published versus unpublished data.
+Abstract Text 
+Questions concerning the safety of selective serotonin reuptake inhibitors (SSRIs) in the treatment of depression in children led us to compare and contrast published and unpublished data on the risks and benefits of these drugs.
+We did a meta-analysis of data from randomised controlled trials that evaluated an SSRI versus placebo in participants aged 5-18 years and that were published in a peer-reviewed journal or were unpublished and included in a review by the Committee on Safety of Medicines.
+The following outcomes were included: remission, response to treatment, depressive symptom scores, serious adverse events, suicide-related behaviours, and discontinuation of treatment because of adverse events.
+Data for two published trials suggest that fluoxetine has a favourable risk-benefit profile, and unpublished data lend support to this finding.
+Published results from one trial of paroxetine and two trials of sertraline suggest equivocal or weak positive risk-benefit profiles.
+However, in both cases, addition of unpublished data indicates that risks outweigh benefits.
+Data from unpublished trials of citalopram and venlafaxine show unfavourable risk-benefit profiles.
+Published data suggest a favourable risk-benefit profile for some SSRIs; however, addition of unpublished data indicates that risks could outweigh benefits of these drugs (except fluoxetine) to treat depression in children and young people.
+Clinical guideline development and clinical decisions about treatment are largely dependent on an evidence base published in peer-reviewed journals.
+Non-publication of trials, for whatever reason, or the omission of important data from published trials, can lead to erroneous recommendations for treatment.
+Greater openness and transparency with respect to all intervention studies is needed.

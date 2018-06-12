@@ -1,0 +1,25 @@
+Title 
+Alimentary pharmacology & therapeutics
+
+Article Title 
+Short- and long-term therapy for reflux oesophagitis in the elderly: a multi-centre, placebo-controlled study with pantoprazole.
+Abstract Text 
+No placebo-controlled clinical trials have yet been published on the efficacy of therapy in older subjects with oesophagitis.
+To evaluate the efficacy of pantoprazole in preventing the recurrence of oesophagitis in elderly subjects.
+One hundred and sixty-four patients aged 65 years and over with acute oesophagitis were treated openly with pantoprazole, 40 mg daily, for 8 weeks.
+Patients with documented healing of erosive oesophagitis were then treated with pantoprazole, 20 mg daily, for 6 months.
+Thereafter, cured patients were randomized to receive pantoprazole, 20 mg daily, or placebo for the following 6 months.
+Clinical evaluations were performed every 2 months, and endoscopy was repeated after 8 weeks and after 6 and 12 months and/or whenever symptoms suggested a relapse of oesophagitis.
+After 8 weeks, the healing rates of oesophagitis were 81.1% (75.1-87.1%)
+and 93.7% (89.7-97.7%)
+by intention-to-treat and per protocol analyses, respectively.
+After 6 months, the corresponding values were 82% (75.4-88.5%)
+and 92.4% (87.6-97.2%),
+respectively.
+After 12 months, the per protocol and intention-to-treat healing rates of oesophagitis were 95.1% (88.5-100%) and 79.6% (68.3-90.9%),
+respectively, in the treatment group vs. 32.7%
+(19.9-45.4%)
+and 30.4% (18.3-42.4%),
+respectively, in the placebo group (P = 0.0001).
+Heartburn, acid regurgitation and chest pain were significantly associated with the relapse of oesophagitis (P = 0.0001), whereas hiatus hernia, Helicobacter pylori infection, concomitant diseases and treatments were not.
+In the elderly, pantoprazole was highly effective in healing and reducing the relapse of oesophagitis; discontinuing active treatment after 6 months was associated with a significant increase in the relapse rate.

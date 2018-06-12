@@ -1,0 +1,31 @@
+Title 
+Diseases of the colon and rectum
+
+Article Title 
+Thrombosed external hemorrhoids: outcome after conservative or surgical management.
+Abstract Text 
+Few data exist on the actual recurrence rates of thrombosed external hemorrhoids.
+We wished to determine the incidence of recurrence, intervals to recurrence, and factors predicting recurrence of thrombosed external hemorrhoids after conservative or surgical management.
+Two hundred and thirty-one consecutive patients with thrombosed external hemorrhoids treated from 1990 to 2002 were identified.
+Recurrence was defined as complete resolution of the index lesion with subsequent return of a thrombosed external hemorrhoid and did not include patients with chronic symptoms.
+Data were gathered retrospectively.
+Multiple potential risk factors were reviewed.
+The index thrombosed external hemorrhoid was managed conservatively in 51.5 percent of cases and surgically in 48.5 percent.
+There were no differences between groups in gender, age, or race, and 44.5 percent of all patients had a prior history of thrombosed external hemorrhoid.
+A prior history was less common in the conservative group than in the surgical group (38.1 percent vs. 51.3
+percent; P < 0.05).
+The frequency of pain or bleeding as the primary complaint was higher in the surgical group ( P < 0.001 and P < 0.002).
+In addition, the surgical group was more likely to report all three symptoms of pain, bleeding, and a lump ( P < 0.005).
+Mean follow-up was 7.6 months, with the range extending to 7 years.
+Time to symptom resolution averaged 24 days in the conservative group vs. 3.9 days in the surgical group ( P < 0.0001).
+The overall incidence to recurrence was 15.6 percent-80.6 percent in the conservative group vs. 19.4
+percent in the surgical group.
+The rate of recurrence in the conservative group was 25.4 percent (4/29; 14 percent were excised) whereas only 6.3 percent of the surgical patients had recurrence ( P < 0.0001).
+Mean time to recurrence was 7.1 months in the conservative group vs. 25 months in the surgical group ( P < 0.0001).
+Survival analysis for time to recurrence of thrombosed external hemorrhoid indicated that time to recurrence was significantly longer for the surgical group ( P < 0.0001).
+Logistic regression analysis of multiple factors (including diverticular disease, constipation, straining, benign prostatic hypertrophy, diarrhea, skin tags, history of travel, anoreceptive sex, anal fissures, internal hemorrhoids, and obesity) was performed to determine the outcome of each group.
+None of these variables were significant predictors of recurrence.
+Patients whose initial presentation was pain or bleeding with or without a lump were more like to be treated surgically.
+Surgically treated patients had a lower frequency of recurrence and a longer time interval to recurrence than conservatively treated patients.
+None of the variables analyzed were significant predictors of a particular treatment, except for a prior history of thrombosed external hemorrhoids, which may represent patient choice.
+Although most patients treated conservatively will experience resolution of their symptoms, excision of thrombosed external hemorrhoids results in more rapid symptom resolution, lower incidence of recurrence, and longer remission intervals.

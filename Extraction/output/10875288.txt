@@ -1,0 +1,16 @@
+Title 
+The American journal of the medical sciences
+
+Article Title 
+Etiology and diagnostic evaluation of macrocytosis.
+Abstract Text 
+Elevation of mean cell volume (MCV) is a common clinical problem, but the etiologic spectrum and optimal diagnostic evaluation of macrocytosis are not well defined.
+We studied 300 consecutive hospitalized adult patients with MCV values > or = 100 fL.
+Assessment included complete blood counts, morphologic review, liver function tests, and levels of serum cobalamin (Cbl), methylmalonic acid, and total homocysteine.
+The most common cause of macrocytosis was drug therapy, followed by alcohol, liver disease, and reticulocytosis.
+Megaloblastic hematopoiesis accounted for less than 10% of cases.
+MCV values > 120 fL were usually caused by Cbl deficiency.
+Anisocytosis, macro-ovalocytosis, and teardrop erythrocytes were most prominent in megaloblastic hematopoiesis.
+Elevated levels of serum methylmalonic acid and total homocysteine were useful in the diagnosis of Cbl deficiency.
+Drugs and alcohol are the most common causes of macrocytosis in hospitalized patients in a New York City teaching hospital.
+We have formulated tentative guidelines for the evaluation of high MCV values in this setting.

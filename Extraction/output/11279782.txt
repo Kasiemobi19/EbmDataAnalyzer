@@ -1,0 +1,21 @@
+Title 
+Cochrane database of systematic reviews (Online)
+
+Article Title 
+Glucosamine therapy for treating osteoarthritis.
+Abstract Text 
+Osteoarthritis (OA) is the most common form of arthritis, and it is often associated with significant disability and an impaired quality of life.
+To review all randomized controlled trials (RCTs) evaluating the effectiveness and toxicity of glucosamine in osteoarthritis (OA).
+We searched MEDLINE, Embase, and Current Contents up to November 1999, and the Cochrane Controlled Trials Register.
+We also wrote letters to content experts, and hand searched reference lists of identified RCTs and pertinent review articles.
+Relevant studies met the following criteria: 1) RCTs evaluating the effectiveness and safety of glucosamine in OA, 2) Both placebo based and comparative studies were eligible, 3) Both single blinded and double-blinded studies were eligible.
+Data abstraction was performed independently by two investigators and the results were compared for degree of agreement.
+Gotzsche's method and a validated tool (Jadad 1995) were used to score the quality of the RCTs.
+Continuous outcome measures were pooled using standardized mean differences.
+Dichotomous outcome measures were pooled using Peto Odds Ratios.
+Collectively, the 16 identified RCTs provided evidence that glucosamine is both effective and safe in OA.
+In the 13 RCTs in which glucosamine was compared to placebo, glucosamine was found to be superior in all RCTs, except one.
+In the four RCTs in which glucosamine was compared to an NSAID, glucosamine was superior in two, and equivalent in two.
+Further research is necessary to confirm the long term effectiveness and toxicity of glucosamine therapy in OA.
+Most of the trials reviewed only evaluated the Rotta preparation of glucosamine sulfate.
+It is not known whether different glucosamine preparations prepared by different manufacturers are equally effective in the therapy of OA.

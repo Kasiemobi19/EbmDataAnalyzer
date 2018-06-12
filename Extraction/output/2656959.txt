@@ -1,0 +1,19 @@
+Title 
+The Journal of pediatrics
+
+Article Title 
+Acetaminophen: more harm than good for chickenpox?
+Abstract Text 
+To determine whether acetaminophen affects the duration or severity of childhood varicella.
+Randomized, double-blind, placebo-controlled trial.
+Office- and hospital-based pediatric practices.
+Seventy-two children between 1 and 12 years of age entered the study.
+One child was withdrawn because of high fever, and three children did not complete the study; 31 received placebo and 37 received acetaminophen.
+Acetaminophen, 10 mg/kg/dose, was given at 8 AM, 12 PM, 4 PM, and 8 PM for 4 days.
+Placebo was given to the control group.
+Itching, appetite, activity, and overall condition were measured for 6 days.
+The time to last vesicle formation, time to total scabbing, and time to total healing were measured until complete resolution of the exanthem.
+The following results were better in the placebo group (p less than .05):
+time to total scabbing 5.6 days (SD 2.5) versus 6.7 days (SD 2.3) in the acetaminophen group, and itching on day 4 in the placebo group (symptom score 2.9 (SD 0.20) vs 2.2 (SD 0.26].
+Activity was better in the acetaminophen group on day 2 (3.13 (SD 0.23) vs 2.82 (SD 0.24].
+These results provide evidence that acetaminophen does not alleviate symptoms in children with varicella and may prolong illness.

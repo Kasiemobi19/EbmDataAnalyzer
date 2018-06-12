@@ -1,0 +1,8 @@
+Title 
+American journal of obstetrics and gynecology
+
+Article Title 
+Common use of inaccurate antibody assays to identify infection status with herpes simplex virus type 2.
+Abstract Text 
+In recent proficiency testing of herpes simplex virus type-specific serologic evidence by the College of American Pathologists, commercially available herpes simplex virus antibody assays that were not glycoprotein-G based demonstrated high false-positive rates (14%-88%) for herpes simplex virus type-2 antibodies in sera that were positive for herpes simplex virus type-1 antibodies but negative for herpes simplex virus type-2 antibodies.
+Herpes simplex virus serologic testing should be performed with only glycoprotein-G-based tests.

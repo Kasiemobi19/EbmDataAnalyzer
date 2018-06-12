@@ -1,0 +1,16 @@
+Title 
+The Journal of reproductive medicine
+
+Article Title 
+Laparoscopic versus clinical diagnosis of acute pelvic inflammatory disease.
+Abstract Text 
+The purpose of this study was to evaluate the accuracy of clinical diagnosis of acute pelvic inflammatory disease (PID).
+Data were obtained on 176 consecutive women admitted to St. Elizabeth Hospital Medical Center with a clinical diagnosis of PID.
+All underwent diagnostic laparoscopy.
+PID was established laparoscopically in 134 (76.1%) of the patients.
+Statistical tests for significant associations between PID and each of 21 clinical indicators of the disease were conducted using the chi 2 and Mann-Whitney tests.
+Stepwise logistic regression was performed on those variables whose univariate tests of significant association with PID resulted in P values < 0.20.
+An optimal set of PID indicators consisted of adnexal tenderness, lower abdominal pain of < one week's duration and an elevated white blood cell count.
+Use of these indicators resulted in a test with an estimated sensitivity and specificity of 86.6% and 45.7%, respectively.
+Estimated predictive values for positive and negative test results were 0.84 and 0.52, respectively.
+These results confirm the fact that laparoscopy is the definitive diagnostic modality in PID.

@@ -1,0 +1,12 @@
+Title 
+Journal of consulting and clinical psychology
+
+Article Title 
+Naltrexone, relapse prevention, and supportive therapy with alcoholics: an analysis of patient treatment matching.
+Abstract Text 
+Alcohol-dependent patients (N = 97) were randomly assigned to receive either naltrexone or placebo and either relapse prevention therapy or supportive therapy.
+The present report explored the hypothesis that patients could be matched to the above treatments on the basis of specific pretreatment characteristics.
+Treatment matching variables explored included craving, alcohol dependence severity, and cognitive measures of learning and memory.
+Results of linear regression analyses tentatively suggest that patients experiencing higher levels of craving and poorer cognitive functioning may derive the greatest benefit from naltrexone versus placebo.
+For psychotherapy, lower levels of verbal learning were associated with poorer drinking outcomes for relapse prevention therapy but not for supportive therapy.
+Conversely, higher levels of verbal learning were associated with better outcomes for relapse prevention therapy but not for supportive therapy.

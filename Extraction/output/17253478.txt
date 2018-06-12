@@ -1,0 +1,22 @@
+Title 
+Cochrane database of systematic reviews (Online)
+
+Article Title 
+Antihypertensive drug therapy for mild to moderate hypertension during pregnancy.
+Abstract Text 
+Mild to moderate hypertension during pregnancy is common.
+Antihypertensive drugs are often used in the belief that lowering blood pressure will prevent progression to more severe disease, and thereby improve outcome.
+To assess the effects of antihypertensive drug treatments for women with mild to moderate hypertension during pregnancy.
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (March 2006), the Cochrane Central Register of Controlled Trials (The Cochrane Library 2005, Issue 3), MEDLINE (1966 to November 2005), LILACS (1984 to November 2005) and EMBASE (1974 to November 2005).
+All randomised trials evaluating any antihypertensive drug treatment for mild to moderate hypertension during pregnancy defined, whenever possible, as systolic blood pressure 140 to 169 mmHg and diastolic blood pressure 90 to 109 mmHg.
+Comparisons were of one or more antihypertensive drug(s) with placebo, with no antihypertensive drug, or with another antihypertensive drug, and where treatment was planned to continue for at least seven days.
+Two review authors independently extracted data.
+Forty-six trials (4282 women) were included.
+Twenty-eight trials compared an antihypertensive drug with placebo/no antihypertensive drug (3200 women).
+There is a halving in the risk of developing severe hypertension associated with the use of antihypertensive drug(s) (19 trials, 2409 women; relative risk (RR) 0.50; 95% confidence interval (CI) 0.41 to 0.61; risk difference (RD) -0.10 (-0.12 to -0.07); number needed to treat (NNT) 10 (8 to 13)) but little evidence of a difference in the risk of pre-eclampsia (22 trials, 2702 women; RR 0.97; 95% CI 0.83 to 1.13).
+Similarly, there is no clear effect on the risk of the baby dying (26 trials, 3081 women; RR 0.73; 95% CI 0.50 to 1.08), preterm birth (14 trials, 1992 women; RR 1.02; 95 % CI 0.89 to 1.16), or small-for-gestational-age babies (19 trials, 2437 women; RR 1.04; 95 % CI 0.84 to 1.27).
+There were no clear differences in any other outcomes.
+Nineteen trials (1282 women) compared one antihypertensive drug with another.
+Beta blockers seem better than methyldopa for reducing the risk of severe hypertension (10 trials, 539 women, RR 0.75 (95 % CI 0.59 to 0.94); RD -0.08 (-0.14 to 0.02); NNT 12 (6 to 275)).
+There is no clear difference between any of the alternative drugs in the risk of developing proteinuria/pre-eclampsia. Other outcomes were only reported by a small proportion of studies, and there were no clear differences.
+It remains unclear whether antihypertensive drug therapy for mild to moderate hypertension during pregnancy is worthwhile.

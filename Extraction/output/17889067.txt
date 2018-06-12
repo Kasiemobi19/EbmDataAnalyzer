@@ -1,0 +1,16 @@
+Title 
+The Journal of pediatrics
+
+Article Title 
+Solid food introduction in relation to eczema: results from a four-year prospective birth cohort study.
+Abstract Text 
+To assess the association between the introduction of solid foods in the first 12 months and the occurrence of eczema during the first 4 years of life in a prospective study of newborns.
+Data were taken from annually administered questionnaires from a large birth cohort (recruited 1995-1998) comprised of an intervention and a nonintervention group.
+Outcomes were doctor-diagnosed and symptomatic eczema.
+Multiple generalized estimation equation models were performed for the 2 study groups.
+From the 5991 recruited infants, 4753 (79%) were followed up.
+The 2 study groups were different in their family risk of allergies and feeding practices.
+No association was found between the time of introduction of solids or the diversity of solids and eczema.
+In the nonintervention group, a decreased risk was observed for avoidance of soybean/nuts, but an increased risk was seen in doctor-diagnosed eczema for the avoidance of egg in the first year.
+The evidence from this study supports neither a delayed introduction of solids beyond the fourth month nor a delayed introduction of the most potentially allergenic solids beyond the sixth month of life for the prevention of eczema.
+However, effects under more extreme conditions cannot be ruled out.

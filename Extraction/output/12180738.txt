@@ -1,0 +1,15 @@
+Title 
+The Journal of rheumatology
+
+Article Title 
+Therapeutic exercise for people with osteoarthritis of the hip or knee. A systematic review.
+Abstract Text 
+To determine whether land based therapeutic exercise is beneficial for people with osteoarthritis (OA) of the hip or knee in terms of reduced joint pain, improved physical function, and/or the patient's global assessment of therapeutic effectiveness.
+Five databases were searched for randomized clinical trials.
+Standardized mean differences (SMD) with their 95% confidence intervals (CI) were calculated for each study and then combined using a fixed effects model.
+Only 2 studies, totaling about 100 participants, could potentially provide data on people with hip OA.
+Fourteen studies provided data on 1633 participants with knee OA.
+Nine of these studies were considered of high methodological quality.
+For pain, combining the results revealed a mean moderate beneficial effect (SMD 0.46, 95% Cl 0.35, 0.57), while for self-reported physical function a mean small beneficial effect (SMD 0.33, 95% CI 0.23, 0.43) was found.
+These results appeared to be sensitive to blinding of outcome assessor and choice of control group.
+Land based therapeutic exercise was shown to reduce pain and improve physical function for people with OA of the knee.

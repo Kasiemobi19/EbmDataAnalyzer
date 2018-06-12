@@ -1,0 +1,15 @@
+Title 
+National vital statistics reports : from the Centers for Disease Control and Prevention, National Center for Health Statistics, National Vital Statistics System
+
+Article Title 
+United States life tables, 1997.
+Abstract Text 
+The life tables in this report are current life tables for the United States based on age-specific death rates in 1997.
+Beginning with 1997 mortality data, complete U.S. life tables were constructed using a new methodology that replaces the abridged life table methodology used previously.
+The methodology is similar to that used in the decennial life tables.
+Also, life expectancy and other life table values are shown for ages 85 to 100 years for the first time as part of the annual U.S. life tables.
+Data used to prepare these life tables are 1997 final mortality statistics; July 1, 1997, population estimates; and data from the Medicare program.
+Presented are complete life tables by age, race, and sex.
+In 1997 the overall expectation of life at birth was 76.5 years, an increase of 0.4 years compared with life expectancy in 1996.
+Life expectancy increased from 1996 to 1997 for each of the four race-sex groups for which life expectancy is reported.
+Life expectancy increased for black males by 1.1 year (from 66.1 to 67.2), for black females by 0.5 year (from 74.2 to 74.7), for white males by 0.4 year (from 73.9 to 74.3), and for white females by 0.2 year (from 79.7 to 79.9).

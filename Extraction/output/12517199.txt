@@ -1,0 +1,19 @@
+Title 
+Archives of pediatrics & adolescent medicine
+
+Article Title 
+Nebulizers vs metered-dose inhalers with spacers for bronchodilator therapy to treat wheezing in children aged 2 to 24 months in a pediatric emergency department.
+Abstract Text 
+To determine if administration of albuterol by a metered-dose inhaler with a spacer device is as efficacious as administration of albuterol by nebulizer to treat wheezing in children aged 2 years and younger.
+Double-blind, randomized, placebo-controlled clinical trial.
+Pediatric emergency department.
+From a convenience sample of wheezing children aged 2 to 24 months, 85 patients were enrolled in the nebulizer group and 83 in the spacer group.
+The nebulizer group received a placebo metered-dose inhaler with a spacer followed by nebulized albuterol.
+The spacer group received albuterol by a metered-dose inhaler with a spacer followed by nebulized isotonic sodium chloride solution.
+Treatments were given every 20 minutes by a single investigator blinded to group assignment.
+The primary outcome was admission rate.
+Pulmonary Index score and oxygen saturation were measured initially and 10 minutes after each treatment.
+The nebulizer group had a significantly higher mean (SD) initial Pulmonary Index score compared with the spacer group (7.6 [2.5] vs 6.6 [2.0]; P =.002).
+With the initial Pulmonary Index score controlled, children in the spacer group were admitted less (5% vs 20%; P =.05).
+Analyses also revealed an interaction between group and initial Pulmonary Index score; lower admission rates in the spacer group were found primarily in children having a more severe asthma exacerbation.
+Our data suggest that metered-dose inhalers with spacers may be as efficacious as nebulizers for the emergency department treatment of wheezing in children aged 2 years or younger.

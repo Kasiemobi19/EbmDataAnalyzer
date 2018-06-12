@@ -1,0 +1,20 @@
+Title 
+The Journal of pediatrics
+
+Article Title 
+Double-blind placebo-controlled trial of omeprazole in irritable infants with gastroesophageal reflux.
+Abstract Text 
+To assess the efficacy of omeprazole in treating irritable infants with gastroesophageal reflux and/or esophagitis.
+Irritable infants (n=30) 3 to 12 months of age met the entry criteria of esophageal acid exposure >5% (n=22) and/or abnormal esophageal histology (n=15).
+They completed a 4-week, randomized, double-blind, placebo-controlled crossover trial of omeprazole.
+Cry/fuss diary (minutes/24 hours) and a visual analogue scale of infant irritability as judged by parental impression were obtained at baseline and the end of each 2-week treatment period.
+The reflux index fell significantly during omeprazole treatment compared with placebo (-8.9%+/-5.6%,
+-1.9%+/-2.0%,
+P<.001).
+Cry/fuss time decreased from baseline (267+/-119), regardless of treatment sequence (period 1, 203+/-99, P<.04; period 2, 188+/-121, P<.008).
+Visual analogue score decreased from baseline to period 2 (6.8+/-1.6,
+4.8+/-2.9,
+P=.008).
+There was no significant difference for both outcome measures while taking either omeprazole or placebo.
+Compared with placebo, omeprazole significantly reduced esophageal acid exposure but not irritability.
+Irritability improved with time, regardless of treatment.

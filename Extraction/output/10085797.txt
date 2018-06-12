@@ -1,0 +1,18 @@
+Title 
+The American journal of hospice & palliative care
+
+Article Title 
+Criteria for enrolling dementia patients in hospice: a replication.
+Abstract Text 
+Because survival time varies greatly in dementia, it is difficult for dementia patients to meet a key criterion for the Medicare Hospice Benefit, a six-month survival time.
+In a previous study, the authors examined guidelines for admitting dementia patients to hospice; the National Hospice Organization (NHO) guidelines were found to work well in identifying appropriate candidates for hospice among dementia patients.
+This was especially true for those patients whose deficits had progressed in an ordinal fashion consistent with Functional Assessment Staging (FAST) and who had reached stage 7C.
+The purpose of this study was to examine the utility of the NHO guidelines in identifying dementia patients who are appropriate for hospice; the limitations of these guidelines regarding non-ordinal patients; and the importance of the actual care plans used--as opposed to our previous study, which only examined initial treatment plans.
+Forty-five dementia patients enrolled in Hospice of the Great Lakes in Illinois were studied longitudinally over two years; this included a follow-up period of at least six months for all patients.
+Measures included: survival time; FAST; a medical complications checklist, which consisted of common complications of end-stage dementia; and co-morbid medical conditions and aggressive care, which consisted of feeding tubes, antibiotics, and Foley catheters used during the course of the study.
+Patients who had reached Stage 7C at intake had a mean survival time of 4.1 months; and the majority (71 percent) died within six months.
+Non-ordinal patients lived significantly longer at a mean of 10.9 months (p < .01),
+and and the minority (30 percent) died within six months.
+Foley catheters decreased survival time; and the use of antibiotics did not make a difference.
+This study echoed our previous findings regarding the usefulness of NHO guidelines in identifying dementia patients with a survival time of six months or less, specifically those at stage 7C or greater.
+The findings also suggest that the nature of the palliative care plan influences survival time.

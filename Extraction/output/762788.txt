@@ -1,0 +1,11 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+Toxic effects of isoniazid in tuberculosis chemoprophylaxis. Role of biochemical monitoring in 1,000 patients.
+Abstract Text 
+One thousand patients receiving isoniazid chemoprophylaxis were prospectively followed up to assess the value of liver function monitoring plus monthly clinical evaluation.
+Two hundred twenty-two (22.2%) of the patients had at least one elevated SGOT level during the course of treatment, and 47 asymptomatic persons had isoniazid therapy discontinued because of consistent elevations greater than five times normal.
+Another 17 had symptoms in association with elevated SGOT levels, and therapy was stopped in these patients as well.
+No patient became seriously ill, and there were no deaths.
+Biochemical monitoring should be done routinely in patients receiving isoniazid chemoprophylaxis to avoid the development of irreversible hepatic reactions.

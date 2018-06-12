@@ -1,0 +1,17 @@
+Title 
+International journal of geriatric psychiatry
+
+Article Title 
+Zaleplon shortens subjective sleep latency and improves subjective sleep quality in elderly patients with insomnia. The Zaleplon Clinical Investigator Study Group.
+Abstract Text 
+Insomnia is a frequent complaint in the elderly population.
+Hypnotic agents, including benzodiazepines, with longer pharmacological half-lives have been associated with side effects, including residual sedation, memory impairment, and discontinuation effects.
+Zaleplon is a short-acting (elimination half-life of 1 hour), non-benzodiazepine hypnotic that acts on the benzodiazepine type 1 site of the gamma-aminobutyric acid type A (GABA(A)) receptor complex.
+The pharmacology and pharmacokinetics of Zaleplon suggest a safety profile that is improved over other hypnotics.
+The objective of this placebo-controlled study was to evaluate the efficacy and safety of Zaleplon (5 and 10 mg) in elderly (> or =65 years) outpatients with primary insomnia.
+This was a multicenter, double-blind, randomised, placebo-controlled 2-week outpatient study.
+Postsleep questionnaires were used to record subjective sleep variables: sleep latency, sleep duration, number of awakenings, and sleep quality.
+Zaleplon significantly reduced subjective sleep latency during both weeks of the study with both 5- and 10-mg doses.
+Subjective sleep quality was improved for significantly more patients treated with zaleplon 10 mg than those treated with placebo during both weeks of treatment.
+There was a weak indication of rebound insomnia after discontinuation of treatment with the 10-mg dose, but no significant difference in common treatment-emergent adverse events across treatment groups.
+Zaleplon is an effective and safe hypnotic for the treatment of insomnia in the elderly.

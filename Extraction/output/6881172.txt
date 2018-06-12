@@ -1,0 +1,11 @@
+Title 
+The American journal of medicine
+
+Article Title 
+Aging and the thyroid. Decreased requirement for thyroid hormone in older hypothyroid patients.
+Abstract Text 
+In 84 patients, aged 23 to 84, with primary hypothyroidism, the daily dose of thyroxine needed to lower the serum thyrotropin level into the normal range was significantly less in older patients than in younger ones (p less than 0.01).
+Most of the difference between middle-aged (40 to 60 years) and older patients (greater than 60 years) was due to a decrease in the required dose in men; there was no difference in the dose needed by women in these age groups.
+Previous hyperthyroidism did not affect the dose of thyroxine required; it is unlikely that residual autonomous thyroid tissue affected the dose.
+Although the wide range of doses needed precludes use of these data in calculating a dose of thyroxine for an individual patient, doses of 100 micrograms per day or less were common in patients over age 40, and a few patients over age 60 needed 50 micrograms per day or less.
+Thus, (1) there is a sound physiologic basis for the common practice of using low doses of thyroxine, e.g., 25 micrograms per day, as initial therapy in older hypothyroid patients and (2) it may be reasonable to reassess the dose of thyroxine after several years in older patients.

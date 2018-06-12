@@ -1,0 +1,25 @@
+Title 
+Clinical therapeutics
+
+Article Title 
+Multicenter, double-blind, controlled comparison of zolpidem and triazolam in elderly patients with insomnia.
+Abstract Text 
+The efficacy and safety of zolpidem, a hypnotic of a new chemical class (the imidazopyridines), was compared with a reference benzodiazepine in elderly insomniac patients in a randomized, double-blind, multicenter trial.
+Hospitalized patients aged 58 to 98 years were randomized to receive zolpidem 5 mg (70 patients), zolpidem 10 mg (74 patients), or triazolam 0.25 mg (77 patients) at bed-time.
+(Three patients were excluded and 13 patients did not complete the study.)
+The 3-week active treatment period was preceded by 3 and followed by 7 days of placebo administration.
+Sleep quality was assessed by the patient via a questionnaire and visual analog scale.
+A clinician's global impression was also recorded.
+All measures of sleep quality were improved by both doses of zolpidem and by triazolam.
+The improvements between the end of the placebo phase and the end of the active treatment phase were significant for all treatments and assessment instruments.
+Moreover, the significant improvements in all measures were maintained during the week following withdrawal of both doses of zolpidem.
+The improvement in most sleep assessment parameters was maintained after withdrawal of triazolam.
+Tolerability of all treatments was excellent.
+The majority of patients reported no adverse effects.
+The reported adverse effects in all groups included nightmares, daytime drowsiness, and day- or nighttime agitation.
+There was no evidence of rebound insomnia; the therapeutic effect of zolpidem outlasted drug treatment.
+There were no signs of agitation or anxiety following cessation of treatment, which might be indicative of withdrawal phenomena.
+Confusion was recorded only in the triazolam group.
+These results suggest that zolpidem is at least as effective as triazolam in geriatric insomniac patients.
+Zolpidem 5 mg and 10 mg demonstrated a good safety profile.
+On the basis of these data, zolpidem 5 mg should be given as a starting dose in elderly patients, with a possible increase up to 10 mg in more severe cases of insomnia.

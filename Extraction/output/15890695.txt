@@ -1,0 +1,22 @@
+Title 
+Archives of disease in childhood
+
+Article Title 
+What is the long term outcome for children who fail to thrive? A systematic review.
+Abstract Text 
+To ascertain the long term outcomes in children diagnosed as having failure to thrive (FTT).
+Systematic review of cohort studies.
+Medline, Psychinfo, Embase, Cinahl, Web of Science, Cochrane, and DARE databases were searched for potentially relevant studies.
+Inclusion criteria: cohort studies or randomised controlled trials in children <2 years old with failure to thrive defined as weight <10th centile or lower centile and/or weight velocity <10th centile, with growth, development, or behaviour measured at 3 years of age or older.
+Thirteen studies met the inclusion criteria; eight included a comparison group, of which five included children identified in community settings.
+Two were randomised controlled trials.
+Attrition rates were 10-30%.
+Data from population based studies with comparison groups and which reported comparable outcomes in an appropriate form were pooled in a random effects meta-analysis.
+Four studies report IQ scores at follow up and the pooled standardised mean difference was -0.22 (95% CI -0.41 to -0.03).
+Two studies reported growth data as standard deviation scores.
+Their pooled weighted mean difference for weight was -1.24 SDS (95% CI -2.00 to -0.48), and for height -0.87 SDS (95% CI -1.47 to -0.28).
+No studies corrected for parental height, but two reported that parents of index children were shorter.
+The IQ difference (equivalent to approximately 3 IQ points) is of questionable clinical significance.
+The height and weight differences are larger, but few children were below the 3rd centile at follow up.
+It is unclear to what extent observed differences reflect causal relations or confounding due to other variables.
+In the light of these results the aggressive approach to identification and management of failure to thrive needs reassessing.

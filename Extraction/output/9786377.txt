@@ -1,0 +1,17 @@
+Title 
+JAMA : the journal of the American Medical Association
+
+Article Title 
+The rational clinical examination. Is this patient having a myocardial infarction?
+Abstract Text 
+When faced with a patient with acute chest pain, clinicians must distinguish myocardial infarction (MI) from all other causes of acute chest pain.
+If MI is suspected, current therapeutic practice includes deciding whether to administer thrombolysis or primary percutaneous transluminal coronary angioplasty and whether to admit patients to a coronary care unit.
+The former decision is based on electrocardiographic (ECG) changes, including ST-segment elevation or left bundle-branch block, the latter on the likelihood of the patient's having unstable high-risk ischemia or MI without ECG changes.
+Despite advances in investigative modalities, a focused history and physical examination followed by an ECG remain the key tools for the diagnosis of MI.
+The most powerful features that increase the probability of MI, and their associated likelihood ratios (LRs), are new ST-segment elevation (LR range, 5.7-53.9);
+new Q wave (LR range, 5.3-24.8);
+chest pain radiating to both the left and right arm simultaneously (LR, 7.1); presence of a third heart sound (LR, 3.2); and hypotension (LR, 3.1).
+The most powerful features that decrease the probability of MI are a normal ECG result (LR range, 0.1-0.3),
+pleuritic chest pain (LR, 0.2), chest pain reproduced by palpation (LR range, 0.2-0.4),
+sharp or stabbing chest pain (LR, 0.3), and positional chest pain (LR, 0.3).
+Computer-derived algorithms that depend on clinical examination and ECG findings might improve the classification of patients according to the probability that an MI is causing their chest pain.

@@ -1,0 +1,16 @@
+Title 
+The New England journal of medicine
+
+Article Title 
+Medication augmentation after the failure of SSRIs for depression.
+Abstract Text 
+Although clinicians frequently add a second medication to an initial, ineffective antidepressant drug, no randomized controlled trial has compared the efficacy of this approach.
+We randomly assigned 565 adult outpatients who had nonpsychotic major depressive disorder without remission despite a mean of 11.9 weeks of citalopram therapy (mean final dose, 55 mg per day) to receive sustained-release bupropion (at a dose of up to 400 mg per day) as augmentation and 286 to receive buspirone (at a dose of up to 60 mg per day) as augmentation.
+The primary outcome of remission of symptoms was defined as a score of 7 or less on the 17-item Hamilton Rating Scale for Depression (HRSD-17) at the end of this study; scores were obtained over the telephone by raters blinded to treatment assignment.
+The 16-item Quick Inventory of Depressive Symptomatology--Self-Report (QIDS-SR-16) was used to determine the secondary outcomes of remission (defined as a score of less than 6 at the end of this study) and response (a reduction in baseline scores of 50 percent or more).
+The sustained-release bupropion group and the buspirone group had similar rates of HRSD-17 remission (29.7 percent and 30.1 percent, respectively), QIDS-SR-16 remission (39.0 percent and 32.9 percent), and QIDS-SR-16 response (31.8 percent and 26.9 percent).
+Sustained-release bupropion, however, was associated with a greater reduction (from baseline to the end of this study) in QIDS-SR-16 scores than was buspirone (25.3 percent vs. 17.1 percent, P<0.04), a lower QIDS-SR-16 score at the end of this study (8.0 vs. 9.1, P<0.02), and a lower dropout rate due to intolerance (12.5 percent vs. 20.6 percent, P<0.009).
+Augmentation of citalopram with either sustained-release bupropion or buspirone appears to be useful in actual clinical settings.
+Augmentation with sustained-release bupropion does have certain advantages, including a greater reduction in the number and severity of symptoms and fewer side effects and adverse events.
+(ClinicalTrials.gov
+number, NCT00021528.).

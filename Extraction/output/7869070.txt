@@ -1,0 +1,14 @@
+Title 
+Journal of clinical epidemiology
+
+Article Title 
+Recall bias in case-control studies: an empirical analysis and theoretical framework.
+Abstract Text 
+Previous work has suggested that recall bias in case-control studies may be more serious when the overall study quality is lower.
+This paper summarizes a systematic literature search to examine the question.
+All relevant studies published between 1966 and 1990 were included if they met the following criteria: (1) they represented original work, (2) they used a human population, (3) they used a case-control design, (4) they had a "validated" gold standard applied equally to cases and controls and (5) they reported at least one of crude agreement rates, chance-corrected agreement rates (kappa), sensitivity or specificity.
+Sixteen such studies were identified.
+No relationship was found between the absolute differences in agreement between cases and controls and the overall level of agreement, in contradiction to suggestions in previous literature.
+Comparisons of the data quality for cases and controls using either the crude agreement level, kappa, sensitivity, or specificity gave linear relationships with correlations of 0.81, 0.78, 0.58 and 0.62 respectively.
+Kappas were generally lower than the corresponding crude agreement levels and specificities were higher than sensitivities.
+When used together, these types of comparisons can give valuable information regarding (1) the possible existence of differential recall in a particular study and (2) the quality of that study, A theoretical framework is proposed for use in these areas.

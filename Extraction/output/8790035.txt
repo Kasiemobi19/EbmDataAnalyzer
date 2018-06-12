@@ -1,0 +1,17 @@
+Title 
+Circulation
+
+Article Title 
+Interaction between exercise training and ejection fraction in predicting prognosis after a first myocardial infarction.
+Abstract Text 
+Although recent meta-analysis trials have shown that exercise training may improve survival after myocardial infarction, the mechanism of this beneficial effect is still unknown.
+The purpose of this study was to detect possible interactions between exercise training and predictors of prognosis after a first myocardial infarction.
+Patients with uneventful clinical courses after a first myocardial infarction were randomly assigned to a 4-week training period (125 patients, group 1) or to a control group (131 patients, group 2).
+Before randomization, all patients underwent a symptom-limited exercise test (28 +/- 2 days after myocardial infarction), 24-hour Holter monitoring, and coronary arteriography (31 +/- 3 days after the acute episode).
+After a mean follow-up period of 34.5 months, 18 patients had cardiac deaths (5 in group 1 and 13 in group 2).
+Multivariate analysis by Cox regression model showed that ejection fraction was the only independent prognostic indicator (P = .03).
+Evidence existed of an interaction between ejection fraction and exercise training, showing an effect of physical training on survival that depended on the patient's ejection fraction.
+Among patients with ejection fractions < 41%, the relative risk for an untrained patient was 8.63 times higher than for a trained patient (P = .04),
+whereas for ejection fractions > 40%, the estimated risks for trained and untrained patients were similar.
+These data show that exercise training may prolong survival in post-myocardial infarction patients with depressed left ventricular function.
+A randomized trial in such patients seems warranted.

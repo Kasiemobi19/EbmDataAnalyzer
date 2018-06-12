@@ -1,0 +1,32 @@
+Title 
+Evidence report/technology assessment (Summary)
+
+Article Title 
+Treatment of attention-deficit/hyperactivity disorder.
+Abstract Text 
+To determine (a) the long-term and short-term effectiveness and safety of pharmacological and nonpharmacological interventions for attention-deficit/hyperactivity disorder (ADHD) in children and adults and (b) whether combined interventions are more effective than individual interventions.
+MEDLINE (from 1966), CINAHL (from 1982), HEALTHStar (from 1975), PsycINFO (from 1984), EMBASE (from 1984), and the Cochrane Library searches were completed in November 1997.
+Reference lists of eligible studies and files of members of the research team and partner organizations were also searched.
+Studies were selected if they focused on the treatment of ADHD in humans and were published in any language as a full report in peer-reviewed journals.
+Studies including conditions other than ADHD were reported if separate subgroup analyses for patients with ADHD were provided.
+Two reviewers independently extracted data for 41 variables on general characteristics, along with detailed information on interventions, outcomes, and tests.
+Differences were resolved by consensus or by a third researcher.
+Studies were not combined quantitatively because the quality of reporting was low and heterogeneity existed across outcome measures and tests.
+Seventy-eight studies (77 randomized controlled trials) met the inclusion criteria.
+Twenty-three studies compared drugs and showed few, if any, differences among methylphenidate (MPH), dextroamphetamine (DEX), and pemoline; studies comparing stimulants with tricyclic antidepressants (2) were inconclusive.
+Six studies compared drugs with nondrug interventions and showed consistently that stimulants, particularly MPH, may be more effective than nonpharmacological interventions.
+Twenty studies compared combination therapies with a stimulant or a nondrug intervention alone; no additional beneficial effects for combination therapies were shown.
+Nine studies compared tricyclic antidepressants with placebo and showed that desipramine may be more effective than placebo; no consistent effect was shown for imipramine.
+Fourteen studies (13 in school children and 1 in adults) evaluated long-term therapy (> or = 12 weeks) and showed a trend to general improvement regardless of treatment, but the length of followup was inadequate.
+MPH may reduce behavioral disturbance in children with ADHD while it is taken.
+Academic performance does not appear to be improved with stimulants.
+Twelve studies evaluated treatment in adults with ADHD.
+For MPH vs. placebo, the results were contradictory.
+Antidepressants may be effective in adults, but no beneficial effect was seen with pemoline, nicotine, or phenylalanine compared with placebo.
+Thirty-two reports (29 studies) evaluated adverse effects of drug therapy; many of the side effects associated with stimulant use appear to be relatively mild and of short duration and to respond to dosing or timing adjustments.
+Data are inadequate on the long-term effects and severity of adverse effects of most interventions.
+This report describes rigorous systematic reviews on the treatment of ADHD, ready for incorporation into evidence-based clinical practice guidelines or performance measures.
+The report also provides a detailed description of the many limitations of the evidence available and provides recommendations to fill existing knowledge gaps.
+Studies on ADHD have low reporting quality, methodological flaws, and heterogeneity across outcome measures and tests.
+A detailed description is included of the many limitations of the available evidence plus recommendations to fill existing knowledge gaps.
+Fulfilling such knowledge gaps will not be easy and will require genuine collaboration among decisionmakers.

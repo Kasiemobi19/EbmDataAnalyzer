@@ -1,0 +1,16 @@
+Title 
+Annals of behavioral medicine : a publication of the Society of Behavioral Medicine
+
+Article Title 
+Self-weighing in weight gain prevention and weight loss trials.
+Abstract Text 
+Although self-monitoring is a central tenet of behavioral approaches to changing health behavior, clinical and public health recommendations for better controlling body weight do not emphasize weight self-monitoring.
+The objective was to determine whether more frequent self-weighing exerts a positive influence on weight loss or weight gain prevention.
+This study examined cross-sectional and longitudinal associations between self-weighing frequency and weight in two distinct groups: 1,226 adults who were enrolled in a weight gain prevention trial, and 1,800 adults who were enrolled in a weight loss trial.
+Although the samples differed significantly in weight and baseline demographic characteristics, the distribution of baseline weighing frequencies did not differ by study.
+In both groups, more frequent self-weighing at baseline was associated with greater age, lower fat intake, White ethnicity, current nonsmoking status, a greater history of dieting to lose weight, and lower current body mass index.
+Despite similar weighing instructions, differential patterns of weighing frequency over time were observed: Weight loss dieters increased weighing over time regardless of treatment group (control or intervention), whereas weight gain preventers decreased weighing over time in the control group and increased weighing over time in intervention groups.
+Most important, higher weighing frequency was associated with greater 24-month weight loss or less weight gain.
+Results support the idea that daily weighing is valuable to individuals trying to lose weight or prevent weight gain.
+Daily self-weighing should be emphasized in clinical and public health messages about weight control.
+Experimental studies on the effects of weighing frequency in these contexts are recommended.

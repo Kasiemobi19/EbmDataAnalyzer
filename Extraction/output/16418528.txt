@@ -1,0 +1,10 @@
+Title 
+Clinical microbiology reviews
+
+Article Title 
+Prospects for vaccine prevention of meningococcal infection.
+Abstract Text 
+Neisseria meningitidis is the leading cause of bacterial meningitis in the United States and worldwide.
+A serogroup A/C/W-135/Y polysaccharide meningococcal vaccine has been licensed in the United States since 1981 but has not been used universally outside of the military.
+On 14 January 2005, a polysaccharide conjugate vaccine that covers meningococcal serogroups A, C, W-135, and Y was licensed in the United States for 11- to 55-year-olds and is now recommended for the routine immunization of adolescents and other high-risk groups.
+This review covers the changing epidemiology of meningococcal disease in the United States, issues related to vaccine prevention, and recommendations on the use of the new vaccine.

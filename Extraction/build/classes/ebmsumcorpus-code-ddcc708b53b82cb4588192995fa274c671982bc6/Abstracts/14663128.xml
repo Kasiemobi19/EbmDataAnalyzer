@@ -1,0 +1,432 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    14663128
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     09
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     16
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      1368-4973
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       79
+      </volume>
+      <issue>
+       6
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Dec
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Sexually transmitted infections
+     </title>
+     <isoabbreviation>
+      Sex Transm Infect
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Diagnosis of pelvic inflammatory disease: time for a rethink.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      491-4
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To critically evaluate the available evidence base concerned with the diagnosis of pelvic inflammatory disease (PID) based on clinical presentation, and to investigate the relation between signs and symptoms and the presence of laparoscopically diagnosed PID using the largest available dataset.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      The evidence base was critically evaluated and data collected by Lund University between 1960 and 1969 were used to compare clinical presentation with the results of laparoscopic investigation. Three techniques were used in this investigation-sensitivity and specificity, likelihood ratios, and discriminant analysis.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      None of the variables (abnormal vaginal discharge, fever &gt;38 degrees C, vomiting, menstrual irregularity, ongoing bleeding, symptoms of urethritis, rectal temperature &gt;38 degrees C, marked tenderness of pelvic organs on bimanual examination, adnexal mass, and erythrocyte sedimentation rate &gt;or=15 mm in the first hour) had both high specificity and sensitivity-most had low specificity and sensitivity. There was little variation in either the likelihood ratios or the post-test probabilities between the variables. The lowest likelihood ratio (0.97) produced a post-test probability of 78% (95% CI: 74% to 81%) whereas the highest (1.73) had a post-test probability of 84% (95% CI: 81% to 87%). The pretest probability of having PID based on the presence of lower abdominal pain was 79% (95% CI: 76% to 82%). The discriminant analysis indicated that three variables significantly influenced the prediction of the presence of PID: erythrocyte sedimentation rate (p&lt;0.0001), fever (p&lt;0.0001), and adnexal tenderness (p&lt;0.0001). These variables correctly classified 65% of patients with laparoscopically diagnosed PID (95% CI: 61% to 69%).
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      There is insufficient evidence to support existing diagnostic criteria, which have been based on a combination of empirical data and expert opinion. A new evidence base is urgently needed but this will require either a new investigation of the association between clinical presentation and PID based on a laparoscopic "gold standard" or the development of new diagnostic techniques.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     HPA Communicable Disease Surveillance Centre, London, UK. ian.simms@hpa.org.uk
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Simms
+      </lastname>
+      <forename>
+       I
+      </forename>
+      <initials>
+       I
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Warburton
+      </lastname>
+      <forename>
+       F
+      </forename>
+      <initials>
+       F
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Weström
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Sex Transm Infect
+    </medlineta>
+    <nlmuniqueid>
+     9805554
+    </nlmuniqueid>
+    <issnlinking>
+     1368-4973
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect. 2000 Jan;40(1):31-41
+     </refsource>
+     <pmid version="1">
+      10762109
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1998 Sep 5;317(7159):680-1
+     </refsource>
+     <pmid version="1">
+      9728010
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 2001 Mar 17;322(7287):658-9
+     </refsource>
+     <pmid version="1">
+      11250853
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Sex Transm Dis. 1992 Jul-Aug;19(4):185-92
+     </refsource>
+     <pmid version="1">
+      1411832
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1991 Nov 13;266(18):2594-604
+     </refsource>
+     <pmid version="1">
+      1834868
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Obstet Gynaecol. 1989 May;96(5):574-9
+     </refsource>
+     <pmid version="1">
+      2604772
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Obstet Gynecol. 1986 Jan;154(1):158-9
+     </refsource>
+     <pmid version="1">
+      2936244
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Intern Med. 1986 Feb;104(2):187-93
+     </refsource>
+     <pmid version="1">
+      3004276
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Obstet Gynecol. 1986 Nov;155(5):954-60
+     </refsource>
+     <pmid version="1">
+      3535519
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Obstet Gynecol. 1969 Dec 1;105(7):1088-98
+     </refsource>
+     <pmid version="1">
+      4242830
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Obstet Gynecol. 1983 Jan;61(1):113-4
+     </refsource>
+     <pmid version="1">
+      6218430
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1994 Mar 2;271(9):703-7
+     </refsource>
+     <pmid version="1">
+      8309035
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Reprod Med. 1993 Jan;38(1):53-6
+     </refsource>
+     <pmid version="1">
+      8441133
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Obstet Gynecol. 1996 May;87(5 Pt 1):730-6
+     </refsource>
+     <pmid version="1">
+      8677076
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Reprod Med. 2001 Jan;46(1):49-53
+     </refsource>
+     <pmid version="1">
+      11209632
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Blood Sedimentation
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Discriminant Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Evidence-Based Medicine
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fever
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Laparoscopy
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      standards
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pelvic Inflammatory Disease
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pelvic Pain
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Physical Examination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vaginal Discharge
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC1744780
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      17
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     14663128
+    </articleid>
+    <articleid idtype="pmc">
+     PMC1744780
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

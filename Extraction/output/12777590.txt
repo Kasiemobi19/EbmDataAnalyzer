@@ -1,0 +1,17 @@
+Title 
+Pediatrics
+
+Article Title 
+Fluoroquinolone safety in pediatric patients: a prospective, multicenter, comparative cohort study in France.
+Abstract Text 
+To evaluate the safety of fluoroquinolones (FQ) in comparison with other antibiotics in pediatric patients.
+A multicenter, observational, comparative cohort study was conducted between 1998 and 2000 in French pediatric departments.
+Patients who were receiving systemic FQ were included and matched to control patients who were receiving other antibiotics.
+Antibiotic-associated potential adverse events (PAEs) were recorded prospectively in both groups, and their rates were compared using univariate and multivariate analyses.
+Patients were recruited from 73 centers: 276 patients were exposed to FQ, and 249 composed the control group.
+Among patients who were exposed to FQ, 23% were younger than 2 years, 33% had cystic fibrosis, and PAEs occurred in 52 patients, leading to withdrawal for 11.
+The odds ratio for PAE in the FQ group was 3.7 (95% confidence interval: 1.9-7.5)
+and was not significantly modified after adjustment for potential confounders.
+Musculoskeletal PAEs also occurred more frequently in the FQ group (3.8%) than in controls (0.4%); they were recorded in 10 patients who were receiving standard FQ doses and were of moderate intensity and transient.
+The rates of PAEs and musculoskeletal PAEs were higher for the FQ group than the control group.
+This observation supports the American Academy of Pediatrics statement restricting off-label FQ use in pediatric patients to second-line treatment in a limited number of situations.

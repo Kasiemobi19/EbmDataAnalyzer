@@ -1,0 +1,16 @@
+Title 
+The Journal of clinical endocrinology and metabolism
+
+Article Title 
+Lipoprotein profile in subclinical hypothyroidism: response to levothyroxine replacement, a randomized placebo-controlled study.
+Abstract Text 
+The relationship between subclinical hypothyroidism (SCH) and an atherogenic lipoprotein profile is still controversial.
+We measured lipoproteins in 49 SCH patients by comparison with 33 euthyroid controls.
+Total cholesterol (TC), triglyceride, high-density lipoprotein cholesterol, low-density lipoprotein cholesterol (LDLc), apolipoprotein A(1), apolipoprotein B, and lipoprotein (a) [Lp(a)] were measured after an overnight fast.
+Patients were randomly assigned to levothyroxine therapy or placebo and re-evaluated after 6 months of euthyroidism.
+SCH patients showed significantly higher TC (P < 0.01), LDLc (P = 0.01), and apolipoprotein B (P = 0.001) levels than controls, positively correlated with baseline TSH levels (P = 0.003, P = 0.01, and P = 0.03, respectively).
+Elevated Lp(a) levels were significantly more frequent in SCH (P < 0.05) and associated with familial diabetes mellitus and/or coronary heart disease (P < 0.01).
+Levothyroxine treatment resulted in a significant decrease of both TC and LDLc concentrations (P = 0.003), in direct proportion to the respective baseline values (P < 0.05 and P < 0.01, respectively), whereas no change in Lp(a) level was observed.
+No changes occurred in the placebo group.
+In conclusion, only serum LDLc levels are increased specifically and reversibly in association with SCH.
+Altered Lp(a) values reflect a genetic influence rather than a reduced thyroid hormone action.

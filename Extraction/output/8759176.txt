@@ -1,0 +1,23 @@
+Title 
+Clinical endocrinology
+
+Article Title 
+Effect of thyroid substitution on hypercholesterolaemia in patients with subclinical hypothyroidism: a reanalysis of intervention studies.
+Abstract Text 
+The significance of mild hypercholesterolaemia in subclinical hypothyroidism and whether there is beneficial reduction after thyroxine replacement, remain controversial.
+We aimed to describe the association between hypercholesterolaemia and subclinical hypothyroidism, and to quantify the effect of thyroid substitution therapy by an analysis of previously published intervention studies.
+Intervention studies cited in the Medline database from January 1976 until January 1995, with index terms cholesterol, hypercholesterolaemia, hyperlipidaemia, thyrotrophin (TSH), hypothyroidism, thyroid and human.
+A total of 148 studies were reviewed.
+We recorded the year of publication, study design, number of patients enrolled, mean age, duration of thyroid substitution, normal range of TSH levels, TSH levels pre and post-substitution treatment and total cholesterol in plasma before and after treatment.
+(1) Qualitative description of studies on the relationship between hypercholesterolaemia and hypothyroidism, both subclinical and clinical.
+(2) Precision weighted pooled estimates of the effect of thyroid substitution therapy on the plasma levels of total cholesterol, in patients with subclinical and overt hypothyroidism.
+Subclinical hypothyroidism was two to three times more frequent in people with an elevated total plasma cholesterol.
+In addition, the total plasma cholesterol levels were slightly elevated in patients with subclinical dysfunction of the thyroid.
+Thyroid substitution therapy in patients with subclinical hypothyroidism, restoring the TSH levels to normal, decreased total cholesterol by 0.4 mmol/l (95% confidence interval (Cl) 0.2-0.6 mmol/l) independently of the initial plasma level.
+The effect of thyroid substitution therapy on HDL-cholesterol in patients with subclinical hypothyroidism was not consistent.
+The effect of thyroid substitution in patients with overt hypothyroidism was highly dependent on the pretreatment levels of total cholesterol.
+In these patients substitution therapy decreased total cholesterol by 1.2 mmol/l (95% Cl 0.9-1.5 mmol/l) when the plasma levels were elevated up to 8 mmol/l, and by 3.4 mmol/l (95% Cl 3.0-3.7)
+when plasma levels were higher than 8 mmol/l.
+The high density lipoprotein (HDL)-cholesterol level decreased and amounted to 0.16 mmol/l (95% Cl 0.07-0.24).
+Thyroid substitution treatment in patients with hypercholesterolaemia and subclinical hypothyroidism decreases total plasma cholesterol by 0.4 mmol/l, but plasma levels remain elevated in most patients.
+Further treatment with dietary restriction and cholesterol synthesis inhibitors should then be considered.

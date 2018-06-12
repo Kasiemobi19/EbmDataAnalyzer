@@ -1,0 +1,22 @@
+Title 
+Revue du rhumatisme (English ed.)
+
+Article Title 
+Prevalence and biological consequences of vitamin D deficiency in elderly institutionalized subjects.
+Abstract Text 
+The prevalence of vitamin D deficiency was evaluated in a population of elderly institutionalized subjects in seven long-term geriatric care facilities in France (Amiens, Francheville, Ivry, Lille, Montpellier, Oissel and Villejuif).
+Residents whose functional capability was relatively good were entered into the study.
+There were 126 patients (99 females and 27 males) with a mean age +/- SD of 84 +/- 6.6 years.
+All subjects had been institutionalized for over six months and were capable of walking at least as far as the dining room.
+None had received vitamin D or other compounds known to affect the metabolism of phosphorus and calcium within six months before the study.
+Vitamin D status was evaluated by determining serum 25 hydroxyvitamin D (25 OH D) levels using a radiocompetition assay after extraction and chromatographic separation.
+Mean serum 25 OH D was 3.17 +/- 2.52 ng/ml (median 2.5).
+Eighty-five per cent of subjects had serum 25 OH D values of less than 5 ng/ml and 98% had values under 10 ng/ml, which is the cutoff usually taken to define vitamin D deficiency.
+Mean serum levels of intact parathyroid hormone were increased approximately two-fold as compared with values in healthy adults (70 +/- 39 pg/ml versus 33 +/- 12 pg/ml).
+Biochemical markers for bone formation (alkaline phosphatase, osteocalcin) and bone resorption (TRAP, hydroxyproline, pyridinoline) were all increased, with mean values 1.4-fold to 3.4-fold those seen in healthy adults.
+Serum 25 OH D levels were negatively correlated with serum intact parathyroid hormone levels (r = 0.41; p < 0.0001).
+Serum intact parathyroid hormone levels were positively correlated with alkaline phosphatase activity (r = 0.30; p < 0.001) and serum osteocalcin levels (r = 0.36; p < 0.0001) and negatively correlated with corrected serum calcium levels (r = -0.20;
+p < 0.02).
+Conclusion.
+Our data demonstrate that severe vitamin D deficiency is present in virtually all elderly institutionalized subjects and is accompanied with secondary hyperparathyroidism responsible for increases in markers of bone remodeling.
+Routine vitamin D supplementation is warranted in elderly institutionalized subjects.

@@ -1,0 +1,17 @@
+Title 
+Sports medicine (Auckland, N.Z.)
+
+Article Title 
+Effect of exercise on serum enzyme activities in humans.
+Abstract Text 
+Increased serum enzyme activity after exercise was first reported in 1958; subsequent studies have established that many factors determine the degree to which the serum activities of a variety of enzymes increase during and after exercise.
+The serum activities of those enzymes found especially in muscle, particularly creatine kinase, increase in proportion to the intensity and duration of the preceding exercise, peaking 24 hours after exercise; the effect of duration is dominant, so that the highest postexercise serum enzyme activities are found after very prolonged competitive exercise such as ultradistance marathon running or triathlon events.
+Weight-bearing exercises which include eccentric muscular contractions such as bench stepping and downhill running induce the greatest increases in serum enzyme activities; serum enzyme activities increase very little even after prolonged participation in those non-weight-bearing activities such as swimming and cycling which do not include eccentric muscular contractions.
+Prolonged (greater than 2 hours) daily training or competition in weight-bearing activities produces chronically elevated serum enzyme activities.
+Serum enzyme activities increase more with exercise in males, Blacks and the untrained than they do in females, Whites and the trained, respectively; age does not appear to influence the degree to which serum enzyme activities increase with exercise.
+There is a remarkable individual variability in the degree to which serum enzyme activities increase with exercise; a 50-fold difference in post-race serum creatine kinase activities has been found in healthy and equally trained athletes completing the same 90km ultramarathon footrace.
+The biochemical explanation for this degree of individual variability is not currently understood; possibly persons who show abnormally large increases in serum enzyme activities with exercise may have as yet unrecognised subclinical myopathies.
+No circadian rhythms have been identified for serum enzyme activities; activities rise during the day because of increased physical activity.
+The rise in serum enzyme activities is greater after exercise at altitude or in the heat than after equivalent exercise at sea level or in the cold.
+The most likely explanation for the increased serum enzyme activities that follow prolonged weight-bearing activities that also cause marked muscle soreness, is myofibrillar damage in particular sarcomeric Z-disk disruption.(ABSTRACT
+TRUNCATED AT 400 WORDS)

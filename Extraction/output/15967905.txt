@@ -1,0 +1,29 @@
+Title 
+Archives of surgery (Chicago, Ill. : 1960)
+
+Article Title 
+Hospitalization for acute diverticulitis does not mandate routine elective colectomy.
+Abstract Text 
+Previous studies suggest that elective colectomy is often required after an episode of acute diverticulitis.
+Acute diverticulitis initially treated nonoperatively does not require elective colectomy.
+Retrospective cohort study.
+Twelve Kaiser Permanente hospitals in Southern California.
+Three thousand one hundred sixty-five patients with acute diverticulitis.
+Colectomy or nonoperative treatment with or without percutaneous abscess drainage.
+Recurrent diverticulitis.
+Emergency colectomy was performed in 614 patients (19.4%).
+Nonoperative treatment was initially used in 2551 patients (80.6%).
+Of these, 185 patients (7.3%) had an elective colectomy and the remaining 2366 patients (92.7%) did not.
+Factors associated with undergoing elective colectomy compared with nonoperative treatment were younger age of the patient, fewer comorbidities, and percutaneous abscess drainage.
+Mean follow-up was 8.9 years, with a maximum of 12 years.
+After nonoperative treatment, 314 patients (13.3%) recurred-222 patients had a single recurrence and 92 patients had a rerecurrence.
+After adjusting for other variables, older age (hazard ratio, >/=50 years vs <50 years = 0.68; 95% confidence interval, 0.53-0.87)
+was associated with a lower recurrence, whereas higher comorbidity was associated with higher recurrence.
+Gender and percutaneous abscess drainage had no influence on recurrence.
+All 92 rerecurrences were treated nonoperatively.
+The risk of a rerecurrence (29.3%) was significantly higher than a first recurrence (P<.001).
+Age, gender, Charlson comorbidity index, and percutaneous abscess drainage did not predict rerecurrence.
+Very few patients with acute diverticulitis treated nonoperatively have recurrence.
+Younger age was associated with recurrence.
+A first recurrence was the only factor that predicted rerecurrences.
+The low recurrence rate argues against routine elective colectomy after successful nonoperative management of acute diverticulitis.

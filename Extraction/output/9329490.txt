@@ -1,0 +1,26 @@
+Title 
+Journal of the American Geriatrics Society
+
+Article Title 
+Treatment of congestive heart failure in older persons.
+Abstract Text 
+To review the management of congestive heart failure (CHF), with emphasis on older adults.
+A computer-assisted search of the English language literature (MEDLINE database) followed by a manual search of the bibliographies of pertinent articles.
+Studies on the management of CHF were screened for review.
+Studies in older people and recent studies were emphasized.
+Pertinent data were extracted from the reviewed articles.
+Emphasis was on studies involving the older persons.
+Relevant articles were reviewed in depth.
+Available data about the management of CHF, with emphasis on studies involving older people, were summarized.
+Left ventricular ejection fraction (LVEF) should be measured in all older persons with CHF.
+Underlying causes of CHF should be treated when possible.
+Precipitating causes of CHF should be treated.
+Older persons with CHF associated with an abnormal LVEF should be treated with a low sodium diet and with diuretics plus angiotensin-converting enzyme (ACE) inhibitors.
+If CHF persists, digoxin should be added to the therapeutic regimen.
+If CHF still persists, isosorbide dinitrate plus hydralazine should be added.
+If CHF still persists, a beta blocker should also be used.
+Calcium channel blockers should not be used.
+Older persons with CHF associated with a normal LVEF should be treated with a low sodium diet and with diuretics plus ACE inhibitors.
+If CHF persists, a beta blocker or isosorbide dinitrate plus hydralazine or a calcium channel blocker should be added to the therapeutic regimen.
+If sinus rhythm is present, digoxin should not be used.
+The role of angiotensin II receptor antagonists such as losartan in the treatment of CHF is under investigation.

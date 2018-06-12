@@ -1,0 +1,17 @@
+Title 
+Pediatrics
+
+Article Title 
+Increasing breastfeeding rates to reduce infant illness at the community level.
+Abstract Text 
+Although breastfeeding is associated with lower rates of a variety of infant illnesses, skeptics have suggested that much of the association is attributable to confounding, even after appropriate statistical adjustment.
+This article utilizes a novel design to investigate changes in infant illness at the community level after a successful breastfeeding promotion program.
+In this population-based cohort study, the medical records of all infants born in one Navajo community the year before a breastfeeding promotion program (n = 977) and the year during the intervention (n = 858) were reviewed.
+Outcomes assessed include changes after the intervention in: proportion breastfeeding and/or breastfeeding exclusively; incidence of common infant illnesses in the first year of life; and feeding-group specific incidence of illness.
+The proportion of women breastfeeding exclusively for any period of time increased from 16.4% to 54.6% after the intervention.
+The percent of children having pneumonia and gastroenteritis declined 32. 2% and 14.6%, respectively, after the intervention.
+Feeding-group specific rates of these illnesses were unchanged, indicating that the decline observed was attributable to the increased proportion of infants breastfeeding.
+In contrast, rates of croup and bronchiolitis increased after the intervention among those fed formula from birth, suggesting a viral epidemic which was limited to those never exclusively breastfed.
+Finally, sepsis declined in both formula-fed and breastfed infants after the intervention, suggesting that other factors affected this illness outcome after the intervention.
+Increasing the proportion of exclusively breastfed infants seems to be an effective means of reducing infant illness at the community level.
+The experimental design suggests that the increased incidence of illness among minimally breastfed infants is causally related to lack of breast milk, rather than being attributable to confounding.

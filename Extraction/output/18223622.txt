@@ -1,0 +1,17 @@
+Title 
+Obesity (Silver Spring, Md.)
+
+Article Title 
+Usefulness of truncal obesity indices as predictive factors for obstructive sleep apnea syndrome.
+Abstract Text 
+Optimization of the indications for nocturnal polysomnography in the diagnosis of obstructive sleep apnea syndrome (OSAS) could lead to significant reductions in health expenditure.
+To this end, we assessed the usefulness of truncal obesity measurements in the diagnosis of OSAS.
+One hundred ninety-two patients (152 men and 40 women) referred to our clinic with suspected OSAS underwent a complete polysomnography study and their BMI and truncal obesity measurements were obtained.
+Comparison of patients defined as snorers with OSAS patients, by means of the Student's t -test revealed significant differences in the truncal obesity parameters such as waist-to-hip ratio (0.94 vs. 0.98) and waist circumference (100.7 cm vs. 106.3
+cm).
+We found no significant differences between BMI values in the two groups.
+Indices of truncal obesity were analyzed as predictive factors for OSAS using a multivariate logistic regression model that included variable sex, and in which waist-to-hip ratio, BMI, neck circumference, and age were analyzed as binary variables.
+According to this model, our patients' risk of suffering from OSAS was 2.6 times greater if the waist-to-hip ratio was >1 in men and >0.85 in women.
+The risk of OSAS was also increased if the patients were men or over 52 years of age.
+Obtaining simple measurements such as those for truncal obesity may help prioritize the use of polysomnography in patients with a greater risk of OSAS.
+Our results suggest that BMI is not a good predictor of OSAS in a group of patients with a high BMI.

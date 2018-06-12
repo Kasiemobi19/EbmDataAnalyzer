@@ -1,0 +1,21 @@
+Title 
+British journal of obstetrics and gynaecology
+
+Article Title 
+A multicentre randomised trial of amniotomy in spontaneous first labour at term. The UK Amniotomy Group.
+Abstract Text 
+To measure the effect of a policy of routine amniotomy on nulliparous labour.
+A multicentre randomised controlled trial.
+One thousand four hundred and sixty-three nulliparous women in spontaneous labour at term with intact membranes and a single cephalic fetus.
+To have the membranes ruptured routinely early in labour or left intact for as long as possible.
+Duration of labour, operative and instrumental delivery rates, use of analgesia, perinatal death, neonatal convulsions and admission to special care.
+Median duration of labour was 8.4 h in the early rupture group and 9.4 h in the late group.
+There was no difference in caesarean section, typical odds ratio (OR) 1.1, 95% CI 0.65-1.8;
+operative vaginal delivery, OR 1.1, 95% CI 0.83-1.5;
+use of epidural/spinal, OR 0.92 95% CI 0.72-1.2;
+use of pethidine, OR 1.0, 95% CI 0.79-1.4;
+neither method of analgesia, OR 0.96, 95% CI 0.68-1.3;
+blood transfusion, OR 0.71, 95% CI 0.28-1.8.
+There was no effect on fetal intubation, OR 1.40 (95% CI 0.78-2.5);
+admission special care, OR 1.28 (95% CI 0.65-2.5).
+One fetus in the early amniotomy group had neonatal convulsions, but there were no perinatal deaths.

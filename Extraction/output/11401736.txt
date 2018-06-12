@@ -1,0 +1,23 @@
+Title 
+The Journal of family practice
+
+Article Title 
+Beta-blockers to reduce mortality in patients with systolic dysfunction: a meta-analysis.
+Abstract Text 
+The researchers reviewed published clinical trials and performed a meta-analysis to assess if therapy with adrenergic beta-antagonists (beta-blockers) reduces the risk of mortality in patients with systolic dysfunction.
+A systematic review was performed with meta-analysis where appropriate.
+Clinical trials were reviewed with respect to the quality of the research methods, including patient population and end points.
+Two independent reviewers calculated relative risk, relative risk reduction, absolute risk reduction, and number needed to treat for the total mortality end point reported in each trial.
+A meta-analysis was performed.
+The study team searched pertinent indexing services and references from published articles for relevant literature.
+The selected clinical trials were randomized, double-blinded, and controlled, and included patients with systolic heart failure.
+Mortality was assessed as a primary or secondary end point.
+The primary outcome was mortality.
+Statistically and clinically significant improvement, including a statistically significant reduction in mortality, has been noted in patients receiving therapy with either bisoprolol, carvedilol, or metoprolol.
+Pooled analysis revealed a statistically significant reduction in the risk of total mortality (odds ratio [OR]MH=0.66;
+95% confidence interval [CI], 0.58-0.75)
+and sudden death (ORMH=0.61;
+95% CI, 0.5-0.75)
+for patients receiving beta-blocker therapy.
+All patients with New York Heart Association class II and III heart failure should receive beta-blocker therapy with bisoprolol, carvedilol, or metoprolol.
+Additional clinical trials are ongoing and will provide further data on which patients receive the greatest benefit from therapy and which beta-blocker may be preferred.

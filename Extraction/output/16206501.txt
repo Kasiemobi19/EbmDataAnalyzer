@@ -1,0 +1,19 @@
+Title 
+Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association
+
+Article Title 
+Low-dose gluten challenge in celiac sprue: malabsorptive and antibody responses.
+Abstract Text 
+Undiagnosed patients with symptoms of celiac sprue often present to physicians after establishing dietary gluten exclusion.
+Although they must resume a gluten-containing diet for evaluation, there are no guidelines regarding duration of the gluten challenge, gluten dose, or monitoring parameters.
+We investigated the effects of a short-term gluten challenge in asymptomatic treated adult celiac patients on intestinal absorption and celiac antibody tests.
+Eight adult asymptomatic celiac patients consumed either 5 or 10 g of partially hydrolyzed gluten per day in an orange juice mixture for 21 days while maintaining their usual gluten-free diet.
+A symptom questionnaire, serum antibodies (antigliadin immunoglobulin [Ig]A and antitransglutaminase IgA and IgG), D-xylose urine excretion test, and 72-hour quantitative fecal fat test were monitored.
+Two patients (25%) had at least 1 abnormal celiac antibody test at baseline.
+There was no increase in antibodies during gluten exposure compared with baseline for any of the patients (P > .05).
+At baseline, 1 patient had abnormal urine xylose excretion, and 3 patients had abnormal fecal fat values.
+At day 15 of gluten challenge, all patients had reduced xylose absorption compared with baseline (P = .0019),
+and 5 of 8 participants (63%) reduced their xylose excretion to the abnormal range.
+Seven of 8 patients (88%) had increased fecal fat excretion at day 15 (P = .026),
+and 6 of these (75%) had steatorrhea by day 15.
+Short-term gluten challenge in asymptomatic adult celiac patients produces carbohydrate and fat malabsorption but does not increase transglutaminase and antigliadin antibody titers.

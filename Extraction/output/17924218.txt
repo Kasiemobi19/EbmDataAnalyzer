@@ -1,0 +1,19 @@
+Title 
+Acta radiologica (Stockholm, Sweden : 1987)
+
+Article Title 
+Diagnostic efficacy in knee MRI comparing conventional technique and multiplanar reconstruction with one-millimeter FSE PDW images.
+Abstract Text 
+Magnetic resonance (MR) imaging has proved to be an excellent tool in diagnosing injuries of the cruciate ligaments and menisci.
+However, multiple planes and sometimes optimal oblique or double-oblique scan planes are needed due to the variability in the positioning of important structures, which means there is a lower throughput and longer scanning time.
+To compare the performance of a 1-mm-thickness fast spin-echo (FSE) proton-density-weighted (PDW) MR imaging technique with multiplanar reconstruction (MPR) in diagnosing tears of the menisci and cruciate ligaments with that of conventional MR imaging.
+Twenty-five consecutive patients underwent preoperative conventional and 1-mm-thickness FSE PDW MR imaging with subsequent knee arthroscopic surgery.
+Two musculoskeletal radiologists evaluated the status of the cruciate ligaments and menisci using two sets of MR images (method A: conventional images including seven sequences, taking 26 min; method B: 1-mm-thickness FSE PDW images with MPR, taking 7 min 20 s).
+The diagnostic efficacies of both methods for tears of the cruciate ligament and menisci were calculated and compared.
+Arthroscopic surgery revealed 10 anterior cruciate ligament (ACL) tears, one posterior cruciate ligament (PCL) tear, and 26 meniscal tears.
+The diagnostic values of both methods were 100% for a cruciate ligament tear.
+The diagnostic values (sensitivity, specificity, accuracy, positive predictive value, and negative predictive value) for meniscal tears were 90%, 100%, 96%, 100%, and 94% for method A, and 95%, 100%, 98%, 100%, and 97% for method B, respectively.
+There were no significant differences in the diagnostic values between methods A and B.
+     
+      1-mm-slice-thickness FSE PDW imaging with MPR showed comparable performance in diagnosing tears of the cruciate ligaments and menisci to conventional sequences but the scan time was much shorter.
+Therefore, this technique (method B) might improve the throughput of a 3T MR imaging system.

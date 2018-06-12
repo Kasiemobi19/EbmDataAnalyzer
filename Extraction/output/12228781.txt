@@ -1,0 +1,17 @@
+Title 
+American heart journal
+
+Article Title 
+High-sensitivity C-reactive protein in the prediction of coronary events in patients with premature coronary artery disease.
+Abstract Text 
+Inflammation plays an important role in the initiation and progression of atherosclerosis and in the pathogenesis of acute cardiovascular events.
+Recent studies have indicated a possible association between C-reactive protein (CRP) and the clinical outcome of coronary artery disease (CAD).
+We studied prospectively in a group of 125 patients with premature CAD whether plasma levels of CRP as measured with a high-sensitivity assay predict risk for future coronary events.
+All patients had stable CAD at time of blood sampling but had originally been seen with unstable angina or myocardial infarction.
+The mean follow-up time after blood collection was 54 months, and death, myocardial infarction, need for coronary revascularization, or admission to hospital with angina pectoris were defined as clinical end points.
+Patients in the highest tertile of CRP levels had a >3.8-fold risk (risk ratio 3.82, 95% CI 1.19-12.17)
+for death, myocardial infarction, or need for coronary revascularization compared with the patients in the first tertile.
+The relative risk for patients in the second tertile was 3.5-fold higher (95% CI 1.04-11.56).
+CRP levels in the third tertile independently predicted risk after adjustment for lipids and other clinical risk factors.
+In patients with clinically stable conditions who have a positive history for acute coronary syndromes before age 50 years, plasma levels of CRP higher than 1.6 mg/L are predictors of future coronary events and therefore indicate the role of underlying chronic inflammation for the clinical course of CAD.
+Accordingly, reference limits for prediction of risk in CAD have to be lower in this specific patient group than in middle-aged or elderly patients.

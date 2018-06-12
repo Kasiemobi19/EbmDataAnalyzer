@@ -1,0 +1,35 @@
+Title 
+Cochrane database of systematic reviews (Online)
+
+Article Title 
+Opioid antagonists for alcohol dependence.
+Abstract Text 
+The benefits of selective serotonin reuptake inhibitors, disulfiram, and lithium have not been clear for people with alcohol dependence.
+While the results of many studies have suggested that opioid agonists increase alcohol consumption, others have shown that mu-opioid antagonists and partial agonists reduce alcohol consumption.
+The results from animal studies suggest that these agents may prevent the reinforcing effects of alcohol consumption.
+Based on the results of those animal studies, some opioid antagonists, such as, naltrexone, nalmefene, have been studied for their benefits in treating alcohol dependence.
+To determine the effectiveness of opioid antagonists in attenuating or preventing the recommencement of alcohol consumption in patients with alcohol dependence in comparison to placebo, other medications and psychosocial treatments.
+In addition, discontinuation rate, death, patient satisfaction, functioning, health-related quality of life and economic outcomes were also evaluated.
+Electronic searches of MEDLINE, EMBASE, CINAHL and Cochrane Controlled Trials Register were undertaken.
+Du Pont Pharmaceutical and Ivax Corporation were contacted for information regarding unpublished trials.
+The reference lists of the obtained papers were also examined.
+All relevant randomised controlled trials (RCTs) and clinical control trials (CCTs) were included.
+Participants were people with alcohol dependence, diagnosed by any set of criteria, except alcohol dependence who were currently abstinent.
+Naltrexone (NTX), nalmefene (NMF) and other opioid antagonists with/without other biological or psychosocial treatments were examined.
+A variety of clinical outcomes, for example alcohol consumption, duration of abstinence, were considered.
+Two reviewers evaluated and extracted the data independently.
+The dichotomous data were extracted on an intention-to-treat basis in which the dropouts were assigned as participants with the worst outcomes.
+The Peto Odds Ratio with the 95% confidence interval was used to assess the dichotomous data.
+Weighted Mean Difference with 95% confidence interval was used to assess the continuous data.
+The short-term (< 3 months) benefits of NTX were shown in three respects, which were number of patients who return to drinking, percentage or number of drinking days and the number of standard drinks of alcohol.
+However, 6 months after the completion of 12-week NTX treatment, the benefit of decreasing the number of patients who return to drinking were lost.
+The short-term evidence from a small sample-size study suggested that disulfiram was more effective than NTX in the respects of number of abstinent days, percentage or number of drinking days and number of standard drinks of alcohol.
+The evidence from another small sample-size study also suggested that NTX plus an aversive agent was superior to an aversive agent alone in the respect of number of patients who return to drinking in short-, medium-, and long-term treatment.
+From two short-term and small sample-size studies, the benefit of NMF was shown only in the respect of number of patients who return to drinking.
+Due to the limited evidence, the following conclusions should be viewed as tentative.
+NTX has some benefits for patients with alcohol dependence, but patients' adherence to treatment should be of concern.
+Psychosocial treatments should be concurrently given with NTX.
+The optimal duration of NTX treatment is not yet known.
+Although NTX is available for treating alcohol dependence in many countries, in the respect of cost-effectiveness, disulfiram should still remain as an alternative.
+Due to the dearth of evidence, at present, the combination of NTX and disulfiram or NMF alone should not be used in everyday clinical practice.
+Randomised, double-blind, placebo-controlled trials of NTX treatment in patients with alcohol dependence

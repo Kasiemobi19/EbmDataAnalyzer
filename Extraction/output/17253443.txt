@@ -1,0 +1,39 @@
+Title 
+Cochrane database of systematic reviews (Online)
+
+Article Title 
+Antidepressants for smoking cessation.
+Abstract Text 
+There are at least two theoretical reasons to believe antidepressants might help in smoking cessation.
+Nicotine withdrawal may produce depressive symptoms or precipitate a major depressive episode and antidepressants may relieve these.
+Nicotine may have antidepressant effects that maintain smoking, and antidepressants may substitute for this effect.
+Alternatively, some antidepressants may have a specific effect on neural pathways underlying nicotine addiction, (e.g.
+blocking nicotine receptors) independent of their antidepressant effects.
+The aim of this review is to assess the effect of antidepressant medications in aiding long-term smoking cessation.
+The medications include bupropion; doxepin; fluoxetine; imipramine; moclobemide; nortriptyline; paroxetine; sertraline, tryptophan and venlafaxine.
+We searched the Cochrane Tobacco Addiction Group trials register which includes trials indexed in MEDLINE, EMBASE, SciSearch and PsycINFO, and other reviews and meeting abstracts, in September 2006.
+We considered randomized trials comparing antidepressant medications to placebo or an alternative pharmacotherapy for smoking cessation.
+We also included trials comparing different doses, using pharmacotherapy to prevent relapse or re-initiate smoking cessation or to help smokers reduce cigarette consumption.
+We excluded trials with less than six months follow up.
+We extracted data in duplicate on the type of study population, the nature of the pharmacotherapy, the outcome measures, method of randomization, and completeness of follow up.
+The main outcome measure was abstinence from smoking after at least six months follow up in patients smoking at baseline, expressed as an odds ratio (OR).
+We used the most rigorous definition of abstinence available in each trial, and biochemically validated rates if available.
+Where appropriate, we performed meta-analysis using a fixed-effect model.
+Seventeen new trials were identified since the last update in 2004 bringing the total number of included trials to 53.
+There were 40 trials of bupropion and eight trials of nortriptyline.
+When used as the sole pharmacotherapy, bupropion (31 trials, odds ratio [OR] 1.94, 95% confidence interval [CI] 1.72 to 2.19) and nortriptyline (four trials, OR 2.34, 95% CI 1.61 to 3.41) both doubled the odds of cessation.
+There is insufficient evidence that adding bupropion or nortriptyline to nicotine replacement therapy provides an additional long-term benefit.
+Three trials of extended therapy with bupropion to prevent relapse after initial cessation did not find evidence of a significant long-term benefit.
+From the available data bupropion and nortriptyline appear to be equally effective and of similar efficacy to nicotine replacement therapy.
+Pooling three trials comparing bupropion to varenicline showed a lower odds of quitting with bupropion (OR 0.60, 95% CI 0.46 to 0.78).
+There is a risk of about 1 in 1000 of seizures associated with bupropion use.
+Concerns that bupropion may increase suicide risk are currently unproven.
+Nortriptyline has the potential for serious side-effects, but none have been seen in the few small trials for smoking cessation.
+There were six trials of selective serotonin reuptake inhibitors; four of fluoxetine, one of sertraline and one of paroxetine.
+None of these detected significant long-term effects, and there was no evidence of a significant benefit when results were pooled.
+There was one trial of the monoamine oxidase inhibitor moclobemide, and one of the atypical antidepressant venlafaxine.
+Neither of these detected a significant long-term benefit.
+The antidepressants bupropion and nortriptyline aid long-term smoking cessation but selective serotonin reuptake inhibitors (e.g.
+fluoxetine) do not.
+Evidence suggests that the mode of action of bupropion and nortriptyline is independent of their antidepressant effect and that they are of similar efficacy to nicotine replacement.
+Adverse events with both medications are rarely serious or lead to stopping medication.

@@ -1,0 +1,15 @@
+Title 
+Pediatrics
+
+Article Title 
+Breast-feeding and the risk of life-threatening rotavirus diarrhea: prevention or postponement?
+Abstract Text 
+To assess the relationship between breast-feeding and the risk of life-threatening rotavirus diarrhea among Bangladeshi infants and children younger than 24 months of age.
+Case-control study.
+A rural Bangladesh community.
+One hundred two cases with clinically severe rotavirus diarrhea detected in a treatment center-based surveillance system during 1985 and 1986, and 2587 controls selected in three surveys of the same community during the same calendar interval.
+Cases and controls were compared for the frequency of antecedent breast-feeding patterns.
+Compared with other feeding modes, exclusive breast-feeding of infants was associated with significant protection against severe rotavirus diarrhea (relative risk (RR) = 0.10; 95% confidence interval [CI] = 0.03, 0.34).
+However, during the second year of life, the risk of this outcome was higher in breast-fed than in non-breast-fed children (RR = 2.85; 95% CI = 0.37, 21.71), and no overall protection was associated with breast-feeding during the first 2 years of life (RR = 2.61; 95% CI = 0.62, 11.02).
+Although exclusive breast-feeding appeared to protect infants against severe rotavirus diarrhea, breast-feeding per se conferred no overall protection during the first 2 years of life, suggesting that breast-feeding temporarily postponed rather than prevented this outcome.
+While not detracting from efforts to promote breast-feeding to alleviate the burden of diarrhea due to nonrotaviral enteropathogens, our findings cast doubt on whether such efforts will impact on the problem of severe rotavirus diarrhea.

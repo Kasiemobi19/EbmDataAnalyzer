@@ -1,0 +1,29 @@
+Title 
+Obstetrics and gynecology
+
+Article Title 
+Group prenatal care and perinatal outcomes: a randomized controlled trial.
+Abstract Text 
+To determine whether group prenatal care improves pregnancy outcomes, psychosocial function, and patient satisfaction and to examine potential cost differences.
+A multisite randomized controlled trial was conducted at two university-affiliated hospital prenatal clinics.
+Pregnant women aged 14-25 years (n=1,047) were randomly assigned to either standard or group care.
+Women with medical conditions requiring individualized care were excluded from randomization.
+Group participants received care in a group setting with women having the same expected delivery month.
+Timing and content of visits followed obstetric guidelines from week 18 through delivery.
+Each 2-hour prenatal care session included physical assessment, education and skills building, and support through facilitated group discussion.
+Structured interviews were conducted at study entry, during the third trimester, and postpartum.
+Mean age of participants was 20.4 years; 80% were African American.
+Using intent-to-treat analyses, women assigned to group care were significantly less likely to have preterm births compared with those in standard care: 9.8% compared with 13.8%, with no differences in age, parity, education, or income between study conditions.
+This is equivalent to a risk reduction of 33% (odds ratio 0.67, 95% confidence interval 0.44-0.99,
+P=.045), or 40 per 1,000 births.
+Effects were strengthened for African-American women: 10.0% compared with 15.8% (odds ratio 0.59, 95% confidence interval 0.38-0.92,
+P=.02).
+Women in group sessions were less likely to have suboptimal prenatal care (P<.01), had significantly better prenatal knowledge (P<.001), felt more ready for labor and delivery (P<.001), and had greater satisfaction with care (P<.001).
+Breastfeeding initiation was higher in group care: 66.5% compared with 54.6%, P<.001.
+There were no differences in birth weight nor in costs associated with prenatal care or delivery.
+Group prenatal care resulted in equal or improved perinatal outcomes at no added cost.
+ClinicalTrials.gov,
+www.clinicaltrials.gov,
+NCT00271960
+     
+      I.

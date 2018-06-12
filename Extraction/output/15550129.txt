@@ -1,0 +1,15 @@
+Title 
+Clinical and experimental dermatology
+
+Article Title 
+Self-detected cutaneous melanomas in Italian patients.
+Abstract Text 
+Self-detection of suspicious pigmented skin lesion combined with rapid referral to dermatologic centres is the key strategy in the fight against melanoma.
+The investigation of factors associated with pattern of detection of melanoma (self- vs. nonself-detection) may be useful to refine educational strategies for the future.
+We investigated the frequency of melanoma self-detection in a Mediterranean population at intermediate melanoma risk.
+A multicentric survey identified 816 consecutive cases of cutaneous melanoma in the period January to December 2001 in 11 Italian clinical centres belonging to the Italian Multidisciplinary Group on Melanoma.
+All patients filled a standardized questionnaire and were clinically examined by expert dermatologists.
+Self-detected melanomas were 40.6%, while the remaining lesions were detected by a dermatologist (18.5%), the family physician (15.2%), other specialists (5%), the spouse (12.5%), a friend or someone else (8.2%).
+Variables associated with self-detected melanomas were female sex, young age, absence of atypical nevi, knowledge of the ABCD rule, habit of performing skin self-examination.
+Self-detected melanomas did not differ from nonself-detected tumours in term of lesion thickness; however, patients with self-detected melanomas waited a longer period before having a diagnostic confirmation (patient's delay) (> 3 months: odds ratio, 3.89; 95% confidence interval, 2.74-5.53).
+In order to reduce the patients' delays, educational messages should adequately stress the need for a prompt referral to a physician once a suspicious pigmented lesion is self-detected.

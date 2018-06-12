@@ -1,0 +1,22 @@
+Title 
+International angiology : a journal of the International Union of Angiology
+
+Article Title 
+The effect of mobilisation of patients during treatment of thromboembolic disorders with low-molecular-weight heparin.
+Abstract Text 
+To elucidate the risk of pulmonary embolism (PE) in patients with deep vein thrombosis (DVT) who are kept walking with compression bandages.
+Perfusion/ventilation scanning of the lungs was performed at admission and after 10 days of treatment.
+General community hospital.
+A total of 631 consecutive patients were studied (upper limit of the thrombi: iliofemoral vein, n=212; femoral or popliteal vein, n=302; lower leg, n=117).
+The patients received different dose regimens of low-molecular-weight heparin (dalteparin) subcutaneously.
+The study revealed that the prevalence of PE at baseline was between 45.1% and 51% (95% CI 38.2-55.2 and 45.2-56.8%
+respectively) in patients with proximal DVT, and 31.9%
+(95% CI 23.6-41.2%) in those with DVT restricted to the lower leg.
+The majority of these cases of PE were completely asymptomatic.
+The incidence of a new PE, revealed by a second lung scan on day 10 after admission, was 7.0% (95% CI 3.9-11.4%)
+in patients with iliofemoral DVT, 5.5% (95% CI 3.2-8.7%) in those with femoropopliteal DVT and 2.7% (95% CI 0.6-7.6%) in those with lower-leg DVT.
+These incidence rates for new PEs were significantly lower than the rates previously reported (p<0.01).
+The fatality rate was also lower compared with the literature: one patient suffered a fatal PE (0.2%; 95% CI 0-0.9%), four patients died from malignant tumours, and one from pneumonia.
+The frequency of malignant tumours was greater in this study than in the literature (23% in patients with iliofemoral DVT, 14% in those with femoropopliteal DVT and 9% in those with DVT of the lower leg).
+Mobile patients with DVT do not need bed-rest.
+Low-molecular-weight heparin s.c., compression bandages and walking exercises make home-treatment of DVT feasible.

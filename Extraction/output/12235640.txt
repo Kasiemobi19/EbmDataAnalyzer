@@ -1,0 +1,17 @@
+Title 
+Nutrition and cancer
+
+Article Title 
+Fat and protein intake and subsequent breast cancer risk in postmenopausal women.
+Abstract Text 
+The role of diet in the etiology of breast cancer has been extensively evaluated.
+Case-control studies generally support an association, while cohort studies have produced inconsistent results.
+This study, carried out on the ORDET cohort, is the first prospective Italian study to address the relation between diet and breast cancer.
+Female volunteers were recruited from 1987 to 1992 among residents of Varese Province, Northern Italy, an area covered by a cancer registry.
+A semiquantitative self-administered food questionnaire was completed by participants.
+After a mean 5.5 yr of follow-up, 56 cases of invasive breast cancer were identified among the 3,367 postmenopausal members; 214 controls were randomly chosen from the cohort, matched to cases for age, menopausal status at recruitment, recruitment center, and recruitment period.
+The adjusted odds ratios for the highest tertile of intake vs. the lowest were 3.47 [95% confidence interval (CI) = 1.43-8.44]
+for total fat, 3.78 (95% CI = 0.95-15.0)
+for animal protein, and 0.42 (95% CI = 0.18-0.95)
+for total carbohydrates.
+These findings indicate a significant positive association between total fat and animal protein and risk of breast cancer and an inverse association with carbohydrates and constitute new evidence for a role of diet in the etiology of breast cancer.

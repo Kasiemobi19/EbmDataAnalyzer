@@ -1,0 +1,19 @@
+Title 
+Annals of internal medicine
+
+Article Title 
+An algorithmic approach to chronic cough.
+Abstract Text 
+To evaluate a stepwise approach to chronic cough that emphasized initial treatment of all patients with an antihistamine-decongestant for postnasal drip and to determine the value of routine bronchoprovocation challenge in the evaluation of chronic cough.
+Prospective trial using an algorithm for chronic cough in immunocompetent nonsmoking out-patients.
+University-based pulmonary practice.
+Forty-five patients met the inclusion criteria.
+The mean duration of cough was 140 weeks (range, 3 to 2080 weeks), and the mean severity of cough as assessed by patients on a four-point scale was "severe."
+Marked improvement and resolution (mean, 3.1 and 7.1 weeks, respectively), with resolution in 96% of patients.
+Antihistamine-decongestant therapy was beneficial in 39 of 45 patients and was the only therapy needed for 16 patients.
+Bronchoprovocation challenge had a negative predictive value of 100% and a positive predictive value of 74% for cough caused by asthma.
+No significant relationship was found between the time to cough resolution and duration or severity of cough.
+Eighteen percent of patients experienced a recurrence of cough at a follow-up interval of 3 months.
+A sequential approach to chronic cough that emphasizes initial treatment with an antihistamine-decongestant is effective.
+Bronchoprovocation challenge is useful in evaluating patients with chronic cough but can be delayed until the initial response to antihistamine-decongestant therapy has been assessed.
+The 18% incidence of recurrence highlights the fact that cough often is the manifestation of a chronic or recurring process that requires chronic or episodic therapy.

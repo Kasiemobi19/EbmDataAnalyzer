@@ -1,0 +1,17 @@
+Title 
+Current opinion in allergy and clinical immunology
+
+Article Title 
+Allergen immunotherapy in the prevention of asthma.
+Abstract Text 
+Asthma is a disease causing significant morbidity and mortality.
+In the recent past, there has been an explosion of pharmacotherapeutic options attempting to control the disease.
+Unfortunately, none of the current options offers the promise of prevention or a permanent cure.
+However, there appear to be exciting, new data emerging to support the hypothesis that the prevention or early treatment of allergic rhinitis, such as with the use of allergen immunotherapy, may help mitigate the severity of bronchial symptoms and even prevent the development of asthma.
+In this paper, we review recent research published proposing immunotherapy as a means of preventing the development of, or at least ameliorating, allergic asthma.
+There is evidence that the upper and lower airways may be considered a single unit, with the nasal and bronchial mucosa having features in common.
+Epidemiological, pathophysiological and clinical studies have shown that they can be affected by similar inflammatory triggers, with interconnected mechanisms amplifying the inflammatory cascade.
+Allergic rhinitis is interrelated to, and is a risk factor for, the development of asthma.
+An evidence-based review validates the successful use of allergen immunotherapy in treating allergic rhinitis and asthma.
+There is promising evidence advocating its use in the prevention of clinical asthma.
+This article explores current research pertaining to the use of immunomodulation, such as by using allergen immunotherapy, to ameliorate and prevent the development of allergic asthma.

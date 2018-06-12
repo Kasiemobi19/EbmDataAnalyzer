@@ -1,0 +1,9 @@
+Title 
+The Journal of rheumatology
+
+Article Title 
+Treatment of knee osteoarthritis: relationship of clinical features of joint inflammation to the response to a nonsteroidal antiinflammatory drug or pure analgesic.
+Abstract Text 
+Our randomized double blinded comparison of acetaminophen versus analgesic and antiinflammatory doses of ibuprofen in the treatment of 182 subjects with knee osteoarthritis (OA) systematically evaluated soft tissue tenderness and joint swelling.
+Improvement in these signs of joint inflammation was associated with lessening of disability (p = 0.02), and reduction in rest pain (p = 0.07), but not with the drug treatment regimen.
+Thus, joint tenderness and swelling, presumptive evidence of synovitis, may not be a priori indications for use of an antiinflammatory drug, or predict greater responsiveness to treatment with an antiinflammatory drug than to a pure analgesic, in symptomatic treatment of patients with knee OA.

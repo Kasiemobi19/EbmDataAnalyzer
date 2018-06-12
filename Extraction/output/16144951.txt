@@ -1,0 +1,20 @@
+Title 
+The Journal of clinical endocrinology and metabolism
+
+Article Title 
+Neonatal thyrotropin as measured in a congenital hypothyroidism screening program: influence of the mode of delivery.
+Abstract Text 
+Many developed countries are reexperiencing iodine deficiency.
+One World Health Organization index of iodine deficiency in populations is the percentage of neonates with TSH levels greater than 5 mIU/liter 72 h after delivery.
+Measured TSH levels vary with methodology and are influenced by external factors including iodine exposure at time of delivery.
+We wished to determine whether babies delivered by cesarean section have higher levels of TSH than babies delivered vaginally because this factor could influence determination of iodine deficiency.
+This was a cohort study of mothers delivering at a teaching hospital in 2002-2003 and their babies.
+Women delivering a live infant were eligible for the study.
+Demographic data, mode of delivery, and subsequent routine newborn screening TSH levels were recorded.
+Of 2031 infants, 31.2% were delivered by cesarean section; 1864 babies were born after 37 wk, with blood samples collected by d 5 (>91% on d 3).
+Significant predictors of TSH concentration were the day TSH was measured and type of delivery.
+The distribution curve of TSH values was right shifted in infants born by cesarean section.
+The percentage of neonates born by cesarean with at TSH value greater than 5 was 7.1%.
+The figure for those born vaginally was 4.3%.
+Babies delivered by cesarean section are significantly more likely to have TSH levels greater than 5 mIU/liter on d 3 than those delivered vaginally.
+With the rise in the rate of births by cesarean, this could be an important factor in assessing population iodine deficiency using neonatal TSH levels.

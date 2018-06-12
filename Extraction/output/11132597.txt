@@ -1,0 +1,18 @@
+Title 
+Journal of hypertension
+
+Article Title 
+Diagnosis of hypertension using home or ambulatory blood pressure monitoring: comparison with the conventional strategy based on repeated clinic blood pressure measurements.
+Abstract Text 
+To investigate whether measurement of blood pressure at home (HBP) and by ambulatory monitoring (ABP) are reliable alternatives to the traditional strategy for the diagnosis of hypertension based on blood pressure measurement on repeated clinic visits (CBP).
+Comparison of the diagnosis of hypertension based on HBP (on six workdays) or ABP monitoring (two occasions) with that based on CBP (five visits within 3 months).
+Outpatient hypertension clinic.
+We enrolled 133 individuals with a diastolic CBP of 90-115 mmHg on the initial visit.
+CBP, HBP and ABP values, and the diagnosis of hypertension.
+Hypertension was diagnosed in 70, 63 and 56% of individuals using the CBP, ABP and HBP methods respectively (P = 0.04).
+Agreement in the diagnosis of hypertension between all three methods was found in 59% of individuals.
+Disagreement between CBP and ABP was found in 27%, between CBP and HBP in 29% and between ABP and HBP in 26% of individuals.
+The sensitivity, specificity and positive and negative predictive values of ABP to diagnose hypertension correctly were 76, 67, 85 and 53% respectively; for HBP the respective values were 69, 77, 88 and 51%.
+The same parameters for HBP compared with ABP in the detection of white-coat hypertension were 61, 79, 48 and 86% respectively.
+Indiscriminate use of HBP or ABP monitoring in the evaluation of all individuals with high blood pressure will probably result in confusion and therefore should be discouraged.
+However, in the detection of white-coat hypertension, HBP appears to be useful as a screening test, which, if positive, requires confirmation with ABP monitoring.

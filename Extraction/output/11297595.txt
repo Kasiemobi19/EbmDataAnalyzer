@@ -1,0 +1,19 @@
+Title 
+The Journal of clinical endocrinology and metabolism
+
+Article Title 
+Troglitazone improves ovulation and hirsutism in the polycystic ovary syndrome: a multicenter, double blind, placebo-controlled trial.
+Abstract Text 
+We hypothesized that the administration of troglitazone, an insulin-sensitizing agent of the thiazolidinedione class, would improve the ovulatory dysfunction, hirsutism, hyperandrogenemia, and hyperinsulinemia of polycystic ovary syndrome (PCOS) patients.
+Four hundred and ten premenopausal women with PCOS in a multicenter, double blind trial were randomly assigned to 44 weeks of treatment with placebo (PBO) or troglitazone [150 mg/day (TGZ-150), 300 mg/day (TGZ-300), or 600 mg/day (TGZ-600)].
+We compared changes in ovulatory function (by monitoring the urinary level of pregnanediol-3-glucuronide daily), hirsutism (by a modified Ferriman-Gallwey scoring method), hormonal levels (total and free testosterone, androstenedione, sex hormone-binding globulin, LH, FSH, and the LH/FSH ratio), and measures of glycemic parameters (fasting levels of glucose, insulin, hemoglobin A(1c), and the glucose and insulin areas under the curve during an oral glucose challenge) among study groups.
+Of the 410 patients recruited, 305 (74.4%) met evaluability criteria and were included in the analyses.
+The patients' baseline characteristics were similar across all treatment arms.
+Ovulatory rates were significantly greater for patients receiving TGZ-300 and TGZ-600 than for those receiving PBO (0.42 and 0.58 vs. 0.32; P < 0.05 and 0.0001, respectively).
+Of PCOS patients treated with TGZ-600, 57% ovulated over 50% of the time compared with 12% of placebo-treated patients.
+There was a significant decrease in the Ferriman-Gallwey score with TGZ-600 compared with PBO (0.22 +/- 0.53 vs. -2.21
++/- 0.49; P < 0.05, respectively).
+Free testosterone decreased and sex hormone-binding globulin increased in a dose-related fashion with troglitazone treatment, and all three troglitazone treatment groups were significantly different from placebo.
+Nearly all glycemic parameters showed dose-related decreases with troglitazone treatment.
+The total number and severity of adverse events (including elevations in liver enzymes) and the proportion of patients withdrawn from the study due to the development of adverse effects were similar between treatment groups.
+Troglitazone improves the ovulatory dysfunction, hirsutism, hyperandrogenemia, and insulin resistance of PCOS in a dose-related fashion, with a minimum of adverse effects.

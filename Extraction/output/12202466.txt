@@ -1,0 +1,18 @@
+Title 
+Endocrine reviews
+
+Article Title 
+Meta-analyses of therapies for postmenopausal osteoporosis. III. Meta-analysis of risedronate for the treatment of postmenopausal osteoporosis.
+Abstract Text 
+To review the effect of risedronate on bone density and fractures in postmenopausal women.
+We searched MEDLINE from 1966 to the end of 2000 and examined citations of relevant articles and the proceedings of international osteoporosis meetings.
+We included eight randomized, placebo-controlled trials of postmenopausal women receiving risedronate or placebo with a follow-up of at least one year and providing data on bone density or fracture rate.
+For each trial, two independent reviewers assessed the methodological quality and abstracted data.
+The major methodological limitation of the trials was the loss to follow-up, which was over 20% in most trials and over 35% in the largest study.
+However, the magnitude of the treatment effect was unrelated to loss to follow-up, and in one of the largest trials, more high-risk patients were lost to follow-up in the control than in the treatment group.
+The pooled relative risk (RR) for vertebral fractures in women given 2.5 mg or more of risedronate was 0.64 [95% confidence interval (CI) 0.54, 0.77].
+The pooled RR of nonvertebral fractures in patients given 2.5 mg or more of risedronate was 0.73 (95% CI 0.61, 0.87).
+Risedronate produced positive effects on the percentage change in bone density of the lumbar spine, combined forearm, and femoral neck that were generally larger with the 5-mg daily dose than with cyclical administration or the 2.5-mg dose.
+The pooled estimate of the difference in percentage change between 5 mg risedronate and placebo after the final year of treatment (1.5-3 yr) was 4.54% (95% CI 4.12, 4.97) for the lumbar spine, and 2.75% (95% CI 2.32, 3.17) at the femoral neck.
+Risedronate substantially reduces the risk of both vertebral and nonvertebral fractures.
+This fracture reduction is accompanied by an increase in bone density of the lumbar spine and femoral neck in both early postmenopausal women and those with established osteoporosis.

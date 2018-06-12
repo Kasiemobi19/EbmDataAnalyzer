@@ -1,0 +1,22 @@
+Title 
+Archives of internal medicine
+
+Article Title 
+Prevention of contrast media-associated nephropathy: randomized comparison of 2 hydration regimens in 1620 patients undergoing coronary angioplasty.
+Abstract Text 
+The administration of radiographic contrast agents remains an important cause of acute renal failure.
+The optimal infusion for hydration has not been evaluated.
+To compare the incidence of contrast media-associated nephrotoxicity with isotonic or half-isotonic hydration.
+Prospective, randomized, controlled, open-label study.
+Patients scheduled for elective or emergency coronary angioplasty were randomly assigned to receive isotonic (0.9% saline) or half-isotonic (0.45% sodium chloride plus 5% glucose) hydration beginning the morning of the procedure for elective interventions and immediately before emergency interventions.
+An increase in serum creatinine of at least 0.5 mg/dL (44 micromol/L) within 48 hours was defined as contrast media-associated nephrotoxicity.
+Secondary end points were cardiac and peripheral vascular complications.
+A total of 1620 patients were assigned to receive isotonic (n = 809) or half-isotonic (n = 811) hydration.
+Primary end point analysis was possible in 1383 patients.
+Baseline characteristics were well matched.
+Contrast media-associated nephropathy was significantly reduced with isotonic (0.7%, 95% confidence interval, 0.1%-1.4%)
+vs half-isotonic (2.0%, 95% confidence interval, 1.0%-3.1%)
+hydration (P =.04).
+Three predefined subgroups benefited in particular from isotonic hydration: women, persons with diabetes, and patients receiving 250 mL or more of contrast.
+The incidence of cardiac (isotonic, 5.3% vs half-isotonic, 6.4%; P =.59) and peripheral vascular (isotonic, 1.6% vs half-isotonic, 1.5%, P =.93) complications was similar between the 2 hydration groups.
+Isotonic hydration is superior to half-isotonic hydration in the prevention of contrast media-associated nephropathy.

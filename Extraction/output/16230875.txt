@@ -1,0 +1,17 @@
+Title 
+Preventive cardiology
+
+Article Title 
+Exercise, lipids, and lipoproteins in older adults: a meta-analysis.
+Abstract Text 
+The authors used the meta-analytic approach to examine the effects of aerobic exercise on lipids and lipoproteins in adults 50 years of age and older.
+Twenty-eight outcomes representing 1427 subjects (806 exercise, 621 control) were available for pooling.
+Random-effects modeling yielded statistically significant improvements of 1.1%, 5.6%, 2.5%, and 7.1%, respectively, for total cholesterol (mean +/- SEM in mg/dL, -3.3+/-1.7;
+95% confidence interval [CI], -6.5 to -0.02; p=0.05), high-density lipoprotein cholesterol (2.5+/-1.0;
+95% CI, 0.7-4.4;
+p=0.01), low-density lipoprotein cholesterol (-3.9+/-1.9;
+95% CI, -7.7 to -0.08; p=0.05), ratio of total cholesterol to high-density lipoprotein cholesterol (-0.8+/-0.2;
+95% CI, -1.2 to -0.4; p<0.001), but not triglycerides (-7.0+/-3.6;
+95% CI, -14.0 to 0.1; p=0.06).
+After conducting sensitivity analyses, only the improvements in high-density lipoprotein cholesterol and the ratio of total cholesterol to high-density lipoprotein cholesterol remained statistically significant (p<0.05 for both).
+It was concluded that aerobic exercise increases high-density lipoprotein cholesterol and decreases the ratio of total cholesterol to high-density lipoprotein cholesterol in older adults.

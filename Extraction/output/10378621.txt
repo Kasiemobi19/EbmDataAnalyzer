@@ -1,0 +1,18 @@
+Title 
+The American journal of medicine
+
+Article Title 
+The effectiveness of a clinical practice guideline for the management of presumed uncomplicated urinary tract infection in women.
+Abstract Text 
+Acute uncomplicated urinary tract infection is a common and costly disorder in women.
+To reduce potentially unnecessary expense and inconvenience, a large staff-model health maintenance organization instituted a telephone-based clinical practice guideline for managing presumed cystitis in which women 18 to 55 years of age who met specific criteria were managed without a clinic visit or laboratory testing.
+We sought to evaluate the effects of the guideline.
+We performed a population-based, before-and-after study with concurrent control groups at 24 primary care clinics to assess the effect of guideline implementation on resource utilization and on the occurrence of potential adverse outcomes.
+We measured the proportion of patients with presumed uncomplicated cystitis who had a return office visit for cystitis or sexually transmitted disease or who developed pyelonephritis within 60 days of the initial diagnosis.
+Relative risks (RR) and 95% confidence intervals (CI) were estimated, adjusting for the effects of clustering within clinics.
+A total of 3,889 eligible patients with presumed acute uncomplicated cystitis were evaluated.
+As compared with baseline, guideline implementation significantly decreased the proportion of patients with presumed cystitis who received urinalysis (RR = 0.75; CI, 0.70 to 0.80), urine culture (RR = 0.73; CI, 0.68 to 0.79), and an initial office visit (RR = 0.67; CI, 0.62 to 0.73), while increasing the proportion who received a guideline-recommended antibiotic 2.9-fold (CI, 2.4 to 3.7-fold).
+In the prospective comparison of the 22 intervention and two control clinics, the guideline decreased the proportion of patients who had urinalyses performed (RR = 0.80; CI, 0.65 to 0.98) and increased the proportion of patients who were prescribed a guideline-recommended antibiotic (RR = 1.53;
+CI, 1.01 to 2.33).
+Adverse outcomes did not increase significantly in either comparison.
+Guideline use decreased laboratory utilization and overall costs while maintaining or improving the quality of care for patients who were presumptively treated for acute uncomplicated cystitis.

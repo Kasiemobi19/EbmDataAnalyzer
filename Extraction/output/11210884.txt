@@ -1,0 +1,19 @@
+Title 
+The Laryngoscope
+
+Article Title 
+The role of topical antibiotic prophylaxis in patients undergoing contaminated head and neck surgery with flap reconstruction.
+Abstract Text 
+Patients undergoing contaminated head and neck surgery with flap reconstruction have wound infection rates of 20% to 25% with parenteral antibiotic prophylaxis.
+Studies suggest that perioperative antimicrobial mouthwash reduces oropharyngeal flora and may prevent wound infections.
+We hypothesized that the addition of topical antibiotics to a parenteral prophylactic regimen would reduce the incidence of wound infection in these high-risk patients.
+We performed a randomized, prospective clinical trial.
+Patients received either 1) parenteral piperacillin/tazobactam (3.375 g every 6 hours for 48 h) or 2) parenteral piperacillin/tazobactam plus topical piperacillin/tazobactam administered as a mouthwash immediately before surgery and once a day for 2 days postoperatively, with piperacillin/tazobactam added to the intraoperative irrigation solution.
+The wounds of all patients were evaluated daily using predefined objective criteria.
+Sixty-two patients met inclusion criteria and were enrolled in the study.
+The overall wound infection rate was 8.1% (95% confidence interval [CI], 2.7%-17.8%).
+Two of 31 patients (6.4%) who received parenteral antibiotics alone developed a wound infection compared with 3 of 31 patients (9.7%) randomly assigned to receive topical plus parenteral antibiotics.
+This difference was not statistically significant (P = >.05).
+Infection rate was not associated with flap type (rotational vs. free tissue transfer), mandibular reconstruction, age, gender, tumor site, stage, surgical duration, or blood loss.
+These results suggest that piperacillin/tazobactam is a highly effective antibiotic for prevention of wound infection in patients undergoing flap reconstruction following contaminated head and neck surgery.
+However, the addition of topical piperacillin/tazobactam does not appear to enhance the prophylactic benefit of parenteral antibiotics alone.

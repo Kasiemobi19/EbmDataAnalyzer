@@ -1,0 +1,20 @@
+Title 
+Journal of the American College of Cardiology
+
+Article Title 
+Secondary prevention with folic acid: effects on clinical outcomes.
+Abstract Text 
+We sought to conduct a randomized trial with folic acid 0.5 mg/day in a patient population with stable coronary artery disease (CAD).
+Folic acid has favorable effects on vascular endothelium and lowers plasma homocysteine levels.
+In addition, homocysteine appears to be an independent risk factor for atherosclerotic disease.
+However, the value of folic acid in secondary prevention had seldom been tested.
+In this open-label study, 593 patients were included; 300 were randomized to folic acid and 293 served as controls.
+Mean follow-up time was 24 months.
+At baseline all patients had been on statin therapy for a mean of 3.2 years.
+In patients treated with folic acid, plasma homocysteine levels decreased by 18%, from 12.0 +/- 4.8 to 9.4 +/- 3.5 micromol/l, whereas these levels remained unaffected in the control group (p < 0.001 between groups).
+The primary end point (all-cause mortality and a composite of vascular events) was encountered in 31 (10.3%)
+patients in the folic acid group and in 28 (9.6%) patients in the control group (relative risk 1.05; 95% confidence interval: 0.63 to 1.75).
+In a multifactorial survival model with adjustments for clinical factors, the most predictive laboratory parameters were, in order of significance, levels of creatinine clearance, plasma fibrinogen, and homocysteine.
+Within two years, folic acid does not seem to reduce clinical end points in patients with stable coronary artery disease (CAD) while on statin treatment.
+Homocysteine might therefore merely be a modifiable marker of disease.
+Thus, low-dose folic acid supplementation should be treated with reservation, until more trial outcomes become available.

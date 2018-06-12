@@ -1,0 +1,11 @@
+Title 
+Journal of pediatric orthopedics
+
+Article Title 
+Differentiation of idiopathic toe-walking and cerebral palsy.
+Abstract Text 
+Kinematic data were collected on two groups of children with diagnoses of idiopathic toe-walking and mild spastic diplegia.
+Although both groups lacked a heel strike at initial contact, two distinct gait patterns were found.
+The toe-walkers displayed a variable pattern of ankle motion with moderate to severe plantarflexion at stance.
+The cerebral palsy patients showed a repeatable gait pattern with only minimal deviation from normal.
+The absence of a heel strike in this group is due to the sustained knee flexion at terminal swing and initial contact, which was significantly greater than in the toe-walkers.

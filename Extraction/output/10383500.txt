@@ -1,0 +1,24 @@
+Title 
+Alimentary pharmacology & therapeutics
+
+Article Title 
+The importance of clarithromycin dose in the management of Helicobacter pylori infection: a meta-analysis of triple therapies with a proton pump inhibitor, clarithromycin and amoxycillin or metronidazole.
+Abstract Text 
+It is not clear which dose of clarithromycin (500 mg b.d. or 250 mg b.d.) is more effective for Helicobacter pylori eradication in proton pump inhibitor-based triple therapies.
+We undertook a meta-analysis of the effect of 7-day triple therapies consisting of a proton pump inhibitor (P), and clarithromycin (C) and amoxycillin (A) or metronidazole (M).
+A meta-analysis of all clinical trials performed in an adult population and published in English up to March 1998 was undertaken.
+Studies with doses of clarithromycin 500 mg b.d. or 250 mg b.d.
+only were included.
+A total of 82 studies (31 papers and 51 abstracts) involving 110 treatment arms and 6123 patients were analysed that met the predetermined inclusion and exclusion criteria.
+In the PAC combination, the pooled eradication rate in patients treated with clarithromycin 500 mg b.d. was 89.5% (95% CI: 86.9-92.
+0%) by per protocol analysis and 86.6% (95% CI: 81.0-89.3%)
+by intention-to-treat analysis.
+These rates are significantly higher than those achieved with clarithromycin 250 mg b.d.
+(83.3% by per protocol and 78.2% by intention-to-treat analysis, both P < 0.0001).
+This difference was confirmed in head-to-head comparative studies.
+In the PMC regimen, clarithromycin 500 mg b.d.
+eradicated 90.8% (95% CI: 87.0-94.5%) of the infections compared to 88.5% (95% CI: 85.5-91.
+5%) in patients treated with clarithromycin 250 mg b.d. by per protocol analysis (P = 0.082).
+The corresponding rates by intention-to-treat analysis for clarithromycin 500 mg b.d. and 250 mg b.d. was 88.3% and 86.7%, respectively (P = 0.259).
+Seven-day triple therapies with a proton pump inhibitor, clarithromycin and amoxycillin or metronidazole are highly effective treatments for the eradication of H. pylori.
+Clarithromycin 500 mg b. d. should be used in these combinations to achieve the best first treatment results, which can minimize the subsequent development of bacterial resistance to clarithromycin and metronidazole.

@@ -1,0 +1,19 @@
+Title 
+BMJ (Clinical research ed.)
+
+Article Title 
+Effect of lactobacillus in preventing post-antibiotic vulvovaginal candidiasis: a randomised controlled trial.
+Abstract Text 
+To test whether oral or vaginal lactobacillus can prevent vulvovaginitis after antibiotic treatment.
+Randomised, placebo controlled, double blind, factorial 2x2 trial.
+Fifty general practices and 16 pharmacies in Melbourne, Australia.
+Non-pregnant women aged 18-50 years who required a short course of oral antibiotics for a non-gynaecological infection: 278 were enrolled in the study, and results were available for 235.
+Lactobacillus preparations taken orally or vaginally, or both, from enrollment until four days after completion of their antibiotic course.
+Participants' reports of symptoms of post-antibiotic vulvovaginitis, with microbiological evidence of candidiasis provided by a self obtained vaginal swab.
+Overall, 55/235 (23% (95% confidence interval 18% to 29%)) women developed post-antibiotic vulvovaginitis.
+Compared with placebo, the odds ratio for developing post-antibiotic vulvovaginitis with oral lactobacillus was 1.06 (95% confidence interval 0.58 to 1.94) and with vaginal lactobacillus 1.38 (0.75 to 2.54).
+Compliance with antibiotics and interventions was high.
+The trial was terminated after the second interim analysis because of lack of effect of the interventions.
+Given the data at this time, the chances of detecting a significant reduction in vulvovaginitis with oral or vaginal lactobacillus treatment were less than 0.032 and 0.0006 respectively if the trial proceeded to full enrollment.
+The use of oral or vaginal forms of lactobacillus to prevent post-antibiotic vulvovaginitis is not supported by these results.
+Further research on this subject is unlikely to be fruitful, unless new understandings about the pathogenesis of post-antibiotic vulvovaginitis indicate a possible role for lactobacillus.

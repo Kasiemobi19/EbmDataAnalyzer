@@ -1,0 +1,11 @@
+Title 
+Clinical and diagnostic laboratory immunology
+
+Article Title 
+Evaluation of 12 commercial tests for detection of Epstein-Barr virus-specific and heterophile antibodies.
+Abstract Text 
+Ten microbiological departments in Norway have participated in a multicenter evaluation of the following commercial tests for detection of Epstein-Barr virus (EBV)-specific and heterophile antibodies: CAPTIA Select viral capsid antigen (VCA)-M/G/EBNA (Centocor Inc.), Enzygnost anti-EBV/immunoglobulin M (IgM) and IgG (Dade Behring), Vironostika EBV VCA IgM/IgG/EBNA enzyme-linked immunosorbent assay (ELISA) (Organon Teknika), SEROFLUOR immunofluorescence assay and EBV Combi-Test (Institute Virion Ltd.), anti-EBV recombinant IgM- and IgG-early antigen/EBNA IgG ELISA (Biotest Diagnostics), EBV IgM/IgG/EBNA ELISA (Gull Laboratories), Paul-Bunnell-Davidsohn test (Sanofi Diagnostics Pasteur), Monosticon Dri-Dot (Organon Teknika), Avitex-IM (Omega Diagnostics Ltd.), Alexon Serascan infectious mononucleosis test (Alexon Biomedical Inc. ), Clearview IM (Unipath Ltd.), and Cards+/-OS Mono (Pacific Biotech, Inc.).
+The test panel included sera from patients with primary EBV infection, immunocompromised patients with recent cytomegalovirus infection, healthy persons (blood donors), and EBV-seronegative persons.
+Among the tests for EBV-specific antibodies the sensitivity was good, with only small differences between the different assays.
+However, there was a greater variation in specificity, which varied between 100% (Enzygnost) and 86% (Biotest).
+Tests for detection of heterophile antibodies based on purified or selected antigen (Avitex, Alexon, Clearview IM, and Cards+/-OS Mono) were more sensitive than the Paul-Bunnell-Davidsohn and Monosticon tests.
